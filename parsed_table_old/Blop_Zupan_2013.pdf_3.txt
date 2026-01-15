@@ -1,0 +1,77 @@
+Here's the extracted and described content of the table, optimized for semantic search and RAG:
+
+---
+
+**1. Table Title/Caption:**
+Table 1 Genotype and oro-dental features encountered in our cohort of 17 CS patients
+
+**2. Table Purpose:**
+This table provides a comprehensive overview of the genetic mutations and associated oro-dental characteristics observed in a cohort of 17 patients diagnosed with Cockayne Syndrome (CS). It details patient demographics, CS type, specific gene mutations (CSB or CSA), and a wide range of dental anomalies, periodontal conditions, oral hygiene, and treatment interventions.
+
+**3. Table Structure:**
+The table is structured with 14 primary patient entries, some of which include sub-entries or related individuals. It features the following columns:
+*   **Patient:** Unique identifier for each patient.
+*   **Age (y.m):** Patient's age in years and months.
+*   **Type:** Severity classification of Cockayne Syndrome (e.g., Severe (II), Very severe COFS, Moderate (I)).
+*   **Gene:** The affected gene (CSB or CSA).
+*   **Mutation:** Specific genetic mutation identified.
+*   **Oro-dental anomalies (Group Header):** This section further breaks down into several sub-categories:
+    *   **Number of teeth:** Notes on agenesis or specific tooth issues.
+    *   **Shape:** Descriptions of tooth morphology.
+    *   **Size:** Indication of tooth size (e.g., microdontia).
+    *   **Structure (Sub-group):**
+        *   **Enamel:** Enamel abnormalities (e.g., opacities, hypoplasia).
+        *   **Dentin:** Dentin abnormalities.
+    *   **Eruption (Sub-group):**
+        *   **pd:** Primary dentition eruption status.
+        *   **PD:** Permanent dentition eruption status.
+    *   **Crowding:** Presence and severity of dental crowding.
+    *   **Caries dmft / DMFT:** Caries experience for primary (dmft) and permanent (DMFT) dentition.
+    *   **Perio:** Periodontal status.
+    *   **Oral Hygiene:** Assessment of oral hygiene.
+    *   **Dental treatment:** Recorded dental interventions.
+    *   **FD:** Facial Dysmorphology.
+    *   **Para:** Parafunctional habits.
+
+**4. Table Data:**
+
+The cohort includes 14 distinct patient entries, with one patient having a brother also included.
+
+**Patients with CSB Gene Mutations (Severe/Very Severe CS):**
+*   **Patient 1 (CS3LE),** aged 1 year 8 months, presented with Severe (Type II) CS due to c.2167C>T and c.578_80delCTG mutations in the CSB gene. Oro-dental features included microdontia, enamel opacities, late primary dentition eruption, and crowding. No caries were noted (0/Ø), periodontium was normal, oral hygiene was good with MB, and the patient had a first dental visit.
+*   **Patient 2 (CS881VI),** aged 1 year 9 months, had Very severe COFS with c.2612T>C and c.3513dupT CSB mutations. This patient exhibited microdontia and enamel opacities. Eruption was normal, no crowding or caries (0/Ø) were present, and periodontium was normal. Oral hygiene was absent, dental treatment involved VI, facial dysmorphology was MB, and bruxism was noted.
+*   **Patient 3 (08STR4),** aged 2 years 3 months, had Severe (Type II) CS with a c.1954C>T CSB mutation. Features included microdontia, enamel hypoplasia, normal eruption, no crowding or caries (0/Ø), and normal periodontium. Oral hygiene was good with MB, dental treatment involved VI, facial dysmorphology was MB, and bruxism was present.
+*   **Patient 4 (CS797VI),** aged 2 years 5 months, presented with Very severe COFS due to c.2960T>C and c.2254A>G CSB mutations. Enamel hypoplasia was observed, with normal eruption, no crowding or caries (0/Ø), and normal periodontium. Oral hygiene was deficient with MB R, and the patient had a first dental visit.
+*   **Patient 5 (CS97VI),** aged 2 years 9 months, had Severe (Type II) CS with a c.3862C>T CSB mutation. Enamel hypoplasia was noted, with normal eruption and no crowding. Caries score was 20/Ø, gingivitis was present, oral hygiene was deficient with MB R, and dental treatment involved VI with no specific treatment.
+*   **Patient 6 (CS817VI),** aged 3 years 7 months, had Severe (Type II) CS with c.2830-2A>G and c.3983dupA CSB mutations. This patient showed microdontia and enamel hypoplasia. Eruption was normal, no crowding or caries (0/Ø) were present, and periodontium was normal. Oral hygiene was good with MB, and dental treatment involved VI.
+*   **Patient 7 (AEN74),** aged 4 years 11 months, had Moderate (Type I) CS with a c.653-2A>G CSB mutation. This patient exhibited agenesis of teeth 12, 15, 25, 35, 45, and microdontia of tooth 22. Enamel and dentin structure were normal, eruption was normal, but severe crowding (+++) was present. Caries score was 2/Ø, periodontium was normal, oral hygiene was good with MB, and dental treatment involved VI with no treatment but an orthodontic assessment.
+
+**Patients with CSA Gene Mutations (Moderate CS):**
+*   **Patient 8 (CS794VI),** aged 7 years 11 months, had Moderate (Type I) CS with a c.618-1G>A CSA mutation. Enamel hypoplasia was observed, with early eruption of both primary and permanent dentition, and moderate crowding (++). Caries score was 5/0, gingivitis was present, oral hygiene was deficient with MB D R, and dental treatment involved VI with local anesthesia (LA).
+*   **Patient 9 (CS655VI),** aged 8 years 1 month, had Moderate (Type I) CS with c.582G>C and c.70dupA CSA mutations. This patient presented with agenesis of teeth 11, 21, 37, 47, shovel-shaped teeth 12, 22, taurodontism, and enamel opacities. Eruption was normal, no crowding was present, caries score was 2/0, gingivitis was present, oral hygiene was deficient with MB D, and dental treatment involved VI.
+*   **Patient 10 (CS861VI),** aged 9 years 1 month, had Moderate (Type I) CS with c.797A>G and c.843+5G>C CSA mutations. Shovel-shaped teeth 11, 21, and enamel opacities were noted. Eruption of both primary and permanent dentition was early, with no crowding. No caries (0/0) were present, but gingivitis was observed. Oral hygiene was deficient with MB D, and dental treatment involved VI with fissure sealants under conscious sedation (CSE).
+*   **Patient 11 (CS466VI),** aged 9 years 5 months, had Moderate (Type I) CS with an r.0 (no mRNA full length) CSA mutation. This patient exhibited globular cingulum on teeth 12, 22, and the 2nd premolar, along with enamel opacities. Severe crowding (+++) was present, caries score was 16/4, gingivitis was present, oral hygiene was deficient with MB, and dental treatment involved 2GA (general anesthesia).
+*   **Patient 12 (08STR2),** aged 14 years 4 months, had Moderate (Type I) CS with a c.797A>G CSA mutation. Enamel hypoplasia was observed, with normal eruption and no crowding. No caries (0/0) were present, but gingivitis was noted. Oral hygiene was deficient with MB D, and dental treatment involved 1GA for primary dentition.
+*   **Patient 13 (CS466VI_2),** the brother of Patient 11, aged 14 years 6 months, also had Moderate (Type I) CS with an r.0 (no mRNA full length) CSA mutation. Enamel hypoplasia was present, with unknown crowding (?). Caries score was 0/28, gingivitis was present, oral hygiene was deficient with MB R, and dental treatment involved 4GA.
+
+**5. Key Findings:**
+*   **High Prevalence of Oro-dental Anomalies:** All 14 patients in the cohort exhibited a range of oro-dental anomalies, highlighting their consistent presence in Cockayne Syndrome.
+*   **Common Structural Defects:** Microdontia and enamel defects (opacities and hypoplasia) are highly prevalent across both severe and moderate CS types, and in both CSB and CSA gene mutations.
+*   **Tooth Agenesis:** Agenesis of multiple teeth was specifically noted in two patients (Patient 7 and Patient 9), indicating a significant developmental anomaly.
+*   **Eruption and Crowding Variability:** While some patients had normal tooth eruption, others experienced late or early eruption. Dental crowding was a frequent finding, ranging from moderate to severe.
+*   **Periodontal Issues and Oral Hygiene:** Gingivitis was a common periodontal problem, particularly in older patients. Oral hygiene was frequently described as "deficient," likely contributing to the observed caries and periodontal conditions.
+*   **Caries Experience:** Caries prevalence varied, with some patients having no caries and others showing significant scores (e.g., Patient 5 with 20/Ø, Patient 11 with 16/4).
+*   **Consistent Facial Dysmorphology:** Facial dysmorphology (MB, MB R, MB D) was consistently reported across almost all patients.
+*   **Parafunctional Habits:** Bruxism was noted in some of the younger, more severely affected patients.
+
+**6. Context (Footnotes/Notes):**
+*   The symbol 'Ø' indicates "none" or "not present/affected."
+*   'pd' refers to primary dentition, and 'PD' refers to permanent dentition.
+*   'dmft' denotes decayed, missing, and filled primary teeth, while 'DMFT' refers to decayed, missing, and filled permanent teeth.
+*   'VI' likely stands for "visit" or "vital."
+*   'LA' refers to local anesthesia.
+*   'CSE' refers to conscious sedation.
+*   'GA' refers to general anesthesia.
+*   'MB', 'MB R', 'MB D' are abbreviations for specific types or presentations of facial dysmorphology (e.g., Mandibular Brachygnathia, Retrognathia, Dysplasia).
+*   'COFS' refers to Cerebro-Oculo-Facio-Skeletal syndrome, a severe form of Cockayne Syndrome.
+*   'r.0 (no mRNA full length)' describes a specific genetic mutation where no full-length mRNA is produced.

@@ -1,0 +1,47 @@
+Here's the extracted and described content of the table:
+
+---
+
+1.  **Table Title/Caption:**
+    TABLE 1 (Continued)
+
+2.  **Table Purpose:**
+    This table continues to present and compare specific clinical features, namely "Skin" and "Hair" characteristics, across several individual patients (Patient 6, Patient 7, Patient 8, Patient 9) and previously reported cases from different studies (Bupp et al., 2018; Rodan et al., 2018). It aims to highlight similarities and differences in these dermatological and hair-related manifestations to aid in understanding the spectrum of the condition.
+
+3.  **Table Structure (columns/rows):**
+    The table is structured with two primary row categories: "Skin" and "Hair," which detail specific clinical manifestations. The columns represent different individuals or groups being compared: "Patient 6," "Patient 7," "Patient 8," "Patient 9," "Bupp et al. (2018)," "Rodan et al. (2018)-1," "Rodan et al. (2018)-2," "Rodan et al. (2018)-3," and "Rodan et al. (2018)-4."
+
+4.  **Table Data:**
+
+    *   **Patient 6:**
+        Regarding skin features, Patient 6 exhibits a short philtrum, everted lower and tented upper lip, vermillion, a prominent and pointed chin, a large earlobe, pectus carinatum superior and excavatum inferior, winged scapulae, bilateral cubitus valgus, long fingers and broad terminal phalanges, and bilateral genu vara. For hair, this patient had sparse scalp hair in early childhood (at 15 months), which is currently described as shaggy and dry. Additionally, Patient 6 shows hypertrichosis on the back, along with sparse eyebrows and eyelashes.
+
+    *   **Patient 7:**
+        Patient 7's skin characteristics include keratosis pilaris on the upper and lower limbs and face, recurrent follicular cysts on the head, ears, and axilla, and an erythematous follicular pattern on the face. In terms of hair, Patient 7 was born with dark hair on the calvaria and lower neck, featuring a band of alopecia that fell out during the first month of life. The scalp hair has since regrown, but the patient has sparse eyebrows and eyelashes.
+
+    *   **Patient 8:**
+        Skin features for Patient 8 include an irregular border in the interscapular region, a 2 mm pigmented nevus on the right occiput, and 1-8 mm hyperpigmented macules over the abdomen, back, and inner left thigh. Hair manifestations involve alopecia affecting the scalp, eyelashes, eyebrows, axillary, and pubic hair, which is sparse, as well as sparse arm and leg hair.
+
+    *   **Patient 9:**
+        Patient 9 presents with recurrent follicular cysts on the neck and back, an erythematous vascular marking on the posterior head and neck, and subcutaneous vasculature on the scalp that became more prominent over time. Regarding hair, this patient was born with copious silver/blonde-colored hair which fell out during the first month of life. Congenitally, Patient 9 had no eyebrows and few eyelashes.
+
+    *   **Bupp et al. (2018):**
+        The case reported by Bupp et al. (2018) describes dry skin, keratosis pilaris, and ulerythema ophryogenes. The hair characteristics for this case are noted as "Normal."
+
+    *   **Rodan et al. (2018) Cases:**
+        The cases reported by Rodan et al. (2018) show varying features.
+        *   **Rodan et al. (2018)-1:** This case had "Normal" skin and exhibited absent eyebrows and sparse eyelashes.
+        *   **Rodan et al. (2018)-2:** This case also had "Normal" skin, but presented with absent eyebrows, sparse eyelashes, and sparse scalp hair.
+        *   **Rodan et al. (2018)-3:** The skin features for this case are "N/A" (Not Applicable or Not Available), while hair characteristics include absent eyebrows and sparse eyelashes.
+        *   **Rodan et al. (2018)-4:** Similarly, skin features are "N/A," and hair is described as sparse/absent eyebrows and eyelashes.
+
+5.  **Key Findings:**
+    *   **Diverse Skin Manifestations:** The table highlights a wide range of skin abnormalities among the patients, including structural malformations (Patient 6), follicular issues (Patient 7, 9, Bupp et al.), pigmentary changes (Patient 8), and vascular markings (Patient 9). Notably, some reported cases (Rodan et al. 2018-1, -2) present with normal skin, indicating variability in presentation.
+    *   **Consistent Hair Abnormalities, Especially Facial Hair:** A prominent and consistent finding across most patients and reported cases is the presence of sparse or absent eyebrows and eyelashes. This suggests a common underlying mechanism affecting hair follicle development in these areas.
+    *   **Varied Scalp Hair Patterns:** While facial hair abnormalities are common, scalp hair presentation varies, ranging from sparse and dry (Patient 6), to early childhood alopecia with subsequent regrowth (Patient 7), generalized alopecia (Patient 8), or early loss of copious silver/blonde hair (Patient 9).
+    *   **Overlap with Previously Reported Cases:** The current patients share several features, particularly hair abnormalities, with cases previously described by Bupp et al. (2018) and Rodan et al. (2018), reinforcing a recognizable clinical spectrum.
+
+6.  **Context (footnotes/notes):**
+    No footnotes or additional notes are provided in the image.
+
+---

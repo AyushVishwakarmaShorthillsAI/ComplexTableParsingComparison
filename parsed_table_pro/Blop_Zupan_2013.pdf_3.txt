@@ -1,0 +1,63 @@
+Here is a detailed description of the table content, optimized for semantic search and Retrieval-Augmented Generation (RAG).
+
+### 1. Table Title/Caption
+**Table 1:** Genotype and oro-dental features encountered in our cohort of 17 CS patients.
+
+### 2. Table Purpose
+This table aims to provide a comprehensive overview of the genetic and clinical oro-dental characteristics of 14 individuals from a cohort of 17 patients with Cockayne Syndrome (CS). It systematically documents each patient's age, CS type, affected gene (CSA or CSB), specific mutation, and a wide range of oro-dental anomalies, including tooth structure, eruption patterns, caries status, and periodontal health. The purpose is to correlate specific genotypes with observed dental phenotypes in CS patients.
+
+### 3. Table Structure
+The table is structured with each row representing an individual patient, identified by a number and a patient ID. The columns are organized as follows:
+*   **Patient Identification:** Patient number and ID.
+*   **General Information:** Age (in years and months), Type of CS (e.g., Severe (II), Moderate (I), Very severe COFS), and the affected Gene (CSB or CSA).
+*   **Genetic Information:** The specific Mutation identified.
+*   **Oro-dental Anomalies (a super-category with sub-columns):**
+    *   **Number of teeth:** Notes on agenesis (missing teeth).
+    *   **Shape:** Describes any unusual tooth shapes (e.g., shovel, screw, globular).
+    *   **Size:** Notes on tooth size, primarily microdontia (abnormally small teeth).
+    *   **Structure:** Details on Enamel and Dentin abnormalities.
+    *   **Eruption:** Timing of primary (pd) and permanent (PD) tooth eruption.
+    *   **Crowding:** Severity of tooth crowding, rated from + to +++.
+    *   **Caries dmft / DMFT:** Caries experience in primary (dmft) and permanent (DMFT) teeth.
+    *   **Perio:** Periodontal status (e.g., normal, gingivitis).
+    *   **Oral Hygiene:** Assessment of hygiene level (e.g., good, deficient, absent).
+    *   **Dental treatment:** Type of dental care received.
+    *   **FD:** Facial Dysmorphology.
+    *   **Para:** Presence of parafunctional habits like bruxism.
+
+### 4. Table Data
+The table presents data for 14 patients, ranging in age from 1.8 to 14.6 years. The patients are diagnosed with various severities of Cockayne Syndrome (CS), including Moderate (Type I), Severe (Type II), and the very severe Cerebro-oculo-facio-skeletal (COFS) type. Mutations were identified in either the CSB or CSA gene.
+
+**Patients with CSB Gene Mutations (Patients 1-8):**
+*   Eight patients had mutations in the CSB gene. The youngest patients, aged 1.8 to 2.5 years (Patients 1-4), presented with Severe (II) CS or Very severe COFS. Common findings in this group were microdontia and enamel abnormalities (opacities or hypoplasia). Caries were absent (0/Ø). Patient 1 had late primary eruption and crowding. Patients 2 and 3 exhibited bruxism.
+*   Patients 5 and 6, aged 2.9 and 3.7 years with Severe (II) CS, both showed enamel hypoplasia and a very high primary caries score of 20 (dmft=20). Patient 5 had gingivitis and deficient hygiene, while Patient 6 had normal periodontal status but absent hygiene and bruxism.
+*   Patients 7 and 8, aged 4.11 and 6.7 years with Moderate (I) CS, had different presentations. Patient 7 had microdontia and enamel hypoplasia but no caries. Patient 8 had agenesis of five permanent teeth (12, 15, 25, 35, 45), microdontia of tooth 22, severe crowding (+++), and a low caries score (2/Ø).
+
+**Patients with CSA Gene Mutations (Patients 9-14):**
+*   Six patients had mutations in the CSA gene, all diagnosed with Moderate (I) CS.
+*   Patient 9 (7.11 years) had enamel hypoplasia, early eruption of both dentitions, moderate crowding (++), a caries score of 5/0, and gingivitis.
+*   Patient 10 (8.1 years) showed significant anomalies, including agenesis of four teeth (35, 17, 37, 47), atypical shovel-shaped teeth (12, 22), taurodontism, and enamel opacities, along with a caries score of 2/Ø and gingivitis.
+*   Patient 11 (9.1 years) had screw-shaped incisors (11, 21), enamel opacities, early eruption, no caries (0/0), and gingivitis.
+*   Patient 12 (9.5 years) and his brother, Patient 14 (14.6 years), both had a null mutation (r.0, no full-length mRNA). Patient 12 had globular-shaped teeth, enamel opacities, severe crowding (+++), and high caries (16/4). Patient 14 had enamel hypoplasia and a very high permanent caries score (0/28). Both had gingivitis and deficient oral hygiene.
+*   Patient 13 (14.4 years) presented with enamel hypoplasia, no caries (0/0), and gingivitis.
+
+### 5. Key Findings
+*   **Prevalence of Dental Anomalies:** Oro-dental abnormalities are a consistent feature in this cohort of CS patients, affecting tooth number, size, shape, and structure.
+*   **Enamel Defects:** Enamel defects, such as hypoplasia and opacities, are nearly universal among these patients, regardless of the specific gene (CSA or CSB) or disease severity.
+*   **Caries and Oral Hygiene:** Caries experience is highly variable, ranging from zero to extremely high. Poor oral hygiene and gingivitis are common, particularly in older children.
+*   **Specific Phenotypes:** Certain mutations are associated with distinct dental features. For example, a CSA mutation in Patient 10 led to agenesis, shovel-shaped teeth, and taurodontism. A null CSA mutation in two brothers (Patients 12 and 14) was associated with high caries rates and enamel defects.
+*   **Other Common Features:** Microdontia (small teeth) is a frequent finding, especially in patients with CSB mutations. Crowding is also a significant issue for several patients. Bruxism was noted in three patients.
+
+### 6. Context (Footnotes/Notes)
+*   The symbol 'Ø' is used to indicate 'none', 'not applicable', or 'not present' (e.g., in the permanent dentition of very young children).
+*   Crowding is indicated with a severity scale: +, ++, +++.
+*   **Abbreviations:**
+    *   **CS:** Cockayne Syndrome
+    *   **COFS:** Cerebro-oculo-facio-skeletal syndrome
+    *   **y.m:** years.months
+    *   **pd / PD:** primary dentition / permanent dentition
+    *   **dmft / DMFT:** decayed, missing, filled teeth index for primary/permanent teeth
+    *   **Perio:** Periodontal
+    *   **FD:** Facial Dysmorphology
+    *   **Para:** Parafunction
+    *   **brux:** bruxism

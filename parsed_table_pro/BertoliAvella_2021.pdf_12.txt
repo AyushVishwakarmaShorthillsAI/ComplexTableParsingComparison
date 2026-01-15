@@ -1,0 +1,42 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Table Title:** Table 1 continued.
+**Inferred Title:** Clinical and Genetic Features of Patients with ZNF699 Gene Mutations.
+
+### 2. Table Purpose
+The purpose of this table is to detail the genetic variants, zygosity, family history, and associated clinical phenotypes of four individuals (patients 34, 35, 36, and 37) with mutations in the ZNF699 gene. It links specific genotypes to a spectrum of observed clinical features.
+
+### 3. Table Structure
+The table is structured with the following columns:
+*   **Patient:** A unique identifier for each individual.
+*   **Gene:** The affected gene, which is ZNF699 for all patients shown.
+*   **cDNA:** The specific genetic variant at the cDNA level (using NM_198535.2 as the reference transcript).
+*   **Protein:** The predicted effect of the variant on the protein sequence.
+*   **Zygosity:** The zygosity state of the variant (homozygous for all patients).
+*   **Consanguinity/family history:** Information on parental consanguinity and family history of the condition.
+*   **Phenotype:** A detailed list of the clinical features and symptoms observed in the patient.
+*   **Evidence:** The source or type of evidence supporting the findings (noted as "As above").
+*   **PMID:** PubMed Identifier for the reference publication (noted as "As above").
+*   **Others:** Any additional relevant information.
+
+### 4. Table Data
+This section of the table presents data on four patients with homozygous mutations in the ZNF699 gene.
+
+Patients 34 and 35 are siblings from a consanguineous family who both carry the homozygous ZNF699 mutation NM_198535.2:c.436_439del, which results in the protein change p.Asp146Ilefs*10. Patient 34, the index case, presents with hypopigmentation of hair, intellectual disability, failure to thrive, anemia, abnormal facial shape, and congenital hypoplastic anemia. Patient 35 is described as being "similarly affected as index," indicating a comparable set of clinical features.
+
+Patient 36, from a consanguineous family, has a different homozygous mutation in the ZNF699 gene, identified as NM_198535.2:c.51_54delCTCA, leading to the protein change p.Asp17fs. This patient exhibits a complex and severe phenotype including abnormal facial shape, ambiguous genitalia, anteverted nares, cryptorchidism, dysplastic pulmonary valve, hyperbilirubinemia, hypertelorism, intestinal atresia, muscular hypotonia, polyhydramnios, posteriorly rotated ears, premature birth, pulmonary arterial hypertension, pulmonic stenosis, reduced blood folate concentration, a sacral dimple, short nose, being small for gestational age, a thick vermilion border, ventriculomegaly, and a wide intermammary distance.
+
+Patient 37 also carries the homozygous ZNF699 mutation NM_198535.2:c.436_439del (protein p.Asp146Ilefs*10), the same as patients 34 and 35, and is from a consanguineous family. However, this patient's phenotype includes a distinct set of features: abnormal facial shape, microcephaly, hearing impairment, macrotia, a prominent nasal bridge and nose, microphthalmia, abnormal thumb morphology, intellectual disability, and muscular hypotonia.
+
+### 5. Key Findings
+*   Homozygous loss-of-function mutations in the ZNF699 gene are associated with a range of developmental disorders.
+*   Two different homozygous frameshift mutations are described: p.Asp146Ilefs*10 and p.Asp17fs.
+*   The p.Asp146Ilefs*10 mutation was identified in three unrelated individuals (including two siblings), presenting with overlapping but variable phenotypes that include intellectual disability, abnormal facial features, and anemia. Patient 37 shows additional features like microcephaly and hearing impairment, highlighting phenotypic variability for the same mutation.
+*   The p.Asp17fs mutation is associated with a severe, multi-systemic phenotype involving cardiac, genital, intestinal, and craniofacial abnormalities.
+*   The presence of homozygous mutations and a history of consanguinity in most cases strongly supports an autosomal recessive inheritance pattern for conditions related to ZNF699 deficiency.
+
+### 6. Context
+*   The note "As above" in the "Evidence" and "PMID" columns suggests that the information is identical to that of a previously listed patient, likely the first patient described for that specific publication or family.
+*   The family history for patient 35 explicitly notes "sibling sitting above," confirming their relationship to patient 34.
+*   The table is a continuation of a larger table ("Table 1 continued"), so the initial entries are not visible in this image.

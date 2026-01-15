@@ -1,0 +1,62 @@
+Here's an extraction and description of the table content, optimized for semantic search and RAG:
+
+---
+
+**1. Table Title/Caption:**
+Table 1: Mutation and clinical data on patients with CS-A.
+
+**2. Table Purpose:**
+This table aims to present a comprehensive overview of the genetic mutations (genotype) and corresponding clinical manifestations (phenotype) in a cohort of patients diagnosed with Cockayne Syndrome type A (CS-A). It facilitates the study of genotype-phenotype correlations, demographic patterns, and the spectrum of clinical features associated with CS-A.
+
+**3. Table Structure (columns/rows):**
+The table is structured with 24 columns and 28 rows of patient data. Each row represents a unique patient, identified by a "Code." The columns provide detailed information across several categories:
+*   **Patient Identification & Demographics:** Code, Homozygotes, Country (origin), Sex, Age at onset (years), Age at biopsy (latest report or death* years).
+*   **Clinical Classification:** Clinical classification (I, II, III, or mixed types).
+*   **Genetic Information:** Mutation genomic DNA, Mutation cDNA, Protein alteration.
+*   **Phenotypic Features:** Growth failure, Low birth weight, Cachexia/bird-like faces, Mental retardation*, Microcephaly†, Cataracts†, Retinal degeneration‡, Hearing loss, Clinical photosensitivity, Fitzpatrick Skin Type Scale, Dental anomalies, Arthrogryposis.
+*   **Reference:** Reference* (source publication for the data).
+
+**4. Table Data:**
+The table provides detailed mutation and clinical data for 28 male patients, all reported as homozygotes, diagnosed with Cockayne Syndrome type A (CS-A). These patients originate from diverse countries including Morocco, Israel (Ukraine, Arab), India, UK (Pakistan, Libya), Italy, Japan, France (Turkey), Tunisia, and the USA.
+
+**Demographics and Clinical Course:**
+The age of symptom onset for these patients typically falls within the first two years of life, with many cases reported at 0.2 years. The age at which biopsy data was collected, or the age at death, varies significantly, ranging from 0.2 years (e.g., CS4PV, CS2NG) to 32 years (CS133NY). An asterisk next to an age value indicates that the patient had died at that age.
+
+**Highly Consistent Phenotypic Profile:**
+A striking finding is the remarkable consistency of severe clinical features across nearly all patients, irrespective of their specific genetic mutation or geographical origin. All 28 patients exhibited:
+*   **Growth failure**
+*   **Cachexia/bird-like faces**
+*   **Mental retardation** (often noted as 'S' for severe or 'M' for moderate)
+*   **Microcephaly**
+*   **Cataracts**
+*   **Retinal degeneration**
+*   **Hearing loss**
+*   **Clinical photosensitivity**
+*   **Fitzpatrick Skin Type IV**
+*   **Dental anomalies**
+
+**Absent Phenotypic Features:**
+Notably, two specific features were consistently reported as absent across all patients:
+*   **Low birth weight**
+*   **Arthrogryposis**
+
+**Clinical Classification and Genetic Heterogeneity:**
+Patients were categorized into Clinical Classification types I, II, III, or combinations thereof. For instance, CS15PV, CS2JE, CS218ST, CS1LE, CS263ST, CS24PV, CS1GLO, CS9JAF, and CS5JAF were classified as Type I. Type II included patients like CS30PV, CS4PV, and a large group from Japan (CS2NG to CS2AW). Type III was assigned to CS276ST and CS260ST, while others presented with mixed classifications such as I/II or I/III.
+
+The genetic analysis revealed a wide spectrum of mutations:
+*   **Common Point Mutation:** Patients CS15PV, CS2JE, and CS218ST shared a c.37G>T genomic mutation, leading to r.(37g>u) at the cDNA level and a p.Glu13* protein alteration.
+*   **Large Deletion/Inversion:** A group of Japanese patients (CS2NG through CS2AW) presented with a complex genomic mutation involving a large deletion of exon 4 and an inversion in intron 4, resulting in r.276_399del and p.Asp93Leu.
+*   **Other Diverse Mutations:** Various other mutations were identified, including deletions (e.g., c.162delT in CS30PV, c.223_227del in CS4PV, c.752delu in CS172ST), point mutations (e.g., c.316C>T in CS263ST, c.479C>T in CS133NY, c.481G>A in CS1BR, c.730C>T in CS276ST), and complex rearrangements (e.g., c.966C>A with deletions in exons 10-11 for CS9JAF and CS5JAF). Some mutations, like c.481+1G>C in CS165ST, had unknown cDNA and protein alterations.
+
+**5. Key Findings:**
+*   **Highly Stereotyped Phenotype:** Patients with CS-A exhibit a remarkably consistent and severe clinical phenotype, characterized by universal growth failure, cachexia/bird-like faces, mental retardation, microcephaly, cataracts, retinal degeneration, hearing loss, clinical photosensitivity, Fitzpatrick Skin Type IV, and dental anomalies.
+*   **Absence of Specific Features:** Low birth weight and arthrogryposis were notably absent in all patients within this cohort, suggesting these are not typical features of CS-A in this population.
+*   **Genetic Heterogeneity:** CS-A is caused by a wide array of mutations, including point mutations, deletions, insertions, and complex genomic rearrangements, indicating significant genetic heterogeneity.
+*   **Global Distribution:** The patient cohort represents diverse geographical origins, highlighting the global occurrence of CS-A.
+*   **Early Onset, Variable Lifespan:** The disease consistently manifests in early childhood, but the lifespan can vary considerably, from very early death to survival into the third decade of life.
+
+**6. Context (footnotes/notes):**
+*   The table is sourced from Calmel, N., et al. J Med Genet. 2018, 55:329-333.
+*   In the "Age at biopsy (latest report or death*)" column, an asterisk (`*`) next to a numerical value indicates that the patient had died at that age.
+*   The symbols `†` (Microcephaly, Cataracts) and `‡` (Retinal degeneration) are part of the column headers and do not refer to specific footnotes within the table body.
+*   The document containing this table was first published as 10.1136/jmedgenet-2017-104877 on 23 March 2018 and downloaded from http://jmg.bmj.com/ on July 13, 2025. It is protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.

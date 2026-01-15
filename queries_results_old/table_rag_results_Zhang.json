@@ -1,0 +1,254 @@
+{
+    "model": "gemini-2.5-flash-unique",
+    "total_queries": 8,
+    "queries": [
+        {
+            "query": "What is the most frequent genetic variant listed for the patients in Table 1?",
+            "answer": "The most frequent genetic variant listed for the patients in Table 1 is **p.Glu209Lys**.\n\nThis variant is consistently present in all 10 patients sourced from Olson et al. [4] (Zhang.pdf, Page 3) and in five of the six newly diagnosed cases (Cases 23-27) (Zhang.pdf, Page 5).",
+            "results": [
+                {
+                    "content": "Here's an extraction and description of the table content:\n\n---\n\n### 1. Table Title/Caption\nTable 1 (continued)\n\n### 2. Table Purpose\nThis table presents a continued list of clinical characteristics for individual cases, likely patients, who share a specific genetic variant (p.Glu209Lys). It details their epilepsy profile, intellectual disability/developmental delay (ID/DD) and physical development, brain MRI findings, nutritional status, and other associated features. The table aims to provide a comprehensive overview of the phenotypic spectrum associated with this genetic variant.\n\n### 3. Table Structure (columns/rows)\nThe table is structured with the following main columns and their sub-columns:\n*   **Case**: Identifies the individual case number and the source publication (e.g., Olson et al. [4]).\n*   **Variant**: Specifies the genetic variant observed.\n*   **Sex**: Indicates the sex of the individual (M for Male, F for Female).\n*   **Epilepsy**:\n    *   **Age of onset**: The age a",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "nsistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6), while it was absent in the remaining 6 patients (Patients 2, 3, 7, 8, 9, and 10).\nMalnutrition was less common, reported only in Patient 1 and Patient 4, and absent in the other 8 patients.\n\n**Other Associated Conditions:**\nA variety of other conditions were noted:\n*   Myopia was present in Patients 1, 6, and 8.\n*   Strabismus was observed in Patients 4 and 5.\n*   Cryptorchidism was noted in Patients 3 and 6.\n*   Patient 2 had Dextrocardia.\n*   Patient 6 also presented with Ventricular Septal Defect (VSD), frequent infections, and hearing difficulties.\n*   Patient 7 had Astigmatism.\n*   Patient 8 also experienced visual impairment.\n*   Patient 9 had Anisocoria.\n*   No other specific conditions were listed for Patient 10.\n\n**5. Key Findings:**\n*   All 10 patients presented in this table, sourced from Olson et al. [4], share the identical p.Glu209Lys genetic variant, indicating a strong",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "Here's a detailed extraction and description of the table content:\n\n---\n\n**1. Table Title/Caption:**\nTable 1: Detailed data of 28 patients with PACS2-related neurological diseases.\n\n**2. Table Purpose:**\nThe purpose of this table is to provide comprehensive clinical and genetic information for patients diagnosed with PACS2-related neurological diseases. It details their specific genetic variant, sex, epilepsy characteristics (age of onset, seizure type, medication use, and last episode), physical developmental features (microcephaly, facial and distal limb abnormalities), brain MRI findings, nutritional status, and other associated medical conditions.\n\n**3. Table Structure (columns/rows):**\nThe table is structured with 13 main columns, some of which are grouped under broader categories, and presents data for 10 individual patient cases.\n\n*   **Case:** Identifies each patient, referencing \"Olson et al. [4]\".\n*   **Variant:** Specifies the genetic variant, which is consistently \"p.Glu209",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "Here's an extraction and description of the table content, optimized for semantic search and RAG:\n\n---\n\n**1. Table Title/Caption:**\nTable 1 (continued)\n\n**2. Table Purpose:**\nThis table provides a detailed overview of the clinical characteristics, epilepsy features, developmental status, and other associated abnormalities for six individual cases (Cases 23-28) with PACS family gene-related neurological diseases. It aims to present specific patient data, including genetic variants, sex, epilepsy onset and treatment, intellectual/developmental delays, and other physical or imaging findings.\n\n**3. Table Structure (columns/rows):**\nThe table is structured with the following main columns and their sub-columns:\n*   **Case:** Unique identifier for each patient.\n*   **Variant:** The specific genetic mutation identified.\n*   **Sex:** Gender of the patient (Male or Female).\n*   **Epilepsy:**\n    *   Age of onset\n    *   Seizure type\n    *   Number of ASMs used (Anti-Seizure Medications)\n    *   ",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "   Age of onset\n    *   Seizure type\n    *   Number of ASMs used (Anti-Seizure Medications)\n    *   Last seizure episode\n    *   Effective ASM\n*   **ID/DD Physical development (Intellectual Disability/Developmental Delay):**\n    *   Microcephaly\n    *   Facial abnormalities\n    *   Distal limb abnormalities\n*   **Brain MRI abnormalities:** Presence or absence of abnormalities on Magnetic Resonance Imaging.\n*   **Malnutrition:** Presence or absence of malnutrition.\n*   **Others:** Additional descriptive notes, such as \"Newly diagnosed.\"\n\n**4. Table Data:**\n\nThe table presents data for six cases (23-28), all of whom are described as \"Newly diagnosed.\"\n\n**Genetic Variants and Demographics:**\nFive of the six cases (23-27) share the p.Glu209Lys genetic variant. Case 28, reported by Wan et al. [2], has the p.Glu211Lys variant. The patient cohort includes four males (Cases 23, 25, 28) and two females (Cases 24, 26, 27).\n\n**Epilepsy Characteristics:**\nAll patients experienced very early-onset ",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "Which patient in Table 1 carries the p.Glu211Lys variant instead of the more common p.Glu209Lys?",
+            "answer": "Case 28 carries the p.Glu211Lys variant.",
+            "results": [
+                {
+                    "content": "   Age of onset\n    *   Seizure type\n    *   Number of ASMs used (Anti-Seizure Medications)\n    *   Last seizure episode\n    *   Effective ASM\n*   **ID/DD Physical development (Intellectual Disability/Developmental Delay):**\n    *   Microcephaly\n    *   Facial abnormalities\n    *   Distal limb abnormalities\n*   **Brain MRI abnormalities:** Presence or absence of abnormalities on Magnetic Resonance Imaging.\n*   **Malnutrition:** Presence or absence of malnutrition.\n*   **Others:** Additional descriptive notes, such as \"Newly diagnosed.\"\n\n**4. Table Data:**\n\nThe table presents data for six cases (23-28), all of whom are described as \"Newly diagnosed.\"\n\n**Genetic Variants and Demographics:**\nFive of the six cases (23-27) share the p.Glu209Lys genetic variant. Case 28, reported by Wan et al. [2], has the p.Glu211Lys variant. The patient cohort includes four males (Cases 23, 25, 28) and two females (Cases 24, 26, 27).\n\n**Epilepsy Characteristics:**\nAll patients experienced very early-onset ",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indicates the presence (+) or absence (-) of facial abnormalities.\n    *   **Distal limb abnormalities:** Indicates the presence (+) or absence (-) of abnormalities in the distal limbs.\n*   **Brain MRI abnormalities:** Indicates the presence (+) or absence (-) of abnormalities detected via brain MRI.\n*   **Malnutrition:** Indicates the presence (+) or absence (-) of malnutrition.\n*   **Others:** Lists any other significant associated medical conditions or findings.\n\n**4. Table Data:**\n\nThe table presents detailed information for 10 patients, all of whom are identified as being from \"Olson et al. [4]\" and share the p.Glu209Lys genetic variant.\n\n**Patient Demographics and Genetic Variant:**\nAll 10 patients listed in the table carry the p.Glu209Lys genetic variant. There is an even distribution of sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6,",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "nsistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6), while it was absent in the remaining 6 patients (Patients 2, 3, 7, 8, 9, and 10).\nMalnutrition was less common, reported only in Patient 1 and Patient 4, and absent in the other 8 patients.\n\n**Other Associated Conditions:**\nA variety of other conditions were noted:\n*   Myopia was present in Patients 1, 6, and 8.\n*   Strabismus was observed in Patients 4 and 5.\n*   Cryptorchidism was noted in Patients 3 and 6.\n*   Patient 2 had Dextrocardia.\n*   Patient 6 also presented with Ventricular Septal Defect (VSD), frequent infections, and hearing difficulties.\n*   Patient 7 had Astigmatism.\n*   Patient 8 also experienced visual impairment.\n*   Patient 9 had Anisocoria.\n*   No other specific conditions were listed for Patient 10.\n\n**5. Key Findings:**\n*   All 10 patients presented in this table, sourced from Olson et al. [4], share the identical p.Glu209Lys genetic variant, indicating a strong",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "Here's an extraction and description of the table content:\n\n---\n\n### 1. Table Title/Caption\nTable 1 (continued)\n\n### 2. Table Purpose\nThis table presents a continued list of clinical characteristics for individual cases, likely patients, who share a specific genetic variant (p.Glu209Lys). It details their epilepsy profile, intellectual disability/developmental delay (ID/DD) and physical development, brain MRI findings, nutritional status, and other associated features. The table aims to provide a comprehensive overview of the phenotypic spectrum associated with this genetic variant.\n\n### 3. Table Structure (columns/rows)\nThe table is structured with the following main columns and their sub-columns:\n*   **Case**: Identifies the individual case number and the source publication (e.g., Olson et al. [4]).\n*   **Variant**: Specifies the genetic variant observed.\n*   **Sex**: Indicates the sex of the individual (M for Male, F for Female).\n*   **Epilepsy**:\n    *   **Age of onset**: The age a",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "ical diseases presented with very early-onset epilepsy (within days to less than a month of birth) and Intellectual Disability/Developmental Delay.\n*   Focal seizures were the most common type, although one case (Case 28) exhibited Tonic seizures.\n*   Valproate (VPA) was a frequently effective anti-seizure medication, often used in combination with other drugs.\n*   Brain MRI abnormalities were present in half of the cases (24, 26, 28).\n*   Specific physical abnormalities beyond ID/DD were less common but included facial abnormalities (Case 27) and distal limb abnormalities (Case 28).\n*   Case 28, with the p.Glu211Lys variant, showed a distinct profile including Tonic seizures, distal limb abnormalities, and malnutrition, in addition to ID/DD and MRI abnormalities.\n\n**6. Context (footnotes/notes):**\nThe footnote indicates that detailed data for other reported cases were not available from published papers, suggesting this table focuses on a specific set of cases with accessible comprehe",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "Which patient listed in Table 1 had the latest onset of seizures (at 17 years old)?",
+            "answer": "The provided context states that Case 25 had their **last recorded seizure episode** 17 years prior, not that their seizure **onset** was at 17 years old. All patients described in the context experienced very early-onset epilepsy, predominantly within the first week or month of life. Therefore, the information about a patient having the latest onset of seizures at 17 years old is not in the context.",
+            "results": [
+                {
+                    "content": "f sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).\n\n**Epilepsy Characteristics:**\nEpilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.\nSeizure types are varied:\n*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).\n*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).\n*   Patient 6 experienced Status Epilepticus (SE).\n*   Patient 7 had focal, tonic, clonic seizures.\n*   Seizure type was not available (NA) for Patient 3.\nThe number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " \"Olson et al. [4]\".\n*   **Variant:** Specifies the genetic variant, which is consistently \"p.Glu209Lys\" for all listed patients.\n*   **Sex:** Indicates the patient's biological sex (Male or Female).\n*   **Epilepsy:** This category groups several columns related to seizure characteristics:\n    *   **Age of onset:** The age at which epilepsy symptoms first appeared (e.g., days, weeks, months).\n    *   **Seizure type:** Describes the classification of seizures (e.g., Focal, GTCS, clonic, tonic, myoclonic, SE).\n    *   **Number of ASMs used:** The count of anti-seizure medications administered.\n    *   **Last seizure episode:** The time elapsed since the patient's most recent seizure.\n    *   **Effective ASM:** The specific anti-seizure medication found to be effective.\n*   **ID/DD Physical development:** This category covers physical and developmental abnormalities:\n    *   **Microcephaly:** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indi",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "m 2 months to 4 years. Case 11's last seizure was 2 months prior. Case 12's was 3 months prior. Case 13's was 3 years prior. Case 14's was 4 years prior. Case 15's was 4 months prior. Case 16's was 2 years prior. Case 17's was 9 months prior. Case 18's was 2 years 3 months prior. Case 19's was 1 year prior. Case 20's was 11 months prior. For Cases 21 and 22, this information was not available (NA).\n*   **Effective ASMs** included a range of medications. Case 12 responded to OXC (Oxcarbazepine). Case 14 responded to LEV LCM (Levetiracetam, Lacosamide). Case 15 responded to CBZ CLB (Carbamazepine, Clobazam). Case 16 responded to CBZ (Carbamazepine). Case 17 responded to TPM ZNS CZP LTG VPA (Topiramate, Zonisamide, Clobazam, Lamotrigine, Valproic acid). Cases 18 and 20 responded to VPA (Valproic acid). Case 19 responded to VPA LEV (Valproic acid, Levetiracetam). For Cases 11, 13, 21, and 22, effective ASMs were not available (NA).\n\n**Physical and Developmental Characteristics:**\n*   **Sex",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "re medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8, and 9 used 2 ASMs. Patient 5 used 3 ASMs, and Patient 4 used 4 ASMs.\nInformation on the last seizure episode varied: Patients 1, 3, 7, and 9 had no available data (NA). Patient 2's last seizure was 6 months ago, Patient 4's was 2 years ago, Patient 5's was 10 months ago, Patient 6's was 3.5 years ago, Patient 8's was 2 years ago, and Patient 10's was 5 years ago.\nEffective ASMs were specified for some patients: Valproic Acid (VPA) for Patients 2 and 4, and Carbamazepine (CBZ) for Patient 3. For Patients 1, 5, 6, 7, 8, 9, and 10, the effective ASM was not available (NA).\n\n**Physical Development and Neurological Findings:**\nAll 10 patients exhibited Intellectual Disability/Developmental Delay (ID/DD), facial abnormalities, and distal limb abnormalities. Brain MRI abnormalities were also consistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "emales (Cases 24, 26, 27).\n\n**Epilepsy Characteristics:**\nAll patients experienced very early-onset epilepsy. Cases 23, 24, 26, and 28 had seizure onset at 3 days of age. Case 27's seizures began at 7 days, and Case 25's onset was before 1 month of age. The predominant seizure type was Focal, observed in Cases 24, 25, 26, and 27. Case 23 specifically had Focal Generalized Tonic-Clonic Seizures (GTCS), while Case 28 presented with Tonic seizures. The number of anti-seizure medications (ASMs) used ranged from 1 (Case 23) to 3 (Case 28), with most cases (24-27) using 2 ASMs. The effective ASMs varied: Valproate (VPA) was effective for Cases 23 and 26; a combination of VPA and Oxcarbazepine (OXC) for Case 24; VPA and Levetiracetam (LEV) for Case 25; Vigabatrin (VGB) and VPA for Case 27; and Phenobarbital (PB) for Case 28. The last recorded seizure episode varied widely, from 4 months (Case 27) to 17 years (Case 25). Other last seizure episodes were at 1 year 4 months (Case 23), 1 year 1 mo",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "How many patients in the table are reported to have microcephaly?",
+            "answer": "Microcephaly was observed in 4 patients (Patients 1, 4, 5, and 6) in the table.",
+            "results": [
+                {
+                    "content": "re medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8, and 9 used 2 ASMs. Patient 5 used 3 ASMs, and Patient 4 used 4 ASMs.\nInformation on the last seizure episode varied: Patients 1, 3, 7, and 9 had no available data (NA). Patient 2's last seizure was 6 months ago, Patient 4's was 2 years ago, Patient 5's was 10 months ago, Patient 6's was 3.5 years ago, Patient 8's was 2 years ago, and Patient 10's was 5 years ago.\nEffective ASMs were specified for some patients: Valproic Acid (VPA) for Patients 2 and 4, and Carbamazepine (CBZ) for Patient 3. For Patients 1, 5, 6, 7, 8, 9, and 10, the effective ASM was not available (NA).\n\n**Physical Development and Neurological Findings:**\nAll 10 patients exhibited Intellectual Disability/Developmental Delay (ID/DD), facial abnormalities, and distal limb abnormalities. Brain MRI abnormalities were also consistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indicates the presence (+) or absence (-) of facial abnormalities.\n    *   **Distal limb abnormalities:** Indicates the presence (+) or absence (-) of abnormalities in the distal limbs.\n*   **Brain MRI abnormalities:** Indicates the presence (+) or absence (-) of abnormalities detected via brain MRI.\n*   **Malnutrition:** Indicates the presence (+) or absence (-) of malnutrition.\n*   **Others:** Lists any other significant associated medical conditions or findings.\n\n**4. Table Data:**\n\nThe table presents detailed information for 10 patients, all of whom are identified as being from \"Olson et al. [4]\" and share the p.Glu209Lys genetic variant.\n\n**Patient Demographics and Genetic Variant:**\nAll 10 patients listed in the table carry the p.Glu209Lys genetic variant. There is an even distribution of sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6,",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "7) to 17 years (Case 25). Other last seizure episodes were at 1 year 4 months (Case 23), 1 year 1 month (Case 24), 1 year 9 months (Case 26), and 13 months (Case 28).\n\n**Intellectual Disability/Developmental Delay (ID/DD) and Physical Development:**\nAll six cases exhibited Intellectual Disability/Developmental Delay (ID/DD), indicated by a \"+\" symbol. In Case 25, the ID/DD was specifically noted as \"Mild.\" Regarding other physical abnormalities, Case 27 presented with facial abnormalities, and Case 28 showed distal limb abnormalities. No microcephaly was reported for any of these cases.\n\n**Brain MRI and Malnutrition:**\nBrain MRI abnormalities were observed in three cases: Case 24, Case 26, and Case 28. Cases 23, 25, and 27 did not have specified MRI abnormalities. Malnutrition was reported only in Case 28.\n\n**5. Key Findings:**\n\n*   All six patients with PACS family gene-related neurological diseases presented with very early-onset epilepsy (within days to less than a month of birth) a",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": ", effective ASMs were not available (NA).\n\n**Physical and Developmental Characteristics:**\n*   **Sex** distribution included 2 males (Cases 11, 22) and 10 females (Cases 12-21).\n*   All 12 cases (11-22) presented with **Microcephaly** (+).\n*   All 12 cases (11-22) presented with **Facial abnormalities** (+).\n*   Most cases (11, 13-22) presented with **Distal limb abnormalities** (+), with only Case 12 showing no (-) distal limb abnormalities.\n*   All 12 cases (11-22) showed **Brain MRI abnormalities** (+).\n*   None of the 12 cases (11-22) presented with **Malnutrition** (-).\n\n**Other Features:**\n*   Case 11 presented with unspecified other features, which could include astigmatism, frequent ear infections, micropenis, cryptorchidism, infantile hypertrophic pyloric stenosis, precocious puberty, or short head.\n*   All other cases (12-21) did not present with any of the listed \"other\" features (-).\n*   Case 22 specifically presented with **Autism Spectrum Disorder (ASD)**.\n\n### 5. Key Fin",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "nsistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6), while it was absent in the remaining 6 patients (Patients 2, 3, 7, 8, 9, and 10).\nMalnutrition was less common, reported only in Patient 1 and Patient 4, and absent in the other 8 patients.\n\n**Other Associated Conditions:**\nA variety of other conditions were noted:\n*   Myopia was present in Patients 1, 6, and 8.\n*   Strabismus was observed in Patients 4 and 5.\n*   Cryptorchidism was noted in Patients 3 and 6.\n*   Patient 2 had Dextrocardia.\n*   Patient 6 also presented with Ventricular Septal Defect (VSD), frequent infections, and hearing difficulties.\n*   Patient 7 had Astigmatism.\n*   Patient 8 also experienced visual impairment.\n*   Patient 9 had Anisocoria.\n*   No other specific conditions were listed for Patient 10.\n\n**5. Key Findings:**\n*   All 10 patients presented in this table, sourced from Olson et al. [4], share the identical p.Glu209Lys genetic variant, indicating a strong",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                }
+            ]
+        },
+        {
+            "query": "What specific structural abnormality is listed in the 'Others' column for Case 2?",
+            "answer": "I don't know. The provided context does not contain information about Case 2 or any specific structural abnormality listed in an 'Others' column for that case. The detailed case descriptions start from Case 11.",
+            "results": [
+                {
+                    "content": "ies (Dextrocardia, VSD), urogenital abnormalities (Cryptorchidism), and immune system challenges (frequent infections), highlighting the multi-systemic nature of PACS2-related disorders.\n\n**6. Context (footnotes/notes):**\n*   The table caption states \"Detailed data of 28 patients,\" but only 10 patients are displayed in the provided image. This suggests that the full table might contain more rows not visible in the current view.\n*   The reference \"[4]\" indicates that the data for these patients is derived from a study by Olson et al.\n*   Abbreviations used in the table include:\n    *   NA: Not Available\n    *   ASMs: Anti-Seizure Medications\n    *   VPA: Valproic Acid\n    *   CBZ: Carbamazepine\n    *   GTCS: Generalized Tonic-Clonic Seizures\n    *   SE: Status Epilepticus\n    *   ID/DD: Intellectual Disability/Developmental Delay\n    *   VSD: Ventricular Septal Defect\n    *   mon: months\n    *   y: years\n    *   wk: weeks\n    *   d: days\n    *   M: Male\n    *   F: Female\n    *   +: Pres",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": ", effective ASMs were not available (NA).\n\n**Physical and Developmental Characteristics:**\n*   **Sex** distribution included 2 males (Cases 11, 22) and 10 females (Cases 12-21).\n*   All 12 cases (11-22) presented with **Microcephaly** (+).\n*   All 12 cases (11-22) presented with **Facial abnormalities** (+).\n*   Most cases (11, 13-22) presented with **Distal limb abnormalities** (+), with only Case 12 showing no (-) distal limb abnormalities.\n*   All 12 cases (11-22) showed **Brain MRI abnormalities** (+).\n*   None of the 12 cases (11-22) presented with **Malnutrition** (-).\n\n**Other Features:**\n*   Case 11 presented with unspecified other features, which could include astigmatism, frequent ear infections, micropenis, cryptorchidism, infantile hypertrophic pyloric stenosis, precocious puberty, or short head.\n*   All other cases (12-21) did not present with any of the listed \"other\" features (-).\n*   Case 22 specifically presented with **Autism Spectrum Disorder (ASD)**.\n\n### 5. Key Fin",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "ical diseases presented with very early-onset epilepsy (within days to less than a month of birth) and Intellectual Disability/Developmental Delay.\n*   Focal seizures were the most common type, although one case (Case 28) exhibited Tonic seizures.\n*   Valproate (VPA) was a frequently effective anti-seizure medication, often used in combination with other drugs.\n*   Brain MRI abnormalities were present in half of the cases (24, 26, 28).\n*   Specific physical abnormalities beyond ID/DD were less common but included facial abnormalities (Case 27) and distal limb abnormalities (Case 28).\n*   Case 28, with the p.Glu211Lys variant, showed a distinct profile including Tonic seizures, distal limb abnormalities, and malnutrition, in addition to ID/DD and MRI abnormalities.\n\n**6. Context (footnotes/notes):**\nThe footnote indicates that detailed data for other reported cases were not available from published papers, suggesting this table focuses on a specific set of cases with accessible comprehe",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "Here's an extraction and description of the table content, optimized for semantic search and RAG:\n\n---\n\n**1. Table Title/Caption:**\nTable 1 (continued)\n\n**2. Table Purpose:**\nThis table provides a detailed overview of the clinical characteristics, epilepsy features, developmental status, and other associated abnormalities for six individual cases (Cases 23-28) with PACS family gene-related neurological diseases. It aims to present specific patient data, including genetic variants, sex, epilepsy onset and treatment, intellectual/developmental delays, and other physical or imaging findings.\n\n**3. Table Structure (columns/rows):**\nThe table is structured with the following main columns and their sub-columns:\n*   **Case:** Unique identifier for each patient.\n*   **Variant:** The specific genetic mutation identified.\n*   **Sex:** Gender of the patient (Male or Female).\n*   **Epilepsy:**\n    *   Age of onset\n    *   Seizure type\n    *   Number of ASMs used (Anti-Seizure Medications)\n    *   ",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "Here's an extraction and description of the table content:\n\n---\n\n### 1. Table Title/Caption\nTable 1 (continued)\n\n### 2. Table Purpose\nThis table presents a continued list of clinical characteristics for individual cases, likely patients, who share a specific genetic variant (p.Glu209Lys). It details their epilepsy profile, intellectual disability/developmental delay (ID/DD) and physical development, brain MRI findings, nutritional status, and other associated features. The table aims to provide a comprehensive overview of the phenotypic spectrum associated with this genetic variant.\n\n### 3. Table Structure (columns/rows)\nThe table is structured with the following main columns and their sub-columns:\n*   **Case**: Identifies the individual case number and the source publication (e.g., Olson et al. [4]).\n*   **Variant**: Specifies the genetic variant observed.\n*   **Sex**: Indicates the sex of the individual (M for Male, F for Female).\n*   **Epilepsy**:\n    *   **Age of onset**: The age a",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                }
+            ]
+        },
+        {
+            "query": "According to Table 1, which anti-seizure medications (ASMs) were effective for Case 14?",
+            "answer": "According to the provided context, Case 14 responded to LEV LCM (Levetiracetam, Lacosamide).",
+            "results": [
+                {
+                    "content": "m 2 months to 4 years. Case 11's last seizure was 2 months prior. Case 12's was 3 months prior. Case 13's was 3 years prior. Case 14's was 4 years prior. Case 15's was 4 months prior. Case 16's was 2 years prior. Case 17's was 9 months prior. Case 18's was 2 years 3 months prior. Case 19's was 1 year prior. Case 20's was 11 months prior. For Cases 21 and 22, this information was not available (NA).\n*   **Effective ASMs** included a range of medications. Case 12 responded to OXC (Oxcarbazepine). Case 14 responded to LEV LCM (Levetiracetam, Lacosamide). Case 15 responded to CBZ CLB (Carbamazepine, Clobazam). Case 16 responded to CBZ (Carbamazepine). Case 17 responded to TPM ZNS CZP LTG VPA (Topiramate, Zonisamide, Clobazam, Lamotrigine, Valproic acid). Cases 18 and 20 responded to VPA (Valproic acid). Case 19 responded to VPA LEV (Valproic acid, Levetiracetam). For Cases 11, 13, 21, and 22, effective ASMs were not available (NA).\n\n**Physical and Developmental Characteristics:**\n*   **Sex",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "izures, tonic seizures, and generalized tonic-clonic seizures (GTCS). Case 11 presented with Focal, GTCS. Cases 12 and 13 had Focal tonic-clonic seizures, with Case 12 also experiencing Status Epilepticus (SE) and Case 13 also having generalized tonic seizures. Case 14 had Tonic, GTCS. Case 15 showed Focal seizures progressing to tonic. Cases 16, 18, and 21 had Tonic seizures. Case 17 presented with Focal or generalized tonic seizures, consistent with Lennox-Gastaut Syndrome (LGS). Cases 19 and 20 had Focal seizures, with Case 19 also experiencing tonic-clonic seizures. Case 22 had Focal seizures.\n*   The **number of ASMs used** ranged from 1 to 7. Cases 11, 18, and 20 used 2 ASMs. Cases 12, 15, and 22 used 3 ASMs. Cases 14 and 19 used 4 ASMs. Case 13 used 7 ASMs. Case 21 used 1 ASM. For Cases 16 and 17, this information was not available (NA).\n*   The **last seizure episode** varied from 2 months to 4 years. Case 11's last seizure was 2 months prior. Case 12's was 3 months prior. Case",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "re medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8, and 9 used 2 ASMs. Patient 5 used 3 ASMs, and Patient 4 used 4 ASMs.\nInformation on the last seizure episode varied: Patients 1, 3, 7, and 9 had no available data (NA). Patient 2's last seizure was 6 months ago, Patient 4's was 2 years ago, Patient 5's was 10 months ago, Patient 6's was 3.5 years ago, Patient 8's was 2 years ago, and Patient 10's was 5 years ago.\nEffective ASMs were specified for some patients: Valproic Acid (VPA) for Patients 2 and 4, and Carbamazepine (CBZ) for Patient 3. For Patients 1, 5, 6, 7, 8, 9, and 10, the effective ASM was not available (NA).\n\n**Physical Development and Neurological Findings:**\nAll 10 patients exhibited Intellectual Disability/Developmental Delay (ID/DD), facial abnormalities, and distal limb abnormalities. Brain MRI abnormalities were also consistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "emales (Cases 24, 26, 27).\n\n**Epilepsy Characteristics:**\nAll patients experienced very early-onset epilepsy. Cases 23, 24, 26, and 28 had seizure onset at 3 days of age. Case 27's seizures began at 7 days, and Case 25's onset was before 1 month of age. The predominant seizure type was Focal, observed in Cases 24, 25, 26, and 27. Case 23 specifically had Focal Generalized Tonic-Clonic Seizures (GTCS), while Case 28 presented with Tonic seizures. The number of anti-seizure medications (ASMs) used ranged from 1 (Case 23) to 3 (Case 28), with most cases (24-27) using 2 ASMs. The effective ASMs varied: Valproate (VPA) was effective for Cases 23 and 26; a combination of VPA and Oxcarbazepine (OXC) for Case 24; VPA and Levetiracetam (LEV) for Case 25; Vigabatrin (VGB) and VPA for Case 27; and Phenobarbital (PB) for Case 28. The last recorded seizure episode varied widely, from 4 months (Case 27) to 17 years (Case 25). Other last seizure episodes were at 1 year 4 months (Case 23), 1 year 1 mo",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "f sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).\n\n**Epilepsy Characteristics:**\nEpilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.\nSeizure types are varied:\n*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).\n*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).\n*   Patient 6 experienced Status Epilepticus (SE).\n*   Patient 7 had focal, tonic, clonic seizures.\n*   Seizure type was not available (NA) for Patient 3.\nThe number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                }
+            ]
+        },
+        {
+            "query": "Which patient required the highest number of ASMs (7 drugs) as shown in the 'Number of ASMs used' column?",
+            "answer": "Case 13 used 7 ASMs.",
+            "results": [
+                {
+                    "content": "izures, tonic seizures, and generalized tonic-clonic seizures (GTCS). Case 11 presented with Focal, GTCS. Cases 12 and 13 had Focal tonic-clonic seizures, with Case 12 also experiencing Status Epilepticus (SE) and Case 13 also having generalized tonic seizures. Case 14 had Tonic, GTCS. Case 15 showed Focal seizures progressing to tonic. Cases 16, 18, and 21 had Tonic seizures. Case 17 presented with Focal or generalized tonic seizures, consistent with Lennox-Gastaut Syndrome (LGS). Cases 19 and 20 had Focal seizures, with Case 19 also experiencing tonic-clonic seizures. Case 22 had Focal seizures.\n*   The **number of ASMs used** ranged from 1 to 7. Cases 11, 18, and 20 used 2 ASMs. Cases 12, 15, and 22 used 3 ASMs. Cases 14 and 19 used 4 ASMs. Case 13 used 7 ASMs. Case 21 used 1 ASM. For Cases 16 and 17, this information was not available (NA).\n*   The **last seizure episode** varied from 2 months to 4 years. Case 11's last seizure was 2 months prior. Case 12's was 3 months prior. Case",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "f sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).\n\n**Epilepsy Characteristics:**\nEpilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.\nSeizure types are varied:\n*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).\n*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).\n*   Patient 6 experienced Status Epilepticus (SE).\n*   Patient 7 had focal, tonic, clonic seizures.\n*   Seizure type was not available (NA) for Patient 3.\nThe number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "m 2 months to 4 years. Case 11's last seizure was 2 months prior. Case 12's was 3 months prior. Case 13's was 3 years prior. Case 14's was 4 years prior. Case 15's was 4 months prior. Case 16's was 2 years prior. Case 17's was 9 months prior. Case 18's was 2 years 3 months prior. Case 19's was 1 year prior. Case 20's was 11 months prior. For Cases 21 and 22, this information was not available (NA).\n*   **Effective ASMs** included a range of medications. Case 12 responded to OXC (Oxcarbazepine). Case 14 responded to LEV LCM (Levetiracetam, Lacosamide). Case 15 responded to CBZ CLB (Carbamazepine, Clobazam). Case 16 responded to CBZ (Carbamazepine). Case 17 responded to TPM ZNS CZP LTG VPA (Topiramate, Zonisamide, Clobazam, Lamotrigine, Valproic acid). Cases 18 and 20 responded to VPA (Valproic acid). Case 19 responded to VPA LEV (Valproic acid, Levetiracetam). For Cases 11, 13, 21, and 22, effective ASMs were not available (NA).\n\n**Physical and Developmental Characteristics:**\n*   **Sex",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "re medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8, and 9 used 2 ASMs. Patient 5 used 3 ASMs, and Patient 4 used 4 ASMs.\nInformation on the last seizure episode varied: Patients 1, 3, 7, and 9 had no available data (NA). Patient 2's last seizure was 6 months ago, Patient 4's was 2 years ago, Patient 5's was 10 months ago, Patient 6's was 3.5 years ago, Patient 8's was 2 years ago, and Patient 10's was 5 years ago.\nEffective ASMs were specified for some patients: Valproic Acid (VPA) for Patients 2 and 4, and Carbamazepine (CBZ) for Patient 3. For Patients 1, 5, 6, 7, 8, 9, and 10, the effective ASM was not available (NA).\n\n**Physical Development and Neurological Findings:**\nAll 10 patients exhibited Intellectual Disability/Developmental Delay (ID/DD), facial abnormalities, and distal limb abnormalities. Brain MRI abnormalities were also consistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " \"Olson et al. [4]\".\n*   **Variant:** Specifies the genetic variant, which is consistently \"p.Glu209Lys\" for all listed patients.\n*   **Sex:** Indicates the patient's biological sex (Male or Female).\n*   **Epilepsy:** This category groups several columns related to seizure characteristics:\n    *   **Age of onset:** The age at which epilepsy symptoms first appeared (e.g., days, weeks, months).\n    *   **Seizure type:** Describes the classification of seizures (e.g., Focal, GTCS, clonic, tonic, myoclonic, SE).\n    *   **Number of ASMs used:** The count of anti-seizure medications administered.\n    *   **Last seizure episode:** The time elapsed since the patient's most recent seizure.\n    *   **Effective ASM:** The specific anti-seizure medication found to be effective.\n*   **ID/DD Physical development:** This category covers physical and developmental abnormalities:\n    *   **Microcephaly:** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indi",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                }
+            ]
+        },
+        {
+            "query": "What is the gender distribution (Male/Female) among the first 10 cases listed in Table 1?",
+            "answer": "Among the first 10 cases listed in Table 1, there are 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).",
+            "results": [
+                {
+                    "content": ", effective ASMs were not available (NA).\n\n**Physical and Developmental Characteristics:**\n*   **Sex** distribution included 2 males (Cases 11, 22) and 10 females (Cases 12-21).\n*   All 12 cases (11-22) presented with **Microcephaly** (+).\n*   All 12 cases (11-22) presented with **Facial abnormalities** (+).\n*   Most cases (11, 13-22) presented with **Distal limb abnormalities** (+), with only Case 12 showing no (-) distal limb abnormalities.\n*   All 12 cases (11-22) showed **Brain MRI abnormalities** (+).\n*   None of the 12 cases (11-22) presented with **Malnutrition** (-).\n\n**Other Features:**\n*   Case 11 presented with unspecified other features, which could include astigmatism, frequent ear infections, micropenis, cryptorchidism, infantile hypertrophic pyloric stenosis, precocious puberty, or short head.\n*   All other cases (12-21) did not present with any of the listed \"other\" features (-).\n*   Case 22 specifically presented with **Autism Spectrum Disorder (ASD)**.\n\n### 5. Key Fin",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "res (-).\n*   Case 22 specifically presented with **Autism Spectrum Disorder (ASD)**.\n\n### 5. Key Findings\n*   All 12 cases in this table share the **p.Glu209Lys genetic variant**.\n*   There is a strong female predominance among these cases (10 females vs. 2 males).\n*   Epilepsy is a universal feature, with very early onset (within days to weeks of birth) and a variety of seizure types, often involving focal and tonic components.\n*   All individuals exhibited **microcephaly, facial abnormalities, and brain MRI abnormalities**.\n*   Distal limb abnormalities were present in 11 out of 12 cases, indicating a high prevalence.\n*   Malnutrition was not observed in any of the cases.\n*   Beyond the core features, Case 11 had unspecified other features, and Case 22 was diagnosed with Autism Spectrum Disorder (ASD).\n\n### 6. Context (footnotes/notes)\nThe \"Case\" column includes references to the original publications where these cases were reported:\n*   Cases 11, 12, 13, 14 are from Olson et al. [4]",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "f sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).\n\n**Epilepsy Characteristics:**\nEpilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.\nSeizure types are varied:\n*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).\n*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).\n*   Patient 6 experienced Status Epilepticus (SE).\n*   Patient 7 had focal, tonic, clonic seizures.\n*   Seizure type was not available (NA) for Patient 3.\nThe number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "Here's an extraction and description of the table content:\n\n---\n\n### 1. Table Title/Caption\nTable 1 (continued)\n\n### 2. Table Purpose\nThis table presents a continued list of clinical characteristics for individual cases, likely patients, who share a specific genetic variant (p.Glu209Lys). It details their epilepsy profile, intellectual disability/developmental delay (ID/DD) and physical development, brain MRI findings, nutritional status, and other associated features. The table aims to provide a comprehensive overview of the phenotypic spectrum associated with this genetic variant.\n\n### 3. Table Structure (columns/rows)\nThe table is structured with the following main columns and their sub-columns:\n*   **Case**: Identifies the individual case number and the source publication (e.g., Olson et al. [4]).\n*   **Variant**: Specifies the genetic variant observed.\n*   **Sex**: Indicates the sex of the individual (M for Male, F for Female).\n*   **Epilepsy**:\n    *   **Age of onset**: The age a",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "nal publications where these cases were reported:\n*   Cases 11, 12, 13, 14 are from Olson et al. [4].\n*   Case 15 is from Dentici et al. [5].\n*   Cases 16, 17, 18 are from Simmen et al. [3].\n*   Cases 19, 20, 21 are from Olson et al. [7].\n*   Case 22 is from Wu et al. [10].\n\n---",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                }
+            ]
+        }
+    ]
+}

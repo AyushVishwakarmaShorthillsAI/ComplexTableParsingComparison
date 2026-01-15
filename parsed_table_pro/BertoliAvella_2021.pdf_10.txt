@@ -1,0 +1,41 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+Table 1 continued. This indicates the provided image is a partial view of a larger table.
+
+### 2. Table Purpose
+The purpose of this table is to summarize the genetic and clinical findings for patients with mutations in the ZNF699 gene. It links specific genetic variants (genotypes) to the patients' observed clinical characteristics (phenotypes), providing details on zygosity and family history.
+
+### 3. Table Structure
+The table is structured with rows representing individual patients (numbered 27, 28, and 29) and the following columns:
+*   **Patient:** A unique identifier for each individual.
+*   **Gene:** The gene in which the mutation was identified.
+*   **cDNA:** The specific mutation described at the cDNA level using HGVS nomenclature.
+*   **Protein:** The predicted effect of the mutation on the protein sequence.
+*   **Zygosity:** The zygosity state of the mutation (e.g., homozygous).
+*   **Consanguinity/family history:** Information on whether the parents were related and the family history of the condition.
+*   **Phenotype:** A list of the patient's clinical features and symptoms.
+*   **Evidence:** Supporting evidence for the findings.
+*   **PMID:** PubMed Identifier for the source publication.
+*   **Others:** Any additional relevant information.
+
+### 4. Table Data
+This section of the table details the genetic and phenotypic information for three patients (27, 28, and 29) with mutations in the ZNF699 gene.
+
+Patients 27 and 28 both have the same homozygous (Hom) frameshift mutation in the ZNF699 gene, identified as c.1623_1626delTTAT at the cDNA level (reference sequence NM_198535.2), which results in a protein change denoted as p.Tyr542fs. Both patients are from families with consanguinity. Patient 27 presented with a wide mouth, facial abnormalities, a smooth philtrum, micrognathia, an abnormal electroretinogram, long eyelashes, nystagmus, syndactyly, intellectual disability, hepatosplenomegaly, and failure to thrive. Patient 28 exhibited cryptorchidism, retrognathia, a triangular face, macrotia, a prominent nasal bridge, syndactyly, intellectual disability, global developmental delay, and an abnormal facial shape.
+
+Patient 29 has a different homozygous (Hom) frameshift mutation in the ZNF699 gene. The mutation is a duplication, c.1324dupA (reference sequence NM_198535.2), leading to a predicted protein change of p.Ser442fs. This patient is also from a consanguineous family. The associated phenotype includes microcephaly, intellectual disability, global developmental delay, hiatus hernia, developmental regression, recurrent infections, and immunodeficiency.
+
+For all three patients, the "Evidence" and "PMID" columns are noted as "As above," indicating that this information is provided earlier in the complete table and applies to these cases as well. The "Others" column is blank for these patients.
+
+### 5. Key Findings
+*   All three patients presented have homozygous, likely pathogenic, frameshift mutations in the ZNF699 gene.
+*   Two distinct mutations are described: p.Tyr542fs (c.1623_1626delTTAT) found in patients 27 and 28, and p.Ser442fs (c.1324dupA) found in patient 29.
+*   Consanguinity is a common factor, present in the families of all three patients.
+*   Mutations in ZNF699 are associated with a spectrum of clinical features, with significant overlap including intellectual disability and developmental delay.
+*   There is notable phenotypic variability even between patients (27 and 28) with the identical mutation, highlighting the complex presentation of this genetic condition. Key distinguishing features include hepatosplenomegaly in patient 27, cryptorchidism in patient 28, and immunodeficiency in patient 29.
+
+### 6. Context
+*   The data is part of a larger table, specifically "Table 1".
+*   The source publication is "Genetics in Medicine (2021) 23:1551–1568".
+*   The entries "As above" in the "Evidence" and "PMID" columns suggest that these patients are likely from a previously cited study or that the evidence is consistent with cases described earlier in the full table.

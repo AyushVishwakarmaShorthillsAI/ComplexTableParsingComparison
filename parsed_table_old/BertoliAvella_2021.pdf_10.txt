@@ -1,0 +1,45 @@
+Here's an extraction and description of the table content:
+
+---
+
+### 1. Table Title/Caption
+Table 1 continued.
+
+### 2. Table Purpose
+This table details the genetic mutations and associated clinical phenotypes for three specific patients (27, 28, and 29), focusing on the ZNF699 gene. It provides information on cDNA and protein changes, zygosity, family history of consanguinity, and a comprehensive list of observed symptoms and conditions.
+
+### 3. Table Structure (Columns/Rows)
+The table is structured with the following columns:
+*   **Patient**: A numerical identifier for each patient.
+*   **Gene**: The gene identified with a mutation.
+*   **cDNA**: The specific cDNA mutation description.
+*   **Protein**: The resulting protein mutation description.
+*   **Zygosity**: The zygosity of the mutation (e.g., homozygous).
+*   **Consanguinity family history**: Indicates the presence of consanguinity in the family history.
+*   **Phenotype**: A detailed list of clinical manifestations and symptoms observed in the patient.
+*   **Evidence**: Refers to the source or type of evidence for the listed phenotypes.
+*   **PMID**: PubMed ID, likely linking to relevant publications or evidence.
+*   **Others**: An empty column in this segment of the table, suggesting no additional specific notes for these entries.
+
+The table contains three rows of data, each corresponding to a unique patient (Patient 27, Patient 28, and Patient 29).
+
+### 4. Table Data
+The table presents data for three patients, all exhibiting mutations in the ZNF699 gene and homozygous for their respective mutations.
+
+**Patient 27** carries a homozygous ZNF699 mutation described as NM_198535.2: c.1623_1626delTTAT at the cDNA level, resulting in a p.Tyr542fs protein change. The family history indicates consanguinity ("Yes, no"). This patient presented with a wide array of phenotypes including premature birth, cardiac defects such as atrial septal defect, pulmonic stenosis, and tachycardia, and gastrointestinal issues like gastroesophageal reflux and jejunal atresia. Other notable symptoms included hepatomegaly, recurrent infections, delayed skeletal maturation, decreased body weight, persistent left superior vena cava, bilateral sensorineural hearing impairment, protruding tongue, bilateral renal hypoplasia, abnormal spleen morphology, and required nasogastric tube feeding. The evidence and PMID for these findings are indicated as "As above," suggesting they are detailed elsewhere in the paper or preceding table entries.
+
+**Patient 28** shares the identical homozygous ZNF699 mutation with Patient 27: NM_198535.2: c.1623_1626delTTAT (cDNA) and p.Tyr542fs (protein). Similar to Patient 27, the family history notes consanguinity ("Yes, no"). Patient 28 exhibited distinct craniofacial abnormalities including a wide mouth, general abnormality of the face, smooth philtrum, and micrognathia. Ocular symptoms included an abnormal electroretinogram and nystagmus, along with long eyelashes. Other phenotypes comprised syndactyly, intellectual disability, hepatosplenomegaly, failure to thrive, intrauterine growth retardation, pancytopenia, anemia, malformation of the heart and great vessels, polydactyly, and abnormal renal cortex and medulla morphology. The evidence and PMID are also marked "As above."
+
+**Patient 29** has a different homozygous ZNF699 mutation: NM_198535.2: c.1324dupA at the cDNA level, leading to a p.Ser442fs protein change. The family history for this patient also indicates consanguinity ("Yes, yes"). Patient 29's clinical presentation included cryptorchidism, retrognathia, a triangular face, macrotia, prominent nasal bridge, syndactyly, and an abnormal facial shape. Neurological and developmental issues were prominent, with intellectual disability, global developmental delay, and developmental regression. Other conditions included microcephaly, hiatus hernia, recurrent infections, and immunodeficiency. As with the other patients, the evidence and PMID are noted as "As above."
+
+### 5. Key Findings
+*   All three patients (27, 28, 29) presented with homozygous mutations in the ZNF699 gene.
+*   Patients 27 and 28 share the same specific ZNF699 mutation (c.1623_1626delTTAT, p.Tyr542fs), while Patient 29 has a different mutation (c.1324dupA, p.Ser442fs).
+*   A family history of consanguinity is noted for all three patients, suggesting a potential genetic predisposition or recessive inheritance pattern.
+*   The patients exhibit a broad spectrum of severe and overlapping clinical phenotypes, including cardiac malformations, gastrointestinal issues, craniofacial dysmorphism, skeletal abnormalities, developmental delays, intellectual disability, and immune system deficiencies.
+*   Despite sharing the same mutation, Patients 27 and 28 show some distinct phenotypic features, indicating potential variability in clinical expression. Patient 29, with a different mutation, also presents a unique combination of symptoms while sharing some commonalities like intellectual disability and recurrent infections.
+
+### 6. Context (Footnotes/Notes)
+*   This table is a continuation of a larger Table 1, implying that more patient data or introductory information is presented elsewhere in the document.
+*   The "Evidence" and "PMID" columns consistently state "As above," suggesting that the specific references or types of evidence are provided earlier in the table or the main text of the paper.
+*   The document is authored by A.M. Bertoli-Avella et al. and published in Genetics in Medicine (2021) 23:1551–1568 by Springer Nature.

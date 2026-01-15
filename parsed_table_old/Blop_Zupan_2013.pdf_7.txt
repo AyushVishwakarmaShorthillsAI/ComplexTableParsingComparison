@@ -1,0 +1,57 @@
+Here's the extracted and described table content:
+
+---
+
+**1. Table Title/Caption**
+Table 2: Results of the cephalometric analysis in norma lateralis and frontalis.
+
+**2. Table Purpose**
+This table presents a detailed cephalometric analysis for ten individual patients (Patient 8 through Patient 17), comparing their specific measurements in both norma lateralis and norma frontalis views against age-corresponding cephalometric standards. The purpose is to highlight individual patient variations (increased, reduced, or normal) relative to these standards, providing a comprehensive overview of their craniofacial morphology.
+
+**3. Table Structure**
+The table is structured with "Measurement" as the primary row header, listing various cephalometric parameters grouped under "Norma lateralis" (further subdivided into "Typology," "Skeletal analysis," and "Denture analysis") and "Norma frontalis." The columns represent individual patients (Patient 8, Patient 9, Patient 10, Patient 11, Patient 12, Patient 14, Patient 15, Patient 16, Patient 17), each identified by their patient number and age in years and months (e.g., (6.7) for Patient 8). For each patient and measurement, two values are provided: the patient's actual measurement, followed by the age-corresponding cephalometric standard (Mean; Standard Deviation) in parentheses. An additional column, "CS" (Clinical Significance or Comparison to Standard), uses arrows (↑ for increased, ↓ for reduced) or "N" (for normal) to indicate how the patient's value compares to the standard mean.
+
+**4. Table Data**
+
+**Norma Lateralis - Typology Measurements:**
+*   **Facial axis (°):** Patient measurements ranged from 74.0° (Patient 15) to 96.0° (Patient 16), compared to standards typically around 89.0-89.6° (with SDs around 3.6-4.6). All patients were indicated as having "Increased" (↑) facial axis values, despite many individual measurements being numerically lower than the standard mean.
+*   **Facial depth (°):** Patient values varied from 67.0° (Patient 15) to 84.1° (Patient 9), against standards ranging from 82.1° to 86.0° (SDs 2.5-4.5). All patients showed "Reduced" (↓) facial depth.
+*   **Lower facial height (°):** Measurements ranged from 41.0° (Patient 11) to 58.0° (Patient 12), with standards consistently at 47.0° (SD 4.0). Patient 16 (47.0°) was "Normal" (N), while all other patients were "Reduced" (↓).
+*   **Mandibular arc (°):** Patient values were between 13.0° (Patient 12) and 52.0° (Patient 11), compared to standards around 26.0-30.0° (SD 3.5). All patients exhibited "Reduced" (↓) mandibular arc values.
+*   **FMA (°):** Patient measurements ranged from 36.0° (Patient 10) to 58.0° (Patient 17), against standards between 25.8° and 29.4° (SDs 3.0-6.2). All patients showed "Reduced" (↓) FMA values.
+*   **AFH (mm):** Patient values ranged from 46.0 mm (Patient 10, Patient 11) to 76.4 mm (Patient 9), compared to standards between 53.3 mm and 76.1 mm (SDs 3.1-5.8). All patients had "Reduced" (↓) AFH values.
+*   **PFH (mm):** Measurements were between 19.0 mm (Patient 12) and 30.0 mm (Patient 16), with standards ranging from 33.6 mm to 54.3 mm (SDs 2.7-4.6). All patients showed "Reduced" (↓) PFH values.
+*   **FHI (%):** Patient values were consistently low, ranging from 0.3% (Patient 12) to 0.5% (multiple patients), against standards of 0.6-0.7% (no SD provided). All patients were indicated as "Reduced" (↓).
+
+**Norma Lateralis - Skeletal Analysis Measurements:**
+*   **Convexity (mm):** Patient measurements were notably higher, ranging from 5.0 mm (Patient 10) to 12.0 mm (Patient 11), compared to standards between 1.7 mm and 4.5 mm (SDs 2.2-3.4). All patients showed "Increased" (↑) convexity.
+*   **ANB (°):** Patient values were significantly elevated, ranging from 8.0° (Patient 10) to 15.0° (Patient 8), against standards between 2.6° and 4.8° (SDs 1.9-2.4). All patients exhibited "Increased" (↑) ANB angles.
+
+**Norma Lateralis - Denture Analysis Measurements:**
+*   **i to APg (mm):** Patient measurements ranged from 4.0 mm (Patient 8) to 12.0 mm (Patient 14), compared to standards between -0.5 mm and 2.8 mm (SDs 2.4-2.9). All patients showed "Increased" (↑) i to APg (mm) values.
+*   **i to APg (°):** Patient values were higher, ranging from 22.0° (Patient 8, Patient 12) to 44.0° (Patient 10), against standards between 15.0° and 25.2° (SDs 4.8-7.3). All patients exhibited "Increased" (↑) i to APg (°) values.
+*   **FMIA (°):** Measurements ranged from 36.0° (Patient 14) to 59.1° (Patient 9), compared to standards between 55.6° and 64.8° (SDs 7.5-10.7). Patients 11 and 12 had no data. All other patients (8, 9, 10, 14, 15, 16, 17) showed "Reduced" (↓) FMIA values.
+*   **IMPA (°):** Patient values ranged from 81.0° (Patient 12) to 105.0° (Patient 11), against standards between 87.9° and 95.3° (SDs 5.7-9.0). Patients 8 (87.0°) and 16 (96.0°) were "Normal" (N), while all other patients were "Reduced" (↓).
+*   **i/I (°):** Measurements ranged from 103.0° (Patient 15) to 128.0° (Patient 8), compared to standards between 125.5° and 142.2° (SDs 9.2-14.2). All patients showed "Reduced" (↓) i/I values.
+
+**Norma Frontalis Measurements:**
+*   **Cranial width (mm):** Patient values ranged from 103.0 mm (Patient 8, Patient 12) to 180.9 mm (Patient 9), against standards between 135.7 mm and 143.2 mm (SDs 4.3-5.6). All patients exhibited "Reduced" (↓) cranial width.
+*   **Bifrontotemporale width (mm):** Measurements ranged from 69.0 mm (Patient 8) to 129.3 mm (Patient 9), compared to standards between 92.3 mm and 100.3 mm (SDs 3.0-5.5). All patients showed "Reduced" (↓) bifrontotemporale width.
+*   **Bizygomatic width (mm):** Patient values ranged from 85.0 mm (Patient 8) to 128.4 mm (Patient 9), against standards between 109.4 mm and 128.1 mm (SDs 3.2-4.4). All patients exhibited "Reduced" (↓) bizygomatic width.
+*   **Nasal width (mm):** Measurements ranged from 20.0 mm (Patient 10) to 40.6 mm (Patient 9), compared to standards between 26.2 mm and 34.3 mm (SDs 1.5-2.6). All patients showed "Reduced" (↓) nasal width.
+*   **Bigonial width (mm):** Patient values ranged from 65.0 mm (Patient 8) to 113.9 mm (Patient 9), against standards between 80.4 mm and 94.6 mm (SDs 3.1-4.6). All patients exhibited "Reduced" (↓) bigonial width.
+
+**5. Key Findings**
+*   **Consistent Skeletal and Denture Protrusion:** All patients consistently show "Increased" values for skeletal analysis parameters (Convexity and ANB) and specific denture analysis parameters (i to APg in both mm and degrees), indicating a general tendency towards a more protrusive skeletal and dental profile compared to age-corresponding standards.
+*   **Widespread Reduction in Typology and Frontal Measurements:** A vast majority of typology measurements (Facial depth, Lower facial height, Mandibular arc, FMA, AFH, PFH, FHI) and all norma frontalis measurements (Cranial width, Bifrontotemporale width, Bizygomatic width, Nasal width, Bigonial width) are indicated as "Reduced" across all patients. This suggests a general reduction in overall facial dimensions and specific facial height and width parameters.
+*   **Discrepancy in Facial Axis Interpretation:** There is a notable inconsistency in the "CS" column for "Facial axis." While all patients are marked as "Increased" (↑), many of their actual measurements (e.g., Patient 8: 81.0 vs. standard 89.5) are numerically lower than the standard mean, contradicting the "Increased" label. This suggests a potential error in the labeling or interpretation of this specific parameter's clinical significance.
+*   **Individual Normal Variations:** Despite the overarching trends, some patients exhibit normal values for specific parameters, such as Patient 16 for Lower facial height and IMPA, and Patient 8 for IMPA.
+*   **Missing Data:** Data for FMIA is missing for Patients 11 and 12.
+
+**6. Context (Footnotes/Notes)**
+*   For each measurement, the age-corresponding cephalometric standards are provided as a Mean value followed by the Standard Deviation (S.D.) in parentheses.
+*   The "CS" column uses "N" for Normal values, "↑" for Increased values, and "↓" for Reduced values, indicating the patient's measurement relative to the standard mean.
+*   Specifically for Patient 8, the ANB angle of 15° is significantly higher than the standard angle measure of 4.7° (with a standard deviation of 2.2), which confirms a skeletal Class II malocclusion.
+*   The notation "(x)" indicates that the measure (in distance or degree for angles) area is visible on Additional files 3 and 4.
+
+---

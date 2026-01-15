@@ -1,0 +1,43 @@
+Here is a description of the table content in a format optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Table 1.** Variants from six novel gene-disease associations.
+
+### 2. Table Purpose
+The purpose of this table is to present detailed genetic and clinical information for four patients with novel variants in the BLOC1S1 gene. It links specific genetic mutations to their resulting phenotypes, zygosity, family history, and supporting evidence from existing literature.
+
+### 3. Table Structure
+The table is organized into four rows, each representing a different patient, and ten columns:
+*   **Patient:** A unique identifier for each individual (1, 2, 3, 4).
+*   **Gene:** The gene in which the variant was identified.
+*   **cDNA:** The specific variant described at the cDNA level using HGVS nomenclature.
+*   **Protein:** The predicted effect of the variant on the protein sequence.
+*   **Zygosity:** The zygosity state of the variant (e.g., homozygous).
+*   **Consanguinity family history:** Indicates whether there is a history of consanguinity in the family.
+*   **Phenotype:** A detailed description of the patient's clinical features and symptoms.
+*   **Evidence:** Supporting information linking the gene to the observed phenotype, often referencing its known biological function.
+*   **PMID:** PubMed identifiers for related scientific publications.
+*   **Others:** Additional relevant information, such as the genetic status of family members.
+
+### 4. Table Data
+This table details findings for four patients with variants in the BLOC1S1 gene.
+
+**Patients 1 and 2** are siblings from a consanguineous family. Both have the same homozygous variant in the BLOC1S1 gene, identified as NM_001487.3:c.284C>A, which results in a p.Ala95Asp protein change. Their shared phenotype includes abnormal myelination, generalized-onset seizures, intellectual disability, leukodystrophy, optic atrophy, seizures, severe global developmental delay, and spasticity. An unaffected sister is noted to be heterozygous for this variant.
+
+**Patient 3**, from a family with no reported consanguinity, has a homozygous BLOC1S1 variant, NM_001487.3:c.185T>C, leading to a p.Leu62Pro protein change. This patient's clinical features include delayed myelination, cerebral hypomyelination, severe intellectual disability, severe global developmental delay, epilepsy, spastic tetraparesis, dystonia, severe visual impairment, and optic atrophy.
+
+**Patient 4**, from a consanguineous family, has a homozygous BLOC1S1 variant, NM_001487.3:c.218+3A>G (also noted as g.56110792A>G). The effect on the protein is uncertain (p.?). The patient's phenotype includes arachnodactyly, congenital onset developmental regression, global developmental delay, intellectual disability, leukodystrophy, leukoencephalopathy, muscular hypotonia, and talipes equinovarus.
+
+For all four patients, the supporting evidence links the findings to the function of BLOC1S1 as a component of the BLOC1 multisubunit protein complex. Loss-of-function variants in other genes of this complex, such as DTNBP1 and BLOC1S3, are known to cause Hermansky-Pudlak syndrome. This syndrome is characterized by pigmentation defects due to issues with lysosome-related organelles (pigment granules) and abnormal glutamatergic transmission. The associated literature is referenced by PMID 15102850 and OMIM entries 614076 and 614077.
+
+### 5. Key Findings
+*   The table identifies three distinct homozygous variants in the BLOC1S1 gene across four patients from three families.
+*   These variants are associated with severe, overlapping neurodevelopmental phenotypes, primarily characterized by abnormal myelination (leukodystrophy/hypomyelination), severe global developmental delay, intellectual disability, seizures, and optic atrophy.
+*   The presence of consanguinity in two of the three families supports an autosomal recessive inheritance pattern for the disease associated with BLOC1S1 variants.
+*   The clinical presentation shows some variability, with Patient 4 exhibiting additional features like arachnodactyly and developmental regression.
+*   The evidence provided connects the function of BLOC1S1 to the BLOC1 complex, which is implicated in Hermansky-Pudlak syndrome, suggesting a shared pathogenic mechanism related to lysosomal and neuronal function.
+
+### 6. Context
+*   The note "sibling above" for Patient 2 in the "Consanguinity family history" column clarifies that Patients 1 and 2 are related.
+*   The "Others" column for Patient 1 specifies that an "Unaffected sister is heterozygous," providing evidence for the recessive nature of the condition.
+*   The table title indicates that these findings are part of a larger set of "six novel gene-disease associations," though only variants in BLOC1S1 are shown in this excerpt.

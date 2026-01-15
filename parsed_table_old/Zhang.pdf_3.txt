@@ -1,0 +1,93 @@
+Here's a detailed extraction and description of the table content:
+
+---
+
+**1. Table Title/Caption:**
+Table 1: Detailed data of 28 patients with PACS2-related neurological diseases.
+
+**2. Table Purpose:**
+The purpose of this table is to provide comprehensive clinical and genetic information for patients diagnosed with PACS2-related neurological diseases. It details their specific genetic variant, sex, epilepsy characteristics (age of onset, seizure type, medication use, and last episode), physical developmental features (microcephaly, facial and distal limb abnormalities), brain MRI findings, nutritional status, and other associated medical conditions.
+
+**3. Table Structure (columns/rows):**
+The table is structured with 13 main columns, some of which are grouped under broader categories, and presents data for 10 individual patient cases.
+
+*   **Case:** Identifies each patient, referencing "Olson et al. [4]".
+*   **Variant:** Specifies the genetic variant, which is consistently "p.Glu209Lys" for all listed patients.
+*   **Sex:** Indicates the patient's biological sex (Male or Female).
+*   **Epilepsy:** This category groups several columns related to seizure characteristics:
+    *   **Age of onset:** The age at which epilepsy symptoms first appeared (e.g., days, weeks, months).
+    *   **Seizure type:** Describes the classification of seizures (e.g., Focal, GTCS, clonic, tonic, myoclonic, SE).
+    *   **Number of ASMs used:** The count of anti-seizure medications administered.
+    *   **Last seizure episode:** The time elapsed since the patient's most recent seizure.
+    *   **Effective ASM:** The specific anti-seizure medication found to be effective.
+*   **ID/DD Physical development:** This category covers physical and developmental abnormalities:
+    *   **Microcephaly:** Indicates the presence (+) or absence (-) of microcephaly.
+    *   **Facial abnormalities:** Indicates the presence (+) or absence (-) of facial abnormalities.
+    *   **Distal limb abnormalities:** Indicates the presence (+) or absence (-) of abnormalities in the distal limbs.
+*   **Brain MRI abnormalities:** Indicates the presence (+) or absence (-) of abnormalities detected via brain MRI.
+*   **Malnutrition:** Indicates the presence (+) or absence (-) of malnutrition.
+*   **Others:** Lists any other significant associated medical conditions or findings.
+
+**4. Table Data:**
+
+The table presents detailed information for 10 patients, all of whom are identified as being from "Olson et al. [4]" and share the p.Glu209Lys genetic variant.
+
+**Patient Demographics and Genetic Variant:**
+All 10 patients listed in the table carry the p.Glu209Lys genetic variant. There is an even distribution of sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).
+
+**Epilepsy Characteristics:**
+Epilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.
+Seizure types are varied:
+*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).
+*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).
+*   Patient 6 experienced Status Epilepticus (SE).
+*   Patient 7 had focal, tonic, clonic seizures.
+*   Seizure type was not available (NA) for Patient 3.
+The number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8, and 9 used 2 ASMs. Patient 5 used 3 ASMs, and Patient 4 used 4 ASMs.
+Information on the last seizure episode varied: Patients 1, 3, 7, and 9 had no available data (NA). Patient 2's last seizure was 6 months ago, Patient 4's was 2 years ago, Patient 5's was 10 months ago, Patient 6's was 3.5 years ago, Patient 8's was 2 years ago, and Patient 10's was 5 years ago.
+Effective ASMs were specified for some patients: Valproic Acid (VPA) for Patients 2 and 4, and Carbamazepine (CBZ) for Patient 3. For Patients 1, 5, 6, 7, 8, 9, and 10, the effective ASM was not available (NA).
+
+**Physical Development and Neurological Findings:**
+All 10 patients exhibited Intellectual Disability/Developmental Delay (ID/DD), facial abnormalities, and distal limb abnormalities. Brain MRI abnormalities were also consistently present in all patients.
+Microcephaly was observed in 4 patients (Patients 1, 4, 5, and 6), while it was absent in the remaining 6 patients (Patients 2, 3, 7, 8, 9, and 10).
+Malnutrition was less common, reported only in Patient 1 and Patient 4, and absent in the other 8 patients.
+
+**Other Associated Conditions:**
+A variety of other conditions were noted:
+*   Myopia was present in Patients 1, 6, and 8.
+*   Strabismus was observed in Patients 4 and 5.
+*   Cryptorchidism was noted in Patients 3 and 6.
+*   Patient 2 had Dextrocardia.
+*   Patient 6 also presented with Ventricular Septal Defect (VSD), frequent infections, and hearing difficulties.
+*   Patient 7 had Astigmatism.
+*   Patient 8 also experienced visual impairment.
+*   Patient 9 had Anisocoria.
+*   No other specific conditions were listed for Patient 10.
+
+**5. Key Findings:**
+*   All 10 patients presented in this table, sourced from Olson et al. [4], share the identical p.Glu209Lys genetic variant, indicating a strong genotype-phenotype correlation for this specific variant in PACS2-related neurological disease.
+*   A consistent and severe clinical picture emerges, characterized by very early-onset epilepsy (mostly within the first week of life), intellectual disability/developmental delay, facial abnormalities, distal limb abnormalities, and brain MRI abnormalities in all patients.
+*   Microcephaly is a common feature, affecting 40% of the patients, while malnutrition is less prevalent (20%).
+*   Ophthalmological issues such as Myopia, Strabismus, Astigmatism, Anisocoria, and general visual impairment are frequently reported as co-occurring conditions, suggesting a significant impact on visual development.
+*   Beyond neurological and developmental issues, some patients also present with cardiac anomalies (Dextrocardia, VSD), urogenital abnormalities (Cryptorchidism), and immune system challenges (frequent infections), highlighting the multi-systemic nature of PACS2-related disorders.
+
+**6. Context (footnotes/notes):**
+*   The table caption states "Detailed data of 28 patients," but only 10 patients are displayed in the provided image. This suggests that the full table might contain more rows not visible in the current view.
+*   The reference "[4]" indicates that the data for these patients is derived from a study by Olson et al.
+*   Abbreviations used in the table include:
+    *   NA: Not Available
+    *   ASMs: Anti-Seizure Medications
+    *   VPA: Valproic Acid
+    *   CBZ: Carbamazepine
+    *   GTCS: Generalized Tonic-Clonic Seizures
+    *   SE: Status Epilepticus
+    *   ID/DD: Intellectual Disability/Developmental Delay
+    *   VSD: Ventricular Septal Defect
+    *   mon: months
+    *   y: years
+    *   wk: weeks
+    *   d: days
+    *   M: Male
+    *   F: Female
+    *   +: Present
+    *   -: Absent

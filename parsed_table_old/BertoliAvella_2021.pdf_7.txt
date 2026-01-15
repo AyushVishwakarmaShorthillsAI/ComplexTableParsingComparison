@@ -1,0 +1,45 @@
+Here is the extracted and described content of the table:
+
+---
+
+**1. Table Title/Caption:**
+Table 1 continued
+
+**2. Table Purpose:**
+This table presents a detailed overview of genetic variants in the *MMP15* gene and their associated clinical phenotypes, zygosity, family history, and supporting evidence for three individual patients. It serves to document specific genetic findings and their corresponding clinical manifestations, likely as part of a broader study on genetic disorders.
+
+**3. Table Structure (columns/rows):**
+The table is structured with 10 columns and 3 rows of patient-specific data.
+*   **Patient:** A numerical identifier for each individual patient.
+*   **Gene:** The gene identified with a pathogenic variant (consistently *MMP15* in this segment).
+*   **cDNA:** The specific cDNA mutation identified (e.g., NM_002428.3:c.1058delC).
+*   **Protein:** The resulting change at the protein level due to the cDNA mutation (e.g., p.Pro353fs).
+*   **Zygosity:** Indicates the zygosity of the variant, which is homozygous ("Hom") for all patients listed.
+*   **Consanguinity/Family history:** Information regarding parental consanguinity and/or the presence of a family history of the condition.
+*   **Phenotype:** A comprehensive list of clinical signs, symptoms, and developmental abnormalities observed in each patient.
+*   **Evidence:** A description of the functional or mechanistic evidence supporting the gene's role in the observed phenotype.
+*   **PMID:** The PubMed ID of a relevant scientific publication providing further context or evidence.
+*   **Others:** Any additional relevant information, such as cosegregation of the variant in affected family members.
+
+**4. Table Data:**
+
+The table provides data for three patients (14, 15, and 16), all of whom exhibit homozygous variants in the *MMP15* gene.
+
+**Patient 14** carries a homozygous *MMP15* variant, specifically NM_002428.3:c.1058delC, which results in a p.Pro353fs protein change. This patient's family history indicates consanguinity. The extensive phenotype includes soft palate abnormalities, constipation, developmental regression, dysphagia, dyspnea, feeding difficulties, fetal distress, gastroesophageal reflux, global developmental delay, intestinal malrotation, joint hypermobility, muscular hypotonia, and distinct facial features such as a pointed chin, hypertelorism, wide nasal bridge, and webbed neck. Cardiac defects are prominent, including cholestasis, ventricular septal defect, atrial septal defect, double outlet right ventricle, hypoplastic left heart, and tricuspid regurgitation. Other findings include an abnormal facial shape and elevated hepatic transaminases, with a congenital onset. The evidence suggests that *MMP15* may be involved in endothelial to mesenchymal transformation and endocardial cushion development through its interaction with the zinc finger transcription factor Snai1, as supported by PMID 21920357. The variant was also observed to cosegregate in an affected sibling.
+
+**Patient 15** is identified as the sibling of Patient 14 and shares the same homozygous *MMP15* variant (NM_002428.3:c.1058delC, p.Pro353fs). This patient's phenotype includes an abnormal facial shape, antenatal onset, conjugated hyperbilirubinemia, decreased body weight, deeply set eyes, failure to thrive, hypertelorism, intrauterine growth retardation, and jaundice. Cardiac manifestations comprise left atrial enlargement, left ventricular hypertrophy, patent foramen ovale, pulmonary arterial hypertension, tachycardia, and a ventricular septal defect. Additional facial features include low-set ears, a pointed chin, prominent forehead, and a triangular face. The evidence and PMID for Patient 15 are consistent with those for Patient 14, indicating the same genetic and mechanistic context.
+
+**Patient 16** presents with a different homozygous *MMP15* variant: NM_002428.3:c.691G>A, leading to a p.Gly231arg protein change. This patient's family history also indicates consanguinity. The observed phenotype includes nephrocalcinosis, cholestasis, intrauterine growth retardation, ventricular septal defect, atrial septal defect, hepatomegaly, and elevated hepatic transaminase. Similar to the other patients, the evidence and PMID are consistent with *MMP15*'s role in endothelial to mesenchymal transformation and endocardial cushion development. No additional specific information is provided for this patient in the "Others" column.
+
+**5. Key Findings:**
+*   All three patients exhibit homozygous variants in the *MMP15* gene, strongly suggesting a recessive mode of inheritance for the associated complex phenotypes.
+*   Two distinct homozygous *MMP15* variants are identified: NM_002428.3:c.1058delC (p.Pro353fs) in siblings (Patients 14 and 15), and NM_002428.3:c.691G>A (p.Gly231arg) in Patient 16.
+*   The clinical phenotypes associated with *MMP15* variants are severe and multi-systemic, frequently involving significant cardiac malformations (e.g., septal defects, hypoplastic left heart, hypertrophy), developmental delays (global developmental delay, intrauterine growth retardation), gastrointestinal and hepatic issues (cholestasis, elevated transaminases, intestinal malrotation), and characteristic facial dysmorphisms (e.g., hypertelorism, pointed chin, abnormal facial shape).
+*   The presence of consanguinity in the families of Patients 14 and 16 further supports the recessive nature of the *MMP15*-related disorder.
+*   The cited evidence (PMID 21920357) links *MMP15* to endothelial to mesenchymal transformation and endocardial cushion development, providing a plausible molecular mechanism for the observed cardiac and developmental abnormalities.
+*   The shared phenotype and cosegregation of the variant in affected siblings (Patients 14 and 15) reinforce the causal link between the *MMP15* variant and the clinical presentation.
+
+**6. Context (footnotes/notes):**
+*   This table is explicitly labeled as "Table 1 continued," indicating it is a segment of a larger table.
+*   The entries "As above" in the "Evidence" and "PMID" columns for Patients 15 and 16 refer to the detailed information provided for Patient 14, specifically the mechanistic evidence regarding *MMP15*'s role in endothelial to mesenchymal transformation and endocardial cushion development, and the associated PMID 21920357.
+*   The "As above" in the "Others" column for Patient 15 refers to "Cosegregation in affected sibling" from Patient 14, which is consistent with their sibling relationship.

@@ -1,0 +1,41 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Title:** Table 1 continued
+**Caption:** Patients’ phenotype (Human Phenotype Ontology [HPO]) and related published evidence are summarized.
+
+### 2. Table Purpose
+The purpose of this table is to present a detailed summary of the genetic and clinical findings for individual patients. It links specific genetic variants in particular genes to the patients' observed phenotypes, while also providing information on zygosity, family history, and supporting evidence from published literature.
+
+### 3. Table Structure
+The table is structured with the following columns:
+*   **Patient:** A unique identifier for each patient.
+*   **Gene:** The gene in which a variant was identified.
+*   **cDNA:** The description of the genetic variant at the complementary DNA level, using HGVS nomenclature.
+*   **Protein:** The predicted effect of the variant on the protein sequence.
+*   **Zygosity:** The zygosity state of the variant (e.g., homozygous).
+*   **Consanguinity/family history:** Information on whether there is consanguinity or a relevant family history.
+*   **Phenotype:** A detailed list of the patient's clinical features and symptoms, based on the Human Phenotype Ontology (HPO).
+*   **Evidence:** Supporting information or reference for the data.
+*   **PMID:** PubMed Identifier for the source of published evidence.
+*   **Others:** Any additional relevant information.
+
+### 4. Table Data
+This section of the table details the findings for **Patient 38**. This patient has a homozygous (Hom) variant in the **ZNF699** gene. The specific variant is identified as **NM_198535.2:c.436_439del** at the cDNA level, which results in a frameshift mutation at the protein level, denoted as **p.Asp146Ilefs*10**. The patient has a positive family history of consanguinity.
+
+The patient's phenotype is extensive and multi-systemic. The table first lists phenotypes previously associated with this gene from published evidence, including talipes equinovarus, pancytopenia, fever, pneumonia, asthma, premature graying of hair, immunodeficiency, genu valgum, 2-3 toe syndactyly, feeding difficulties, rhinitis, choking episodes, and hemihypotrophy of the lower limb.
+
+Patient 38 presents with some of these features and many additional ones. The full phenotype for Patient 38 includes: 2-3 toe syndactyly, abnormal facial shape, anemia, breech presentation, delivery by caesarean section, coarse facial features, failure to thrive, feeding difficulties, global developmental delay, jejunal atresia, laryngomalacia, leukopenia, microcephaly, muscular hypotonia, requirement for nasogastric tube feeding, plagiocephaly, poor suck, premature birth, pyloric stenosis, recurrent infections, recurrent urinary tract infections, tracheomalacia, unilateral conductive hearing impairment, atrial septal defect, and patent ductus arteriosus. The "Evidence" and "PMID" for this patient's specific phenotype are listed as "As above," indicating they are linked to a previously cited source in the full table.
+
+### 5. Key Findings
+The key finding for Patient 38 is the identification of a homozygous, likely pathogenic, frameshift deletion (p.Asp146Ilefs*10) in the ZNF699 gene. This variant is associated with a severe and complex clinical presentation that expands the known phenotypic spectrum for ZNF699-related disorders. The phenotype includes features previously reported, such as 2-3 toe syndactyly, as well as numerous other congenital anomalies and health issues, including congenital heart defects (atrial septal defect, patent ductus arteriosus), gastrointestinal anomalies (jejunal atresia, pyloric stenosis), and global developmental delay. The finding is supported by a family history of consanguinity.
+
+### 6. Context (footnotes/notes)
+*   **Nomenclature:** The NC_XXX nomenclature is used for intronic variants according to Human Genome Variation Society (HGVS) guidelines.
+*   **Abbreviations:**
+    *   **cDNA:** complementary DNA
+    *   **CHD:** congenital heart defect
+    *   **CM:** cardiomyopathy
+    *   **Hom:** homozygote
+    *   **mRNA:** messenger RNA
+    *   **HPO:** Human Phenotype Ontology

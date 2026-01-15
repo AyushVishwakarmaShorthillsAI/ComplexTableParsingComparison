@@ -1,0 +1,61 @@
+Here's the extracted and described content from the tables, optimized for semantic search and RAG:
+
+---
+
+### Table 3: ERCC6/CSB mutations identified in three or more patients
+
+1.  **Table Title/Caption:** ERCC6/CSB mutations identified in three or more patients
+2.  **Table Purpose:** This table lists recurrent mutations in the ERCC6/CSB gene that have been identified in at least three patients. For each mutation, it provides the sequence around the mutated base, the cell strain designation, and the country of origin for the affected individuals.
+3.  **Table Structure (columns/rows):**
+    *   The table is structured with the top row indicating specific ERCC6/CSB mutation types (e.g., c.466C>T, c.526C>T, c.1834C>T, etc.).
+    *   Below each mutation type, there are two sub-rows: the first shows the sequence around the mutated base (e.g., "aaCag", "aaCga"), and the second lists the cell strain designations and their corresponding countries of origin.
+    *   Each subsequent row represents an individual patient's cell strain and country of origin associated with the respective mutation.
+4.  **Table Data:**
+    The table details several recurrent ERCC6/CSB mutations and the patients in whom they were found:
+    *   **c.466C>T (aaCag):** This mutation was identified in six patients from the UK, including CS1PR, CS225ST, CS5MA, CS14LO, CS2LE, and CS1SH.
+    *   **c.526C>T (aaCga):** Three patients carried this mutation: CS1GO (UK), CS2PV (Italy), and CS1SO (UK).
+    *   **c.1834C>T (tgCag):** This mutation was found in CCS8 (Sweden), CS18NG (Japan), and CS195ST (France).
+    *   **c.1954C>T (ttCga):** Three patients had this mutation: CS1OX (UK), CS13MA (Japan), and CS1SO (Japan).
+    *   **c.2047C>T (tcCga):** This mutation was present in CS1NE (UK), CS32LO (Pakistan), CS1MA (UK), and CS288ST (Reunion).
+    *   **c.2167C>T (taCag):** A larger group of patients exhibited this mutation, including CS26LO (UK), CS1LI (UK), CS8MA (UK), CS3BI (UK), CS11MA (UK), CS19LO (UK), CS10MA (UK), CS12MA (UK), CS148ST (South Africa), CS19BR (UK), and CS2BL (UK).
+    *   **c.2203C>T (taCga):** This mutation was found in CS2BR (Brazil), CS12RO (Italy), CS2LE (UK-Turkey), CS1GGO (Germany), CS2GR (Austria), CS14PV (Italy), CS22PV (Italy), CS25PV (Italy), CS26PV (Italy), CS17LO (UK-Turkey), CS128ST (France-Bosnia), and CS28PV (Italy).
+    *   **c.2599-26A>G (caAac):** This mutation was identified in CS31PV (Pakistan), CS215ST (UK), CS225ST (UK), and CS286ST (France-Algeria).
+    *   **c.3862C>T (acCga):** Patients with this mutation include CS32LO (UK), CS270ST (Iran), CS278ST (France), and CS225ST (UK).
+    *   **c.4063-1G>C (taGga):** This mutation was found in four patients, all from India: CS071ST, CS204ST, CS221ST, and CS222ST.
+5.  **Key Findings:** The table highlights several recurrent ERCC6/CSB mutations, indicating their prevalence across different patient populations and geographical regions. The United Kingdom is frequently represented as a country of origin for patients with various mutations, suggesting a significant cohort from this region. Some mutations, like c.4063-1G>C, appear to be geographically clustered (e.g., all four identified patients are from India).
+6.  **Context (footnotes/notes):** For each mutation (top row), the sequence around the mutated base (CAPS) is indicated (second row), followed by the cell strain designations and country of origin of the patients. No indication implies origin is unknown.
+
+---
+
+### Table 4: Summary of clinical features
+
+1.  **Table Title/Caption:** Summary of clinical features
+2.  **Table Purpose:** This table provides a comparative summary of the prevalence of various clinical features in patients with Cockayne Syndrome (CS), differentiating between CS-A and CS-B types. It also includes data from two other published studies (Wilson et al. and Kubota et al.) for comparison.
+3.  **Table Structure (columns/rows):**
+    *   **Columns:** "Clinical feature" (listing specific symptoms), "CS-A*" (prevalence in CS-A patients), "CS-B*" (prevalence in CS-B patients), "Wilson et al†" (prevalence from Wilson et al. study), and "Kubota et al‡" (prevalence from Kubota et al. study).
+    *   **Rows:** Each row corresponds to a specific clinical feature, such as Growth failure, Low birth weight, Cachexia, Mental retardation, Microcephaly, Cataracts, Microphthalmia, Retinal degeneration, Deafness, Photosensitivity, Dental anomalies, and CSA/CSB mutations.
+4.  **Table Data:**
+    The table presents the following prevalence rates for clinical features:
+    *   **Growth failure:** Highly prevalent, affecting 28 out of 29 (97%) CS-A patients and 66 out of 67 (99%) CS-B patients. It was 100% in Wilson et al. data and 36 out of 36 (100%) in Kubota et al. data.
+    *   **Low birth weight:** Observed in 7 out of 25 (28%) CS-A patients and 24 out of 48 (50%) CS-B patients. Wilson et al. reported 0% prevalence.
+    *   **Cachexia:** Present in 26 out of 27 (96%) CS-A patients and 55 out of 56 (98%) CS-B patients. Kubota et al. reported 38 out of 39 (97%).
+    *   **Mental retardation:** Universally present in CS-A patients (27 out of 27, 100%) and highly prevalent in CS-B patients (55 out of 57, 96%). Kubota et al. also reported 41 out of 41 (100%).
+    *   **Microcephaly:** Affects 26 out of 27 (96%) CS-A patients and 55 out of 57 (96%) CS-B patients. Wilson et al. reported 100%.
+    *   **Cataracts:** Found in 12 out of 22 (54%) CS-A patients and 34 out of 49 (69%) CS-B patients. Wilson et al. reported 48%, and Kubota et al. reported 20 out of 31 (65%).
+    *   **Microphthalmia:** Less common, seen in 2 out of 16 (12.5%) CS-A patients and 13 out of 33 (39%) CS-B patients.
+    *   **Retinal degeneration:** Occurs in 10 out of 18 (55%) CS-A patients and 16 out of 30 (53%) CS-B patients. Wilson et al. reported 43%, while Kubota et al. reported a higher prevalence of 25 out of 28 (89%).
+    *   **Deafness:** Present in 15 out of 21 (71%) CS-A patients and 26 out of 43 (60%) CS-B patients. Wilson et al. reported 44%, and Kubota et al. reported 28 out of 31 (90%).
+    *   **Photosensitivity:** Affects 17 out of 23 (74%) CS-A patients and 38 out of 50 (76%) CS-B patients. Wilson et al. reported 47%, and Kubota et al. reported 34 out of 37 (92%).
+    *   **Dental anomalies:** Observed in 11 out of 14 (78%) CS-A patients and 17 out of 25 (68%) CS-B patients. Wilson et al. reported 46%, and Kubota et al. reported 18 out of 25 (72%).
+    *   **CSA/CSB mutations:** Identified in all 39 out of 39 (100%) CS-A patients and all 85 out of 85 (100%) CS-B patients. Wilson et al. reported 39 out of 40 (98%).
+5.  **Key Findings:**
+    *   Core features like growth failure, cachexia, mental retardation, and microcephaly are highly prevalent (often exceeding 90%) in both CS-A and CS-B patients, and these findings are largely consistent across different studies.
+    *   Low birth weight is more common in CS-B (50%) than CS-A (28%).
+    *   While cataracts, microphthalmia, retinal degeneration, deafness, photosensitivity, and dental anomalies are significant, their prevalence varies, sometimes showing higher rates in CS-B patients or in specific cohorts like Kubota et al.'s (e.g., retinal degeneration and deafness).
+    *   The presence of CSA/CSB mutations is nearly universal in patients diagnosed with Cockayne Syndrome across all reported cohorts.
+6.  **Context (footnotes/notes):**
+    *   \*Number of cases with indicated feature/total number for whom relevant information is available (% in parentheses).
+    *   †Data, expressed as %, from Wilson et al.⁴
+    *   ‡Data from Kubota et al.³
+    *   §Molecular analysis is only available from 40 families; 39 were mutated in CSA or CSB, and 1 was mutated in XPD.
+    *   The data presented in this table summarize information from tables 1 and 2 of the paper.

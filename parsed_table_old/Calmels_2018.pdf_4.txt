@@ -1,0 +1,65 @@
+Here is a description of the table content, optimized for semantic search and RAG:
+
+---
+
+### 1. Table Title/Caption
+Table 1 Continued: Genotype-phenotype correlations.
+
+### 2. Table Purpose
+This table details the genotype-phenotype correlations for a cohort of patients, providing information on their demographic characteristics, specific genetic mutations (genomic DNA, cDNA, and protein alterations), and a comprehensive list of associated clinical phenotypes. The purpose is to illustrate the diverse clinical manifestations linked to different genetic alterations in these patients.
+
+### 3. Table Structure (columns/rows)
+The table is structured with each row representing an individual patient or patient group, and columns providing specific data points. The columns are organized into several categories:
+*   **Patient Identification & Demographics:** `Code`, `Country (origin)`, `Sex`, `Age at onset, years`, and `Age at biopsy (latest report or death*), years`.
+*   **Mutation Details:** `Clinical classification`, `Mutation genomic DNA`, `Mutation cDNA`, and `Protein alteration`.
+*   **Clinical Phenotypes:** A series of columns indicating the presence (+) or absence (-) of specific symptoms: `Growth failure`, `Low birth weight`, `Cachexia/bird-like faces`, `Mental retardation*`, `Microcephaly†`, `Cataracts†`, `Retinal degeneration‡`, `Hearing loss`, `Clinical photosensitivity`, `Fitzpatrick Skin Type Scale`, `Dental anomalies`, and `Arthrogryposis`.
+*   **Reference:** `Reference*` for the source of the patient data.
+
+### 4. Table Data
+The table presents data for ten patients or patient groups, detailing their genetic mutations and associated clinical features:
+
+**Patients GM02965 (USA, Male) and CCS4 (Japan, Female):**
+Both patients are classified as "Compound heterozygotes" and were 13 years old at onset, with a latest report/death age of 25 years.
+*   **GM02965** has a complex genomic DNA mutation c.[2T>A];[275+703_399+347 del; 399+348_399+2007 inv; 399+2558 delins8] involving a large deletion of exon 4 and inversion in intron 4. The cDNA mutation is r.[?];[276_399 del (exon 4)], leading to a p.Tyr350Cys protein alteration.
+*   **CCS4** has genomic DNA mutations c.[611C>A];[1122+1delG], cDNA mutation r.[611c>a];[?], and protein alterations p.Arg204Lys;[p.Gly375Valfs*26].
+Both patients exhibit growth failure, cachexia/bird-like faces, mental retardation (mild), retinal degeneration, and clinical photosensitivity. They do not show low birth weight, microcephaly, cataracts, hearing loss, dental anomalies, or arthrogryposis. GM02965 has Fitzpatrick Skin Type I, while CCS4 has Type Mild. Both are referenced from sources 53 and 54, respectively.
+
+**Patient CS9LO (UK, Female):**
+This patient, classified as "I/II", was 1 year old at onset and latest report. The genomic DNA mutations are c.[282delT];[c.481G>A], with cDNA mutations r.[282delu];[481g>a;481+4 ins481+1_481+4 (part of intron 5)]. Protein alterations are p.[Leu94Cysfs*30];[Val161Serfs*5]. This patient presents with growth failure, low birth weight, cachexia/bird-like faces, severe (S) mental retardation, microcephaly, cataracts, hearing loss, and clinical photosensitivity. Retinal degeneration, dental anomalies, and arthrogryposis are absent. The Fitzpatrick Skin Type Scale is II. This case is referenced from source 55.
+
+**Patient CS11PV (Italy, Male):**
+Classified as "I", this patient was 2.5 years old at onset and latest report. Genomic DNA mutations are c.[300C>G];[c.399+10_773_550+837] (a deletion spanning from intron 4 to intron 6). cDNA mutations are r.[300c>g];[400_550del (exons 5-6)], leading to protein alterations p.[Tyr100*];[Thr134Valfs*7]. Phenotypes include growth failure, low birth weight, cachexia/bird-like faces, moderate (M) mental retardation, microcephaly, cataracts, optic atrophy (OA) as a form of retinal degeneration, hearing loss, and clinical photosensitivity. Dental anomalies and arthrogryposis are absent. The Fitzpatrick Skin Type Scale is II. This case is referenced from source 52.
+
+**Patient CS040ST (France, Female):**
+This patient, classified as "I", was 2 years old at onset and latest report. Genomic DNA mutations are c.[356C>T];[c.(618-1G>A)], with cDNA mutations r.[356c>u](:);[618_626del]. Protein alterations are p.[Ser119*];[p.(Thr204Ala207del)]. Phenotypes include growth failure, low birth weight, cachexia/bird-like faces, progressive (P) mental retardation, microcephaly, cataracts, retinal degeneration, hearing loss, and clinical photosensitivity. Dental anomalies and arthrogryposis are absent. The Fitzpatrick Skin Type Scale is II. This case is referenced from source 52.
+
+**Patient CS6PV (Italy, Female):**
+Classified as "I", this patient was 0.8 years old at onset and latest report. Genomic DNA mutations are c.[594_595insAT];[c.659C>G], with cDNA mutations r.[594_595insau];[659c>g]. Protein alterations are p.[Asp199Ilefs*19];[?]. Phenotypes include growth failure, low birth weight, cachexia/bird-like faces, moderate (M) mental retardation, microcephaly, cataracts, retinal degeneration, hearing loss, and clinical photosensitivity. Dental anomalies and arthrogryposis are absent. The Fitzpatrick Skin Type Scale is III. This case is referenced from source 52.
+
+**Patient CS16PV (Italy, Female):**
+Classified as "I", this patient was 0.2 years old at onset and latest report. Genomic DNA mutations are c.[611C>A];[c.618-1G>A], with cDNA mutations r.[611c>a];[r.(618_626del (first 9 nt of exon 8))];[0]. Protein alterations are p.[Arg204Lys];[p.(Ala207_209del)]. Phenotypes include growth failure, low birth weight, cachexia/bird-like faces, severe (S) mental retardation, microcephaly, cataracts, retinal degeneration, hearing loss, and clinical photosensitivity. Dental anomalies and arthrogryposis are absent. The Fitzpatrick Skin Type Scale is III. This case is referenced from source 52.
+
+**Patient CS309ST (France, Male):**
+Classified as "I", this patient was 0.25 years old at onset and latest report. Genomic DNA mutations are c.[927delT];[1041+1G>T], with cDNA mutations r.[927delu];[?]. Protein alterations are p.[Phe309Serfs*1];[?]. Phenotypes include growth failure, low birth weight, cachexia/bird-like faces, congenital (C) mental retardation, microcephaly, cataracts, retinal degeneration, hearing loss, and clinical photosensitivity. Dental anomalies and arthrogryposis are absent. The Fitzpatrick Skin Type Scale is III. This case is referenced from source 52.
+
+**Patient CS1JE (Israel (Tunisia/Algeria), Female):**
+Classified as "I", this patient was 0.3 years old at onset and latest report. Genomic DNA mutations are c.[1049a>g];[?], with cDNA mutations r.1049a>g;[?]. Protein alterations are p.Lys350Arg;[?]. Phenotypes include growth failure, low birth weight, cachexia/bird-like faces, congenital (C) mental retardation, microcephaly, cataracts, retinal degeneration, hearing loss, and clinical photosensitivity. Dental anomalies and arthrogryposis are absent. The Fitzpatrick Skin Type Scale is III. This case is referenced from source 52.
+
+**Patient CS291ST (France, Female):**
+Classified as "I", this patient was 0.3 years old at onset and latest report. Genomic DNA mutations are c.[1049a>g];[?], with cDNA mutations r.1049a>g;[?]. Protein alterations are p.Lys350Arg;[?]. Phenotypes include growth failure, low birth weight, cachexia/bird-like faces, congenital (C) mental retardation, microcephaly, cataracts, retinal degeneration, hearing loss, and clinical photosensitivity. Dental anomalies and arthrogryposis are absent. The Fitzpatrick Skin Type Scale is III. This case is referenced from source 52.
+
+### 5. Key Findings
+*   **Universal Phenotypes:** All ten patients consistently exhibit growth failure, low birth weight, cachexia/bird-like faces, clinical photosensitivity, and microcephaly.
+*   **High Prevalence of Ocular and Neurological Issues:** Cataracts and retinal degeneration (including optic atrophy) are present in eight out of ten patients. Mental retardation is also universally present, with varying degrees of severity (mild, moderate, progressive, severe, or congenital).
+*   **Hearing Loss:** Hearing loss is observed in eight patients, being absent only in GM02965 and CCS4.
+*   **Absent Phenotypes:** Dental anomalies and arthrogryposis are consistently absent across all patients listed.
+*   **Genotype-Phenotype Differences:** Patients GM02965 and CCS4, both classified as "Compound heterozygotes," show a distinct phenotype profile compared to the other eight patients (classified as "I" or "I/II"). Specifically, GM02965 and CCS4 lack microcephaly, cataracts, and hearing loss, and present with "mild" mental retardation, whereas these symptoms are generally present and often more severe in the other patients.
+*   **Mutation Diversity:** The table highlights a variety of genetic alterations, including large deletions, inversions, insertions, and point mutations, leading to diverse protein changes.
+
+### 6. Context (footnotes/notes)
+*   **General Mutation Nomenclature:** Nucleotide numbering for mutations starts with the A of the ATG translation initiation site as nucleotide 1. Mutation nomenclature follows the guidelines of varnomen.hgvs.org/. Protein alterations are deduced from the corresponding DNA changes.
+*   **Patient References:** Patients CS291ST, CS040ST, CS309ST, CS276ST, and CS260ST correspond to cases 5, 6, 7, 8, and 9, respectively, in Reference 39 from NC and VL. These are included as new mutations in Figure 1.
+*   **Phenotype Definitions:**
+    *   `Mental retardation*`: `C` denotes congenital, `M` denotes moderate, `P` denotes progressive, and `S` denotes severe.
+    *   `Microcephaly†` and `Cataracts†`: These phenotypes were not evaluated in all patients.
+    *   `Retinal degeneration‡`: This category includes optic atrophy (`OA`).

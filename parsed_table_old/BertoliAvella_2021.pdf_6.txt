@@ -1,0 +1,45 @@
+Here's the extracted and described table content:
+
+---
+
+**1. Table Title/Caption:**
+Table 1 continued
+
+**2. Table Purpose:**
+This table, a continuation of a larger Table 1, details specific genetic variants in the *IPO8* gene for four individual patients (numbered 10 through 13). It outlines their corresponding cDNA and protein changes, zygosity, family history of consanguinity, and a comprehensive list of associated clinical phenotypes. The table aims to link specific genetic alterations in *IPO8* to the observed clinical manifestations in these patients.
+
+**3. Table Structure (columns/rows):**
+The table is structured with ten columns:
+*   **Patient:** A numerical identifier for each patient.
+*   **Gene:** The gene associated with the patient's condition.
+*   **cDNA:** The specific cDNA variant identified.
+*   **Protein:** The predicted protein change resulting from the cDNA variant.
+*   **Zygosity:** The zygosity of the genetic variant (e.g., homozygous).
+*   **Consanguinity (family history):** Information regarding consanguinity in the patient's family history.
+*   **Phenotype:** A detailed list of clinical characteristics and symptoms observed in the patient.
+*   **Evidence:** Reference to supporting evidence for the findings.
+*   **PMID:** PubMed Identifier for relevant publications.
+*   **Others:** An additional column for miscellaneous information.
+
+Each row represents a distinct patient, providing a comprehensive profile of their genetic and phenotypic data.
+
+**4. Table Data:**
+
+All four patients (10-13) presented in this segment of the table share mutations in the *IPO8* gene, and all identified variants are homozygous. The "Evidence" and "PMID" columns consistently state "As above," indicating that the specific references for these entries are provided elsewhere in the document, likely in the preceding parts of Table 1.
+
+**Patient 10** exhibits a cDNA variant identified as NM_006390.3: c.1881 + 1G>A, corresponding to a genomic change of NC_000012.11: g.30814074C>T. The protein change is currently unknown (p.?). This patient's family history indicates consanguinity ("Yes, no"). The observed phenotypes include pneumothorax, sparse scalp hair, tortuous cerebral arteries, right ventricular dilatation, and a depressed nasal bridge.
+
+**Patient 11** carries a cDNA deletion, NM_006390.3: c.2695 + 4_2695 + 8del, which corresponds to a genomic deletion of NC_000012.11: g.30789908_30789912del. The protein change is also unknown (p.?). This patient's family history explicitly states consanguinity ("Yes, yes"). The patient presents with a broad spectrum of phenotypes including hydronephrosis, macroglossia, deeply set eyes, hyperextensible skin, muscular hypotonia, joint hypermobility, failure to thrive, a ventricular septal defect, a high narrow palate, genu valgum, short stature, prominent superficial blood vessels, external ear malformation, and a bifid tongue.
+
+**Patient 12** has a cDNA variant NM_006390.3: c.776G>A, which results in a premature stop codon at protein position 259 (p.Trp259*). Consanguinity is confirmed in this patient's family history ("Yes, yes"). The extensive list of phenotypes for Patient 12 includes micrognathia, posteriorly rotated ears, macrotia, abnormal sclera morphology, muscular hypotonia, global developmental delay, hip dysplasia, joint laxity, polyhydramnios, an atrial septal defect, gastroesophageal reflux, intestinal malrotation, an abnormal branching pattern of the aortic arch, a right aortic arch with retroesophageal left subclavian artery, epidural hemorrhage, and malposition of the stomach.
+
+**Patient 13** shows a cDNA variant NM_006390.3: c.950A>G, leading to a p.Tyr317Cys protein change. The family history indicates consanguinity, though the specific details are unknown ("Yes, unknown"). This patient's phenotypes encompass congenital onset, failure to thrive, global developmental delay, mitral valve prolapse, muscular hypotonia, patent ductus arteriosus, patent foramen ovale, pulmonary arterial hypertension, a ventricular septal defect, joint hypermobility, abnormal facial shape, abnormal inflammatory response, an atrial septal defect, bifid uvula, and cleft.
+
+**5. Key Findings:**
+*   All four patients (10-13) presented in this table segment have homozygous mutations in the *IPO8* gene, highlighting its potential role in severe genetic disorders.
+*   A strong association with consanguinity is observed, with three out of four patients having confirmed consanguineous family histories and one having an unknown but positive indication, supporting the recessive inheritance pattern implied by homozygous mutations.
+*   Mutations in *IPO8* are linked to a wide and complex array of clinical phenotypes affecting multiple organ systems, including cardiovascular (e.g., ventricular septal defect, patent ductus arteriosus, pulmonary arterial hypertension, abnormal aortic arch), musculoskeletal/connective tissue (e.g., joint hypermobility, hip dysplasia, short stature, hyperextensible skin), neurological/developmental (e.g., global developmental delay, muscular hypotonia), and craniofacial abnormalities (e.g., micrognathia, abnormal facial shape, bifid tongue/uvula).
+*   The specific protein changes vary, with two patients having identified changes (p.Trp259*, p.Tyr317Cys) and two having unknown protein consequences (p.?), suggesting different molecular impacts of the *IPO8* variants.
+
+**6. Context (footnotes/notes):**
+The table itself does not contain explicit footnotes or notes. The repeated use of "As above" in the "Evidence" and "PMID" columns implies that the detailed context for these entries, such as specific references or further explanations, is provided in an earlier section of the paper or the preceding parts of Table 1. The "Others" column is largely empty or contains a dash, indicating no additional specific information for these patients in that category.

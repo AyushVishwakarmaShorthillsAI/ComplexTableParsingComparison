@@ -1,0 +1,75 @@
+Here's an extraction and description of the table content, optimized for semantic search and RAG:
+
+---
+
+### 1. Table Title/Caption
+Table 1: Genotype and oro-dental features encountered in our cohort of 17 CS patients (Continued)
+
+### 2. Table Purpose
+This table details the specific genetic mutations and a range of oro-dental characteristics, including dental anomalies, oral hygiene, periodontal health, dental treatments, orthodontic status, and functional defects, for three Cockayne Syndrome (CS) patients (patients 15, 16, and 17) from a larger cohort. It serves to provide a comprehensive clinical and genetic profile for these individuals.
+
+### 3. Table Structure (Columns/Rows)
+The table presents data across 18 distinct categories for three individual patients (rows). The columns are:
+1.  **Patient ID**: A numerical identifier for the patient (e.g., 15, 16, 17).
+2.  **Patient Identifier**: A specific alphanumeric code for the patient (e.g., CS543VI, 08STR2_2, CS823VI).
+3.  **Age (years)**: The patient's age at the time of assessment.
+4.  **Severity (Clinical Grade)**: The clinical severity of Cockayne Syndrome (e.g., Mild (III), Moderate (I)).
+5.  **Genotype**: The genetic classification of the patient (e.g., CSB, CSA).
+6.  **Mutation**: The specific genetic mutation(s) identified.
+7.  **Dental Anomaly 1**: Specific tooth shape anomalies (e.g., screw d., shovel).
+8.  **Dental Anomaly 2**: Root or tooth structure anomalies (e.g., radiculomegaly, taurodontism).
+9.  **Dental Anomaly 3**: Enamel or surface anomalies (e.g., opacities, hypoplasia, pits).
+10. **Pulp Calcification**: Indication of calcification within the tooth pulp.
+11. **DMFT/dmft**: Decayed, Missing, and Filled Teeth index for permanent (DMFT) and primary (dmft) dentition.
+12. **Oral Hygiene Level**: An assessment of oral hygiene based on plaque abundance and brushing habits.
+13. **Periodontium (Perio)**: Status of the supporting structures of the teeth.
+14. **Gingivitis**: Presence or absence of gum inflammation.
+15. **Dental Treatment**: Type of dental intervention received or required.
+16. **Orthodontic Status/Treatment**: History of orthodontic assessment or treatment.
+17. **Functional Defects (FD)**: Presence of oral or related functional impairments.
+18. **Other Features**: Any additional notable features.
+
+### 4. Table Data
+The table provides detailed oro-dental and genetic information for three patients:
+
+**Patient 15 (CS543VI)**, aged 15.10 years, is classified with Mild (III) severity and a CSB genotype, carrying mutations c.1913A>G and c.2247delT. This patient exhibited specific dental anomalies including screw driver incisors (teeth 11 and 21) and opacities, but no radiculomegaly, taurodontism, pits, hypoplasia, or pulp calcification. The DMFT/dmft score was zero, indicating no decayed, missing, or filled teeth. Oral hygiene was rated as good (+++), and there were no periodontal issues (Perio Ø/0). However, gingivitis was present. Dental treatment involved deficient assisted brushing (AB), and the patient had undergone an orthodontic assessment (Ortho ass) during a first visit to the dentist (VI) under local anesthesia (LA). A functional defect of mixed breathing (MB) was noted, with no other features.
+
+**Patient 16 (08STR2_2)**, the brother of patient 08STR2, is 16.5 years old and presents with Moderate (I) severity and a CSA genotype, due to the c.797A>G mutation. This patient displayed radiculomegaly and hypoplasia as dental anomalies, but no screw driver incisors, shovel-shaped incisors, taurodontism, pits, opacities, or pulp calcification. Similar to Patient 15, the DMFT/dmft score was zero. Oral hygiene was rated as poor (+), and some periodontal issues were present (Perio Ø/2). Gingivitis was also noted. Dental treatment involved a first visit to the dentist under general anesthesia (1GA). No specific orthodontic status was recorded. Functional defects included mixed breathing (MB) and a deglutition or swallowing defect (D), with no other features.
+
+**Patient 17 (CS823VI)**, the oldest at 28.5 years, has Mild (III) severity and a CSB genotype, with mutations c.3778+2T>G and c.2203C>T. This patient presented with shovel-shaped incisors (teeth 11 and 21), taurodontism, and pits as dental anomalies, but no radiculomegaly, hypoplasia, opacities, or pulp calcification. The DMFT/dmft score was zero. Oral hygiene was rated as good (+++), but significant periodontal issues were observed (Perio Ø/13). Gingivitis was present. Dental treatment involved a first visit to the dentist under general anesthesia (1GA), and the patient was undergoing orthodontic treatment (Ortho ttt). A functional defect of mixed breathing (MB) was noted, with no other features.
+
+### 5. Key Findings
+*   **Universal Gingivitis:** All three patients (15, 16, 17) exhibited gingivitis, suggesting a common inflammatory response in their oral health.
+*   **Absence of Caries:** None of the patients had any decayed, missing, or filled teeth (DMFT/dmft = Ø), which is notable given their other dental issues.
+*   **Varied Oral Hygiene and Periodontal Health:** While patients 15 and 17 maintained good oral hygiene (+++), patient 16 had poor hygiene (+). Periodontal health ranged from excellent (Patient 15, Ø/0) to moderate (Patient 16, Ø/2) to significantly compromised (Patient 17, Ø/13).
+*   **Diverse Dental Anomalies:** Each patient presented with a unique set of dental anomalies: Patient 15 had screw driver incisors and opacities; Patient 16 had radiculomegaly and hypoplasia; Patient 17 had shovel-shaped incisors, taurodontism, and pits. Pulp calcification was absent in all three.
+*   **Common Functional Defect:** Mixed breathing (MB) was a consistent functional defect across all three patients. Patient 16 additionally suffered from a deglutition or swallowing defect (D).
+*   **Significant Dental Intervention:** Patients 16 and 17 required their first dental visit under general anesthesia (1GA), highlighting the complexity or severity of their dental care needs. Patient 17 was also undergoing active orthodontic treatment.
+
+### 6. Context (Footnotes/Notes)
+The following notes provide crucial context and definitions for the table:
+
+*   Patient identification (e.g., CS3LE) and genotype information were previously described in reference [25].
+*   **Abbreviations and Definitions:**
+    *   **pd**: primary dentition
+    *   **PD**: permanent dentition
+    *   **screw d**: screw driver (referring to incisor shape)
+    *   **dmft/DMFT**: Decayed, Missing, and Filled Teeth index for primary dentition (dmft) and permanent dentition (DMFT) teeth.
+    *   **Perio**: periodontium (the tissues surrounding and supporting the teeth).
+    *   **Oral Hygiene Level**: Correlated to the abundance of dental plaque and the patient's brushing habits, ranging from assisted brushing (AB) to absent brushing (NB).
+    *   **Dental Treatment Types**:
+        *   **First**: The child's first visit to the dentist.
+        *   **regular visit to the dentist**.
+        *   **LA**: Dental treatment performed in a chair under local anesthesia.
+        *   **MEOPA/nitrous oxide sedation (CSE)**: Dental procedures under conscious sedation (inhalation).
+        *   **GA**: Dental treatment performed under general anesthesia.
+    *   **Ortho ass**: Previous orthodontic assessment.
+    *   **Ortho ttt**: Orthodontic treatment.
+    *   **FD**: Functional defects.
+    *   **MB**: Mixed breathing (breathing through both mouth and nose).
+    *   **D**: Deglutition or swallowing defect.
+    *   **R**: Reflux.
+    *   **Para**: Parafunctions (e.g., clenching, grinding).
+    *   **brux**: Bruxism (teeth grinding or clenching).
+    *   **Ø**: Indicates "none" or absence.
+    *   **+**: Indicates "present".

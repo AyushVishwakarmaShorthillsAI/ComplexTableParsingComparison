@@ -1,0 +1,781 @@
+{
+    "model": "gemini-2.5-flash-unique",
+    "total_queries": 25,
+    "queries": [
+        {
+            "query": "What is the most frequent genetic variant listed for the patients in Table 1?",
+            "answer": "The most frequent genetic variant listed for the patients is **c.2203C>T**, which was found in 12 patients (CS2BR, CS12RO, CS2LE, CS1GGO, CS2GR, CS14PV, CS22PV, CS25PV, CS26PV, CS17LO, CS128ST, and CS28PV).",
+            "results": [
+                {
+                    "content": "d as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(1993_2169del (exon 10))], and protein alterations p.[(Phe665_Gln72)].\n*   **CS1WR (UK, Male)**: Classified as II, this patient has genomic DNA mutations c.[1357C>T]; [2286+1_2286+96, 2286+1G>A (partial insertion of intron 11)], cDNA mutations r.[1357c>u]; [2286_2287ins (in intron 5)], and protein alterations p.[Val763Ilefs*7].\n*   **CS233ST (France, Male)**: Classified as II, this patient has a PiggyBac insertion at c.1397+6912 (in intron 5) in genomic DNA, cDNA mutations r.[(1518delG)]; [2923c>u], and protein alterations p.[(Lys506Asnfs)]; [Arg975*].\n*   **CS058ST (CS2LI) (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[1526+1G>T]; [3952_3953delAG], cDNA mutations r.[1398_1684del (exons 6-7)]; [3952_3953delag], and protein alterations p.[(Arg467_Arg5)]; [Arg1318Glyfs*].\n*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[15",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "Here's a description of the table content, optimized for semantic search and RAG:\n\n---\n\n### 1. Table Title/Caption\nTable 1 continued.\n\n### 2. Table Purpose\nThis table details genetic variants, their inheritance patterns, associated clinical phenotypes, and supporting evidence for a series of patients (Patient 22 through 26). It serves to summarize patient-specific genetic and phenotypic data, primarily focusing on variants in the *RAP1GDS1* and *ZNF699* genes.\n\n### 3. Table Structure (columns/rows)\nThe table is structured with 10 columns and 5 rows, each row representing a distinct patient.\n*   **Patient:** Unique identifier for each individual.\n*   **Gene:** The gene in which a variant was identified.\n*   **cDNA:** The specific cDNA variant description.\n*   **Protein:** The predicted protein variant description.\n*   **Zygosity:** The zygosity of the identified variant (e.g., homozygous).\n*   **Consanguinity family history:** Indicates the presence or absence of consanguinity in the fa",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "].\n*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537insTA]; [1834C>T], cDNA mutations r.[(536_537insua)]; [(1834c>u)], and protein alterations p.[(Asn180Ilefs)]; [Arg612*].\n*   **CS289ST (France, Male)**: Classified as I, this patient has genomic DNA mutations c.[543G>T]; [543+4delA], cDNA mutations r.[Ser142Asnfs (exon 3)]; [Ser142Asnfs]; [423_543del (exon 3)], and protein alterations p.[Ser142Asnfs]; [Arg735*].\n*   **CS26PV (Italy, Female)**: Classified as III, this patient has genomic DNA mutations c.[543+4delA]; [2203C>T], cDNA mutations r.[423_543del (exon 3)]; [2203>u], and protein alterations p.[Lys273Serfs].\n*   **CS250ST (France, Female)**: Classified as II, this patient has genomic DNA mutations c.[818del]; [1397+2T>A], cDNA mutations r.[(818del)]; [?], and protein alterations p.[(?)].\n*   **CS148ST (South Africa, Male)**: Classified as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": " (UK), and CS288ST (Reunion).\n    *   **c.2167C>T (taCag):** A larger group of patients exhibited this mutation, including CS26LO (UK), CS1LI (UK), CS8MA (UK), CS3BI (UK), CS11MA (UK), CS19LO (UK), CS10MA (UK), CS12MA (UK), CS148ST (South Africa), CS19BR (UK), and CS2BL (UK).\n    *   **c.2203C>T (taCga):** This mutation was found in CS2BR (Brazil), CS12RO (Italy), CS2LE (UK-Turkey), CS1GGO (Germany), CS2GR (Austria), CS14PV (Italy), CS22PV (Italy), CS25PV (Italy), CS26PV (Italy), CS17LO (UK-Turkey), CS128ST (France-Bosnia), and CS28PV (Italy).\n    *   **c.2599-26A>G (caAac):** This mutation was identified in CS31PV (Pakistan), CS215ST (UK), CS225ST (UK), and CS286ST (France-Algeria).\n    *   **c.3862C>T (acCga):** Patients with this mutation include CS32LO (UK), CS270ST (Iran), CS278ST (France), and CS225ST (UK).\n    *   **c.4063-1G>C (taGga):** This mutation was found in four patients, all from India: CS071ST, CS204ST, CS221ST, and CS222ST.\n5.  **Key Findings:** The table highlights s",
+                    "source": "Calmels_2018.pdf",
+                    "page": 13
+                },
+                {
+                    "content": "nt has genomic DNA mutations c.[466C>T]; [2203C>T], cDNA mutations r.[466c>u, 423_543del (exon 3)]; [2203c>u], and protein alterations p.[Gln156*, Ser142Asnfs*4]; [Arg735*].\n*   **CS1SH (UK, Female)**: Classified as I, this patient exhibits genomic DNA mutations c.[466C>T]; [1412_1413delTG], cDNA mutations r.[466c>u, 423_543del (exon 3)]; [1412_1413], and protein alterations p.[Gln156*, Ser142Asnfs*4]; [Leu471Glnfs*1].\n*   **CS1SO (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[526C>T]; [1954C>T], cDNA mutations r.[526c>u, 423_543del (exon 3)]; [1954c>u], and protein alterations p.[Arg176*, Ser142Asnfs*4]; [Arg652*].\n*   **CS1GO (Sweden, Male)**: Classified as I, this patient shows genomic DNA mutations c.[526C>T]; [1765_1767delTGG], cDNA mutations r.[526c>u, 423_543del (exon 3)]; [1765_1767delugg], and protein alterations p.[Arg176*, Ser142Asnfs*4]; [Trp589del].\n*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537in",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                }
+            ]
+        },
+        {
+            "query": "Which patient in Table 1 carries the p.Glu211Lys variant instead of the more common p.Glu209Lys?",
+            "answer": "Case 28 carries the p.Glu211Lys variant.",
+            "results": [
+                {
+                    "content": "   Age of onset\n    *   Seizure type\n    *   Number of ASMs used (Anti-Seizure Medications)\n    *   Last seizure episode\n    *   Effective ASM\n*   **ID/DD Physical development (Intellectual Disability/Developmental Delay):**\n    *   Microcephaly\n    *   Facial abnormalities\n    *   Distal limb abnormalities\n*   **Brain MRI abnormalities:** Presence or absence of abnormalities on Magnetic Resonance Imaging.\n*   **Malnutrition:** Presence or absence of malnutrition.\n*   **Others:** Additional descriptive notes, such as \"Newly diagnosed.\"\n\n**4. Table Data:**\n\nThe table presents data for six cases (23-28), all of whom are described as \"Newly diagnosed.\"\n\n**Genetic Variants and Demographics:**\nFive of the six cases (23-27) share the p.Glu209Lys genetic variant. Case 28, reported by Wan et al. [2], has the p.Glu211Lys variant. The patient cohort includes four males (Cases 23, 25, 28) and two females (Cases 24, 26, 27).\n\n**Epilepsy Characteristics:**\nAll patients experienced very early-onset ",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indicates the presence (+) or absence (-) of facial abnormalities.\n    *   **Distal limb abnormalities:** Indicates the presence (+) or absence (-) of abnormalities in the distal limbs.\n*   **Brain MRI abnormalities:** Indicates the presence (+) or absence (-) of abnormalities detected via brain MRI.\n*   **Malnutrition:** Indicates the presence (+) or absence (-) of malnutrition.\n*   **Others:** Lists any other significant associated medical conditions or findings.\n\n**4. Table Data:**\n\nThe table presents detailed information for 10 patients, all of whom are identified as being from \"Olson et al. [4]\" and share the p.Glu209Lys genetic variant.\n\n**Patient Demographics and Genetic Variant:**\nAll 10 patients listed in the table carry the p.Glu209Lys genetic variant. There is an even distribution of sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6,",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "nsistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6), while it was absent in the remaining 6 patients (Patients 2, 3, 7, 8, 9, and 10).\nMalnutrition was less common, reported only in Patient 1 and Patient 4, and absent in the other 8 patients.\n\n**Other Associated Conditions:**\nA variety of other conditions were noted:\n*   Myopia was present in Patients 1, 6, and 8.\n*   Strabismus was observed in Patients 4 and 5.\n*   Cryptorchidism was noted in Patients 3 and 6.\n*   Patient 2 had Dextrocardia.\n*   Patient 6 also presented with Ventricular Septal Defect (VSD), frequent infections, and hearing difficulties.\n*   Patient 7 had Astigmatism.\n*   Patient 8 also experienced visual impairment.\n*   Patient 9 had Anisocoria.\n*   No other specific conditions were listed for Patient 10.\n\n**5. Key Findings:**\n*   All 10 patients presented in this table, sourced from Olson et al. [4], share the identical p.Glu209Lys genetic variant, indicating a strong",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "Here's an extraction and description of the table content:\n\n---\n\n### 1. Table Title/Caption\nTable 1 (continued)\n\n### 2. Table Purpose\nThis table presents a continued list of clinical characteristics for individual cases, likely patients, who share a specific genetic variant (p.Glu209Lys). It details their epilepsy profile, intellectual disability/developmental delay (ID/DD) and physical development, brain MRI findings, nutritional status, and other associated features. The table aims to provide a comprehensive overview of the phenotypic spectrum associated with this genetic variant.\n\n### 3. Table Structure (columns/rows)\nThe table is structured with the following main columns and their sub-columns:\n*   **Case**: Identifies the individual case number and the source publication (e.g., Olson et al. [4]).\n*   **Variant**: Specifies the genetic variant observed.\n*   **Sex**: Indicates the sex of the individual (M for Male, F for Female).\n*   **Epilepsy**:\n    *   **Age of onset**: The age a",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "ical diseases presented with very early-onset epilepsy (within days to less than a month of birth) and Intellectual Disability/Developmental Delay.\n*   Focal seizures were the most common type, although one case (Case 28) exhibited Tonic seizures.\n*   Valproate (VPA) was a frequently effective anti-seizure medication, often used in combination with other drugs.\n*   Brain MRI abnormalities were present in half of the cases (24, 26, 28).\n*   Specific physical abnormalities beyond ID/DD were less common but included facial abnormalities (Case 27) and distal limb abnormalities (Case 28).\n*   Case 28, with the p.Glu211Lys variant, showed a distinct profile including Tonic seizures, distal limb abnormalities, and malnutrition, in addition to ID/DD and MRI abnormalities.\n\n**6. Context (footnotes/notes):**\nThe footnote indicates that detailed data for other reported cases were not available from published papers, suggesting this table focuses on a specific set of cases with accessible comprehe",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "Which patient listed in Table 1 had the latest onset of seizures (at 17 years old)?",
+            "answer": "I don't know. The provided context states that epilepsy onset for the patients listed in Zhang.pdf's Table 1 was predominantly within the first week of life, with the latest onset reported at 1 month (Patient 10). There is no mention of a patient with seizure onset at 17 years old.",
+            "results": [
+                {
+                    "content": "f sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).\n\n**Epilepsy Characteristics:**\nEpilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.\nSeizure types are varied:\n*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).\n*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).\n*   Patient 6 experienced Status Epilepticus (SE).\n*   Patient 7 had focal, tonic, clonic seizures.\n*   Seizure type was not available (NA) for Patient 3.\nThe number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " \"Olson et al. [4]\".\n*   **Variant:** Specifies the genetic variant, which is consistently \"p.Glu209Lys\" for all listed patients.\n*   **Sex:** Indicates the patient's biological sex (Male or Female).\n*   **Epilepsy:** This category groups several columns related to seizure characteristics:\n    *   **Age of onset:** The age at which epilepsy symptoms first appeared (e.g., days, weeks, months).\n    *   **Seizure type:** Describes the classification of seizures (e.g., Focal, GTCS, clonic, tonic, myoclonic, SE).\n    *   **Number of ASMs used:** The count of anti-seizure medications administered.\n    *   **Last seizure episode:** The time elapsed since the patient's most recent seizure.\n    *   **Effective ASM:** The specific anti-seizure medication found to be effective.\n*   **ID/DD Physical development:** This category covers physical and developmental abnormalities:\n    *   **Microcephaly:** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indi",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "m 2 months to 4 years. Case 11's last seizure was 2 months prior. Case 12's was 3 months prior. Case 13's was 3 years prior. Case 14's was 4 years prior. Case 15's was 4 months prior. Case 16's was 2 years prior. Case 17's was 9 months prior. Case 18's was 2 years 3 months prior. Case 19's was 1 year prior. Case 20's was 11 months prior. For Cases 21 and 22, this information was not available (NA).\n*   **Effective ASMs** included a range of medications. Case 12 responded to OXC (Oxcarbazepine). Case 14 responded to LEV LCM (Levetiracetam, Lacosamide). Case 15 responded to CBZ CLB (Carbamazepine, Clobazam). Case 16 responded to CBZ (Carbamazepine). Case 17 responded to TPM ZNS CZP LTG VPA (Topiramate, Zonisamide, Clobazam, Lamotrigine, Valproic acid). Cases 18 and 20 responded to VPA (Valproic acid). Case 19 responded to VPA LEV (Valproic acid, Levetiracetam). For Cases 11, 13, 21, and 22, effective ASMs were not available (NA).\n\n**Physical and Developmental Characteristics:**\n*   **Sex",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "re medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8, and 9 used 2 ASMs. Patient 5 used 3 ASMs, and Patient 4 used 4 ASMs.\nInformation on the last seizure episode varied: Patients 1, 3, 7, and 9 had no available data (NA). Patient 2's last seizure was 6 months ago, Patient 4's was 2 years ago, Patient 5's was 10 months ago, Patient 6's was 3.5 years ago, Patient 8's was 2 years ago, and Patient 10's was 5 years ago.\nEffective ASMs were specified for some patients: Valproic Acid (VPA) for Patients 2 and 4, and Carbamazepine (CBZ) for Patient 3. For Patients 1, 5, 6, 7, 8, 9, and 10, the effective ASM was not available (NA).\n\n**Physical Development and Neurological Findings:**\nAll 10 patients exhibited Intellectual Disability/Developmental Delay (ID/DD), facial abnormalities, and distal limb abnormalities. Brain MRI abnormalities were also consistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "al impact.\n*   Epilepsy is present in some patients, with onset occurring in adolescence in the reported cases.\n\n**6. Context (footnotes/notes):**\nNo footnotes or additional notes are provided within the visible table content.\n\n---",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "How many patients in the table are reported to have microcephaly?",
+            "answer": "Based on the provided context, microcephaly was observed in 4 patients (Patients 1, 4, 5, and 6) from the table described in Zhang.pdf, Page 3.",
+            "results": [
+                {
+                    "content": "llowing prevalence rates for clinical features:\n    *   **Growth failure:** Highly prevalent, affecting 28 out of 29 (97%) CS-A patients and 66 out of 67 (99%) CS-B patients. It was 100% in Wilson et al. data and 36 out of 36 (100%) in Kubota et al. data.\n    *   **Low birth weight:** Observed in 7 out of 25 (28%) CS-A patients and 24 out of 48 (50%) CS-B patients. Wilson et al. reported 0% prevalence.\n    *   **Cachexia:** Present in 26 out of 27 (96%) CS-A patients and 55 out of 56 (98%) CS-B patients. Kubota et al. reported 38 out of 39 (97%).\n    *   **Mental retardation:** Universally present in CS-A patients (27 out of 27, 100%) and highly prevalent in CS-B patients (55 out of 57, 96%). Kubota et al. also reported 41 out of 41 (100%).\n    *   **Microcephaly:** Affects 26 out of 27 (96%) CS-A patients and 55 out of 57 (96%) CS-B patients. Wilson et al. reported 100%.\n    *   **Cataracts:** Found in 12 out of 22 (54%) CS-A patients and 34 out of 49 (69%) CS-B patients. Wilson et al",
+                    "source": "Calmels_2018.pdf",
+                    "page": 13
+                },
+                {
+                    "content": "re medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8, and 9 used 2 ASMs. Patient 5 used 3 ASMs, and Patient 4 used 4 ASMs.\nInformation on the last seizure episode varied: Patients 1, 3, 7, and 9 had no available data (NA). Patient 2's last seizure was 6 months ago, Patient 4's was 2 years ago, Patient 5's was 10 months ago, Patient 6's was 3.5 years ago, Patient 8's was 2 years ago, and Patient 10's was 5 years ago.\nEffective ASMs were specified for some patients: Valproic Acid (VPA) for Patients 2 and 4, and Carbamazepine (CBZ) for Patient 3. For Patients 1, 5, 6, 7, 8, 9, and 10, the effective ASM was not available (NA).\n\n**Physical Development and Neurological Findings:**\nAll 10 patients exhibited Intellectual Disability/Developmental Delay (ID/DD), facial abnormalities, and distal limb abnormalities. Brain MRI abnormalities were also consistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "6.9:g.23690664G>A), with the protein change being unknown (p.?). This patient also has a history of consanguinity. The phenotype for Patient 21 is severe and includes abnormal myelination, brain atrophy, epileptic encephalopathy, generalized-onset seizure, hyperreflexia, infantile encephalopathy, intellectual disability, leukodystrophy, and leukoencephalopathy.\n\n    For all five patients, the \"Evidence\" column consistently refers to the *WDR62* gene. It states that *WDR62* encodes a protein that localizes to the centrosome and nucleus depending on the cell cycle and type. *WDR62* is identified as a *PLK1* substrate, phosphorylated at Ser 897, which promotes astral microtubule assembly and spindle orientation. The evidence also notes that Primary Microcephaly Type 2 (MCPH2) is caused by homozygous or compound heterozygous variants in the *WDR62* gene. All evidence points to the same PubMed ID: 28973348. The \"Others\" column is empty for all entries.\n\n5.  **Key Findings**\n    *   All five",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indicates the presence (+) or absence (-) of facial abnormalities.\n    *   **Distal limb abnormalities:** Indicates the presence (+) or absence (-) of abnormalities in the distal limbs.\n*   **Brain MRI abnormalities:** Indicates the presence (+) or absence (-) of abnormalities detected via brain MRI.\n*   **Malnutrition:** Indicates the presence (+) or absence (-) of malnutrition.\n*   **Others:** Lists any other significant associated medical conditions or findings.\n\n**4. Table Data:**\n\nThe table presents detailed information for 10 patients, all of whom are identified as being from \"Olson et al. [4]\" and share the p.Glu209Lys genetic variant.\n\n**Patient Demographics and Genetic Variant:**\nAll 10 patients listed in the table carry the p.Glu209Lys genetic variant. There is an even distribution of sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6,",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "7) to 17 years (Case 25). Other last seizure episodes were at 1 year 4 months (Case 23), 1 year 1 month (Case 24), 1 year 9 months (Case 26), and 13 months (Case 28).\n\n**Intellectual Disability/Developmental Delay (ID/DD) and Physical Development:**\nAll six cases exhibited Intellectual Disability/Developmental Delay (ID/DD), indicated by a \"+\" symbol. In Case 25, the ID/DD was specifically noted as \"Mild.\" Regarding other physical abnormalities, Case 27 presented with facial abnormalities, and Case 28 showed distal limb abnormalities. No microcephaly was reported for any of these cases.\n\n**Brain MRI and Malnutrition:**\nBrain MRI abnormalities were observed in three cases: Case 24, Case 26, and Case 28. Cases 23, 25, and 27 did not have specified MRI abnormalities. Malnutrition was reported only in Case 28.\n\n**5. Key Findings:**\n\n*   All six patients with PACS family gene-related neurological diseases presented with very early-onset epilepsy (within days to less than a month of birth) a",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "What specific structural abnormality is listed in the 'Others' column for Case 2?",
+            "answer": "I don't know. The provided context states that for Patient 2 (Case 2), the \"Others\" column notes \"Consanguinity family history,\" which is not a specific structural abnormality. While other patients have structural abnormalities listed, none are for Case 2 in the 'Others' column.",
+            "results": [
+                {
+                    "content": "Here's an extraction and description of the table content:\n\n---\n\n**1. Table Title/Caption:**\nTABLE 1 (Continued)\n\n**2. Table Purpose:**\nThis table, a continuation of a larger Table 1, presents a comparative overview of \"Other\" clinical manifestations and \"MRI, brain\" findings across several individual patients (Patient 6, Patient 7, Patient 8, Patient 9) and previously reported cases (Bupp et al. (2018) and four cases from Rodan et al. (2018)). The purpose is to detail the phenotypic spectrum, including neurological and systemic features, observed in these individuals, likely in the context of a specific genetic disorder or condition.\n\n**3. Table Structure (columns/rows):**\nThe table is structured with two primary row categories: \"Other\" (for general clinical features) and \"MRI, brain\" (for neuroimaging findings). These categories are populated across multiple columns, each representing a distinct patient or case study. The columns are:\n*   Patient 6\n*   Patient 7\n*   Patient 8\n*   Pat",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 7
+                },
+                {
+                    "content": " detailed information provided for Patient 1 applies to Patients 2, 3, and 4.\n*   For Patient 1, the \"Others\" column specifies that an \"Unaffected sister is heterozygous,\" which is crucial for understanding the carrier status within the family.\n*   For Patient 2, the \"Consanguinity family history\" notes \"sibling above,\" implying a familial relationship with Patient 1.\n*   For Patient 4, the protein change is listed as \"p.?\", indicating that the exact protein consequence of the c.218+3A>G variant is not yet determined or specified in the table.",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "-3. Myringotomy was performed in multiple Rodan et al. cases.\n*   **Common MRI Findings:** Dilated perivascular spaces are a frequent MRI finding, particularly across the Rodan et al. (2018) cases. White matter abnormalities, including volume loss or diffuse abnormality, are also common (Patient 8, Bupp et al. (2018), Rodan et al. (2018)-2, -3, -4). Enlarged or prominent ventricles are seen in Patient 8, Bupp et al. (2018), Rodan et al. (2018)-1, -3, and -4.\n*   **Cystic Brain Changes:** Various forms of brain cysts (germinal, porencephalic, periventricular) are reported in Patient 9, Bupp et al. (2018), Rodan et al. (2018)-3, and -4.\n*   **Specific Structural Anomalies:** Hypoplastic chiasma/pituitary (Patient 6), megalencephaly (Patient 8), and corpus callosum abnormalities (Bupp et al. (2018), Rodan et al. (2018)-1) highlight specific structural brain differences.\n*   **Phenotypic Overlap:** Rodan et al. (2018)-3 and -4 share identical MRI brain findings, suggesting a similar neuroi",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "ient (e.g., Sri Lanka, India, UK).\n    *   **Sex:** Gender of the patient (M for Male, F for Female).\n    *   **Age at onset, years:** Age at which the first symptoms were observed.\n    *   **Age at biopsy (latest report or death*), years:** Age at the time of biopsy, latest clinical report, or death.\n*   **Genetic Information:**\n    *   **Clinical classification:** Categorization of the clinical presentation (e.g., I, II, III, I/III).\n    *   **Mutation genomic DNA:** Description of the genetic mutation at the genomic DNA level.\n    *   **Mutation cDNA:** Description of the genetic mutation at the complementary DNA (cDNA) level.\n    *   **Protein alteration:** Description of the resulting change in the protein sequence.\n*   **Phenotypic Features (Clinical Symptoms):**\n    *   **Growth failure:** Presence (+) or absence (-) of growth failure.\n    *   **Low birth weight:** Presence (+) or absence (-) of low birth weight.\n    *   **Cachexia/bird-like faces:** Presence (+) or absence (-) ",
+                    "source": "Calmels_2018.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "d as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(1993_2169del (exon 10))], and protein alterations p.[(Phe665_Gln72)].\n*   **CS1WR (UK, Male)**: Classified as II, this patient has genomic DNA mutations c.[1357C>T]; [2286+1_2286+96, 2286+1G>A (partial insertion of intron 11)], cDNA mutations r.[1357c>u]; [2286_2287ins (in intron 5)], and protein alterations p.[Val763Ilefs*7].\n*   **CS233ST (France, Male)**: Classified as II, this patient has a PiggyBac insertion at c.1397+6912 (in intron 5) in genomic DNA, cDNA mutations r.[(1518delG)]; [2923c>u], and protein alterations p.[(Lys506Asnfs)]; [Arg975*].\n*   **CS058ST (CS2LI) (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[1526+1G>T]; [3952_3953delAG], cDNA mutations r.[1398_1684del (exons 6-7)]; [3952_3953delag], and protein alterations p.[(Arg467_Arg5)]; [Arg1318Glyfs*].\n*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[15",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                }
+            ]
+        },
+        {
+            "query": "Which patient from Morocco described in Table 1 carries the p.(Glu13*) protein alteration?",
+            "answer": "I don't know. The provided context does not contain information about a patient from Morocco carrying the p.(Glu13*) protein alteration.",
+            "results": [
+                {
+                    "content": "   Age of onset\n    *   Seizure type\n    *   Number of ASMs used (Anti-Seizure Medications)\n    *   Last seizure episode\n    *   Effective ASM\n*   **ID/DD Physical development (Intellectual Disability/Developmental Delay):**\n    *   Microcephaly\n    *   Facial abnormalities\n    *   Distal limb abnormalities\n*   **Brain MRI abnormalities:** Presence or absence of abnormalities on Magnetic Resonance Imaging.\n*   **Malnutrition:** Presence or absence of malnutrition.\n*   **Others:** Additional descriptive notes, such as \"Newly diagnosed.\"\n\n**4. Table Data:**\n\nThe table presents data for six cases (23-28), all of whom are described as \"Newly diagnosed.\"\n\n**Genetic Variants and Demographics:**\nFive of the six cases (23-27) share the p.Glu209Lys genetic variant. Case 28, reported by Wan et al. [2], has the p.Glu211Lys variant. The patient cohort includes four males (Cases 23, 25, 28) and two females (Cases 24, 26, 27).\n\n**Epilepsy Characteristics:**\nAll patients experienced very early-onset ",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "ical diseases presented with very early-onset epilepsy (within days to less than a month of birth) and Intellectual Disability/Developmental Delay.\n*   Focal seizures were the most common type, although one case (Case 28) exhibited Tonic seizures.\n*   Valproate (VPA) was a frequently effective anti-seizure medication, often used in combination with other drugs.\n*   Brain MRI abnormalities were present in half of the cases (24, 26, 28).\n*   Specific physical abnormalities beyond ID/DD were less common but included facial abnormalities (Case 27) and distal limb abnormalities (Case 28).\n*   Case 28, with the p.Glu211Lys variant, showed a distinct profile including Tonic seizures, distal limb abnormalities, and malnutrition, in addition to ID/DD and MRI abnormalities.\n\n**6. Context (footnotes/notes):**\nThe footnote indicates that detailed data for other reported cases were not available from published papers, suggesting this table focuses on a specific set of cases with accessible comprehe",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indicates the presence (+) or absence (-) of facial abnormalities.\n    *   **Distal limb abnormalities:** Indicates the presence (+) or absence (-) of abnormalities in the distal limbs.\n*   **Brain MRI abnormalities:** Indicates the presence (+) or absence (-) of abnormalities detected via brain MRI.\n*   **Malnutrition:** Indicates the presence (+) or absence (-) of malnutrition.\n*   **Others:** Lists any other significant associated medical conditions or findings.\n\n**4. Table Data:**\n\nThe table presents detailed information for 10 patients, all of whom are identified as being from \"Olson et al. [4]\" and share the p.Glu209Lys genetic variant.\n\n**Patient Demographics and Genetic Variant:**\nAll 10 patients listed in the table carry the p.Glu209Lys genetic variant. There is an even distribution of sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6,",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "d as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(1993_2169del (exon 10))], and protein alterations p.[(Phe665_Gln72)].\n*   **CS1WR (UK, Male)**: Classified as II, this patient has genomic DNA mutations c.[1357C>T]; [2286+1_2286+96, 2286+1G>A (partial insertion of intron 11)], cDNA mutations r.[1357c>u]; [2286_2287ins (in intron 5)], and protein alterations p.[Val763Ilefs*7].\n*   **CS233ST (France, Male)**: Classified as II, this patient has a PiggyBac insertion at c.1397+6912 (in intron 5) in genomic DNA, cDNA mutations r.[(1518delG)]; [2923c>u], and protein alterations p.[(Lys506Asnfs)]; [Arg975*].\n*   **CS058ST (CS2LI) (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[1526+1G>T]; [3952_3953delAG], cDNA mutations r.[1398_1684del (exons 6-7)]; [3952_3953delag], and protein alterations p.[(Arg467_Arg5)]; [Arg1318Glyfs*].\n*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[15",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "nsistently present in all patients.\nMicrocephaly was observed in 4 patients (Patients 1, 4, 5, and 6), while it was absent in the remaining 6 patients (Patients 2, 3, 7, 8, 9, and 10).\nMalnutrition was less common, reported only in Patient 1 and Patient 4, and absent in the other 8 patients.\n\n**Other Associated Conditions:**\nA variety of other conditions were noted:\n*   Myopia was present in Patients 1, 6, and 8.\n*   Strabismus was observed in Patients 4 and 5.\n*   Cryptorchidism was noted in Patients 3 and 6.\n*   Patient 2 had Dextrocardia.\n*   Patient 6 also presented with Ventricular Septal Defect (VSD), frequent infections, and hearing difficulties.\n*   Patient 7 had Astigmatism.\n*   Patient 8 also experienced visual impairment.\n*   Patient 9 had Anisocoria.\n*   No other specific conditions were listed for Patient 10.\n\n**5. Key Findings:**\n*   All 10 patients presented in this table, sourced from Olson et al. [4], share the identical p.Glu209Lys genetic variant, indicating a strong",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                }
+            ]
+        },
+        {
+            "query": "According to Table 2, which protein alteration is associated with the mutation c.2008C>T in patient CS18LO?",
+            "answer": "I don't know. The provided context does not contain information about patient CS18LO or the mutation c.2008C>T.",
+            "results": [
+                {
+                    "content": "lyfs*].\n*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[1583G>A]; [1834C>T], cDNA mutations r.[(1583g>a)]; [(1834c>u)], and protein alterations p.[(Gly528Glu)]; [Arg612*].\n*   **CS18PV (Italy, Male)**: Classified as II, this patient has genomic DNA mutations c.[1685+6T>G]; deletion including exons 9 and 10, cDNA mutations r.[1527_1685del (exon 7)]; [1822_2169del (exons 9-10)], and protein alterations p.[(Tyr510_Arg5)]; [Glu608_Gln72].\n\n**Phenotypic Manifestations:**\nA consistent pattern of severe clinical phenotypes is observed across most patients. All 14 patients exhibit growth failure, cachexia/bird-like faces, mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, clinical photosensitivity, dental anomalies, and arthrogryposis. Low birth weight is present in all patients except CS2LE. Fitzpatrick Skin Type Scale varies among patients, including types I, II, III, P, S, C, and M.\n\n### 5. Key Findings\n*   ",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "d as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(1993_2169del (exon 10))], and protein alterations p.[(Phe665_Gln72)].\n*   **CS1WR (UK, Male)**: Classified as II, this patient has genomic DNA mutations c.[1357C>T]; [2286+1_2286+96, 2286+1G>A (partial insertion of intron 11)], cDNA mutations r.[1357c>u]; [2286_2287ins (in intron 5)], and protein alterations p.[Val763Ilefs*7].\n*   **CS233ST (France, Male)**: Classified as II, this patient has a PiggyBac insertion at c.1397+6912 (in intron 5) in genomic DNA, cDNA mutations r.[(1518delG)]; [2923c>u], and protein alterations p.[(Lys506Asnfs)]; [Arg975*].\n*   **CS058ST (CS2LI) (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[1526+1G>T]; [3952_3953delAG], cDNA mutations r.[1398_1684del (exons 6-7)]; [3952_3953delag], and protein alterations p.[(Arg467_Arg5)]; [Arg1318Glyfs*].\n*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[15",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "nt has genomic DNA mutations c.[466C>T]; [2203C>T], cDNA mutations r.[466c>u, 423_543del (exon 3)]; [2203c>u], and protein alterations p.[Gln156*, Ser142Asnfs*4]; [Arg735*].\n*   **CS1SH (UK, Female)**: Classified as I, this patient exhibits genomic DNA mutations c.[466C>T]; [1412_1413delTG], cDNA mutations r.[466c>u, 423_543del (exon 3)]; [1412_1413], and protein alterations p.[Gln156*, Ser142Asnfs*4]; [Leu471Glnfs*1].\n*   **CS1SO (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[526C>T]; [1954C>T], cDNA mutations r.[526c>u, 423_543del (exon 3)]; [1954c>u], and protein alterations p.[Arg176*, Ser142Asnfs*4]; [Arg652*].\n*   **CS1GO (Sweden, Male)**: Classified as I, this patient shows genomic DNA mutations c.[526C>T]; [1765_1767delTGG], cDNA mutations r.[526c>u, 423_543del (exon 3)]; [1765_1767delugg], and protein alterations p.[Arg176*, Ser142Asnfs*4]; [Trp589del].\n*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537in",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "n).\n    *   **CS13PV** (Italy, Female): Onset at 0 years, 3 years at report/death. Mutation: c.1070C>G (genomic), r.1070c>g (cDNA), p.Ser357* (protein).\n    *   **CS10LO** (UK (Africa), Female): Onset at 0 years, 1.5 (2.4*) years at report/death. Mutation: c.1280dupT (genomic), r.(1280dupu) (cDNA), p.(Ser429Lysfs*) (protein).\n    *   **CS9TAN** (Turkey, Male): Onset at 0.3 years, 4 (6) years at report/death. Mutation: c.2038A>G (genomic), r.(2038a>g) (cDNA), p.(Asn680Asp) (protein).\n    *   **CS1NE** (UK, Male): Onset at 0 years, 1 year at report/death. Mutation: c.2047C>T (genomic), r.2047c>u (cDNA), p.Arg683* (protein).\n\n*   **Clinical Classification II Patients:**\n    *   **CS201ST** (Iran, Male): Onset at 0.5 years, 4 years at report/death. Mutation: c.1128del (genomic), r.(1128del) (cDNA), p.(Thr377Glnfs*) (protein).\n    *   **CS19PV** (Italy, Female): Onset at 0 years, 2.5 years at report/death. Mutation: c.1431_1432delGA (genomic), r.1431_1432delga (cDNA), p.Lys478Thrfs* (protei",
+                    "source": "Calmels_2018.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "].\n*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537insTA]; [1834C>T], cDNA mutations r.[(536_537insua)]; [(1834c>u)], and protein alterations p.[(Asn180Ilefs)]; [Arg612*].\n*   **CS289ST (France, Male)**: Classified as I, this patient has genomic DNA mutations c.[543G>T]; [543+4delA], cDNA mutations r.[Ser142Asnfs (exon 3)]; [Ser142Asnfs]; [423_543del (exon 3)], and protein alterations p.[Ser142Asnfs]; [Arg735*].\n*   **CS26PV (Italy, Female)**: Classified as III, this patient has genomic DNA mutations c.[543+4delA]; [2203C>T], cDNA mutations r.[423_543del (exon 3)]; [2203>u], and protein alterations p.[Lys273Serfs].\n*   **CS250ST (France, Female)**: Classified as II, this patient has genomic DNA mutations c.[818del]; [1397+2T>A], cDNA mutations r.[(818del)]; [?], and protein alterations p.[(?)].\n*   **CS148ST (South Africa, Male)**: Classified as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                }
+            ]
+        },
+        {
+            "query": "Based on Table 4, what is the percentage of dental anomalies found specifically in CS-B patients?",
+            "answer": "Based on the provided Table 4 data, all 6 patients identified with CSB gene mutations (Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and Patient 6) exhibited oro-dental anomalies.\n\nTherefore, the percentage of dental anomalies found specifically in CS-B patients is 100%.",
+            "results": [
+                {
+                    "content": "1 year 9 months, had Very severe COFS with c.2612T>C and c.3513dupT CSB mutations. This patient exhibited microdontia and enamel opacities. Eruption was normal, no crowding or caries (0/\u00d8) were present, and periodontium was normal. Oral hygiene was absent, dental treatment involved VI, facial dysmorphology was MB, and bruxism was noted.\n*   **Patient 3 (08STR4),** aged 2 years 3 months, had Severe (Type II) CS with a c.1954C>T CSB mutation. Features included microdontia, enamel hypoplasia, normal eruption, no crowding or caries (0/\u00d8), and normal periodontium. Oral hygiene was good with MB, dental treatment involved VI, facial dysmorphology was MB, and bruxism was present.\n*   **Patient 4 (CS797VI),** aged 2 years 5 months, presented with Very severe COFS due to c.2960T>C and c.2254A>G CSB mutations. Enamel hypoplasia was observed, with normal eruption, no crowding or caries (0/\u00d8), and normal periodontium. Oral hygiene was deficient with MB R, and the patient had a first dental visit.\n*",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " along with enamel opacities. Severe crowding (+++) was present, caries score was 16/4, gingivitis was present, oral hygiene was deficient with MB, and dental treatment involved 2GA (general anesthesia).\n*   **Patient 12 (08STR2),** aged 14 years 4 months, had Moderate (Type I) CS with a c.797A>G CSA mutation. Enamel hypoplasia was observed, with normal eruption and no crowding. No caries (0/0) were present, but gingivitis was noted. Oral hygiene was deficient with MB D, and dental treatment involved 1GA for primary dentition.\n*   **Patient 13 (CS466VI_2),** the brother of Patient 11, aged 14 years 6 months, also had Moderate (Type I) CS with an r.0 (no mRNA full length) CSA mutation. Enamel hypoplasia was present, with unknown crowding (?). Caries score was 0/28, gingivitis was present, oral hygiene was deficient with MB R, and dental treatment involved 4GA.\n\n**5. Key Findings:**\n*   **High Prevalence of Oro-dental Anomalies:** All 14 patients in the cohort exhibited a range of oro-de",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "* Caries experience for primary (dmft) and permanent (DMFT) dentition.\n    *   **Perio:** Periodontal status.\n    *   **Oral Hygiene:** Assessment of oral hygiene.\n    *   **Dental treatment:** Recorded dental interventions.\n    *   **FD:** Facial Dysmorphology.\n    *   **Para:** Parafunctional habits.\n\n**4. Table Data:**\n\nThe cohort includes 14 distinct patient entries, with one patient having a brother also included.\n\n**Patients with CSB Gene Mutations (Severe/Very Severe CS):**\n*   **Patient 1 (CS3LE),** aged 1 year 8 months, presented with Severe (Type II) CS due to c.2167C>T and c.578_80delCTG mutations in the CSB gene. Oro-dental features included microdontia, enamel opacities, late primary dentition eruption, and crowding. No caries were noted (0/\u00d8), periodontium was normal, oral hygiene was good with MB, and the patient had a first dental visit.\n*   **Patient 2 (CS881VI),** aged 1 year 9 months, had Very severe COFS with c.2612T>C and c.3513dupT CSB mutations. This patient exhi",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "rmal periodontium. Oral hygiene was deficient with MB R, and the patient had a first dental visit.\n*   **Patient 5 (CS97VI),** aged 2 years 9 months, had Severe (Type II) CS with a c.3862C>T CSB mutation. Enamel hypoplasia was noted, with normal eruption and no crowding. Caries score was 20/\u00d8, gingivitis was present, oral hygiene was deficient with MB R, and dental treatment involved VI with no specific treatment.\n*   **Patient 6 (CS817VI),** aged 3 years 7 months, had Severe (Type II) CS with c.2830-2A>G and c.3983dupA CSB mutations. This patient showed microdontia and enamel hypoplasia. Eruption was normal, no crowding or caries (0/\u00d8) were present, and periodontium was normal. Oral hygiene was good with MB, and dental treatment involved VI.\n*   **Patient 7 (AEN74),** aged 4 years 11 months, had Moderate (Type I) CS with a c.653-2A>G CSB mutation. This patient exhibited agenesis of teeth 12, 15, 25, 35, 45, and microdontia of tooth 22. Enamel and dentin structure were normal, eruption",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " teeth 11, 21, 37, 47, shovel-shaped teeth 12, 22, taurodontism, and enamel opacities. Eruption was normal, no crowding was present, caries score was 2/0, gingivitis was present, oral hygiene was deficient with MB D, and dental treatment involved VI.\n*   **Patient 10 (CS861VI),** aged 9 years 1 month, had Moderate (Type I) CS with c.797A>G and c.843+5G>C CSA mutations. Shovel-shaped teeth 11, 21, and enamel opacities were noted. Eruption of both primary and permanent dentition was early, with no crowding. No caries (0/0) were present, but gingivitis was observed. Oral hygiene was deficient with MB D, and dental treatment involved VI with fissure sealants under conscious sedation (CSE).\n*   **Patient 11 (CS466VI),** aged 9 years 5 months, had Moderate (Type I) CS with an r.0 (no mRNA full length) CSA mutation. This patient exhibited globular cingulum on teeth 12, 22, and the 2nd premolar, along with enamel opacities. Severe crowding (+++) was present, caries score was 16/4, gingivitis w",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                }
+            ]
+        },
+        {
+            "query": "Which homozygous patient in Table 1 has a clinical classification of 'I' and is originally from India?",
+            "answer": "I don't know. The provided context lists patients from India and patients with a clinical classification of 'I', but it does not specify which of the Indian patients have a clinical classification of 'I'.",
+            "results": [
+                {
+                    "content": " (UK), and CS288ST (Reunion).\n    *   **c.2167C>T (taCag):** A larger group of patients exhibited this mutation, including CS26LO (UK), CS1LI (UK), CS8MA (UK), CS3BI (UK), CS11MA (UK), CS19LO (UK), CS10MA (UK), CS12MA (UK), CS148ST (South Africa), CS19BR (UK), and CS2BL (UK).\n    *   **c.2203C>T (taCga):** This mutation was found in CS2BR (Brazil), CS12RO (Italy), CS2LE (UK-Turkey), CS1GGO (Germany), CS2GR (Austria), CS14PV (Italy), CS22PV (Italy), CS25PV (Italy), CS26PV (Italy), CS17LO (UK-Turkey), CS128ST (France-Bosnia), and CS28PV (Italy).\n    *   **c.2599-26A>G (caAac):** This mutation was identified in CS31PV (Pakistan), CS215ST (UK), CS225ST (UK), and CS286ST (France-Algeria).\n    *   **c.3862C>T (acCga):** Patients with this mutation include CS32LO (UK), CS270ST (Iran), CS278ST (France), and CS225ST (UK).\n    *   **c.4063-1G>C (taGga):** This mutation was found in four patients, all from India: CS071ST, CS204ST, CS221ST, and CS222ST.\n5.  **Key Findings:** The table highlights s",
+                    "source": "Calmels_2018.pdf",
+                    "page": 13
+                },
+                {
+                    "content": "ient (e.g., Sri Lanka, India, UK).\n    *   **Sex:** Gender of the patient (M for Male, F for Female).\n    *   **Age at onset, years:** Age at which the first symptoms were observed.\n    *   **Age at biopsy (latest report or death*), years:** Age at the time of biopsy, latest clinical report, or death.\n*   **Genetic Information:**\n    *   **Clinical classification:** Categorization of the clinical presentation (e.g., I, II, III, I/III).\n    *   **Mutation genomic DNA:** Description of the genetic mutation at the genomic DNA level.\n    *   **Mutation cDNA:** Description of the genetic mutation at the complementary DNA (cDNA) level.\n    *   **Protein alteration:** Description of the resulting change in the protein sequence.\n*   **Phenotypic Features (Clinical Symptoms):**\n    *   **Growth failure:** Presence (+) or absence (-) of growth failure.\n    *   **Low birth weight:** Presence (+) or absence (-) of low birth weight.\n    *   **Cachexia/bird-like faces:** Presence (+) or absence (-) ",
+                    "source": "Calmels_2018.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "d as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(1993_2169del (exon 10))], and protein alterations p.[(Phe665_Gln72)].\n*   **CS1WR (UK, Male)**: Classified as II, this patient has genomic DNA mutations c.[1357C>T]; [2286+1_2286+96, 2286+1G>A (partial insertion of intron 11)], cDNA mutations r.[1357c>u]; [2286_2287ins (in intron 5)], and protein alterations p.[Val763Ilefs*7].\n*   **CS233ST (France, Male)**: Classified as II, this patient has a PiggyBac insertion at c.1397+6912 (in intron 5) in genomic DNA, cDNA mutations r.[(1518delG)]; [2923c>u], and protein alterations p.[(Lys506Asnfs)]; [Arg975*].\n*   **CS058ST (CS2LI) (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[1526+1G>T]; [3952_3953delAG], cDNA mutations r.[1398_1684del (exons 6-7)]; [3952_3953delag], and protein alterations p.[(Arg467_Arg5)]; [Arg1318Glyfs*].\n*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[15",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "].\n*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537insTA]; [1834C>T], cDNA mutations r.[(536_537insua)]; [(1834c>u)], and protein alterations p.[(Asn180Ilefs)]; [Arg612*].\n*   **CS289ST (France, Male)**: Classified as I, this patient has genomic DNA mutations c.[543G>T]; [543+4delA], cDNA mutations r.[Ser142Asnfs (exon 3)]; [Ser142Asnfs]; [423_543del (exon 3)], and protein alterations p.[Ser142Asnfs]; [Arg735*].\n*   **CS26PV (Italy, Female)**: Classified as III, this patient has genomic DNA mutations c.[543+4delA]; [2203C>T], cDNA mutations r.[423_543del (exon 3)]; [2203>u], and protein alterations p.[Lys273Serfs].\n*   **CS250ST (France, Female)**: Classified as II, this patient has genomic DNA mutations c.[818del]; [1397+2T>A], cDNA mutations r.[(818del)]; [?], and protein alterations p.[(?)].\n*   **CS148ST (South Africa, Male)**: Classified as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "`Sex` (Male/Female), `Age at onset (years)`, and `Age at biopsy (latest report or death*) (years)`.\n*   **Genetic Information:** Details the `Clinical classification` (I, II, or III), `Mutation genomic DNA`, `Mutation cDNA`, and `Protein alteration`.\n*   **Clinical Phenotypes:** Lists various symptoms and characteristics, including `Growth failure`, `Low birth weight`, `Cachexia/bird-like faces`, `Mental retardation*`, `Microcephaly\u2020`, `Cataracts\u2020`, `Microphthalmia`, `Retinal degeneration*`, `Deafness`, `Clinical photosensitivity`, `Fitzpatrick Skin Type Scale`, `Dental anomalies`, and `Arthrogryposis`. The presence or absence of a phenotype is indicated by a '+' or '-' symbol, respectively, or left blank if not specified.\n*   **References:** Provides the `References\u00a7` for the data.\n\n**Row Groupings:**\nAll patients listed in this segment of the table are identified as \"Homozygotes.\" The table is marked as \"Continued,\" indicating it is part of a larger dataset.\n\n### 4. Table Data\nThe ta",
+                    "source": "Calmels_2018.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "In Table 2, which patient from Lebanon is listed with the mutation c.640G>T?",
+            "answer": "I don't know. The provided context does not list any patient from Lebanon with the mutation c.640G>T.",
+            "results": [
+                {
+                    "content": "d as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(1993_2169del (exon 10))], and protein alterations p.[(Phe665_Gln72)].\n*   **CS1WR (UK, Male)**: Classified as II, this patient has genomic DNA mutations c.[1357C>T]; [2286+1_2286+96, 2286+1G>A (partial insertion of intron 11)], cDNA mutations r.[1357c>u]; [2286_2287ins (in intron 5)], and protein alterations p.[Val763Ilefs*7].\n*   **CS233ST (France, Male)**: Classified as II, this patient has a PiggyBac insertion at c.1397+6912 (in intron 5) in genomic DNA, cDNA mutations r.[(1518delG)]; [2923c>u], and protein alterations p.[(Lys506Asnfs)]; [Arg975*].\n*   **CS058ST (CS2LI) (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[1526+1G>T]; [3952_3953delAG], cDNA mutations r.[1398_1684del (exons 6-7)]; [3952_3953delag], and protein alterations p.[(Arg467_Arg5)]; [Arg1318Glyfs*].\n*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[15",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "].\n*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537insTA]; [1834C>T], cDNA mutations r.[(536_537insua)]; [(1834c>u)], and protein alterations p.[(Asn180Ilefs)]; [Arg612*].\n*   **CS289ST (France, Male)**: Classified as I, this patient has genomic DNA mutations c.[543G>T]; [543+4delA], cDNA mutations r.[Ser142Asnfs (exon 3)]; [Ser142Asnfs]; [423_543del (exon 3)], and protein alterations p.[Ser142Asnfs]; [Arg735*].\n*   **CS26PV (Italy, Female)**: Classified as III, this patient has genomic DNA mutations c.[543+4delA]; [2203C>T], cDNA mutations r.[423_543del (exon 3)]; [2203>u], and protein alterations p.[Lys273Serfs].\n*   **CS250ST (France, Female)**: Classified as II, this patient has genomic DNA mutations c.[818del]; [1397+2T>A], cDNA mutations r.[(818del)]; [?], and protein alterations p.[(?)].\n*   **CS148ST (South Africa, Male)**: Classified as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": " (UK), and CS288ST (Reunion).\n    *   **c.2167C>T (taCag):** A larger group of patients exhibited this mutation, including CS26LO (UK), CS1LI (UK), CS8MA (UK), CS3BI (UK), CS11MA (UK), CS19LO (UK), CS10MA (UK), CS12MA (UK), CS148ST (South Africa), CS19BR (UK), and CS2BL (UK).\n    *   **c.2203C>T (taCga):** This mutation was found in CS2BR (Brazil), CS12RO (Italy), CS2LE (UK-Turkey), CS1GGO (Germany), CS2GR (Austria), CS14PV (Italy), CS22PV (Italy), CS25PV (Italy), CS26PV (Italy), CS17LO (UK-Turkey), CS128ST (France-Bosnia), and CS28PV (Italy).\n    *   **c.2599-26A>G (caAac):** This mutation was identified in CS31PV (Pakistan), CS215ST (UK), CS225ST (UK), and CS286ST (France-Algeria).\n    *   **c.3862C>T (acCga):** Patients with this mutation include CS32LO (UK), CS270ST (Iran), CS278ST (France), and CS225ST (UK).\n    *   **c.4063-1G>C (taGga):** This mutation was found in four patients, all from India: CS071ST, CS204ST, CS221ST, and CS222ST.\n5.  **Key Findings:** The table highlights s",
+                    "source": "Calmels_2018.pdf",
+                    "page": 13
+                },
+                {
+                    "content": "n).\n    *   **CS13PV** (Italy, Female): Onset at 0 years, 3 years at report/death. Mutation: c.1070C>G (genomic), r.1070c>g (cDNA), p.Ser357* (protein).\n    *   **CS10LO** (UK (Africa), Female): Onset at 0 years, 1.5 (2.4*) years at report/death. Mutation: c.1280dupT (genomic), r.(1280dupu) (cDNA), p.(Ser429Lysfs*) (protein).\n    *   **CS9TAN** (Turkey, Male): Onset at 0.3 years, 4 (6) years at report/death. Mutation: c.2038A>G (genomic), r.(2038a>g) (cDNA), p.(Asn680Asp) (protein).\n    *   **CS1NE** (UK, Male): Onset at 0 years, 1 year at report/death. Mutation: c.2047C>T (genomic), r.2047c>u (cDNA), p.Arg683* (protein).\n\n*   **Clinical Classification II Patients:**\n    *   **CS201ST** (Iran, Male): Onset at 0.5 years, 4 years at report/death. Mutation: c.1128del (genomic), r.(1128del) (cDNA), p.(Thr377Glnfs*) (protein).\n    *   **CS19PV** (Italy, Female): Onset at 0 years, 2.5 years at report/death. Mutation: c.1431_1432delGA (genomic), r.1431_1432delga (cDNA), p.Lys478Thrfs* (protei",
+                    "source": "Calmels_2018.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "nt has genomic DNA mutations c.[466C>T]; [2203C>T], cDNA mutations r.[466c>u, 423_543del (exon 3)]; [2203c>u], and protein alterations p.[Gln156*, Ser142Asnfs*4]; [Arg735*].\n*   **CS1SH (UK, Female)**: Classified as I, this patient exhibits genomic DNA mutations c.[466C>T]; [1412_1413delTG], cDNA mutations r.[466c>u, 423_543del (exon 3)]; [1412_1413], and protein alterations p.[Gln156*, Ser142Asnfs*4]; [Leu471Glnfs*1].\n*   **CS1SO (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[526C>T]; [1954C>T], cDNA mutations r.[526c>u, 423_543del (exon 3)]; [1954c>u], and protein alterations p.[Arg176*, Ser142Asnfs*4]; [Arg652*].\n*   **CS1GO (Sweden, Male)**: Classified as I, this patient shows genomic DNA mutations c.[526C>T]; [1765_1767delTGG], cDNA mutations r.[526c>u, 423_543del (exon 3)]; [1765_1767delugg], and protein alterations p.[Arg176*, Ser142Asnfs*4]; [Trp589del].\n*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537in",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                }
+            ]
+        },
+        {
+            "query": "What is the specific ODC1 gene variant listed for Patient 8 in Table 1?",
+            "answer": "I don't know. The provided context states that Patient 8 carries a variant in the *IPO8* gene, not the *ODC1* gene. The gene identified with a variation is consistently *IPO8* in this segment of the table.",
+            "results": [
+                {
+                    "content": "high palate, cupped ear, prominent nasal bridge, long palpebral fissure, ectropion, pectus carinatum, atopic dermatitis, muscular hypotonia, global developmental delay, joint hypermobility, failure to thrive, umbilical hernia, alopecia, ventricular septal defect, patent ductus arteriosus, double outlet right ventricle, talipes equinovarus, abnormal facial shape, chronic diarrhea, abdominal distention, exostosis of the external auditory canal, and feeding difficulties. The evidence cited for *IPO8*'s role includes findings from mouse studies where acute knockdown of *Ipo8* led to altered neuronal migration. Additionally, *IPO8* is noted as a housekeeping gene with stable expression across various tissues such as heart, lung, adipose tissue, retina, and cancer cells. Relevant PubMed IDs are 30042658, 29036603, 27339468, and 29881787.\n\n*   **Patient 6** has the *IPO8* cDNA variant NM_006390.3:c.1933C>T, leading to the protein variant p.Gln645*. This variant is also homozygous, and the fam",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "ues like endocrine dysfunction (hypothyroidism) and feeding difficulties.\n*   The evidence supporting *IPO8*'s pathogenicity includes its role in neuronal migration (from mouse models) and its widespread expression as a housekeeping gene, consistent with the diverse phenotypes observed.\n*   Patients with identical *IPO8* variants (e.g., Patients 8 and 9 with c.776G>A and p.Trp259*) can exhibit both overlapping and distinct phenotypic features, highlighting the complexity of genotype-phenotype correlation.\n\n**6. Context (footnotes/notes):**\n*   This table is a continuation of a larger \"Table 1\".\n*   The asterisk (*) following protein variants (e.g., p.Arg234*) typically denotes a premature stop codon.\n*   \"Hom\" in the Zygosity column stands for homozygous.\n*   \"As above\" in the Evidence column indicates that the detailed evidence provided for Patient 5 applies to the subsequent patients in this segment.\n*   The source of this table is a publication by A.M. Bertoli-Avella et al. in \"Gene",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "  **Zygosity:** The zygosity of the genetic variant (e.g., homozygous).\n*   **Consanguinity (family history):** Information regarding consanguinity in the patient's family history.\n*   **Phenotype:** A detailed list of clinical characteristics and symptoms observed in the patient.\n*   **Evidence:** Reference to supporting evidence for the findings.\n*   **PMID:** PubMed Identifier for relevant publications.\n*   **Others:** An additional column for miscellaneous information.\n\nEach row represents a distinct patient, providing a comprehensive profile of their genetic and phenotypic data.\n\n**4. Table Data:**\n\nAll four patients (10-13) presented in this segment of the table share mutations in the *IPO8* gene, and all identified variants are homozygous. The \"Evidence\" and \"PMID\" columns consistently state \"As above,\" indicating that the specific references for these entries are provided elsewhere in the document, likely in the preceding parts of Table 1.\n\n**Patient 10** exhibits a cDNA varian",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 6
+                },
+                {
+                    "content": ".3:c.1933C>T, leading to the protein variant p.Gln645*. This variant is also homozygous, and the family history indicates consanguinity (\"Yes, yes\"). The patient's phenotypes include Cutis laxa, generalized joint hypermobility, short joint laxity, short stature, and abnormal facial shape. The evidence for this case is stated as \"As above,\" referring to the evidence provided for Patient 5. No specific PubMed IDs are listed for this patient in this segment.\n\n*   **Patient 7** exhibits an *IPO8* cDNA variant NM_006390.3:c.4_2695+8del (NC_000012.11:g.30789908_302), with the protein variant indicated as \"p.?\". This variant is homozygous, and there is a \"Yes, no\" indication for consanguinity in the family history. The patient's phenotypes include Cutis laxa, joint hypermobility, umbilical hernia, high narrow palate, abnormal facial shape, and mitral valve abnormality. The evidence is also \"As above.\" No specific PubMed IDs are listed.\n\n*   **Patient 8** carries the *IPO8* cDNA variant NM_006",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "Here's the extracted and described table content:\n\n---\n\n**1. Table Title/Caption:**\nTable 1 continued\n\n**2. Table Purpose:**\nThis table details genetic and phenotypic information for five patients (Patient 5 through Patient 9) with variations in the *IPO8* gene. It aims to correlate specific *IPO8* cDNA and protein variants with observed clinical phenotypes, zygosity, family history of consanguinity, and supporting evidence from research, including relevant PubMed IDs.\n\n**3. Table Structure (columns/rows):**\nThe table is structured with nine columns and five rows, each representing a distinct patient.\n*   **Patient:** A numerical identifier for each individual.\n*   **Gene:** The gene identified with a variation (consistently *IPO8* in this segment).\n*   **cDNA:** The specific cDNA variant observed.\n*   **Protein:** The corresponding protein variant.\n*   **Zygosity:** The zygosity of the variant (homozygous or heterozygous).\n*   **Consanguinity family history:** Indicates the presence o",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "According to Table 1, at what age did Patient 6 start walking?",
+            "answer": "I don't know. The provided context states that \"Age at walking\" was a column in the table and discusses the range for other patients, but it does not specify the age at which Patient 6 started walking.",
+            "results": [
+                {
+                    "content": "018 Case 4), with others around 90% (Patient 6, Bupp et al. 2018) or >97% (Rodan et al. 2018 Case 2). Height percentiles varied from 29% (Patient 7) to 98% (Patient 9), with Patient 6 at 42% and Patient 8 at 77%. Weight percentiles ranged from 11% (Patient 7) to 97% (Rodan et al. 2018 Case 4), with Patient 6 at 23%, Patient 8 at 88%, and Patient 9 at 73%.\n\nGlobal developmental delay was present in all patients except Rodan et al. (2018) Case 4, which was a stillborn fetus. Age at walking was delayed, ranging from 17 months (Patient 9) to 6 years (Patient 8), with some patients (Bupp et al. 2018, Rodan et al. 2018 Case 2) not yet walking. Similarly, age at first words was delayed, from 29 months (Rodan et al. 2018 Case 1) to 6 years (Patient 8), and Patient 9 and Bupp et al. (2018) had not yet spoken. Behavioral issues were noted in some patients: Patient 6 was stubborn, Patient 8 exhibited anxiety, disruptive behavior, mild aggression, poor social and coping skills, poor academic perfo",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": " considerably, from very early death to survival into the third decade of life.\n\n**6. Context (footnotes/notes):**\n*   The table is sourced from Calmel, N., et al. J Med Genet. 2018, 55:329-333.\n*   In the \"Age at biopsy (latest report or death*)\" column, an asterisk (`*`) next to a numerical value indicates that the patient had died at that age.\n*   The symbols `\u2020` (Microcephaly, Cataracts) and `\u2021` (Retinal degeneration) are part of the column headers and do not refer to specific footnotes within the table body.\n*   The document containing this table was first published as 10.1136/jmedgenet-2017-104877 on 23 March 2018 and downloaded from http://jmg.bmj.com/ on July 13, 2025. It is protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.",
+                    "source": "Calmels_2018.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " new cases (Patient 6, 7, 8, 9) and the five previously reported cases (Bupp et al. 2018, Rodan et al. 2018 cases 1-4), share *de novo* genetic variants. The specific variants are NM_001287190.1 for Patient 6, c.1313_1316delCTGT (p.Pro438Argfs*9) for Patient 7, c.1242-2A>G (IVS11-2A>G) for Patient 8, and c.1252C>T (p.Gln418*) for Patient 9. The variant for Bupp et al. (2018) is c.1342A>G (p.Lys448*). Rodan et al. (2018) cases include c.1241+1G>T (IVS11+1G>T) for Case 1, c.1240_1241dupTG (p.Trp414Cysfs*17) for Case 2, c.1255C>T (p.Gln419*) for Case 3, and c.1242_1263del22 (p.Trp414*) for Case 4.\n\nThe ages at most recent evaluation varied widely, from 10 months for Patient 9 to 20 years for Patient 8. Patient 6 was 9 years 5 months, Patient 7 was 5 years 9 months, and the Bupp et al. (2018) patient was 32 months. Rodan et al. (2018) cases were evaluated at 6 years (Case 1), 16 years (Case 2), 8 years (Case 3), and 34 weeks gestational age (Case 4, a stillborn fetus). Most patients are ma",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": " Variant, Inheritance, Age at most recent evaluation, Sex, Prenatal findings, Head circumference, Height, Weight, Global developmental delay, Age at walking, Age at first words, Behavior, Epilepsy, Hypotonia, and Dysmorphic features.\n*   **Columns (Patients/Cases):**\n    *   Patient 6 (Variant: NM_001287190.1)\n    *   Patient 7 (Variant: c.1313_1316delCTGT (p.Pro438Argfs*9))\n    *   Patient 8 (Variant: c.1242-2A>G (IVS11-2A>G))\n    *   Patient 9 (Variant: c.1252C>T (p.Gln418*))\n    *   Bupp et al. (2018) (Variant: c.1342A>G (p.Lys448*))\n    *   Rodan et al. (2018)-1 (Variant: c.1241+1G>T (IVS11+1G>T))\n    *   Rodan et al. (2018)-2 (Variant: c.1240_1241dupTG (p.Trp414Cysfs*17))\n    *   Rodan et al. (2018)-3 (Variant: c.1255C>T (p.Gln419*))\n    *   Rodan et al. (2018)-4 (Variant: c.1242_1263del22 (p.Trp414*))\n\n**4. Table Data:**\n\nAll nine patients presented in the table, including the four new cases (Patient 6, 7, 8, 9) and the five previously reported cases (Bupp et al. 2018, Rodan et a",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "f sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).\n\n**Epilepsy Characteristics:**\nEpilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.\nSeizure types are varied:\n*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).\n*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).\n*   Patient 6 experienced Status Epilepticus (SE).\n*   Patient 7 had focal, tonic, clonic seizures.\n*   Seizure type was not available (NA) for Patient 3.\nThe number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                }
+            ]
+        },
+        {
+            "query": "Which patient in Table 1 is reported to have epilepsy with an onset at 14 years?",
+            "answer": "I don't know. The provided context mentions that epilepsy onset can occur in adolescence in some reported cases (VanSickle_2021.pdf, Page: 5), but it does not specify a patient with an onset at exactly 14 years. The other retrieved chunks detail very early-onset epilepsy, predominantly within the first week or month of life, for the patients listed (Zhang.pdf, Page: 3, 5).",
+            "results": [
+                {
+                    "content": "al impact.\n*   Epilepsy is present in some patients, with onset occurring in adolescence in the reported cases.\n\n**6. Context (footnotes/notes):**\nNo footnotes or additional notes are provided within the visible table content.\n\n---",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "f sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).\n\n**Epilepsy Characteristics:**\nEpilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.\nSeizure types are varied:\n*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).\n*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).\n*   Patient 6 experienced Status Epilepticus (SE).\n*   Patient 7 had focal, tonic, clonic seizures.\n*   Seizure type was not available (NA) for Patient 3.\nThe number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " \"Olson et al. [4]\".\n*   **Variant:** Specifies the genetic variant, which is consistently \"p.Glu209Lys\" for all listed patients.\n*   **Sex:** Indicates the patient's biological sex (Male or Female).\n*   **Epilepsy:** This category groups several columns related to seizure characteristics:\n    *   **Age of onset:** The age at which epilepsy symptoms first appeared (e.g., days, weeks, months).\n    *   **Seizure type:** Describes the classification of seizures (e.g., Focal, GTCS, clonic, tonic, myoclonic, SE).\n    *   **Number of ASMs used:** The count of anti-seizure medications administered.\n    *   **Last seizure episode:** The time elapsed since the patient's most recent seizure.\n    *   **Effective ASM:** The specific anti-seizure medication found to be effective.\n*   **ID/DD Physical development:** This category covers physical and developmental abnormalities:\n    *   **Microcephaly:** Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities:** Indi",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " of the individual (M for Male, F for Female).\n*   **Epilepsy**:\n    *   **Age of onset**: The age at which epilepsy symptoms first appeared.\n    *   **Seizure type**: Describes the type of seizures experienced.\n    *   **Number of ASMs used**: The total number of anti-seizure medications used.\n    *   **Last seizure episode**: The time elapsed since the last seizure.\n    *   **Effective ASM**: The anti-seizure medication(s) found to be effective.\n*   **ID/DD Physical development**:\n    *   **Microcephaly**: Indicates the presence (+) or absence (-) of microcephaly.\n    *   **Facial abnormalities**: Indicates the presence (+) or absence (-) of facial abnormalities.\n    *   **Distal limb abnormalities**: Indicates the presence (+) or absence (-) of distal limb abnormalities.\n*   **Brain MRI abnormalities**: Indicates the presence (+) or absence (-) of abnormalities on brain MRI.\n*   **Malnutrition**: Indicates the presence (+) or absence (-) of malnutrition.\n*   **Others**: This column ",
+                    "source": "Zhang.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "emales (Cases 24, 26, 27).\n\n**Epilepsy Characteristics:**\nAll patients experienced very early-onset epilepsy. Cases 23, 24, 26, and 28 had seizure onset at 3 days of age. Case 27's seizures began at 7 days, and Case 25's onset was before 1 month of age. The predominant seizure type was Focal, observed in Cases 24, 25, 26, and 27. Case 23 specifically had Focal Generalized Tonic-Clonic Seizures (GTCS), while Case 28 presented with Tonic seizures. The number of anti-seizure medications (ASMs) used ranged from 1 (Case 23) to 3 (Case 28), with most cases (24-27) using 2 ASMs. The effective ASMs varied: Valproate (VPA) was effective for Cases 23 and 26; a combination of VPA and Oxcarbazepine (OXC) for Case 24; VPA and Levetiracetam (LEV) for Case 25; Vigabatrin (VGB) and VPA for Case 27; and Phenobarbital (PB) for Case 28. The last recorded seizure episode varied widely, from 4 months (Case 27) to 17 years (Case 25). Other last seizure episodes were at 1 year 4 months (Case 23), 1 year 1 mo",
+                    "source": "Zhang.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "What specific hair phenotype description is listed for Patient 7 in Table 1?",
+            "answer": "For Patient 7, the hair phenotype description is: born with dark hair on the calvaria and lower neck, featuring a band of alopecia that fell out during the first month of life. The scalp hair has since regrown, but the patient has sparse eyebrows and eyelashes.",
+            "results": [
+                {
+                    "content": "an erythematous follicular pattern on the face. In terms of hair, Patient 7 was born with dark hair on the calvaria and lower neck, featuring a band of alopecia that fell out during the first month of life. The scalp hair has since regrown, but the patient has sparse eyebrows and eyelashes.\n\n    *   **Patient 8:**\n        Skin features for Patient 8 include an irregular border in the interscapular region, a 2 mm pigmented nevus on the right occiput, and 1-8 mm hyperpigmented macules over the abdomen, back, and inner left thigh. Hair manifestations involve alopecia affecting the scalp, eyelashes, eyebrows, axillary, and pubic hair, which is sparse, as well as sparse arm and leg hair.\n\n    *   **Patient 9:**\n        Patient 9 presents with recurrent follicular cysts on the neck and back, an erythematous vascular marking on the posterior head and neck, and subcutaneous vasculature on the scalp that became more prominent over time. Regarding hair, this patient was born with copious silver/",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "ing mechanism affecting hair follicle development in these areas.\n    *   **Varied Scalp Hair Patterns:** While facial hair abnormalities are common, scalp hair presentation varies, ranging from sparse and dry (Patient 6), to early childhood alopecia with subsequent regrowth (Patient 7), generalized alopecia (Patient 8), or early loss of copious silver/blonde hair (Patient 9).\n    *   **Overlap with Previously Reported Cases:** The current patients share several features, particularly hair abnormalities, with cases previously described by Bupp et al. (2018) and Rodan et al. (2018), reinforcing a recognizable clinical spectrum.\n\n6.  **Context (footnotes/notes):**\n    No footnotes or additional notes are provided in the image.\n\n---",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "Not Applicable or Not Available), while hair characteristics include absent eyebrows and sparse eyelashes.\n        *   **Rodan et al. (2018)-4:** Similarly, skin features are \"N/A,\" and hair is described as sparse/absent eyebrows and eyelashes.\n\n5.  **Key Findings:**\n    *   **Diverse Skin Manifestations:** The table highlights a wide range of skin abnormalities among the patients, including structural malformations (Patient 6), follicular issues (Patient 7, 9, Bupp et al.), pigmentary changes (Patient 8), and vascular markings (Patient 9). Notably, some reported cases (Rodan et al. 2018-1, -2) present with normal skin, indicating variability in presentation.\n    *   **Consistent Hair Abnormalities, Especially Facial Hair:** A prominent and consistent finding across most patients and reported cases is the presence of sparse or absent eyebrows and eyelashes. This suggests a common underlying mechanism affecting hair follicle development in these areas.\n    *   **Varied Scalp Hair Patter",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "8),\" \"Rodan et al. (2018)-1,\" \"Rodan et al. (2018)-2,\" \"Rodan et al. (2018)-3,\" and \"Rodan et al. (2018)-4.\"\n\n4.  **Table Data:**\n\n    *   **Patient 6:**\n        Regarding skin features, Patient 6 exhibits a short philtrum, everted lower and tented upper lip, vermillion, a prominent and pointed chin, a large earlobe, pectus carinatum superior and excavatum inferior, winged scapulae, bilateral cubitus valgus, long fingers and broad terminal phalanges, and bilateral genu vara. For hair, this patient had sparse scalp hair in early childhood (at 15 months), which is currently described as shaggy and dry. Additionally, Patient 6 shows hypertrichosis on the back, along with sparse eyebrows and eyelashes.\n\n    *   **Patient 7:**\n        Patient 7's skin characteristics include keratosis pilaris on the upper and lower limbs and face, recurrent follicular cysts on the head, ears, and axilla, and an erythematous follicular pattern on the face. In terms of hair, Patient 7 was born with dark hair ",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "Here's the extracted and described content of the table:\n\n---\n\n1.  **Table Title/Caption:**\n    TABLE 1 (Continued)\n\n2.  **Table Purpose:**\n    This table continues to present and compare specific clinical features, namely \"Skin\" and \"Hair\" characteristics, across several individual patients (Patient 6, Patient 7, Patient 8, Patient 9) and previously reported cases from different studies (Bupp et al., 2018; Rodan et al., 2018). It aims to highlight similarities and differences in these dermatological and hair-related manifestations to aid in understanding the spectrum of the condition.\n\n3.  **Table Structure (columns/rows):**\n    The table is structured with two primary row categories: \"Skin\" and \"Hair,\" which detail specific clinical manifestations. The columns represent different individuals or groups being compared: \"Patient 6,\" \"Patient 7,\" \"Patient 8,\" \"Patient 9,\" \"Bupp et al. (2018),\" \"Rodan et al. (2018)-1,\" \"Rodan et al. (2018)-2,\" \"Rodan et al. (2018)-3,\" and \"Rodan et al. (2",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 6
+                }
+            ]
+        },
+        {
+            "query": "Does Patient 9 in Table 1 exhibit hypotonia according to the clinical data?",
+            "answer": "I don't know. The provided context mentions Patient 9 in relation to sex, prenatal findings, head circumference, epilepsy characteristics, and various cranial/facial measurements, but it does not state whether Patient 9 exhibits hypotonia. The detailed clinical descriptions in the \"Table Data\" section only cover Patients 6, 7, and 8.",
+            "results": [
+                {
+                    "content": "2), 8 years (Case 3), and 34 weeks gestational age (Case 4, a stillborn fetus). Most patients are male (Patient 6, 7, 8, Bupp et al. 2018, Rodan et al. 2018 Cases 1, 3, 4), with Patient 9 and Rodan et al. (2018) Case 2 being female.\n\nPrenatal findings were diverse: Patient 6 and Patient 9 had no reported findings or were normal, respectively. Patient 7, Bupp et al. (2018), and Rodan et al. (2018) Cases 1, 2, and 4 all presented with polyhydramnios, with some also noting decreased fetal movement (Bupp et al. 2018, Rodan et al. 2018 Case 1) or severe abnormalities like large for gestational age, macrocephaly, and neuroimaging abnormalities (Rodan et al. 2018 Case 4). Patient 8 had cephalopelvic disproportion, and Rodan et al. (2018) Case 3 was normal.\n\nAnthropometric measurements showed variability. Head circumference ranged from 42% (Patient 7) to 99% (Patient 8, Patient 9, Rodan et al. 2018 Case 4), with others around 90% (Patient 6, Bupp et al. 2018) or >97% (Rodan et al. 2018 Case 2)",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "f sexes among these patients, with 5 females (Patients 1, 2, 4, 8, 9) and 5 males (Patients 3, 5, 6, 7, 10).\n\n**Epilepsy Characteristics:**\nEpilepsy onset is notably early across all patients, predominantly occurring within the first week of life. Patient 6 experienced onset at 1 day, Patients 3, 5, 7, and 9 at 2 days, Patient 2 at 4 days, Patient 1 at 6 days, and Patient 4 at 7 days. Patient 8 had onset at 2 weeks, and Patient 10 at 1 month.\nSeizure types are varied:\n*   Focal seizures were observed in Patient 1 and Patient 8 (focal, tonic).\n*   Generalized Tonic-Clonic Seizures (GTCS) were reported in Patients 2, 4, 5 (GTCS, clonic), 9 (focal, tonic, myoclonic, GTCS, generalized tonic), and 10 (clonic, GTCS).\n*   Patient 6 experienced Status Epilepticus (SE).\n*   Patient 7 had focal, tonic, clonic seizures.\n*   Seizure type was not available (NA) for Patient 3.\nThe number of anti-seizure medications (ASMs) used ranged from 1 to 4. Patients 1, 3, 6, 7, and 10 used 1 ASM. Patients 2, 8",
+                    "source": "Zhang.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "t 9), compared to standards between 55.6\u00b0 and 64.8\u00b0 (SDs 7.5-10.7). Patients 11 and 12 had no data. All other patients (8, 9, 10, 14, 15, 16, 17) showed \"Reduced\" (\u2193) FMIA values.\n*   **IMPA (\u00b0):** Patient values ranged from 81.0\u00b0 (Patient 12) to 105.0\u00b0 (Patient 11), against standards between 87.9\u00b0 and 95.3\u00b0 (SDs 5.7-9.0). Patients 8 (87.0\u00b0) and 16 (96.0\u00b0) were \"Normal\" (N), while all other patients were \"Reduced\" (\u2193).\n*   **i/I (\u00b0):** Measurements ranged from 103.0\u00b0 (Patient 15) to 128.0\u00b0 (Patient 8), compared to standards between 125.5\u00b0 and 142.2\u00b0 (SDs 9.2-14.2). All patients showed \"Reduced\" (\u2193) i/I values.\n\n**Norma Frontalis Measurements:**\n*   **Cranial width (mm):** Patient values ranged from 103.0 mm (Patient 8, Patient 12) to 180.9 mm (Patient 9), against standards between 135.7 mm and 143.2 mm (SDs 4.3-5.6). All patients exhibited \"Reduced\" (\u2193) cranial width.\n*   **Bifrontotemporale width (mm):** Measurements ranged from 69.0 mm (Patient 8) to 129.3 mm (Patient 9), compared to",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "a distinct patient or case study. The columns are:\n*   Patient 6\n*   Patient 7\n*   Patient 8\n*   Patient 9\n*   Bupp et al. (2018)\n*   Rodan et al. (2018)-1\n*   Rodan et al. (2018)-2\n*   Rodan et al. (2018)-3\n*   Rodan et al. (2018)-4\n\n**4. Table Data:**\n\n**Patient 6** exhibited intellectual disability, severe constipation, significantly reduced sweating, and reduced sensitivity to pain. MRI of the brain revealed hypoplastic chiasma and tractus opticus, along with a small pituitary.\n\n**Patient 7** presented with intellectual disability, a small atrial communication, a spontaneously resolved ventricular septal defect (VSD), resolved syringohydromyelia, poor left gaze prominence, poor feeding, constipation, gastroesophageal reflux disease (GERD), failure to thrive, and brittle fingernails. Brain MRI showed non-specific T2 hyperintensities.\n\n**Patient 8** had moderate intellectual disability, megalencephaly, and prominent ventricles (right greater than left). Brain MRI indicated overall br",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "olumn for \"Facial axis.\" While all patients are marked as \"Increased\" (\u2191), many of their actual measurements (e.g., Patient 8: 81.0 vs. standard 89.5) are numerically lower than the standard mean, contradicting the \"Increased\" label. This suggests a potential error in the labeling or interpretation of this specific parameter's clinical significance.\n*   **Individual Normal Variations:** Despite the overarching trends, some patients exhibit normal values for specific parameters, such as Patient 16 for Lower facial height and IMPA, and Patient 8 for IMPA.\n*   **Missing Data:** Data for FMIA is missing for Patients 11 and 12.\n\n**6. Context (Footnotes/Notes)**\n*   For each measurement, the age-corresponding cephalometric standards are provided as a Mean value followed by the Standard Deviation (S.D.) in parentheses.\n*   The \"CS\" column uses \"N\" for Normal values, \"\u2191\" for Increased values, and \"\u2193\" for Reduced values, indicating the patient's measurement relative to the standard mean.\n*   Sp",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                }
+            ]
+        },
+        {
+            "query": "In Table 1, which gene is associated with the phenotype including 'Alagille-like syndrome' for Patient 14?",
+            "answer": "I don't know. The provided context does not contain information about the gene associated with the phenotype 'Alagille-like syndrome' for Patient 14.",
+            "results": [
+                {
+                    "content": ". Clinical features included growth failure, cachexia/bird-like faces, mental retardation, microcephaly, retinal degeneration, and clinical photosensitivity. Low birth weight, cataracts, microphthalmia, deafness, dental anomalies, and arthrogryposis were not observed.\n\n    *   **Patient CS14PV (Italy, Male):** This male patient from Italy had an onset age of 1 year and was followed up until 3.5 years (with a latest follow-up at 5 years). Classified as Type I, the genomic DNA mutations were c.[2203C>T] and [? (deletion of about 5.5 Mb in 10q11.2)], leading to cDNA mutations r.[2203C>ul] and [0], and protein alterations p.[Arg735*] and [0]. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, mental retardation, progressive (P) microcephaly, retinal degeneration, deafness, clinical photosensitivity, and dental anomalies. Cataracts, microphthalmia, and arthrogryposis were absent.\n\n    *   **Patient CS21PV (Italy, Female):** This female patient from Italy had an ",
+                    "source": "Calmels_2018.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "p.[Gln156*, Ser142Asnfs*, Arg947*] protein alterations. He exhibited growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.\n\n### 5. Key Findings\n*   **Consistent Severe Phenotype:** Despite a wide variety of underlying genetic mutations (including insertions, deletions, and point mutations, both heterozygous and compound heterozygous), patients consistently present with a severe and overlapping set of clinical features.\n*   **Core Symptoms:** The most frequently observed phenotypes across nearly all patients include growth failure, cachexia/bird-like faces, mental retardation (predominantly severe), microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity.\n*   **Early Onset:** The age of symptom onset is typically very early, often at birth or within the first year of life, ",
+                    "source": "Calmels_2018.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "  `Mental retardation*`: Presence (+) or absence (-) of mental retardation.\n    *   `Microcephaly\u2020`: Presence (+) or absence (-) of microcephaly.\n    *   `Cataracts\u2020`: Presence (+) or absence (-) of cataracts.\n    *   `Microphthalmia`: Presence (+) or absence (-) of microphthalmia.\n    *   `Retinal degeneration*`: Presence (+) or absence (-) of retinal degeneration.\n    *   `Deafness`: Presence (+) or absence (-) of deafness.\n    *   `Clinical photosensitivity`: Presence (+) or absence (-) of clinical photosensitivity.\n    *   `Fitzpatrick Skin Type Scale`: Classification of skin type (e.g., I, II, III, P, S, C, M).\n    *   `Dental anomalies`: Presence (+) or absence (-) of dental anomalies.\n    *   `Arthrogryposis`: Presence (+) or absence (-) of arthrogryposis.\n*   **Reference**:\n    *   `Reference\u00a7`: Citation number for the source of the patient's data.\n\n### 4. Table Data\nThe table presents data for 14 patients from various countries, detailing their genetic mutations and associated",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "sis were absent.\n\n    *   **Patient CS21PV (Italy, Female):** This female patient from Italy had an onset age of 1 year and was followed up until 21 years (with a latest follow-up at 27 years). Classified as Type I, her genomic DNA mutations were c.[2551T>C] and [3952_3953delAG], resulting in cDNA mutations r.[2551u>c] and [3952_3953delag], and protein alterations p.[Trp851Arg] and [Arg1318Glyfs*]. Clinical manifestations included growth failure, low birth weight, cachexia/bird-like faces, moderate (M) mental retardation, progressive (P) microcephaly, retinal degeneration, deafness, clinical photosensitivity, and dental anomalies. Cataracts, microphthalmia, and arthrogryposis were not present.\n\n    *   **Patient CS286ST (France (Algeria), Male):** This male patient from France (Algeria) had an onset age of 0 years and was followed up until 4 years. Classified as Type I/II, the genomic DNA mutations were c.[2599-26A>G] and [4115delG], leading to cDNA mutations r.[(2598_2599 ins2599-25_2",
+                    "source": "Calmels_2018.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "re in the document, likely in the preceding parts of Table 1.\n\n**Patient 10** exhibits a cDNA variant identified as NM_006390.3: c.1881 + 1G>A, corresponding to a genomic change of NC_000012.11: g.30814074C>T. The protein change is currently unknown (p.?). This patient's family history indicates consanguinity (\"Yes, no\"). The observed phenotypes include pneumothorax, sparse scalp hair, tortuous cerebral arteries, right ventricular dilatation, and a depressed nasal bridge.\n\n**Patient 11** carries a cDNA deletion, NM_006390.3: c.2695 + 4_2695 + 8del, which corresponds to a genomic deletion of NC_000012.11: g.30789908_30789912del. The protein change is also unknown (p.?). This patient's family history explicitly states consanguinity (\"Yes, yes\"). The patient presents with a broad spectrum of phenotypes including hydronephrosis, macroglossia, deeply set eyes, hyperextensible skin, muscular hypotonia, joint hypermobility, failure to thrive, a ventricular septal defect, a high narrow palate,",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 6
+                }
+            ]
+        },
+        {
+            "query": "What is the cDNA variant listed for Patient 17 in the PLK1 gene section of Table 1?",
+            "answer": "The cDNA variant listed for Patient 17 in the PLK1 gene section of Table 1 is NM_005030.5:c.785G>A.",
+            "results": [
+                {
+                    "content": "e notation.\n    *   **Zygosity**: Indicates whether the genetic variant is homozygous (Hom) or heterozygous.\n    *   **Consanguinity family history**: Specifies if there is a history of consanguinity in the patient's family (Yes/No).\n    *   **Phenotype**: A comprehensive list of clinical manifestations and symptoms observed in the patient.\n    *   **Evidence**: Information describing the function of the *WDR62* gene, its relationship to *PLK1*, and its role in disease.\n    *   **PMID**: The PubMed ID of the scientific publication providing the evidence.\n    *   **Others**: Any additional relevant notes.\n\n4.  **Table Data**\n\n    The table presents data for five patients, all with variants in the *PLK1* gene.\n\n    **Patients 17, 18, 19, and 20** share the same genetic variant: NM_005030.5:c.785G>A at the cDNA level, resulting in a p.Arg262Gln protein change. This variant is homozygous in all four patients. Patients 17, 18, and 19 have a positive family history of consanguinity, while Pa",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "all four patients. Patients 17, 18, and 19 have a positive family history of consanguinity, while Patient 20 does not.\n\n    The phenotypes associated with this c.785G>A variant vary:\n    *   **Patient 17** exhibits focal-onset seizures.\n    *   **Patient 18** presents with a more extensive set of symptoms including an arachnoid cyst, cerebellar vermis hypoplasia, decreased body weight, delayed myelination, global developmental delay, microcephaly, oligohydramnios, posterior fossa cyst, premature birth, seizures, short chin, and short stature.\n    *   **Patient 19** shows generalized tonic-clonic seizures, global developmental delay, and hyperpigmentation of the skin.\n    *   **Patient 20** experiences global developmental delay, microcephaly, and intractable seizures.\n\n    **Patient 21** has a different homozygous variant in the *PLK1* gene: NM_005030.5:c.408+3G>A (also noted as NC_000016.9:g.23690664G>A), with the protein change being unknown (p.?). This patient also has a history of ",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "Here's an extraction and description of the table content:\n\n---\n\n1.  **Table Title/Caption**\n    Table 1 continued\n\n2.  **Table Purpose**\n    This table provides detailed genetic and clinical information for five patients (numbered 17 through 21), focusing on variants within the *PLK1* gene. It describes the specific cDNA and protein changes, zygosity, family history of consanguinity, observed phenotypes, and supporting evidence regarding the gene's function and its association with conditions like Primary Microcephaly Type 2 (MCPH2).\n\n3.  **Table Structure (columns/rows)**\n    The table is structured with the following columns:\n    *   **Patient**: A unique numerical identifier for each individual.\n    *   **Gene**: The gene identified with a variant in the patient.\n    *   **cDNA**: The specific cDNA notation for the genetic variant.\n    *   **Protein**: The corresponding protein change notation.\n    *   **Zygosity**: Indicates whether the genetic variant is homozygous (Hom) or heter",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "d ID: 28973348. The \"Others\" column is empty for all entries.\n\n5.  **Key Findings**\n    *   All five patients in this segment of the table exhibit homozygous variants in the *PLK1* gene, suggesting a recessive inheritance pattern for the associated conditions.\n    *   The c.785G>A (p.Arg262Gln) variant is recurrently found in four patients (17-20) and is associated with a spectrum of neurological phenotypes, including various types of seizures, global developmental delay, and microcephaly. Patient 18 shows a particularly broad range of developmental and physical abnormalities.\n    *   A distinct variant, c.408+3G>A, in Patient 21 leads to a more severe and extensive neurological phenotype, including brain atrophy, epileptic encephalopathy, and leukodystrophy.\n    *   A significant proportion of the families (four out of five patients) have a history of consanguinity, which is consistent with the observation of homozygous recessive variants.\n    *   The evidence provided links the *PLK1",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "uineous family history, further supporting recessive inheritance.\n*   Patients 1 and 2 share the same BLOC1S1 variant (c.284C>A, p.Ala95Asp) and exhibit a highly similar neurological phenotype characterized by myelination abnormalities, seizures, intellectual disability, and global developmental delay.\n*   BLOC1S1 variants are associated with a spectrum of neurological and developmental disorders, including myelination defects, intellectual disability, seizures, and in one case (Patient 4), skeletal and muscular abnormalities like arachnodactyly and talipes equinovarus.\n*   The evidence consistently links BLOC1S1 to the BLOC1 protein complex, whose dysfunction is implicated in Hermansky-Pudlak syndrome and affects lysosome-related organelles and glutamatergic transmission.\n\n**6. Context (footnotes/notes):**\n*   The phrase \"As above\" in the \"Evidence\" and \"PMID\" columns indicates that the detailed information provided for Patient 1 applies to Patients 2, 3, and 4.\n*   For Patient 1, the",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 4
+                }
+            ]
+        },
+        {
+            "query": "According to Table 1, is consanguinity present in the family history of Patient 26 with the ZNF699 variant?",
+            "answer": "I don't know. The provided context discusses patients 27, 28, 29, and 34-37, but does not mention Patient 26.",
+            "results": [
+                {
+                    "content": "ce, macrotia, prominent nasal bridge, syndactyly, and an abnormal facial shape. Neurological and developmental issues were prominent, with intellectual disability, global developmental delay, and developmental regression. Other conditions included microcephaly, hiatus hernia, recurrent infections, and immunodeficiency. As with the other patients, the evidence and PMID are noted as \"As above.\"\n\n### 5. Key Findings\n*   All three patients (27, 28, 29) presented with homozygous mutations in the ZNF699 gene.\n*   Patients 27 and 28 share the same specific ZNF699 mutation (c.1623_1626delTTAT, p.Tyr542fs), while Patient 29 has a different mutation (c.1324dupA, p.Ser442fs).\n*   A family history of consanguinity is noted for all three patients, suggesting a potential genetic predisposition or recessive inheritance pattern.\n*   The patients exhibit a broad spectrum of severe and overlapping clinical phenotypes, including cardiac malformations, gastrointestinal issues, craniofacial dysmorphism, sk",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 10
+                },
+                {
+                    "content": "al bridge, prominent nose, microphthalmia, abnormal thumb morphology, intellectual disability, and muscular hypotonia. The evidence is \"As above.\"\n\nFor all four patients, the \"PMID\" and \"Others\" columns are either empty or state \"As above,\" indicating that specific external references for each patient's data are not provided within this table segment.\n\n**5. Key Findings:**\n*   All four patients (34-37) presented in this table segment have homozygous mutations in the ZNF699 gene.\n*   Parental consanguinity is a consistent factor across all four cases.\n*   Three of the four patients (34, 35, 37) share the identical ZNF699 variant (c.436_439del; p.Asp146Ilefs*10), while Patient 36 has a distinct variant (c.51_54delCTCA; p.Asp17fs).\n*   Mutations in ZNF699 are associated with a wide and severe spectrum of clinical phenotypes, including facial dysmorphism, intellectual disability, various congenital anomalies affecting multiple organ systems (e.g., cardiac, gastrointestinal, genitourinary),",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 12
+                },
+                {
+                    "content": "y in the family history.\n*   **Phenotype**: A detailed list of clinical manifestations and symptoms observed in the patient.\n*   **Evidence**: Refers to the source or type of evidence for the listed phenotypes.\n*   **PMID**: PubMed ID, likely linking to relevant publications or evidence.\n*   **Others**: An empty column in this segment of the table, suggesting no additional specific notes for these entries.\n\nThe table contains three rows of data, each corresponding to a unique patient (Patient 27, Patient 28, and Patient 29).\n\n### 4. Table Data\nThe table presents data for three patients, all exhibiting mutations in the ZNF699 gene and homozygous for their respective mutations.\n\n**Patient 27** carries a homozygous ZNF699 mutation described as NM_198535.2: c.1623_1626delTTAT at the cDNA level, resulting in a p.Tyr542fs protein change. The family history indicates consanguinity (\"Yes, no\"). This patient presented with a wide array of phenotypes including premature birth, cardiac defects su",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 10
+                },
+                {
+                    "content": "Here's a description of the table content, optimized for semantic search and RAG:\n\n---\n\n**1. Table Title/Caption:**\nTable 1 continued.\n\n**2. Table Purpose:**\nThis table details the genetic and clinical characteristics of four patients (numbered 34 through 37) with mutations in the ZNF699 gene, providing information on their specific cDNA and protein variants, zygosity, family history of consanguinity, and a comprehensive list of associated phenotypes.\n\n**3. Table Structure (columns/rows):**\nThe table is structured with ten columns:\n*   **Patient**: Unique identifier for each patient.\n*   **Gene**: The gene identified with a mutation.\n*   **cDNA**: The specific cDNA variant.\n*   **Protein**: The resulting protein variant.\n*   **Zygosity**: The zygosity of the mutation (e.g., homozygous).\n*   **Consanguinity (family history)**: Indicates if parental consanguinity is present and if there's a family history of similarly affected individuals.\n*   **Phenotype**: A detailed list of clinical m",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 12
+                },
+                {
+                    "content": "This patient presented with a wide array of phenotypes including premature birth, cardiac defects such as atrial septal defect, pulmonic stenosis, and tachycardia, and gastrointestinal issues like gastroesophageal reflux and jejunal atresia. Other notable symptoms included hepatomegaly, recurrent infections, delayed skeletal maturation, decreased body weight, persistent left superior vena cava, bilateral sensorineural hearing impairment, protruding tongue, bilateral renal hypoplasia, abnormal spleen morphology, and required nasogastric tube feeding. The evidence and PMID for these findings are indicated as \"As above,\" suggesting they are detailed elsewhere in the paper or preceding table entries.\n\n**Patient 28** shares the identical homozygous ZNF699 mutation with Patient 27: NM_198535.2: c.1623_1626delTTAT (cDNA) and p.Tyr542fs (protein). Similar to Patient 27, the family history notes consanguinity (\"Yes, no\"). Patient 28 exhibited distinct craniofacial abnormalities including a wide",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 10
+                }
+            ]
+        },
+        {
+            "query": "What specific skeletal abnormality is listed for Patient 10 in the 'Phenotype' column of Table 1?",
+            "answer": "For Patient 10, a specific skeletal abnormality listed in the phenotypes is a **depressed nasal bridge**.",
+            "results": [
+                {
+                    "content": " between 25.8\u00b0 and 29.4\u00b0 (SDs 3.0-6.2). All patients showed \"Reduced\" (\u2193) FMA values.\n*   **AFH (mm):** Patient values ranged from 46.0 mm (Patient 10, Patient 11) to 76.4 mm (Patient 9), compared to standards between 53.3 mm and 76.1 mm (SDs 3.1-5.8). All patients had \"Reduced\" (\u2193) AFH values.\n*   **PFH (mm):** Measurements were between 19.0 mm (Patient 12) and 30.0 mm (Patient 16), with standards ranging from 33.6 mm to 54.3 mm (SDs 2.7-4.6). All patients showed \"Reduced\" (\u2193) PFH values.\n*   **FHI (%):** Patient values were consistently low, ranging from 0.3% (Patient 12) to 0.5% (multiple patients), against standards of 0.6-0.7% (no SD provided). All patients were indicated as \"Reduced\" (\u2193).\n\n**Norma Lateralis - Skeletal Analysis Measurements:**\n*   **Convexity (mm):** Patient measurements were notably higher, ranging from 5.0 mm (Patient 10) to 12.0 mm (Patient 11), compared to standards between 1.7 mm and 4.5 mm (SDs 2.2-3.4). All patients showed \"Increased\" (\u2191) convexity.\n*   **A",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "eletal and Denture Protrusion:** All patients consistently show \"Increased\" values for skeletal analysis parameters (Convexity and ANB) and specific denture analysis parameters (i to APg in both mm and degrees), indicating a general tendency towards a more protrusive skeletal and dental profile compared to age-corresponding standards.\n*   **Widespread Reduction in Typology and Frontal Measurements:** A vast majority of typology measurements (Facial depth, Lower facial height, Mandibular arc, FMA, AFH, PFH, FHI) and all norma frontalis measurements (Cranial width, Bifrontotemporale width, Bizygomatic width, Nasal width, Bigonial width) are indicated as \"Reduced\" across all patients. This suggests a general reduction in overall facial dimensions and specific facial height and width parameters.\n*   **Discrepancy in Facial Axis Interpretation:** There is a notable inconsistency in the \"CS\" column for \"Facial axis.\" While all patients are marked as \"Increased\" (\u2191), many of their actual meas",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": " Variant, Inheritance, Age at most recent evaluation, Sex, Prenatal findings, Head circumference, Height, Weight, Global developmental delay, Age at walking, Age at first words, Behavior, Epilepsy, Hypotonia, and Dysmorphic features.\n*   **Columns (Patients/Cases):**\n    *   Patient 6 (Variant: NM_001287190.1)\n    *   Patient 7 (Variant: c.1313_1316delCTGT (p.Pro438Argfs*9))\n    *   Patient 8 (Variant: c.1242-2A>G (IVS11-2A>G))\n    *   Patient 9 (Variant: c.1252C>T (p.Gln418*))\n    *   Bupp et al. (2018) (Variant: c.1342A>G (p.Lys448*))\n    *   Rodan et al. (2018)-1 (Variant: c.1241+1G>T (IVS11+1G>T))\n    *   Rodan et al. (2018)-2 (Variant: c.1240_1241dupTG (p.Trp414Cysfs*17))\n    *   Rodan et al. (2018)-3 (Variant: c.1255C>T (p.Gln419*))\n    *   Rodan et al. (2018)-4 (Variant: c.1242_1263del22 (p.Trp414*))\n\n**4. Table Data:**\n\nAll nine patients presented in the table, including the four new cases (Patient 6, 7, 8, 9) and the five previously reported cases (Bupp et al. 2018, Rodan et a",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "Here's a description of the table content, optimized for semantic search and RAG:\n\n---\n\n**1. Table Title/Caption:**\nTABLE 1 Patient genotypes and phenotypes\n\n**2. Table Purpose:**\nThis table presents a comparative analysis of genetic variants (genotypes) and their associated clinical manifestations (phenotypes) across nine individuals. It includes four newly described patients (Patient 6, 7, 8, 9) and five previously reported cases from Rodan et al. (2018) and Bupp et al. (2018). The purpose is to delineate the spectrum of clinical features linked to specific genetic alterations, primarily focusing on developmental, anthropometric, neurological, and dysmorphic characteristics.\n\n**3. Table Structure (columns/rows):**\nThe table is structured with rows representing various clinical and genetic features, and columns representing individual patients or reported cases.\n*   **Rows (Features):** Variant, Inheritance, Age at most recent evaluation, Sex, Prenatal findings, Head circumference, He",
+                    "source": "VanSickle_2021.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "re in the document, likely in the preceding parts of Table 1.\n\n**Patient 10** exhibits a cDNA variant identified as NM_006390.3: c.1881 + 1G>A, corresponding to a genomic change of NC_000012.11: g.30814074C>T. The protein change is currently unknown (p.?). This patient's family history indicates consanguinity (\"Yes, no\"). The observed phenotypes include pneumothorax, sparse scalp hair, tortuous cerebral arteries, right ventricular dilatation, and a depressed nasal bridge.\n\n**Patient 11** carries a cDNA deletion, NM_006390.3: c.2695 + 4_2695 + 8del, which corresponds to a genomic deletion of NC_000012.11: g.30789908_30789912del. The protein change is also unknown (p.?). This patient's family history explicitly states consanguinity (\"Yes, yes\"). The patient presents with a broad spectrum of phenotypes including hydronephrosis, macroglossia, deeply set eyes, hyperextensible skin, muscular hypotonia, joint hypermobility, failure to thrive, a ventricular septal defect, a high narrow palate,",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 6
+                }
+            ]
+        },
+        {
+            "query": "Which patient in Table 1 presents with 'congenital heart defects' associated with the RAP1GDS1 gene?",
+            "answer": "I don't know. The provided context mentions a \"heart murmur\" for Patient 24, but it does not explicitly state \"congenital heart defects\" for any patient associated with the *RAP1GDS1* gene.",
+            "results": [
+                {
+                    "content": ".\n*   **Consanguinity family history:** Indicates the presence or absence of consanguinity in the family history.\n*   **Phenotype:** A comprehensive list of clinical symptoms and characteristics observed in the patient.\n*   **Evidence:** Information supporting the functional impact or relevance of the gene/variant.\n*   **PMID:** PubMed Identifier(s) for relevant scientific publications.\n*   **Others:** Additional contextual notes or findings.\n\n### 4. Table Data\nThe table presents data for five patients (22-26), detailing their genetic findings and associated clinical presentations:\n\n**Patients with *RAP1GDS1* Variants (Patients 22-25):**\n*   **Patient 22** carries a homozygous *RAP1GDS1* variant, specifically NM_001100426.1:c.1444-1G>A (g.99355086G>A), with an unknown protein consequence (p.?). There is no reported family history of consanguinity. This patient exhibits microcephaly, muscular hypotonia, and spasticity. The *RAP1GDS1* gene is known to encode a protein that stimulates the",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "ies, skeletal issues (osteopenia), and severe neurological manifestations like agenesis of the corpus callosum and vocal cord paralysis, underscoring the diverse genetic etiologies of developmental disorders.\n\n### 6. Context (footnotes/notes)\n*   This table is a continuation of a larger \"Table 1\".\n*   The authors of the paper are A.M. Bertoli-Avella et al.\n*   The publication source is \"Genetics in Medicine (2021) 23:1551 \u2013 1568\".\n*   \"As above\" in the \"Evidence\" and \"PMID\" columns refers to the information provided for Patient 22, specifically the description of *RAP1GDS1* gene function and PMIDs 32727735 and 32431071.\n*   \"p.?\" indicates that the exact protein consequence of the variant is unknown or not specified.\n*   \"Hom\" is an abbreviation for homozygous.\n*   \"Sibling of above\" in the \"Consanguinity family history\" column implies a familial relationship to a patient previously listed with a history of consanguinity.",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": " and PMIDs are the same as for Patient 22.\n*   **Patient 24** presents with the same homozygous *RAP1GDS1* variant as Patient 22 (NM_001100426.1:c.1444-1G>A, p.?) and a history of consanguinity. This patient's phenotype includes hypotonia, cryptorchidism, difficulty standing and walking, global developmental delay, heart murmur, inability to walk, jaundice, muscular hypotonia, retrognathia, bulbous nose, and central hypotonia. Notably, this specific variant was found to cosegregate in two unrelated families, and exon 13 skipping was detected in blood mRNA from the patients. The evidence and PMIDs are consistent with Patient 22.\n*   **Patient 25** has a homozygous *RAP1GDS1* variant, NM_001100426.1:c.436_439del, leading to a p.Asp146Ilefs*10 protein change. The family history indicates a sibling relationship to a previously listed patient with consanguinity. This patient's phenotype is characterized by motor delay and muscular hypotonia. The evidence and PMIDs are consistent with Patien",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "ular hypotonia, and spasticity. The *RAP1GDS1* gene is known to encode a protein that stimulates the activity of small GTP-binding proteins, including Rap1a/Rap1b, Rhoda, RhoB, and KRas. Relevant publications are identified by PMIDs 32727735 and 32431071.\n*   **Patient 23** also has a homozygous *RAP1GDS1* variant, NM_001100426.1:c.83delT, resulting in a p.Leu28fs protein change. This patient's family has a history of consanguinity. The phenotype is extensive, including abnormality of midbrain morphology, mild microcephaly, motor delay, spastic paraplegia, abnormal facial shape, abnormal movement, decreased body weight, delayed myelination, developmental regression, difficulty standing, generalized hypotonia, global developmental delay, high forehead, highly arched eyebrow, hypoteliorism, joint laxity, low-set ears, nasal flaring, otitis media, short stature, and stereotypy. The evidence and PMIDs are the same as for Patient 22.\n*   **Patient 24** presents with the same homozygous *RAP",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": " patients with homozygous variants in the *RAP1GDS1* gene, which are associated with a broad spectrum of neurodevelopmental disorders, including microcephaly, hypotonia, spasticity, motor and global developmental delays, and distinct facial dysmorphism.\n*   A strong association with consanguinity or familial relatedness is observed across most patients, suggesting a recessive inheritance pattern for the conditions linked to these variants.\n*   The *RAP1GDS1* gene's role in small GTP-binding protein activity is emphasized as a potential mechanism underlying the observed phenotypes.\n*   One specific *RAP1GDS1* variant (c.1444-1G>A) was shown to cause exon 13 skipping and cosegregate in unrelated families, providing strong functional and genetic evidence.\n*   A distinct patient (Patient 26) with a homozygous *ZNF699* variant presents with a different set of symptoms, including facial anomalies, skeletal issues (osteopenia), and severe neurological manifestations like agenesis of the corpu",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                }
+            ]
+        },
+        {
+            "query": "According to Table 1, what is the DMFT score (Decayed, Missing, Filled Teeth) for patient 5?",
+            "answer": "According to the context, Patient 5 had a caries score of 20/\u00d8. This indicates a DMFT score of 20.",
+            "results": [
+                {
+                    "content": "bed as \"deficient,\" likely contributing to the observed caries and periodontal conditions.\n*   **Caries Experience:** Caries prevalence varied, with some patients having no caries and others showing significant scores (e.g., Patient 5 with 20/\u00d8, Patient 11 with 16/4).\n*   **Consistent Facial Dysmorphology:** Facial dysmorphology (MB, MB R, MB D) was consistently reported across almost all patients.\n*   **Parafunctional Habits:** Bruxism was noted in some of the younger, more severely affected patients.\n\n**6. Context (Footnotes/Notes):**\n*   The symbol '\u00d8' indicates \"none\" or \"not present/affected.\"\n*   'pd' refers to primary dentition, and 'PD' refers to permanent dentition.\n*   'dmft' denotes decayed, missing, and filled primary teeth, while 'DMFT' refers to decayed, missing, and filled permanent teeth.\n*   'VI' likely stands for \"visit\" or \"vital.\"\n*   'LA' refers to local anesthesia.\n*   'CSE' refers to conscious sedation.\n*   'GA' refers to general anesthesia.\n*   'MB', 'MB R', 'MB",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "Abbreviations and Definitions:**\n    *   **pd**: primary dentition\n    *   **PD**: permanent dentition\n    *   **screw d**: screw driver (referring to incisor shape)\n    *   **dmft/DMFT**: Decayed, Missing, and Filled Teeth index for primary dentition (dmft) and permanent dentition (DMFT) teeth.\n    *   **Perio**: periodontium (the tissues surrounding and supporting the teeth).\n    *   **Oral Hygiene Level**: Correlated to the abundance of dental plaque and the patient's brushing habits, ranging from assisted brushing (AB) to absent brushing (NB).\n    *   **Dental Treatment Types**:\n        *   **First**: The child's first visit to the dentist.\n        *   **regular visit to the dentist**.\n        *   **LA**: Dental treatment performed in a chair under local anesthesia.\n        *   **MEOPA/nitrous oxide sedation (CSE)**: Dental procedures under conscious sedation (inhalation).\n        *   **GA**: Dental treatment performed under general anesthesia.\n    *   **Ortho ass**: Previous ortho",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "*: A specific alphanumeric code for the patient (e.g., CS543VI, 08STR2_2, CS823VI).\n3.  **Age (years)**: The patient's age at the time of assessment.\n4.  **Severity (Clinical Grade)**: The clinical severity of Cockayne Syndrome (e.g., Mild (III), Moderate (I)).\n5.  **Genotype**: The genetic classification of the patient (e.g., CSB, CSA).\n6.  **Mutation**: The specific genetic mutation(s) identified.\n7.  **Dental Anomaly 1**: Specific tooth shape anomalies (e.g., screw d., shovel).\n8.  **Dental Anomaly 2**: Root or tooth structure anomalies (e.g., radiculomegaly, taurodontism).\n9.  **Dental Anomaly 3**: Enamel or surface anomalies (e.g., opacities, hypoplasia, pits).\n10. **Pulp Calcification**: Indication of calcification within the tooth pulp.\n11. **DMFT/dmft**: Decayed, Missing, and Filled Teeth index for permanent (DMFT) and primary (dmft) dentition.\n12. **Oral Hygiene Level**: An assessment of oral hygiene based on plaque abundance and brushing habits.\n13. **Periodontium (Perio)**: ",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "ssment of oral hygiene based on plaque abundance and brushing habits.\n13. **Periodontium (Perio)**: Status of the supporting structures of the teeth.\n14. **Gingivitis**: Presence or absence of gum inflammation.\n15. **Dental Treatment**: Type of dental intervention received or required.\n16. **Orthodontic Status/Treatment**: History of orthodontic assessment or treatment.\n17. **Functional Defects (FD)**: Presence of oral or related functional impairments.\n18. **Other Features**: Any additional notable features.\n\n### 4. Table Data\nThe table provides detailed oro-dental and genetic information for three patients:\n\n**Patient 15 (CS543VI)**, aged 15.10 years, is classified with Mild (III) severity and a CSB genotype, carrying mutations c.1913A>G and c.2247delT. This patient exhibited specific dental anomalies including screw driver incisors (teeth 11 and 21) and opacities, but no radiculomegaly, taurodontism, pits, hypoplasia, or pulp calcification. The DMFT/dmft score was zero, indicating n",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "olved a first visit to the dentist under general anesthesia (1GA), and the patient was undergoing orthodontic treatment (Ortho ttt). A functional defect of mixed breathing (MB) was noted, with no other features.\n\n### 5. Key Findings\n*   **Universal Gingivitis:** All three patients (15, 16, 17) exhibited gingivitis, suggesting a common inflammatory response in their oral health.\n*   **Absence of Caries:** None of the patients had any decayed, missing, or filled teeth (DMFT/dmft = \u00d8), which is notable given their other dental issues.\n*   **Varied Oral Hygiene and Periodontal Health:** While patients 15 and 17 maintained good oral hygiene (+++), patient 16 had poor hygiene (+). Periodontal health ranged from excellent (Patient 15, \u00d8/0) to moderate (Patient 16, \u00d8/2) to significantly compromised (Patient 17, \u00d8/13).\n*   **Diverse Dental Anomalies:** Each patient presented with a unique set of dental anomalies: Patient 15 had screw driver incisors and opacities; Patient 16 had radiculomegaly ",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                }
+            ]
+        },
+        {
+            "query": "Which patient in Table 1 has the mutation c.1954C>T?",
+            "answer": "Patients CS12MA and CS13MA have the mutation c.1954C>T.",
+            "results": [
+                {
+                    "content": "d as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(1993_2169del (exon 10))], and protein alterations p.[(Phe665_Gln72)].\n*   **CS1WR (UK, Male)**: Classified as II, this patient has genomic DNA mutations c.[1357C>T]; [2286+1_2286+96, 2286+1G>A (partial insertion of intron 11)], cDNA mutations r.[1357c>u]; [2286_2287ins (in intron 5)], and protein alterations p.[Val763Ilefs*7].\n*   **CS233ST (France, Male)**: Classified as II, this patient has a PiggyBac insertion at c.1397+6912 (in intron 5) in genomic DNA, cDNA mutations r.[(1518delG)]; [2923c>u], and protein alterations p.[(Lys506Asnfs)]; [Arg975*].\n*   **CS058ST (CS2LI) (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[1526+1G>T]; [3952_3953delAG], cDNA mutations r.[1398_1684del (exons 6-7)]; [3952_3953delag], and protein alterations p.[(Arg467_Arg5)]; [Arg1318Glyfs*].\n*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[15",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": " (UK), and CS288ST (Reunion).\n    *   **c.2167C>T (taCag):** A larger group of patients exhibited this mutation, including CS26LO (UK), CS1LI (UK), CS8MA (UK), CS3BI (UK), CS11MA (UK), CS19LO (UK), CS10MA (UK), CS12MA (UK), CS148ST (South Africa), CS19BR (UK), and CS2BL (UK).\n    *   **c.2203C>T (taCga):** This mutation was found in CS2BR (Brazil), CS12RO (Italy), CS2LE (UK-Turkey), CS1GGO (Germany), CS2GR (Austria), CS14PV (Italy), CS22PV (Italy), CS25PV (Italy), CS26PV (Italy), CS17LO (UK-Turkey), CS128ST (France-Bosnia), and CS28PV (Italy).\n    *   **c.2599-26A>G (caAac):** This mutation was identified in CS31PV (Pakistan), CS215ST (UK), CS225ST (UK), and CS286ST (France-Algeria).\n    *   **c.3862C>T (acCga):** Patients with this mutation include CS32LO (UK), CS270ST (Iran), CS278ST (France), and CS225ST (UK).\n    *   **c.4063-1G>C (taGga):** This mutation was found in four patients, all from India: CS071ST, CS204ST, CS221ST, and CS222ST.\n5.  **Key Findings:** The table highlights s",
+                    "source": "Calmels_2018.pdf",
+                    "page": 13
+                },
+                {
+                    "content": "].\n*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537insTA]; [1834C>T], cDNA mutations r.[(536_537insua)]; [(1834c>u)], and protein alterations p.[(Asn180Ilefs)]; [Arg612*].\n*   **CS289ST (France, Male)**: Classified as I, this patient has genomic DNA mutations c.[543G>T]; [543+4delA], cDNA mutations r.[Ser142Asnfs (exon 3)]; [Ser142Asnfs]; [423_543del (exon 3)], and protein alterations p.[Ser142Asnfs]; [Arg735*].\n*   **CS26PV (Italy, Female)**: Classified as III, this patient has genomic DNA mutations c.[543+4delA]; [2203C>T], cDNA mutations r.[423_543del (exon 3)]; [2203>u], and protein alterations p.[Lys273Serfs].\n*   **CS250ST (France, Female)**: Classified as II, this patient has genomic DNA mutations c.[818del]; [1397+2T>A], cDNA mutations r.[(818del)]; [?], and protein alterations p.[(?)].\n*   **CS148ST (South Africa, Male)**: Classified as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(",
+                    "source": "Calmels_2018.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "e): Onset at 0 years, 11 years at report/death. Mutation: c.1954C>T (genomic), r.1954c>u (cDNA), p.Arg652* (protein).\n    *   **CS13MA** (Pakistan, Female): Onset at 0 years, 13 years at report/death. Mutation: c.1954C>T (genomic), r.1954c>u (cDNA), p.Arg652* (protein).\n    *   **CS232ST** (France (Algeria), Female): Onset at 0 years, 15 years at report/death. Mutation: c.1971_1974dup (genomic), r.(1971_1974dup) (cDNA), p.(Thr659Cysfs*) (protein).\n    *   **CS3BI** (UK, Male): Onset at 0 years, 13 years at report/death. Mutation: c.2167C>T (genomic), r.1993_2169del (exon 10) (cDNA), p.Phe665_Gln723del (protein).\n    *   **CS11MA** (UK, Female): Onset at 0 years, 1 year at report/death. Mutation: c.2167C>T (genomic), r.1993_2169del (exon 10) (cDNA), p.Phe665_Gln723del (protein).\n    *   **CS22BR** (Brazil (Italy), Male): Onset at 0 years, 11 years at report/death. Mutation: c.2203C>T (genomic), r.2203c>u (cDNA), p.Arg735* (protein).\n    *   **CS12RO** (UK (Turkey), Male): Onset at 0 yea",
+                    "source": "Calmels_2018.pdf",
+                    "page": 5
+                },
+                {
+                    "content": "n).\n    *   **CS13PV** (Italy, Female): Onset at 0 years, 3 years at report/death. Mutation: c.1070C>G (genomic), r.1070c>g (cDNA), p.Ser357* (protein).\n    *   **CS10LO** (UK (Africa), Female): Onset at 0 years, 1.5 (2.4*) years at report/death. Mutation: c.1280dupT (genomic), r.(1280dupu) (cDNA), p.(Ser429Lysfs*) (protein).\n    *   **CS9TAN** (Turkey, Male): Onset at 0.3 years, 4 (6) years at report/death. Mutation: c.2038A>G (genomic), r.(2038a>g) (cDNA), p.(Asn680Asp) (protein).\n    *   **CS1NE** (UK, Male): Onset at 0 years, 1 year at report/death. Mutation: c.2047C>T (genomic), r.2047c>u (cDNA), p.Arg683* (protein).\n\n*   **Clinical Classification II Patients:**\n    *   **CS201ST** (Iran, Male): Onset at 0.5 years, 4 years at report/death. Mutation: c.1128del (genomic), r.(1128del) (cDNA), p.(Thr377Glnfs*) (protein).\n    *   **CS19PV** (Italy, Female): Onset at 0 years, 2.5 years at report/death. Mutation: c.1431_1432delGA (genomic), r.1431_1432delga (cDNA), p.Lys478Thrfs* (protei",
+                    "source": "Calmels_2018.pdf",
+                    "page": 5
+                }
+            ]
+        },
+        {
+            "query": "What type of 'Structure' anomaly regarding enamel is listed for Patient 16 in Table 1?",
+            "answer": "For Patient 16, the enamel anomaly listed is hypoplasia.",
+            "results": [
+                {
+                    "content": " along with enamel opacities. Severe crowding (+++) was present, caries score was 16/4, gingivitis was present, oral hygiene was deficient with MB, and dental treatment involved 2GA (general anesthesia).\n*   **Patient 12 (08STR2),** aged 14 years 4 months, had Moderate (Type I) CS with a c.797A>G CSA mutation. Enamel hypoplasia was observed, with normal eruption and no crowding. No caries (0/0) were present, but gingivitis was noted. Oral hygiene was deficient with MB D, and dental treatment involved 1GA for primary dentition.\n*   **Patient 13 (CS466VI_2),** the brother of Patient 11, aged 14 years 6 months, also had Moderate (Type I) CS with an r.0 (no mRNA full length) CSA mutation. Enamel hypoplasia was present, with unknown crowding (?). Caries score was 0/28, gingivitis was present, oral hygiene was deficient with MB R, and dental treatment involved 4GA.\n\n**5. Key Findings:**\n*   **High Prevalence of Oro-dental Anomalies:** All 14 patients in the cohort exhibited a range of oro-de",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "dental anomalies: Patient 15 had screw driver incisors and opacities; Patient 16 had radiculomegaly and hypoplasia; Patient 17 had shovel-shaped incisors, taurodontism, and pits. Pulp calcification was absent in all three.\n*   **Common Functional Defect:** Mixed breathing (MB) was a consistent functional defect across all three patients. Patient 16 additionally suffered from a deglutition or swallowing defect (D).\n*   **Significant Dental Intervention:** Patients 16 and 17 required their first dental visit under general anesthesia (1GA), highlighting the complexity or severity of their dental care needs. Patient 17 was also undergoing active orthodontic treatment.\n\n### 6. Context (Footnotes/Notes)\nThe following notes provide crucial context and definitions for the table:\n\n*   Patient identification (e.g., CS3LE) and genotype information were previously described in reference [25].\n*   **Abbreviations and Definitions:**\n    *   **pd**: primary dentition\n    *   **PD**: permanent dentiti",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "*: A specific alphanumeric code for the patient (e.g., CS543VI, 08STR2_2, CS823VI).\n3.  **Age (years)**: The patient's age at the time of assessment.\n4.  **Severity (Clinical Grade)**: The clinical severity of Cockayne Syndrome (e.g., Mild (III), Moderate (I)).\n5.  **Genotype**: The genetic classification of the patient (e.g., CSB, CSA).\n6.  **Mutation**: The specific genetic mutation(s) identified.\n7.  **Dental Anomaly 1**: Specific tooth shape anomalies (e.g., screw d., shovel).\n8.  **Dental Anomaly 2**: Root or tooth structure anomalies (e.g., radiculomegaly, taurodontism).\n9.  **Dental Anomaly 3**: Enamel or surface anomalies (e.g., opacities, hypoplasia, pits).\n10. **Pulp Calcification**: Indication of calcification within the tooth pulp.\n11. **DMFT/dmft**: Decayed, Missing, and Filled Teeth index for permanent (DMFT) and primary (dmft) dentition.\n12. **Oral Hygiene Level**: An assessment of oral hygiene based on plaque abundance and brushing habits.\n13. **Periodontium (Perio)**: ",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "rmal periodontium. Oral hygiene was deficient with MB R, and the patient had a first dental visit.\n*   **Patient 5 (CS97VI),** aged 2 years 9 months, had Severe (Type II) CS with a c.3862C>T CSB mutation. Enamel hypoplasia was noted, with normal eruption and no crowding. Caries score was 20/\u00d8, gingivitis was present, oral hygiene was deficient with MB R, and dental treatment involved VI with no specific treatment.\n*   **Patient 6 (CS817VI),** aged 3 years 7 months, had Severe (Type II) CS with c.2830-2A>G and c.3983dupA CSB mutations. This patient showed microdontia and enamel hypoplasia. Eruption was normal, no crowding or caries (0/\u00d8) were present, and periodontium was normal. Oral hygiene was good with MB, and dental treatment involved VI.\n*   **Patient 7 (AEN74),** aged 4 years 11 months, had Moderate (Type I) CS with a c.653-2A>G CSB mutation. This patient exhibited agenesis of teeth 12, 15, 25, 35, 45, and microdontia of tooth 22. Enamel and dentin structure were normal, eruption",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": " teeth 11, 21, 37, 47, shovel-shaped teeth 12, 22, taurodontism, and enamel opacities. Eruption was normal, no crowding was present, caries score was 2/0, gingivitis was present, oral hygiene was deficient with MB D, and dental treatment involved VI.\n*   **Patient 10 (CS861VI),** aged 9 years 1 month, had Moderate (Type I) CS with c.797A>G and c.843+5G>C CSA mutations. Shovel-shaped teeth 11, 21, and enamel opacities were noted. Eruption of both primary and permanent dentition was early, with no crowding. No caries (0/0) were present, but gingivitis was observed. Oral hygiene was deficient with MB D, and dental treatment involved VI with fissure sealants under conscious sedation (CSE).\n*   **Patient 11 (CS466VI),** aged 9 years 5 months, had Moderate (Type I) CS with an r.0 (no mRNA full length) CSA mutation. This patient exhibited globular cingulum on teeth 12, 22, and the 2nd premolar, along with enamel opacities. Severe crowding (+++) was present, caries score was 16/4, gingivitis w",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                }
+            ]
+        },
+        {
+            "query": "In Table 2, what is the specific 'Facial axis' measurement recorded for Patient 16?",
+            "answer": "The specific 'Facial axis' measurement recorded for Patient 16 is 96.0\u00b0.",
+            "results": [
+                {
+                    "content": "nts were indicated as having \"Increased\" (\u2191) facial axis values, despite many individual measurements being numerically lower than the standard mean.\n*   **Facial depth (\u00b0):** Patient values varied from 67.0\u00b0 (Patient 15) to 84.1\u00b0 (Patient 9), against standards ranging from 82.1\u00b0 to 86.0\u00b0 (SDs 2.5-4.5). All patients showed \"Reduced\" (\u2193) facial depth.\n*   **Lower facial height (\u00b0):** Measurements ranged from 41.0\u00b0 (Patient 11) to 58.0\u00b0 (Patient 12), with standards consistently at 47.0\u00b0 (SD 4.0). Patient 16 (47.0\u00b0) was \"Normal\" (N), while all other patients were \"Reduced\" (\u2193).\n*   **Mandibular arc (\u00b0):** Patient values were between 13.0\u00b0 (Patient 12) and 52.0\u00b0 (Patient 11), compared to standards around 26.0-30.0\u00b0 (SD 3.5). All patients exhibited \"Reduced\" (\u2193) mandibular arc values.\n*   **FMA (\u00b0):** Patient measurements ranged from 36.0\u00b0 (Patient 10) to 58.0\u00b0 (Patient 17), against standards between 25.8\u00b0 and 29.4\u00b0 (SDs 3.0-6.2). All patients showed \"Reduced\" (\u2193) FMA values.\n*   **AFH (mm)",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "he columns represent individual patients (Patient 8, Patient 9, Patient 10, Patient 11, Patient 12, Patient 14, Patient 15, Patient 16, Patient 17), each identified by their patient number and age in years and months (e.g., (6.7) for Patient 8). For each patient and measurement, two values are provided: the patient's actual measurement, followed by the age-corresponding cephalometric standard (Mean; Standard Deviation) in parentheses. An additional column, \"CS\" (Clinical Significance or Comparison to Standard), uses arrows (\u2191 for increased, \u2193 for reduced) or \"N\" (for normal) to indicate how the patient's value compares to the standard mean.\n\n**4. Table Data**\n\n**Norma Lateralis - Typology Measurements:**\n*   **Facial axis (\u00b0):** Patient measurements ranged from 74.0\u00b0 (Patient 15) to 96.0\u00b0 (Patient 16), compared to standards typically around 89.0-89.6\u00b0 (with SDs around 3.6-4.6). All patients were indicated as having \"Increased\" (\u2191) facial axis values, despite many individual measurement",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "olumn for \"Facial axis.\" While all patients are marked as \"Increased\" (\u2191), many of their actual measurements (e.g., Patient 8: 81.0 vs. standard 89.5) are numerically lower than the standard mean, contradicting the \"Increased\" label. This suggests a potential error in the labeling or interpretation of this specific parameter's clinical significance.\n*   **Individual Normal Variations:** Despite the overarching trends, some patients exhibit normal values for specific parameters, such as Patient 16 for Lower facial height and IMPA, and Patient 8 for IMPA.\n*   **Missing Data:** Data for FMIA is missing for Patients 11 and 12.\n\n**6. Context (Footnotes/Notes)**\n*   For each measurement, the age-corresponding cephalometric standards are provided as a Mean value followed by the Standard Deviation (S.D.) in parentheses.\n*   The \"CS\" column uses \"N\" for Normal values, \"\u2191\" for Increased values, and \"\u2193\" for Reduced values, indicating the patient's measurement relative to the standard mean.\n*   Sp",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "eletal and Denture Protrusion:** All patients consistently show \"Increased\" values for skeletal analysis parameters (Convexity and ANB) and specific denture analysis parameters (i to APg in both mm and degrees), indicating a general tendency towards a more protrusive skeletal and dental profile compared to age-corresponding standards.\n*   **Widespread Reduction in Typology and Frontal Measurements:** A vast majority of typology measurements (Facial depth, Lower facial height, Mandibular arc, FMA, AFH, PFH, FHI) and all norma frontalis measurements (Cranial width, Bifrontotemporale width, Bizygomatic width, Nasal width, Bigonial width) are indicated as \"Reduced\" across all patients. This suggests a general reduction in overall facial dimensions and specific facial height and width parameters.\n*   **Discrepancy in Facial Axis Interpretation:** There is a notable inconsistency in the \"CS\" column for \"Facial axis.\" While all patients are marked as \"Increased\" (\u2191), many of their actual meas",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": " between 25.8\u00b0 and 29.4\u00b0 (SDs 3.0-6.2). All patients showed \"Reduced\" (\u2193) FMA values.\n*   **AFH (mm):** Patient values ranged from 46.0 mm (Patient 10, Patient 11) to 76.4 mm (Patient 9), compared to standards between 53.3 mm and 76.1 mm (SDs 3.1-5.8). All patients had \"Reduced\" (\u2193) AFH values.\n*   **PFH (mm):** Measurements were between 19.0 mm (Patient 12) and 30.0 mm (Patient 16), with standards ranging from 33.6 mm to 54.3 mm (SDs 2.7-4.6). All patients showed \"Reduced\" (\u2193) PFH values.\n*   **FHI (%):** Patient values were consistently low, ranging from 0.3% (Patient 12) to 0.5% (multiple patients), against standards of 0.6-0.7% (no SD provided). All patients were indicated as \"Reduced\" (\u2193).\n\n**Norma Lateralis - Skeletal Analysis Measurements:**\n*   **Convexity (mm):** Patient measurements were notably higher, ranging from 5.0 mm (Patient 10) to 12.0 mm (Patient 11), compared to standards between 1.7 mm and 4.5 mm (SDs 2.2-3.4). All patients showed \"Increased\" (\u2191) convexity.\n*   **A",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                }
+            ]
+        },
+        {
+            "query": "According to Table 1, does Patient 1 exhibit dental crowding?",
+            "answer": "I don't know. The provided context does not contain information about Patient 1 or dental crowding.",
+            "results": [
+                {
+                    "content": "bed as \"deficient,\" likely contributing to the observed caries and periodontal conditions.\n*   **Caries Experience:** Caries prevalence varied, with some patients having no caries and others showing significant scores (e.g., Patient 5 with 20/\u00d8, Patient 11 with 16/4).\n*   **Consistent Facial Dysmorphology:** Facial dysmorphology (MB, MB R, MB D) was consistently reported across almost all patients.\n*   **Parafunctional Habits:** Bruxism was noted in some of the younger, more severely affected patients.\n\n**6. Context (Footnotes/Notes):**\n*   The symbol '\u00d8' indicates \"none\" or \"not present/affected.\"\n*   'pd' refers to primary dentition, and 'PD' refers to permanent dentition.\n*   'dmft' denotes decayed, missing, and filled primary teeth, while 'DMFT' refers to decayed, missing, and filled permanent teeth.\n*   'VI' likely stands for \"visit\" or \"vital.\"\n*   'LA' refers to local anesthesia.\n*   'CSE' refers to conscious sedation.\n*   'GA' refers to general anesthesia.\n*   'MB', 'MB R', 'MB",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "Abbreviations and Definitions:**\n    *   **pd**: primary dentition\n    *   **PD**: permanent dentition\n    *   **screw d**: screw driver (referring to incisor shape)\n    *   **dmft/DMFT**: Decayed, Missing, and Filled Teeth index for primary dentition (dmft) and permanent dentition (DMFT) teeth.\n    *   **Perio**: periodontium (the tissues surrounding and supporting the teeth).\n    *   **Oral Hygiene Level**: Correlated to the abundance of dental plaque and the patient's brushing habits, ranging from assisted brushing (AB) to absent brushing (NB).\n    *   **Dental Treatment Types**:\n        *   **First**: The child's first visit to the dentist.\n        *   **regular visit to the dentist**.\n        *   **LA**: Dental treatment performed in a chair under local anesthesia.\n        *   **MEOPA/nitrous oxide sedation (CSE)**: Dental procedures under conscious sedation (inhalation).\n        *   **GA**: Dental treatment performed under general anesthesia.\n    *   **Ortho ass**: Previous ortho",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "dental anomalies: Patient 15 had screw driver incisors and opacities; Patient 16 had radiculomegaly and hypoplasia; Patient 17 had shovel-shaped incisors, taurodontism, and pits. Pulp calcification was absent in all three.\n*   **Common Functional Defect:** Mixed breathing (MB) was a consistent functional defect across all three patients. Patient 16 additionally suffered from a deglutition or swallowing defect (D).\n*   **Significant Dental Intervention:** Patients 16 and 17 required their first dental visit under general anesthesia (1GA), highlighting the complexity or severity of their dental care needs. Patient 17 was also undergoing active orthodontic treatment.\n\n### 6. Context (Footnotes/Notes)\nThe following notes provide crucial context and definitions for the table:\n\n*   Patient identification (e.g., CS3LE) and genotype information were previously described in reference [25].\n*   **Abbreviations and Definitions:**\n    *   **pd**: primary dentition\n    *   **PD**: permanent dentiti",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "*: A specific alphanumeric code for the patient (e.g., CS543VI, 08STR2_2, CS823VI).\n3.  **Age (years)**: The patient's age at the time of assessment.\n4.  **Severity (Clinical Grade)**: The clinical severity of Cockayne Syndrome (e.g., Mild (III), Moderate (I)).\n5.  **Genotype**: The genetic classification of the patient (e.g., CSB, CSA).\n6.  **Mutation**: The specific genetic mutation(s) identified.\n7.  **Dental Anomaly 1**: Specific tooth shape anomalies (e.g., screw d., shovel).\n8.  **Dental Anomaly 2**: Root or tooth structure anomalies (e.g., radiculomegaly, taurodontism).\n9.  **Dental Anomaly 3**: Enamel or surface anomalies (e.g., opacities, hypoplasia, pits).\n10. **Pulp Calcification**: Indication of calcification within the tooth pulp.\n11. **DMFT/dmft**: Decayed, Missing, and Filled Teeth index for permanent (DMFT) and primary (dmft) dentition.\n12. **Oral Hygiene Level**: An assessment of oral hygiene based on plaque abundance and brushing habits.\n13. **Periodontium (Perio)**: ",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "olved a first visit to the dentist under general anesthesia (1GA), and the patient was undergoing orthodontic treatment (Ortho ttt). A functional defect of mixed breathing (MB) was noted, with no other features.\n\n### 5. Key Findings\n*   **Universal Gingivitis:** All three patients (15, 16, 17) exhibited gingivitis, suggesting a common inflammatory response in their oral health.\n*   **Absence of Caries:** None of the patients had any decayed, missing, or filled teeth (DMFT/dmft = \u00d8), which is notable given their other dental issues.\n*   **Varied Oral Hygiene and Periodontal Health:** While patients 15 and 17 maintained good oral hygiene (+++), patient 16 had poor hygiene (+). Periodontal health ranged from excellent (Patient 15, \u00d8/0) to moderate (Patient 16, \u00d8/2) to significantly compromised (Patient 17, \u00d8/13).\n*   **Diverse Dental Anomalies:** Each patient presented with a unique set of dental anomalies: Patient 15 had screw driver incisors and opacities; Patient 16 had radiculomegaly ",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+Here's an extraction and description of the table content, optimized for semantic search and RAG:
+
+---
+
+### 1. Table Title/Caption
+Table 2: Genotype-phenotype correlations (Continued)
+
+### 2. Table Purpose
+This table details the clinical and genetic characteristics of various patients, correlating specific genomic DNA, cDNA, and protein alterations with a comprehensive set of phenotypic features. It aims to illustrate the diverse manifestations of a genetic condition across different individuals and geographical origins.
+
+### 3. Table Structure (Columns/Rows)
+The table is structured with rows representing individual patients and columns providing specific data points, categorized as follows:
+*   **Patient Identification & Demographics**:
+    *   `Code`: Unique identifier for each patient.
+    *   `Country (origin)`: Patient's country of origin.
+    *   `Sex`: Patient's biological sex (Male/Female).
+    *   `Age at onset, years`: Age at which symptoms first appeared.
+    *   `Age at biopsy (latest report or death*), years`: Age at biopsy, or age at the latest report/death if indicated by an asterisk.
+*   **Genetic Information**:
+    *   `Clinical classification`: Categorization of the clinical presentation (e.g., I, II, III).
+    *   `Mutation genomic DNA`: Specific mutation identified in the genomic DNA.
+    *   `Mutation cDNA`: Specific mutation identified in the cDNA.
+    *   `Protein alteration`: Predicted alteration in the protein sequence due to the mutation.
+*   **Phenotypic Features (Clinical Symptoms)**:
+    *   `Growth failure`: Presence (+) or absence (-) of growth failure.
+    *   `Low birth weight`: Presence (+) or absence (-) of low birth weight.
+    *   `Cachexia/bird-like faces`: Presence (+) or absence (-) of cachexia or bird-like facial features.
+    *   `Mental retardation*`: Presence (+) or absence (-) of mental retardation.
+    *   `Microcephaly†`: Presence (+) or absence (-) of microcephaly.
+    *   `Cataracts†`: Presence (+) or absence (-) of cataracts.
+    *   `Microphthalmia`: Presence (+) or absence (-) of microphthalmia.
+    *   `Retinal degeneration*`: Presence (+) or absence (-) of retinal degeneration.
+    *   `Deafness`: Presence (+) or absence (-) of deafness.
+    *   `Clinical photosensitivity`: Presence (+) or absence (-) of clinical photosensitivity.
+    *   `Fitzpatrick Skin Type Scale`: Classification of skin type (e.g., I, II, III, P, S, C, M).
+    *   `Dental anomalies`: Presence (+) or absence (-) of dental anomalies.
+    *   `Arthrogryposis`: Presence (+) or absence (-) of arthrogryposis.
+*   **Reference**:
+    *   `Reference§`: Citation number for the source of the patient's data.
+
+### 4. Table Data
+The table presents data for 14 patients from various countries, detailing their genetic mutations and associated clinical phenotypes.
+
+**Patient Demographics and Clinical Classification:**
+Patients originate from the UK (CS2LE, CS1SH, CS1SO, CS1WR, CS058ST), Sweden (CS1GO), Japan (CCS8, CS18NG), France (CS289ST, CS250ST, CS233ST), Italy (CS26PV, CS18PV), and South Africa (CS148ST). The age of symptom onset ranges widely from 0 years (CS250ST, CS1WR, CS233ST, CS18NG, CS18PV) to 33 years (CS2LE). Age at biopsy or latest report also varies, for instance, 14 years for CS2LE, 5 (14*) years for CS1SO, and 36 years for CS26PV. Clinical classifications include I (CS1SH, CS1SO, CS1GO, CS289ST, CS058ST), II (CCS8, CS250ST, CS1WR, CS233ST, CS18NG, CS18PV), I/II (CS148ST), and III? (CS2LE) or III (CS26PV).
+
+**Genetic Mutations and Protein Alterations:**
+*   **CS2LE (UK, Female)**: Classified as III?, this patient has genomic DNA mutations c.[466C>T]; [2203C>T], cDNA mutations r.[466c>u, 423_543del (exon 3)]; [2203c>u], and protein alterations p.[Gln156*, Ser142Asnfs*4]; [Arg735*].
+*   **CS1SH (UK, Female)**: Classified as I, this patient exhibits genomic DNA mutations c.[466C>T]; [1412_1413delTG], cDNA mutations r.[466c>u, 423_543del (exon 3)]; [1412_1413], and protein alterations p.[Gln156*, Ser142Asnfs*4]; [Leu471Glnfs*1].
+*   **CS1SO (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[526C>T]; [1954C>T], cDNA mutations r.[526c>u, 423_543del (exon 3)]; [1954c>u], and protein alterations p.[Arg176*, Ser142Asnfs*4]; [Arg652*].
+*   **CS1GO (Sweden, Male)**: Classified as I, this patient shows genomic DNA mutations c.[526C>T]; [1765_1767delTGG], cDNA mutations r.[526c>u, 423_543del (exon 3)]; [1765_1767delugg], and protein alterations p.[Arg176*, Ser142Asnfs*4]; [Trp589del].
+*   **CCS8 (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[536_537insTA]; [1834C>T], cDNA mutations r.[(536_537insua)]; [(1834c>u)], and protein alterations p.[(Asn180Ilefs)]; [Arg612*].
+*   **CS289ST (France, Male)**: Classified as I, this patient has genomic DNA mutations c.[543G>T]; [543+4delA], cDNA mutations r.[Ser142Asnfs (exon 3)]; [Ser142Asnfs]; [423_543del (exon 3)], and protein alterations p.[Ser142Asnfs]; [Arg735*].
+*   **CS26PV (Italy, Female)**: Classified as III, this patient has genomic DNA mutations c.[543+4delA]; [2203C>T], cDNA mutations r.[423_543del (exon 3)]; [2203>u], and protein alterations p.[Lys273Serfs].
+*   **CS250ST (France, Female)**: Classified as II, this patient has genomic DNA mutations c.[818del]; [1397+2T>A], cDNA mutations r.[(818del)]; [?], and protein alterations p.[(?)].
+*   **CS148ST (South Africa, Male)**: Classified as I/II, this patient has genomic DNA mutations c.[935_936delinsG]; [2167C>T], cDNA mutations r.[(1993_2169del (exon 10))], and protein alterations p.[(Phe665_Gln72)].
+*   **CS1WR (UK, Male)**: Classified as II, this patient has genomic DNA mutations c.[1357C>T]; [2286+1_2286+96, 2286+1G>A (partial insertion of intron 11)], cDNA mutations r.[1357c>u]; [2286_2287ins (in intron 5)], and protein alterations p.[Val763Ilefs*7].
+*   **CS233ST (France, Male)**: Classified as II, this patient has a PiggyBac insertion at c.1397+6912 (in intron 5) in genomic DNA, cDNA mutations r.[(1518delG)]; [2923c>u], and protein alterations p.[(Lys506Asnfs)]; [Arg975*].
+*   **CS058ST (CS2LI) (UK, Female)**: Classified as I, this patient has genomic DNA mutations c.[1526+1G>T]; [3952_3953delAG], cDNA mutations r.[1398_1684del (exons 6-7)]; [3952_3953delag], and protein alterations p.[(Arg467_Arg5)]; [Arg1318Glyfs*].
+*   **CS18NG (Japan, Male)**: Classified as II, this patient has genomic DNA mutations c.[1583G>A]; [1834C>T], cDNA mutations r.[(1583g>a)]; [(1834c>u)], and protein alterations p.[(Gly528Glu)]; [Arg612*].
+*   **CS18PV (Italy, Male)**: Classified as II, this patient has genomic DNA mutations c.[1685+6T>G]; deletion including exons 9 and 10, cDNA mutations r.[1527_1685del (exon 7)]; [1822_2169del (exons 9-10)], and protein alterations p.[(Tyr510_Arg5)]; [Glu608_Gln72].
+
+**Phenotypic Manifestations:**
+A consistent pattern of severe clinical phenotypes is observed across most patients. All 14 patients exhibit growth failure, cachexia/bird-like faces, mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, clinical photosensitivity, dental anomalies, and arthrogryposis. Low birth weight is present in all patients except CS2LE. Fitzpatrick Skin Type Scale varies among patients, including types I, II, III, P, S, C, and M.
+
+### 5. Key Findings
+*   **Consistent Phenotypic Spectrum**: Despite diverse genetic mutations (genomic DNA, cDNA, and protein alterations), a highly consistent and severe set of clinical phenotypes is observed across nearly all patients. These include growth failure, cachexia/bird-like faces, mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, clinical photosensitivity, dental anomalies, and arthrogryposis.
+*   **Low Birth Weight as a Common Feature**: Low birth weight is a prevalent symptom, present in 13 out of 14 patients.
+*   **Variability in Skin Type and Clinical Classification**: While core symptoms are consistent, Fitzpatrick Skin Type Scale and clinical classification (I, II, III, I/II) show variability, suggesting potential differences in severity or specific sub-types of the condition.
+*   **Global Distribution**: The patients originate from various countries across Europe, Asia, and Africa, indicating a global presence of the condition.
+*   **Early Onset**: A significant number of patients present with symptoms at a very young age, often at birth or within the first few years of life.
+
+### 6. Context (Footnotes/Notes)
+*   The asterisk (`*`) indicates that "Mental retardation," "Retinal degeneration," and "Age at biopsy (latest report or death)" refer to the latest available information or the age at death.
+*   The dagger (`†`) indicates that "Microcephaly" and "Cataracts" are specific clinical features.
+*   The section symbol (`§`) indicates a reference for the patient's data.
+*   The table is part of a larger study published as: Calmels N, et al. J Med Genet 2018;55:329–343. doi:10.1136/jmedgenet-2017-104877.
+
+---

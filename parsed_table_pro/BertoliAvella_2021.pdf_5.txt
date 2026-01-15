@@ -1,0 +1,45 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Table Title:** Table 1 continued.
+*Note: This is a continuation of a larger table, presenting data for patients 5 through 9.*
+
+### 2. Table Purpose
+The purpose of this table is to summarize the genetic, clinical, and familial information for five patients (Patients 5-9) with mutations in the *IPO8* gene. It links specific genetic variants to the resulting phenotypes, zygosity, and family history, while also providing supporting evidence for the gene's role in the observed conditions.
+
+### 3. Table Structure
+The table is structured with rows representing individual patients and columns detailing specific attributes:
+*   **Patient:** A unique identifier for each individual (numbered 5 to 9).
+*   **Gene:** The gene in which the mutation was identified (*IPO8* for all patients).
+*   **cDNA:** The specific genetic variant described at the cDNA level (using NM_006390.3 as the reference transcript).
+*   **Protein:** The predicted effect of the mutation on the protein sequence.
+*   **Zygosity:** The zygosity state of the mutation (homozygous for all patients).
+*   **Consanguinity family history:** Information on whether the parents were related and if there was a family history of the disorder.
+*   **Phenotype:** A detailed list of the clinical features and symptoms observed in the patient.
+*   **Evidence:** Supporting evidence for the pathogenicity of *IPO8* mutations.
+*   **PMID:** PubMed identifiers for related publications.
+*   **Others:** An additional column for other relevant information (empty in this section).
+
+### 4. Table Data
+This section of the table details findings for five patients with homozygous mutations in the *IPO8* gene.
+
+**Patient 5** has a homozygous nonsense mutation in the *IPO8* gene, identified as c.700C>T at the cDNA level (NM_006390.3), resulting in a premature stop codon at the protein level (p.Arg234*). The family history indicates consanguinity. The patient's phenotype is complex and multi-systemic, including hydronephrosis, high palate, cupped ear, prominent nasal bridge, long palpebral fissure, ectropion, pectus carinatum, atopic dermatitis, muscular hypotonia, global developmental delay, joint hypermobility, failure to thrive, umbilical hernia, alopecia, and several cardiac defects such as ventricular septal defect, patent ductus arteriosus, and double outlet right ventricle. Other features include talipes equinovarus, abnormal facial shape, chronic diarrhea, abdominal distention, exostosis of the external auditory canal, and feeding difficulties. The evidence cited for the gene's involvement, referenced by PMIDs 30042658, 29036603, 27339468, and 29881787, notes that acute knockdown of the orthologous gene *Ipo8* in mice leads to altered neuronal migration. Furthermore, *IPO8* is considered a housekeeping gene with stable expression across various tissues, including the heart, lung, adipose tissue, retina, and cancer cells.
+
+**Patient 6** presents with a homozygous nonsense mutation in *IPO8*, c.1933C>T, leading to the protein change p.Gln645*. The family history confirms consanguinity. The clinical phenotype includes cutis laxa, joint hypermobility, generalized joint laxity, short stature, and an abnormal facial shape. The supporting evidence for pathogenicity is the same as that described for Patient 5.
+
+**Patient 7** has a large homozygous deletion in the *IPO8* gene, described as c.4_2695+8del (genomic coordinates NC_000012.11:g.30789908_3079912del). The effect on the protein is noted as unknown (p.?). This patient is from a consanguineous family. The observed phenotype includes cutis laxa, joint hypermobility, umbilical hernia, a high narrow palate, abnormal facial shape, and a mitral valve abnormality. The supporting evidence is the same as for the patients above.
+
+**Patients 8 and 9** share the same homozygous nonsense mutation in the *IPO8* gene: c.776G>A, which results in the protein change p.Trp259*. Both patients come from consanguineous families. Despite the identical mutation, their phenotypes show some variation. **Patient 8**'s phenotype includes global developmental delay, hydronephrosis, and muscular hypotonia. **Patient 9** presents with a more extensive set of features, including brachycephaly, microcephaly, hypertelorism, low-set ears, blue sclerae, nystagmus, pectus excavatum, hypothyroidism, hirsutism, global developmental delay, joint laxity, failure to thrive, right ventricular hypertrophy, abnormal facial shape, pulmonary arterial hypertension, and emphysema. For both patients, the supporting evidence is the same as described for Patient 5.
+
+### 5. Key Findings
+*   **Genetic Basis:** All five patients have homozygous loss-of-function mutations in the *IPO8* gene, confirming its role in a recessive genetic disorder.
+*   **Phenotypic Spectrum:** The clinical features associated with *IPO8* mutations are broad and variable, commonly including developmental delay, joint laxity/hypermobility, abnormal facial features, and hypotonia.
+*   **Phenotypic Variability:** There is significant clinical variability even among patients with the same mutation (as seen in Patients 8 and 9), suggesting the influence of other genetic or environmental factors.
+*   **Consanguinity:** A history of consanguinity is present in all five families, which is consistent with a rare autosomal recessive inheritance pattern.
+*   **Pathogenic Evidence:** The pathogenicity of *IPO8* variants is supported by functional data from mouse models, where *Ipo8* knockdown affects neuronal migration, and by the gene's widespread and stable expression in multiple human tissues.
+
+### 6. Context (footnotes/notes)
+*   The asterisk (*) next to protein changes (p.Arg234*, p.Gln645*, p.Trp259*) indicates a nonsense mutation that creates a premature stop codon.
+*   The question mark (?) for the protein change in Patient 7 indicates that the precise effect of the large deletion on the protein product is unknown or undetermined.
+*   The "Consanguinity family history" column contains entries like "Yes, yes" and "Yes, no". This likely refers to two separate questions: the first "Yes" indicates consanguinity is present, while the second entry may refer to a known family history of the specific disorder.
+*   The "Evidence" and "PMID" columns for Patients 6, 7, 8, and 9 are marked "As above," referring back to the detailed evidence and list of PubMed IDs provided for Patient 5.

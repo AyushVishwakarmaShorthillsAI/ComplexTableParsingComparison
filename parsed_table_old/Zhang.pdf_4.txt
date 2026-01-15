@@ -1,0 +1,70 @@
+Here's an extraction and description of the table content:
+
+---
+
+### 1. Table Title/Caption
+Table 1 (continued)
+
+### 2. Table Purpose
+This table presents a continued list of clinical characteristics for individual cases, likely patients, who share a specific genetic variant (p.Glu209Lys). It details their epilepsy profile, intellectual disability/developmental delay (ID/DD) and physical development, brain MRI findings, nutritional status, and other associated features. The table aims to provide a comprehensive overview of the phenotypic spectrum associated with this genetic variant.
+
+### 3. Table Structure (columns/rows)
+The table is structured with the following main columns and their sub-columns:
+*   **Case**: Identifies the individual case number and the source publication (e.g., Olson et al. [4]).
+*   **Variant**: Specifies the genetic variant observed.
+*   **Sex**: Indicates the sex of the individual (M for Male, F for Female).
+*   **Epilepsy**:
+    *   **Age of onset**: The age at which epilepsy symptoms first appeared.
+    *   **Seizure type**: Describes the type of seizures experienced.
+    *   **Number of ASMs used**: The total number of anti-seizure medications used.
+    *   **Last seizure episode**: The time elapsed since the last seizure.
+    *   **Effective ASM**: The anti-seizure medication(s) found to be effective.
+*   **ID/DD Physical development**:
+    *   **Microcephaly**: Indicates the presence (+) or absence (-) of microcephaly.
+    *   **Facial abnormalities**: Indicates the presence (+) or absence (-) of facial abnormalities.
+    *   **Distal limb abnormalities**: Indicates the presence (+) or absence (-) of distal limb abnormalities.
+*   **Brain MRI abnormalities**: Indicates the presence (+) or absence (-) of abnormalities on brain MRI.
+*   **Malnutrition**: Indicates the presence (+) or absence (-) of malnutrition.
+*   **Others**: This column indicates the presence of other clinical features. The header lists potential features such as astigmatism, frequent ear infections, micropenis, cryptorchidism, infantile hypertrophic pyloric stenosis, precocious puberty, and short head. For specific cases, "ASD" (Autism Spectrum Disorder) is also noted.
+
+### 4. Table Data
+The table provides data for 12 cases (Case 11 to Case 22), all of whom share the genetic variant **p.Glu209Lys**.
+
+**Epilepsy Characteristics:**
+*   **Age of onset** for epilepsy was consistently very early, ranging from 1 day to 2 weeks. Specifically, 7 cases (12, 14, 17, 18, 21, 22) had onset at 3 days, Case 11 at 1 day, Case 15 at 2 days, Cases 13 and 16 at 2 weeks, Case 19 at 7 days, and Case 20 at 5 days.
+*   **Seizure types** varied but frequently included focal seizures, tonic seizures, and generalized tonic-clonic seizures (GTCS). Case 11 presented with Focal, GTCS. Cases 12 and 13 had Focal tonic-clonic seizures, with Case 12 also experiencing Status Epilepticus (SE) and Case 13 also having generalized tonic seizures. Case 14 had Tonic, GTCS. Case 15 showed Focal seizures progressing to tonic. Cases 16, 18, and 21 had Tonic seizures. Case 17 presented with Focal or generalized tonic seizures, consistent with Lennox-Gastaut Syndrome (LGS). Cases 19 and 20 had Focal seizures, with Case 19 also experiencing tonic-clonic seizures. Case 22 had Focal seizures.
+*   The **number of ASMs used** ranged from 1 to 7. Cases 11, 18, and 20 used 2 ASMs. Cases 12, 15, and 22 used 3 ASMs. Cases 14 and 19 used 4 ASMs. Case 13 used 7 ASMs. Case 21 used 1 ASM. For Cases 16 and 17, this information was not available (NA).
+*   The **last seizure episode** varied from 2 months to 4 years. Case 11's last seizure was 2 months prior. Case 12's was 3 months prior. Case 13's was 3 years prior. Case 14's was 4 years prior. Case 15's was 4 months prior. Case 16's was 2 years prior. Case 17's was 9 months prior. Case 18's was 2 years 3 months prior. Case 19's was 1 year prior. Case 20's was 11 months prior. For Cases 21 and 22, this information was not available (NA).
+*   **Effective ASMs** included a range of medications. Case 12 responded to OXC (Oxcarbazepine). Case 14 responded to LEV LCM (Levetiracetam, Lacosamide). Case 15 responded to CBZ CLB (Carbamazepine, Clobazam). Case 16 responded to CBZ (Carbamazepine). Case 17 responded to TPM ZNS CZP LTG VPA (Topiramate, Zonisamide, Clobazam, Lamotrigine, Valproic acid). Cases 18 and 20 responded to VPA (Valproic acid). Case 19 responded to VPA LEV (Valproic acid, Levetiracetam). For Cases 11, 13, 21, and 22, effective ASMs were not available (NA).
+
+**Physical and Developmental Characteristics:**
+*   **Sex** distribution included 2 males (Cases 11, 22) and 10 females (Cases 12-21).
+*   All 12 cases (11-22) presented with **Microcephaly** (+).
+*   All 12 cases (11-22) presented with **Facial abnormalities** (+).
+*   Most cases (11, 13-22) presented with **Distal limb abnormalities** (+), with only Case 12 showing no (-) distal limb abnormalities.
+*   All 12 cases (11-22) showed **Brain MRI abnormalities** (+).
+*   None of the 12 cases (11-22) presented with **Malnutrition** (-).
+
+**Other Features:**
+*   Case 11 presented with unspecified other features, which could include astigmatism, frequent ear infections, micropenis, cryptorchidism, infantile hypertrophic pyloric stenosis, precocious puberty, or short head.
+*   All other cases (12-21) did not present with any of the listed "other" features (-).
+*   Case 22 specifically presented with **Autism Spectrum Disorder (ASD)**.
+
+### 5. Key Findings
+*   All 12 cases in this table share the **p.Glu209Lys genetic variant**.
+*   There is a strong female predominance among these cases (10 females vs. 2 males).
+*   Epilepsy is a universal feature, with very early onset (within days to weeks of birth) and a variety of seizure types, often involving focal and tonic components.
+*   All individuals exhibited **microcephaly, facial abnormalities, and brain MRI abnormalities**.
+*   Distal limb abnormalities were present in 11 out of 12 cases, indicating a high prevalence.
+*   Malnutrition was not observed in any of the cases.
+*   Beyond the core features, Case 11 had unspecified other features, and Case 22 was diagnosed with Autism Spectrum Disorder (ASD).
+
+### 6. Context (footnotes/notes)
+The "Case" column includes references to the original publications where these cases were reported:
+*   Cases 11, 12, 13, 14 are from Olson et al. [4].
+*   Case 15 is from Dentici et al. [5].
+*   Cases 16, 17, 18 are from Simmen et al. [3].
+*   Cases 19, 20, 21 are from Olson et al. [7].
+*   Case 22 is from Wu et al. [10].
+
+---

@@ -1,0 +1,85 @@
+Here's a description of the table content, optimized for semantic search and RAG:
+
+---
+
+### 1. Table Title/Caption
+Table 2: Genotype-phenotype correlations (Continued)
+
+### 2. Table Purpose
+This table details the correlation between specific genetic mutations (genotypes) and a range of clinical characteristics (phenotypes) observed in a cohort of patients. It aims to provide a comprehensive overview of the genetic alterations and their associated clinical manifestations, including patient demographics, mutation details, and a wide array of symptoms.
+
+### 3. Table Structure (Columns/Rows)
+The table is structured with 20 rows, each representing a distinct patient or case, and 20 columns organized into several main categories:
+
+*   **Patient Demographics:**
+    *   **Code:** Unique identifier for each patient (e.g., CS8PV, CS144ST).
+    *   **Country (origin):** Geographic origin of the patient (e.g., Sri Lanka, India, UK).
+    *   **Sex:** Gender of the patient (M for Male, F for Female).
+    *   **Age at onset, years:** Age at which the first symptoms were observed.
+    *   **Age at biopsy (latest report or death*), years:** Age at the time of biopsy, latest clinical report, or death.
+*   **Genetic Information:**
+    *   **Clinical classification:** Categorization of the clinical presentation (e.g., I, II, III, I/III).
+    *   **Mutation genomic DNA:** Description of the genetic mutation at the genomic DNA level.
+    *   **Mutation cDNA:** Description of the genetic mutation at the complementary DNA (cDNA) level.
+    *   **Protein alteration:** Description of the resulting change in the protein sequence.
+*   **Phenotypic Features (Clinical Symptoms):**
+    *   **Growth failure:** Presence (+) or absence (-) of growth failure.
+    *   **Low birth weight:** Presence (+) or absence (-) of low birth weight.
+    *   **Cachexia/bird-like faces:** Presence (+) or absence (-) of cachexia or bird-like facial features.
+    *   **Mental retardation\*:** Severity of mental retardation (S for severe, M for moderate, C for cognitive impairment).
+    *   **Microcephaly†:** Presence (+) or absence (-) of microcephaly (C for congenital).
+    *   **Cataracts†:** Presence (+) or absence (-) of cataracts.
+    *   **Microphthalmia:** Presence (+) or absence (-) of microphthalmia.
+    *   **Retinal degeneration‡:** Presence (+) or absence (-) of retinal degeneration.
+    *   **Deafness:** Presence (+) or absence (-) of deafness.
+    *   **Clinical photosensitivity:** Presence (+) or absence (-) of clinical photosensitivity.
+    *   **Fitzpatrick Skin Type Scale:** Classification of skin type (I, II, III, IV, V).
+    *   **Dental anomalies:** Presence (+) or absence (-) of dental anomalies.
+    *   **Arthrogryposis:** Presence (+) or absence (-) of arthrogryposis.
+    *   **References§:** Numerical reference to the source of information.
+
+### 4. Table Data
+The table presents detailed genotype-phenotype correlations for 20 patients, including several with compound heterozygous mutations.
+
+**Patients with Single Heterozygous Mutations:**
+*   **CS8PV (Sri Lanka, Male):** Presented with onset at 0.1 years and was 1 year old (4.5* at latest report). Classified as clinical type II, he had a c.2279_2280insA genomic DNA mutation, r.2279_2280insA cDNA mutation, and p.Asn760Lysfs* protein alteration. Phenotypically, he exhibited growth failure, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, clinical photosensitivity, and arthrogryposis. His Fitzpatrick Skin Type was IV.
+*   **CS144ST (India, Male):** Onset at 0 years, 3.5 years at latest report. Clinical type II, with a c.2560C>T genomic DNA mutation, r.(2560c>u) cDNA mutation, and p.(Gln854*) protein alteration. Phenotypes included growth failure, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, clinical photosensitivity, and dental anomalies. His Fitzpatrick Skin Type was V.
+*   **CS31PV (Pakistan, Male):** Onset at 0 years, 2 years at latest report. Clinical type II, with a c.2599_26A>G genomic DNA mutation, r.2598_2599ins2599-25_2599-1 (partial insertion of intron 13) cDNA mutation, and p.Met867Thrfs* protein alteration. He showed growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS20PV (Senegal, Female):** Onset at 0 years, 0.5 years at latest report (1.7*). Clinical type II, with a c.2624T>C genomic DNA mutation, r.2624u>c cDNA mutation, and p.Leu875Pro protein alteration. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. Her Fitzpatrick Skin Type was V.
+*   **CS11LO (UK, Male):** Onset at 0.5 years, 0.5 years at latest report. Clinical type II, with a c.2830-2A>G genomic DNA mutation, r.2830_2924del (exon 16) cDNA mutation, and p.Ala944Thrfs* protein alteration. He presented with growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS23BR (UK (?), Male):** Onset at 0 years, 0.5 years at latest report. Clinical type II, with a c.2925-93_3778+527delinsTT genomic DNA mutation, r.2925_3778del (exon 17, 18) cDNA mutation, and p.Gln976Trpfs* protein alteration. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS210ST (UK, Male):** Onset at 0 years, 1.5 years at latest report. Clinical type II, with a c.3052dupA genomic DNA mutation, r.(3052dupa) cDNA mutation, and p.(Thr1018Asnfs) protein alteration. He showed growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS241ST (UK, Male):** Onset at 0 years, 4 years at latest report. Clinical type II, with a c.3536delA genomic DNA mutation, r.(3536dela) cDNA mutation, and p.(Tyr1179Leufs) protein alteration. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS25LO (UK (Pakistan?), Male):** Onset at 0 years, 2 years at latest report. Clinical type II, with a c.3627_3628insT genomic DNA mutation, r.3627_3628insu cDNA mutation, and p.Lys1210* protein alteration. He exhibited growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS270ST (Iran, Female):** Onset at 0.3 years, 10 years at latest report. Clinical type I, with a c.3862C>T genomic DNA mutation, r.(3862c>u) cDNA mutation, and p.(Arg1288*) protein alteration. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, moderate mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. Her Fitzpatrick Skin Type was V.
+*   **CS071ST (India, Male):** Onset at 0 years, 16 years at latest report. Clinical type III, with a c.4063-1G>C genomic DNA mutation, r.(4062_4063ins4063-139_4063-1; 4063-1g>c (partial insertion of intron 20)) cDNA mutation, and p.(Asp1355Valfs) protein alteration. He showed growth failure, low birth weight, cachexia/bird-like faces, moderate mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS204ST (India, Male):** Onset at 0 years, 13 years at latest report. Clinical type III, with the same c.4063-1G>C genomic DNA mutation, r.(4062_4063ins4063-139_4063-1; 4063-1g>c (partial insertion of intron 20)) cDNA mutation, and p.(Asp1355Valfs) protein alteration as CS071ST. Phenotypes were identical: growth failure, low birth weight, cachexia/bird-like faces, moderate mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS221ST (India, Male):** Onset at 4 years, 8 years at latest report. Clinical type III, with the same c.4063-1G>C genomic DNA mutation, r.(4062_4063ins4063-139_4063-1; 4063-1g>c (partial insertion of intron 20)) cDNA mutation, and p.(Asp1355Valfs) protein alteration as CS071ST and CS204ST. Phenotypes were also identical: growth failure, low birth weight, cachexia/bird-like faces, moderate mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+*   **CS222ST (UK, Female):** Onset at 0 years, 0.5 years at latest report. Clinical type I, with a c.4180delA genomic DNA mutation, r.4180dela cDNA mutation, and p.Arg1394Glufs protein alteration. She presented with growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. Her Fitzpatrick Skin Type was V.
+*   **CS27LO (UK (Pakistan?), Female):** Onset at 0 years, 10 years at latest report. Clinical type II, with c.[del exon1]; [2047C>T] genomic DNA mutations, r.[?]; [(2047c>u)] cDNA mutations, and p.[?]; [(Arg683*)] protein alterations. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. Her Fitzpatrick Skin Type was V.
+*   **CS288ST (France (Reunion), Female):** Onset at 0 years, 4 years at latest report. Clinical type II, with c.[(222+1_?)del]; [1834C>T] genomic DNA mutations, r.[?]; [(1834c>u)] cDNA mutations, and p.[?]; [(Arg612*)] protein alterations. She exhibited growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. Her Fitzpatrick Skin Type was V.
+
+**Patients with Compound Heterozygous Mutations:**
+*   **CS195ST (France, Female):** Onset at 1 year, 2 years at latest report. Clinical type II, with compound heterozygous mutations: c.[466C>U, 423_543del (exon 3)]; [2839C>T] genomic DNA, r.[466c>u, 423_543del (exon 3)]; [2839c>u] cDNA, and p.[Gln156*, Ser142Asnfs*, Arg947*] protein alterations. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. Her Fitzpatrick Skin Type was V.
+*   **CS1PR (UK, Female):** Onset at 2 years, 17 years at latest report. Clinical type I/III, with compound heterozygous mutations: c.[466C>U, 2599-26A>G]; [2839C>T] genomic DNA, r.[466c>u, 2599-25_2599-1 (partial insertion of intron 13)]; [2839c>u] cDNA, and p.[Gln156*, Ser142Asnfs*, (Met867Thrfs*)]; [Arg947*] protein alterations. She showed growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. Her Fitzpatrick Skin Type was V.
+*   **CS225ST (UK, Female):** Onset at 2 years, 2 years at latest report. Clinical type I/III, with compound heterozygous mutations: c.[466C>U, 423_543del (exon 3)]; [2839C>T] genomic DNA, r.[466c>u, 423_543del (exon 3)]; [2839c>u] cDNA, and p.[Gln156*, Ser142Asnfs*, Arg947*] protein alterations. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. Her Fitzpatrick Skin Type was V.
+*   **CS5MA (UK, Male):** Onset at 2 years, 2 years at latest report. Clinical type II, with compound heterozygous mutations: c.[466C>U, 423_543del (exon 3)]; [2839C>T] genomic DNA, r.[466c>u, 423_543del (exon 3)]; [2839c>u] cDNA, and p.[Gln156*, Ser142Asnfs*, Arg947*] protein alterations. He exhibited growth failure, low birth weight, cachexia/bird-like faces, severe mental retardation, microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity. His Fitzpatrick Skin Type was V.
+
+### 5. Key Findings
+*   **Consistent Severe Phenotype:** Despite a wide variety of underlying genetic mutations (including insertions, deletions, and point mutations, both heterozygous and compound heterozygous), patients consistently present with a severe and overlapping set of clinical features.
+*   **Core Symptoms:** The most frequently observed phenotypes across nearly all patients include growth failure, cachexia/bird-like faces, mental retardation (predominantly severe), microcephaly, cataracts, microphthalmia, retinal degeneration, deafness, and clinical photosensitivity.
+*   **Early Onset:** The age of symptom onset is typically very early, often at birth or within the first year of life, indicating a congenital or early developmental disorder.
+*   **Skin Photosensitivity:** A high prevalence of Fitzpatrick Skin Type V (indicating extreme photosensitivity) is noted across most patients.
+*   **Genetic Heterogeneity:** The table demonstrates significant genetic heterogeneity, with numerous distinct mutations leading to similar clinical outcomes, highlighting the critical role of the affected gene in these pathways.
+*   **Compound Heterozygosity:** Several patients exhibit compound heterozygous mutations, where two different mutations in the same gene contribute to the disease, resulting in a phenotype similar to those with single severe mutations.
+
+### 6. Context (Footnotes/Notes)
+*   `*`: Denotes age at the latest report or death. For mental retardation, it specifies severity: S=severe, M=moderate, C=cognitive impairment.
+*   `†`: Refers to Microcephaly (C=congenital) and Cataracts.
+*   `‡`: Refers to Retinal degeneration.
+*   `§`: Indicates a reference number for the specific case or finding.
+*   The table is a continuation of "Table 2" from the original publication.
+*   The source paper is "Calmelns N, et al. J Med Genet 2018;55:329–343. doi:10.1136/jmedgenet-2017-104877."
+*   The document was first published on 23 March 2018 and downloaded from http://jmg.bmj.com/ on July 13, 2025. It is protected by copyright for uses including text and data mining, AI training, and similar technologies.
+
+---

@@ -1,0 +1,75 @@
+Here's an extraction and description of the table content, optimized for semantic search and RAG:
+
+---
+
+**1. Table Title/Caption:**
+Table 1 (continued)
+
+**2. Table Purpose:**
+This table provides a detailed overview of the clinical characteristics, epilepsy features, developmental status, and other associated abnormalities for six individual cases (Cases 23-28) with PACS family gene-related neurological diseases. It aims to present specific patient data, including genetic variants, sex, epilepsy onset and treatment, intellectual/developmental delays, and other physical or imaging findings.
+
+**3. Table Structure (columns/rows):**
+The table is structured with the following main columns and their sub-columns:
+*   **Case:** Unique identifier for each patient.
+*   **Variant:** The specific genetic mutation identified.
+*   **Sex:** Gender of the patient (Male or Female).
+*   **Epilepsy:**
+    *   Age of onset
+    *   Seizure type
+    *   Number of ASMs used (Anti-Seizure Medications)
+    *   Last seizure episode
+    *   Effective ASM
+*   **ID/DD Physical development (Intellectual Disability/Developmental Delay):**
+    *   Microcephaly
+    *   Facial abnormalities
+    *   Distal limb abnormalities
+*   **Brain MRI abnormalities:** Presence or absence of abnormalities on Magnetic Resonance Imaging.
+*   **Malnutrition:** Presence or absence of malnutrition.
+*   **Others:** Additional descriptive notes, such as "Newly diagnosed."
+
+**4. Table Data:**
+
+The table presents data for six cases (23-28), all of whom are described as "Newly diagnosed."
+
+**Genetic Variants and Demographics:**
+Five of the six cases (23-27) share the p.Glu209Lys genetic variant. Case 28, reported by Wan et al. [2], has the p.Glu211Lys variant. The patient cohort includes four males (Cases 23, 25, 28) and two females (Cases 24, 26, 27).
+
+**Epilepsy Characteristics:**
+All patients experienced very early-onset epilepsy. Cases 23, 24, 26, and 28 had seizure onset at 3 days of age. Case 27's seizures began at 7 days, and Case 25's onset was before 1 month of age. The predominant seizure type was Focal, observed in Cases 24, 25, 26, and 27. Case 23 specifically had Focal Generalized Tonic-Clonic Seizures (GTCS), while Case 28 presented with Tonic seizures. The number of anti-seizure medications (ASMs) used ranged from 1 (Case 23) to 3 (Case 28), with most cases (24-27) using 2 ASMs. The effective ASMs varied: Valproate (VPA) was effective for Cases 23 and 26; a combination of VPA and Oxcarbazepine (OXC) for Case 24; VPA and Levetiracetam (LEV) for Case 25; Vigabatrin (VGB) and VPA for Case 27; and Phenobarbital (PB) for Case 28. The last recorded seizure episode varied widely, from 4 months (Case 27) to 17 years (Case 25). Other last seizure episodes were at 1 year 4 months (Case 23), 1 year 1 month (Case 24), 1 year 9 months (Case 26), and 13 months (Case 28).
+
+**Intellectual Disability/Developmental Delay (ID/DD) and Physical Development:**
+All six cases exhibited Intellectual Disability/Developmental Delay (ID/DD), indicated by a "+" symbol. In Case 25, the ID/DD was specifically noted as "Mild." Regarding other physical abnormalities, Case 27 presented with facial abnormalities, and Case 28 showed distal limb abnormalities. No microcephaly was reported for any of these cases.
+
+**Brain MRI and Malnutrition:**
+Brain MRI abnormalities were observed in three cases: Case 24, Case 26, and Case 28. Cases 23, 25, and 27 did not have specified MRI abnormalities. Malnutrition was reported only in Case 28.
+
+**5. Key Findings:**
+
+*   All six patients with PACS family gene-related neurological diseases presented with very early-onset epilepsy (within days to less than a month of birth) and Intellectual Disability/Developmental Delay.
+*   Focal seizures were the most common type, although one case (Case 28) exhibited Tonic seizures.
+*   Valproate (VPA) was a frequently effective anti-seizure medication, often used in combination with other drugs.
+*   Brain MRI abnormalities were present in half of the cases (24, 26, 28).
+*   Specific physical abnormalities beyond ID/DD were less common but included facial abnormalities (Case 27) and distal limb abnormalities (Case 28).
+*   Case 28, with the p.Glu211Lys variant, showed a distinct profile including Tonic seizures, distal limb abnormalities, and malnutrition, in addition to ID/DD and MRI abnormalities.
+
+**6. Context (footnotes/notes):**
+The footnote indicates that detailed data for other reported cases were not available from published papers, suggesting this table focuses on a specific set of cases with accessible comprehensive data.
+**Abbreviations used in the table:**
+*   **ASM:** anti-seizure medication
+*   **ASD:** atrial septal defect
+*   **CBZ:** carbamazepine
+*   **CZP:** clonazepam
+*   **F:** female
+*   **GTCS:** generalized tonic-clonic seizure
+*   **LCM:** lacosamide
+*   **LEV:** levetiracetam
+*   **LTG:** lamotrigine
+*   **M:** male
+*   **MRI:** magnetic resonance imaging
+*   **NA:** not available
+*   **OXC:** oxcarbazepine
+*   **PB:** phenobarbital
+*   **TPM:** topiramate
+*   **VGB:** vigabatrin
+*   **VPA:** sodium valproate
+*   **ZNS:** zonisamide

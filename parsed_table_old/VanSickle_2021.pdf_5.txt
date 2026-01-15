@@ -1,0 +1,53 @@
+Here's a description of the table content, optimized for semantic search and RAG:
+
+---
+
+**1. Table Title/Caption:**
+TABLE 1 Patient genotypes and phenotypes
+
+**2. Table Purpose:**
+This table presents a comparative analysis of genetic variants (genotypes) and their associated clinical manifestations (phenotypes) across nine individuals. It includes four newly described patients (Patient 6, 7, 8, 9) and five previously reported cases from Rodan et al. (2018) and Bupp et al. (2018). The purpose is to delineate the spectrum of clinical features linked to specific genetic alterations, primarily focusing on developmental, anthropometric, neurological, and dysmorphic characteristics.
+
+**3. Table Structure (columns/rows):**
+The table is structured with rows representing various clinical and genetic features, and columns representing individual patients or reported cases.
+*   **Rows (Features):** Variant, Inheritance, Age at most recent evaluation, Sex, Prenatal findings, Head circumference, Height, Weight, Global developmental delay, Age at walking, Age at first words, Behavior, Epilepsy, Hypotonia, and Dysmorphic features.
+*   **Columns (Patients/Cases):**
+    *   Patient 6 (Variant: NM_001287190.1)
+    *   Patient 7 (Variant: c.1313_1316delCTGT (p.Pro438Argfs*9))
+    *   Patient 8 (Variant: c.1242-2A>G (IVS11-2A>G))
+    *   Patient 9 (Variant: c.1252C>T (p.Gln418*))
+    *   Bupp et al. (2018) (Variant: c.1342A>G (p.Lys448*))
+    *   Rodan et al. (2018)-1 (Variant: c.1241+1G>T (IVS11+1G>T))
+    *   Rodan et al. (2018)-2 (Variant: c.1240_1241dupTG (p.Trp414Cysfs*17))
+    *   Rodan et al. (2018)-3 (Variant: c.1255C>T (p.Gln419*))
+    *   Rodan et al. (2018)-4 (Variant: c.1242_1263del22 (p.Trp414*))
+
+**4. Table Data:**
+
+All nine patients presented in the table, including the four new cases (Patient 6, 7, 8, 9) and the five previously reported cases (Bupp et al. 2018, Rodan et al. 2018 cases 1-4), share *de novo* genetic variants. The specific variants are NM_001287190.1 for Patient 6, c.1313_1316delCTGT (p.Pro438Argfs*9) for Patient 7, c.1242-2A>G (IVS11-2A>G) for Patient 8, and c.1252C>T (p.Gln418*) for Patient 9. The variant for Bupp et al. (2018) is c.1342A>G (p.Lys448*). Rodan et al. (2018) cases include c.1241+1G>T (IVS11+1G>T) for Case 1, c.1240_1241dupTG (p.Trp414Cysfs*17) for Case 2, c.1255C>T (p.Gln419*) for Case 3, and c.1242_1263del22 (p.Trp414*) for Case 4.
+
+The ages at most recent evaluation varied widely, from 10 months for Patient 9 to 20 years for Patient 8. Patient 6 was 9 years 5 months, Patient 7 was 5 years 9 months, and the Bupp et al. (2018) patient was 32 months. Rodan et al. (2018) cases were evaluated at 6 years (Case 1), 16 years (Case 2), 8 years (Case 3), and 34 weeks gestational age (Case 4, a stillborn fetus). Most patients are male (Patient 6, 7, 8, Bupp et al. 2018, Rodan et al. 2018 Cases 1, 3, 4), with Patient 9 and Rodan et al. (2018) Case 2 being female.
+
+Prenatal findings were diverse: Patient 6 and Patient 9 had no reported findings or were normal, respectively. Patient 7, Bupp et al. (2018), and Rodan et al. (2018) Cases 1, 2, and 4 all presented with polyhydramnios, with some also noting decreased fetal movement (Bupp et al. 2018, Rodan et al. 2018 Case 1) or severe abnormalities like large for gestational age, macrocephaly, and neuroimaging abnormalities (Rodan et al. 2018 Case 4). Patient 8 had cephalopelvic disproportion, and Rodan et al. (2018) Case 3 was normal.
+
+Anthropometric measurements showed variability. Head circumference ranged from 42% (Patient 7) to 99% (Patient 8, Patient 9, Rodan et al. 2018 Case 4), with others around 90% (Patient 6, Bupp et al. 2018) or >97% (Rodan et al. 2018 Case 2). Height percentiles varied from 29% (Patient 7) to 98% (Patient 9), with Patient 6 at 42% and Patient 8 at 77%. Weight percentiles ranged from 11% (Patient 7) to 97% (Rodan et al. 2018 Case 4), with Patient 6 at 23%, Patient 8 at 88%, and Patient 9 at 73%.
+
+Global developmental delay was present in all patients except Rodan et al. (2018) Case 4, which was a stillborn fetus. Age at walking was delayed, ranging from 17 months (Patient 9) to 6 years (Patient 8), with some patients (Bupp et al. 2018, Rodan et al. 2018 Case 2) not yet walking. Similarly, age at first words was delayed, from 29 months (Rodan et al. 2018 Case 1) to 6 years (Patient 8), and Patient 9 and Bupp et al. (2018) had not yet spoken. Behavioral issues were noted in some patients: Patient 6 was stubborn, Patient 8 exhibited anxiety, disruptive behavior, mild aggression, poor social and coping skills, poor academic performance, and self-injurious behavior. Bupp et al. (2018) had autism, and Rodan et al. (2018) Case 1 showed ADHD and aggression. Patient 9 and Rodan et al. (2018) Case 3 had no behavioral concerns.
+
+Epilepsy was reported in Patient 6 and Patient 8, with onset at 14 years for both. It was absent in Patient 7, Patient 9, Bupp et al. (2018), and Rodan et al. (2018) Cases 1, 2, and 3. Hypotonia was a common feature, present in Patient 6, 7, 8, 9, Bupp et al. (2018), and Rodan et al. (2018) Cases 1 and 2, but absent in Rodan et al. (2018) Case 3.
+
+Dysmorphic features were diverse across the cohort. Common findings included broad forehead (Patient 6, 7, 9, Rodan et al. 2018 Cases 2, 3), hypertelorism (Patient 6, 9, Rodan et al. 2018 Cases 1, 2, 3, 4), and cryptorchidism (Patient 6, 7, Rodan et al. 2018 Case 1). Other notable features included elongated face (Patient 6, 7), low anterior hairline (Patient 6), narrow bridge of nose (Patient 6), deep-set eyes (Rodan et al. 2018 Cases 1, 2), blepharophimosis (Rodan et al. 2018 Case 2), tapering of arms and legs (Rodan et al. 2018 Case 2), mild ptosis (Rodan et al. 2018 Case 3), down-slanting palpebral fissures (Rodan et al. 2018 Case 3), frontal bossing (Patient 8), dolichocephaly (Patient 8), bilateral epicanthal folds (Patient 8), high palate (Patient 8, Bupp et al. 2018), slight facial asymmetry (Patient 8), mild retrognathia (Patient 9), cupped ears (Bupp et al. 2018), 5th finger clinodactyly (Rodan et al. 2018 Case 1), fusion of first and second ribs (Rodan et al. 2018 Case 1), and thin upper lip (Patient 6, Rodan et al. 2018 Case 4).
+
+**5. Key Findings:**
+*   All patients, both newly reported and previously published, exhibit *de novo* genetic variants, suggesting a consistent genetic origin for the observed phenotypes.
+*   Global developmental delay and hypotonia are nearly universal findings, indicating significant neurodevelopmental impairment across the cohort.
+*   Polyhydramnios is a recurrent prenatal finding, observed in over half of the cases, often associated with other fetal abnormalities.
+*   A broad spectrum of dysmorphic features is present, with broad forehead and hypertelorism being common, alongside various other facial, skeletal, and genital anomalies (e.g., cryptorchidism).
+*   Delayed motor and language milestones are prominent, with many patients experiencing significant delays in walking and speaking.
+*   Behavioral and psychiatric manifestations, including autism, ADHD, aggression, anxiety, and self-injurious behavior, are reported in a subset of patients, highlighting the neurodevelopmental impact.
+*   Epilepsy is present in some patients, with onset occurring in adolescence in the reported cases.
+
+**6. Context (footnotes/notes):**
+No footnotes or additional notes are provided within the visible table content.
+
+---

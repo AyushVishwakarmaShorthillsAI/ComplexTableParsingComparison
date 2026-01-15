@@ -1,0 +1,44 @@
+Here's the extracted and described content of the table:
+
+---
+
+**1. Table Title/Caption:**
+Table 1 continued
+
+**2. Table Purpose:**
+This table, a continuation of a larger Table 1, details genetic and phenotypic information for specific patients. It aims to link identified gene variants (cDNA, protein changes, zygosity) with a comprehensive list of associated clinical phenotypes, along with evidence and family history, likely in the context of a genetic study or case series.
+
+**3. Table Structure (columns/rows):**
+The table consists of one data row and ten columns:
+*   **Patient:** An identifier for the individual patient.
+*   **Gene:** The name of the gene involved.
+*   **cDNA:** The complementary DNA variant description.
+*   **Protein:** The protein-level variant description.
+*   **Zygosity:** The zygosity of the variant (e.g., homozygous).
+*   **Consanguinity/Family history:** Indicates if there is consanguinity or a family history of the condition.
+*   **Phenotype:** A detailed list of observed clinical characteristics and symptoms.
+*   **Evidence:** Refers to the source or type of evidence supporting the findings.
+*   **PMID:** The PubMed ID for related publications (if any).
+*   **Others:** An additional column for miscellaneous information.
+
+**4. Table Data:**
+The table presents data for Patient 38, who has a genetic variant in the **ZNF699** gene. The cDNA variant is described as **NM_198535.2:c.436_439del**, which results in a protein change of **p.Asp146Illefs*10**. This variant is **homozygous**, and there is a reported history of **consanguinity and family history** for this patient.
+
+Patient 38 exhibits a broad spectrum of clinical **phenotypes** affecting multiple body systems. These include skeletal and limb abnormalities such as talipes equinovarus, genu valgum, 2-3 toe syndactyly, and hemihypotrophy of the lower limb. The patient also presents with hematological issues like pancytopenia, anemia, and leukopenia, alongside immunodeficiency and recurrent infections, including pneumonia, urinary tract infections, and fever. Respiratory and feeding difficulties are noted, including asthma, laryngomalacia, tracheomalacia, feeding difficulties, choking episodes, poor suck, and the need for nasogastric tube feeding. Developmental concerns include global developmental delay. Other features comprise premature graying of hair, abnormal facial shape, coarse facial features, microcephaly, muscular hypotonia, plagiocephaly, and failure to thrive. Gastrointestinal issues include jejunal atresia and pyloric stenosis. Cardiac abnormalities are also present, specifically an atrial septal defect and patent ductus arteriosus. The patient's birth history includes breech presentation and premature birth, with delivery via caesarean section. Unilateral conductive hearing impairment is also reported.
+
+The "Evidence" for these findings is noted as "As above," suggesting consistency with previously described evidence in the full Table 1. The "PMID" and "Others" columns are empty for this specific entry.
+
+**5. Key Findings:**
+Patient 38 carries a homozygous deletion in the ZNF699 gene, leading to a frameshift mutation (p.Asp146Illefs*10). This genetic alteration is associated with a severe and complex multi-system disorder, encompassing skeletal, hematological, immunological, respiratory, gastrointestinal, cardiac, and neurological manifestations. The presence of consanguinity and a family history strongly suggests an autosomal recessive inheritance pattern for this condition.
+
+**6. Context (footnotes/notes):**
+*   Patients' phenotypes are described using the Human Phenotype Ontology (HPO) and related published evidence, summarized according to Human Genome Variation Society (HGVS) guidelines.
+*   NC_XXX nomenclature is used for intronic variants, following HGVS guidelines.
+*   Abbreviations used in the table and notes include:
+    *   **Hom:** Homozygote
+    *   **mRNA:** messenger RNA
+    *   **CM:** cardiomyopathy
+    *   **CHD:** congenital heart defect
+    *   **cDNA:** complementary DNA
+    *   **DNA:** deoxyribonucleic acid
+    *   **HPO:** Human Phenotype Ontology

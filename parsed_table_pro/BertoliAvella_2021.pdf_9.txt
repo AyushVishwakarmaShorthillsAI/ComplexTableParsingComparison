@@ -1,0 +1,45 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Table 1 continued**
+
+### 2. Table Purpose
+This table details the genetic and clinical findings for a series of patients (numbered 22 through 26) with rare genetic disorders. It links specific gene mutations to their resulting protein changes, zygosity, family history of consanguinity, and a comprehensive list of observed phenotypes. The table also provides supporting evidence, including PubMed IDs (PMID) and additional notes about the variants and their effects.
+
+### 3. Table Structure
+The table is organized into the following columns:
+*   **Patient:** A unique numerical identifier for each case.
+*   **Gene:** The name of the gene where the mutation was identified.
+*   **cDNA:** The specific genetic variant described at the cDNA level, including the reference sequence (e.g., NM_001100426.1) and genomic coordinates.
+*   **Protein:** The predicted effect of the mutation on the protein sequence (e.g., p.Leu28fs).
+*   **Zygosity:** The zygosity state of the mutation, indicated as "Hom" for homozygous.
+*   **Consanguinity/Family history:** Information on whether the family has a history of consanguinity and if other family members are affected.
+*   **Phenotype:** A detailed list of the clinical features and symptoms observed in the patient.
+*   **Evidence:** Information about the function of the gene or protein, providing a basis for its role in the observed phenotype.
+*   **PMID:** The PubMed identification number for related publications.
+*   **Others:** Additional contextual information, such as details on variant segregation or molecular effects.
+
+### 4. Table Data
+This section of the table presents data on five patients with mutations in the RAP1GDS1 and ZNF699 genes.
+
+**Patients with RAP1GDS1 Mutations (Patients 22, 23, 24, 25):**
+Four patients presented with homozygous mutations in the RAP1GDS1 gene. The RAP1GDS1 gene is known to encode a protein that stimulates small GTP-binding proteins (G proteins), including Rap1a/Rap1, Rhoda, RhoB, and KRas. The associated PMIDs for this gene are 32727735 and 32431071.
+
+*   **Patient 22** has a homozygous mutation, NM_001100426.1:c.1444-1G>A, with an unknown effect on the protein (p.?). This patient comes from a non-consanguineous family. The observed phenotypes include microcephaly, muscular hypotonia, spasticity, abnormality of midbrain morphology, mild microcephaly, motor delay, and spastic paraplegia.
+
+*   **Patient 23** has a homozygous frameshift mutation, NM_001100426.1:c.83delT, resulting in p.Leu28fs. This patient is from a consanguineous family. The extensive phenotype includes abnormal facial shape, abnormality of movement, decreased body weight, delayed myelination, developmental regression, difficulty standing, generalized hypotonia, global developmental delay, high forehead, highly arched eyebrow, hypertelorism, hypocystinemia, joint laxity, low-set ears, nasal flaring, otitis media, short stature, and stereotypy.
+
+*   **Patients 24 and 25** share the same homozygous mutation, NM_001100426.1:c.1444-1G>A, with an unknown protein effect (p.?). They are siblings from a consanguineous family. Patient 24 presents with a bulbous nose, central hypotonia, cryptorchidism, difficulty standing and walking, global developmental delay, heart murmur, inability to walk, jaundice, muscular hypotonia, retrognathia, and a smooth philtrum. Patient 25, the sibling, exhibits a milder phenotype of motor delay and muscular hypotonia. A note clarifies that this specific variant cosegregates in two unrelated families and that analysis of mRNA from the patients' blood detected exon 13 skipping.
+
+**Patient with ZNF699 Mutation (Patient 26):**
+*   **Patient 26** has a homozygous deletion in the ZNF699 gene, specifically NM_198535.2:c.436_439del, which leads to a frameshift and premature stop codon (p.Asp146Ilefs*10). This patient is from a consanguineous family. The associated phenotype includes a high palate, coarse facial features, smooth and long philtrum, abnormal eyelash and eyebrow morphology, proptosis, hypotelorism, osteopenia, a single umbilical artery, global developmental delay, agenesis of corpus callosum, cholestasis, and vocal cord paralysis. Evidence from PMID 16094367 indicates that this gene is expressed ubiquitously in the Drosophila nervous system, and its encoded protein is localized in the nuclei of neurons.
+
+### 5. Key Findings
+*   Homozygous mutations in the RAP1GDS1 gene are associated with a broad spectrum of neurodevelopmental disorders, including motor delay, hypotonia, microcephaly, and distinct facial features.
+*   The specific splice-site mutation c.1444-1G>A in RAP1GDS1 was identified in three related and unrelated individuals (Patients 22, 24, 25), causing exon 13 skipping and demonstrating variable expressivity, as seen in the differing severities between siblings (Patients 24 and 25).
+*   A homozygous frameshift mutation in the ZNF699 gene (c.436_439del) is linked to a syndrome characterized by significant craniofacial abnormalities, global developmental delay, and agenesis of the corpus callosum.
+*   All cases presented involve homozygous mutations within consanguineous families (except for Patient 22), supporting an autosomal recessive mode of inheritance for the conditions associated with both RAP1GDS1 and ZNF699.
+
+### 6. Context (footnotes/notes)
+*   For the RAP1GDS1 mutation c.1444-1G>A (found in Patients 22, 24, and 25), it is noted that "This variant cosegregates in two unrelated families. Exon 13 skipping was detected in blood mRNA from the patients."
+*   Patient 25 is identified as a "Sibling of above," referring to Patient 24, who shares the same mutation.

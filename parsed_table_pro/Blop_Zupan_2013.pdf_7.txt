@@ -1,0 +1,43 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Table 2:** Results of the cephalometric analysis in norma lateralis and frontalis.
+
+### 2. Table Purpose
+The purpose of this table is to present a detailed quantitative comparison of craniofacial measurements for nine individual patients against age-corresponding cephalometric standards. The analysis covers various aspects of facial typology, mandibular structure, skeletal relationships, dental positioning, and facial widths, allowing for a comprehensive assessment of each patient's craniofacial morphology.
+
+### 3. Table Structure
+The table is structured with rows representing specific cephalometric measurements and columns representing individual patients (Patient 8, 9, 10, 11, 12, 14, 15, 16, and 17), along with their respective ages. For each patient and measurement, the table provides the observed value and, in parentheses, the standard value (Mean; Standard Deviation). The final column ("CS") indicates whether the patient's measurement is increased (↑), reduced (↓), or within the normal range (N) compared to the standard.
+
+The measurements are grouped into two main categories:
+*   **Norma lateralis:** This includes sub-categories for Typology, Mandibular measurements, Skeletal analysis, and Denture analysis.
+*   **Norma frontalis:** This includes various cranial and facial width measurements.
+
+### 4. Table Data
+
+**Norma Lateralis Analysis**
+
+*   **Typology:** The facial axis was generally reduced, with values of 81.0° for Patient 8 (vs. 89.5°), 79.6° for Patient 9 (vs. 89.6°), 76.0° for Patient 12 (vs. 89.3°), 76.0° for Patient 14 (vs. 89.4°), 74.0° for Patient 15 (vs. 89.2°), and 80.0° for Patient 17 (vs. 89.0°). Patient 16 showed an increased facial axis of 96.0° (vs. 88.9°). Facial depth was also predominantly reduced, measuring 73.0° for Patient 8 (vs. 83.2°), 81.0° for Patient 10 (vs. 82.1°), 80.0° for Patient 11 (vs. 84.3°), 74.0° for Patient 12 (vs. 83.3°), 67.0° for Patient 14 (vs. 82.9°), 75.0° for Patient 15 (vs. 82.5°), and 78.0° for Patient 16 (vs. 86.0°). The lower facial height was increased for most patients, with values like 56.0° for Patient 8 (vs. 47.0°) and 58.0° for Patient 12 (vs. 47.0°), while it was normal for Patient 16 at 47.0° (vs. 47.0°).
+
+*   **Mandibular Measurements:** The Frankfort-Mandibular plane Angle (FMA) was consistently increased across all patients, indicating a steep mandibular plane. Values ranged from 36.0° for Patient 10 (vs. 29.4°) and Patient 15 (vs. 28.7°) to 50.0° for Patient 12 (vs. 27.7°). Both Anterior Facial Height (AFH) and Posterior Facial Height (PFH) were generally reduced. For example, Patient 17 had an AFH of 58.0 mm (vs. 67.2 mm) and a PFH of 30.0 mm (vs. 49.6 mm). Consequently, the Facial Height Index (FHI) was reduced for all patients, with values ranging from 0.3 for Patient 14 (vs. 0.7) to 0.5 for several patients.
+
+*   **Skeletal Analysis:** All patients exhibited a Skeletal Class II pattern, characterized by significantly increased convexity and ANB angles. Convexity ranged from 5.0 mm for Patient 10 (vs. 4.4 mm) to 12.0 mm for Patient 11 (vs. 3.6 mm). The ANB angle was also markedly increased in all cases, with Patient 8 showing a value of 15.0° (vs. 4.7°) and Patient 11 showing 14.0° (vs. 4.0°).
+
+*   **Denture Analysis:** The analysis of the lower incisors (i) relative to the A-Pogonion line (APg) showed a consistent proclination, with increased distance (mm) and angle (°). For instance, Patient 14 had an i to APg distance of 12.0 mm (vs. 1.9 mm) and an angle of 35.0° (vs. 23.8°). The Frankfort-Mandibular Incisor Angle (FMIA) was generally reduced, such as 36.0° for Patient 11 (vs. 55.9°), indicating incisor proclination. The interincisal angle (i/I) was reduced for all patients, with values like 103.0° for Patient 15 (vs. 126.6°) and 119.0° for Patient 16 (vs. 133.6°).
+
+**Norma Frontalis Analysis**
+
+*   **Facial Widths:** Most facial width measurements were reduced compared to normative data. Cranial width was reduced for patients like Patient 8 (103.0 mm vs. 135.7 mm) and Patient 12 (103.0 mm vs. 140.2 mm). Bifrontotemporale width was also smaller, for example, 69.0 mm for Patient 8 (vs. 92.3 mm) and 72.0 mm for Patient 12 (vs. 95.4 mm). Similarly, bizygomatic width was reduced, with Patient 8 measuring 85.0 mm (vs. 109.4 mm) and Patient 17 measuring 107.0 mm (vs. 122.8 mm). Nasal width and bigonial width followed the same trend of being narrower than the standard in most patients. For example, Patient 15 had a bigonial width of 75.0 mm (vs. 94.6 mm). Patient 9 was a notable exception, showing increased values for all facial width measurements, such as a cranial width of 180.9 mm (vs. 140.2 mm) and a bigonial width of 113.9 mm (vs. 83.0 mm).
+
+### 5. Key Findings
+*   **Skeletal Class II Malocclusion:** All patients consistently present with a Skeletal Class II malocclusion, confirmed by a significantly increased ANB angle and facial convexity.
+*   **Vertical Growth Pattern:** A steep mandibular plane angle (increased FMA) is a common feature among all patients, suggesting a vertical growth pattern and a long-face tendency.
+*   **Mandibular and Facial Retrusion:** Reduced facial axis and facial depth values indicate a retrognathic mandible and a retrusive facial profile.
+*   **Dental Compensation:** The patients exhibit dental compensation for the skeletal discrepancy, characterized by the proclination of lower incisors (increased i to APg, reduced FMIA) and a reduced interincisal angle.
+*   **Narrow Facial Structure:** Most patients display reduced transverse facial dimensions, including narrower cranial, bizygomatic, and bigonial widths, when compared to age-matched standards.
+
+### 6. Context (Footnotes/Notes)
+*   **Standards:** For each measurement, the age-corresponding cephalometric standards are provided in parentheses as (Mean; S.D.).
+*   **Symbols:** The symbols N, ↑, and ↓ denote Normal, Increased, and Reduced values, respectively, in comparison to the standard.
+*   **Patient 8 Specifics:** A note highlights that for Patient 8, the ANB angle of 15.0° (compared to a standard of 4.7° ± 2.2) confirms the Skeletal Class II diagnosis.
+*   **Measurement References:** The numbers in parentheses next to each measurement name, e.g., "Facial axis (°) (1)", refer to specific definitions of the measurement (distance or angle) detailed in supplementary materials (Additional files 3 and 4).

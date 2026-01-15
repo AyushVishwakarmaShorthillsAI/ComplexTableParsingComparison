@@ -1,0 +1,43 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+Table 1 continued
+
+### 2. Table Purpose
+This table details the genetic, clinical, and familial information for five patients (numbered 17 to 21) with mutations in the *PLK1* gene. The purpose is to correlate specific genetic variants in *PLK1* with their resulting clinical phenotypes, which are primarily severe neurological disorders.
+
+### 3. Table Structure
+The table is organized into rows, with each row representing an individual patient. The columns include:
+*   **Patient:** A unique identifier for each individual (17, 18, 19, 20, 21).
+*   **Gene:** The gene implicated, which is *PLK1* for all patients in this section.
+*   **cDNA:** The specific genetic variant at the cDNA level, using HGVS nomenclature.
+*   **Protein:** The predicted effect of the variant on the protein sequence.
+*   **Zygosity:** The zygosity state of the mutation (e.g., homozygous).
+*   **Consanguinity/family history:** Indicates if there is a known history of consanguinity in the family.
+*   **Phenotype:** A list of the patient's clinical features and symptoms.
+*   **Evidence:** Supporting information about the gene's function.
+*   **PMID:** The PubMed ID for the source publication.
+*   **Others:** An additional column for other relevant information, which is empty in this section.
+
+### 4. Table Data
+This section of the table presents data for five patients with homozygous mutations in the *PLK1* gene.
+
+**Patients 17, 18, 19, and 20** all carry the same homozygous missense mutation, **NM_005030.5:c.785G>A**, which results in the protein change **p.Arg262Gln**.
+*   **Patient 17** has a history of consanguinity and presents with a phenotype of focal-onset seizures. The associated PubMed ID (PMID) is 28973348. The evidence provided describes the function of the *WDR62* gene, noting it is involved in microtubule assembly and that mutations cause primary microcephaly type 2 (MCPH2).
+*   **Patient 18** also has a history of consanguinity. This patient exhibits a complex phenotype including arachnoid cyst, cerebellar vermis hypoplasia, decreased body weight, delayed myelination, global developmental delay, jaundice, microcephaly, oligohydramnios, posterior fossa cyst, premature birth, seizures, short chin, and short stature. The evidence and PMID are noted as "As above," referring to the entry for patient 17.
+*   **Patient 19** has a history of consanguinity and presents with generalized tonic-clonic seizures, global developmental delay, hyperpigmentation of the skin, and microcephaly. The evidence and PMID are also listed as "As above."
+*   **Patient 20** does not have a family history of consanguinity. The clinical features include global developmental delay, microcephaly, and intractable seizures. The evidence and PMID are listed as "As above."
+
+**Patient 21** has a different homozygous mutation in the *PLK1* gene, a splice site variant identified as **NM_005030.5:c.408+3G>A** (genomic coordinate: NC_000016.9:g.23690664G>A). The effect on the protein is unknown, denoted as **p.?**. This patient has a history of consanguinity and presents with a severe phenotype that includes abnormal myelination, brain atrophy, epileptic encephalopathy, generalized-onset seizure, hyperreflexia, infantile encephalopathy, intellectual disability, leukodystrophy, and leukoencephalopathy. The evidence and PMID are listed as "As above."
+
+### 5. Key Findings
+*   All five patients presented have homozygous mutations in the *PLK1* gene, linking this gene to severe, recessively inherited neurological disorders.
+*   A recurrent homozygous missense mutation, **p.Arg262Gln (c.785G>A)**, was identified in four different patients, associated with a spectrum of phenotypes including seizures, microcephaly, and global developmental delay.
+*   A homozygous splice site mutation, **c.408+3G>A**, was identified in one patient with a severe phenotype including leukodystrophy and brain atrophy.
+*   Consanguinity was reported in four of the five families, consistent with a rare autosomal recessive inheritance pattern.
+*   The clinical phenotypes associated with *PLK1* mutations are severe and primarily affect the central nervous system, with features like microcephaly, various seizure types, developmental delay, and structural brain abnormalities.
+
+### 6. Context
+*   The "Evidence" column for all patients in this section contains a description of the *WDR62* gene, not the *PLK1* gene. This appears to be an error in the original table, as the information provided does not correspond to the gene listed for these patients.
+*   The notation "As above" in the "Evidence" and "PMID" columns for patients 18-21 indicates that the information is the same as that provided for patient 17.
+*   The "p.?" for patient 21 signifies that the specific consequence of the splice site mutation on the protein sequence was not determined or specified.

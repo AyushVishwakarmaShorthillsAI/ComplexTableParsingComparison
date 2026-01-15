@@ -1,0 +1,44 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Title:** Table 1 continued
+
+### 2. Table Purpose
+The purpose of this table is to summarize the genetic and clinical findings for a cohort of patients (numbered 30 through 33) with variants in the ZNF699 gene. It links specific genetic mutations (cDNA and protein changes), zygosity, and family history of consanguinity to the observed clinical phenotypes.
+
+### 3. Table Structure
+The table is structured with the following columns:
+*   **Patient:** A unique identifier for each individual (30, 31, 32, 33).
+*   **Gene:** The gene in which the mutation was identified (ZNF699 for all patients shown).
+*   **cDNA:** The specific variant at the cDNA level, using HGVS nomenclature.
+*   **Protein:** The predicted effect of the variant on the protein, using HGVS nomenclature.
+*   **Zygosity:** The zygosity state of the variant (e.g., Hom for homozygous).
+*   **Consanguinity/family history:** Indicates the presence of consanguinity in the family.
+*   **Phenotype:** A detailed list of the clinical features and symptoms observed in the patient.
+*   **Evidence:** The source or level of evidence for the findings.
+*   **PMID:** The PubMed ID for the reference publication.
+*   **Others:** A column for any additional information.
+
+### 4. Table Data
+This section of the table details the findings for four patients with homozygous variants in the ZNF699 gene.
+
+**Patient 30** has a homozygous (Hom) variant in the ZNF699 gene, identified as NM_198535.2: c.349dupA, which results in a frameshift mutation at the protein level, p.Ile117fs. This patient comes from a family with a history of consanguinity. The associated clinical phenotype includes tracheomalacia, bronchomalacia, chronic lung disease, short thumb, feeding difficulties, bilateral renal dysplasia, and chronic kidney disease.
+
+**Patient 31** has a homozygous (Hom) variant in the ZNF699 gene, identified as NM_198535.2: c.436_439del, leading to the protein change p.Asp146Ilefs*10. This patient also has a family history of consanguinity. The extensive phenotype includes 2-3 toe syndactyly, abnormal cry, abnormal eyebrow morphology, antenatal onset of issues, anteverted nares, chronic kidney disease, failure to thrive, generalized hypotonia, hypertrichosis, intrauterine growth retardation, jejunal atresia, long eyelashes, long philtrum, low anterior and posterior hairlines, microcephaly, preaxial hand polydactyly, renal hypoplasia, short nose, synophrys, and a ventricular septal defect.
+
+**Patient 32** carries the same homozygous (Hom) ZNF699 variant as patient 31: NM_198535.2: c.436_439del (p.Asp146Ilefs*10). However, this patient does not have a family history of consanguinity. The clinical presentation includes an abnormal facial shape, diaphragmatic eventration, failure to thrive, fever, generalized hypotonia, global developmental delay, hemihypertrophy, intestinal atresia, iron deficiency anemia, microcephaly, oral-pharyngeal dysphagia, pallor, ptosis, and sensorineural hearing impairment.
+
+**Patient 33** also has the homozygous (Hom) ZNF699 variant NM_198535.2: c.436_439del (p.Asp146Ilefs*10) and a family history of consanguinity. The phenotype for this patient is distinct, characterized by abnormal eyelash morphology (partially hypopigmented) and an abnormality of skin pigmentation.
+
+### 5. Key Findings
+*   All four patients presented have homozygous mutations in the ZNF699 gene, consistent with an autosomal recessive inheritance pattern.
+*   Two different frameshift mutations are reported: c.349dupA (p.Ile117fs) and c.436_439del (p.Asp146Ilefs*10).
+*   There is significant phenotypic variability among patients, even those with the identical c.436_439del mutation (patients 31, 32, and 33). Their clinical features range from severe multi-systemic disorders involving renal, cardiac, and skeletal systems to more specific features like pigmentation abnormalities.
+*   Consanguinity is reported in three of the four families, which is a common finding in rare recessive disorders.
+*   The phenotypes associated with ZNF699 mutations are broad and can include growth retardation, kidney abnormalities, craniofacial dysmorphism, and developmental delay.
+
+### 6. Context
+*   The table is a continuation of a larger "Table 1".
+*   The "Evidence" and "PMID" columns for all listed patients are marked as "As above," indicating that the reference information is provided earlier in the complete table or within the main text of the paper.
+*   The "Others" column is blank for all patients in this section.
+*   The source publication is "Genetics in Medicine (2021) 23:1551–1568".

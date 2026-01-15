@@ -1,0 +1,46 @@
+Here's a description of the table content, optimized for semantic search and RAG:
+
+---
+
+**1. Table Title/Caption:**
+Table 1 continued.
+
+**2. Table Purpose:**
+This table details the genetic and clinical characteristics of four patients (numbered 34 through 37) with mutations in the ZNF699 gene, providing information on their specific cDNA and protein variants, zygosity, family history of consanguinity, and a comprehensive list of associated phenotypes.
+
+**3. Table Structure (columns/rows):**
+The table is structured with ten columns:
+*   **Patient**: Unique identifier for each patient.
+*   **Gene**: The gene identified with a mutation.
+*   **cDNA**: The specific cDNA variant.
+*   **Protein**: The resulting protein variant.
+*   **Zygosity**: The zygosity of the mutation (e.g., homozygous).
+*   **Consanguinity (family history)**: Indicates if parental consanguinity is present and if there's a family history of similarly affected individuals.
+*   **Phenotype**: A detailed list of clinical manifestations and symptoms observed in the patient.
+*   **Evidence**: Refers to the source or type of evidence for the findings.
+*   **PMID**: PubMed ID for relevant publications (mostly empty in this segment).
+*   **Others**: Additional notes or information (mostly empty in this segment).
+
+The table contains four rows, each representing a distinct patient (34, 35, 36, and 37).
+
+**4. Table Data:**
+
+**Patient 34** presents with a homozygous mutation in the ZNF699 gene, specifically a cDNA variant c.436_439del leading to a protein variant p.Asp146Ilefs*10. This patient's parents are consanguineous, and there is a family history of a similarly affected sibling. The observed phenotypes include hypopigmentation of hair, intellectual disability, failure to thrive, anemia, abnormal facial shape, and congenital hypoplastic anemia. The evidence for these findings is noted as "As above," implying it refers to information provided earlier in the paper.
+
+**Patient 35** also has a homozygous ZNF699 mutation, identical to Patient 34 (cDNA: c.436_439del, Protein: p.Asp146Ilefs*10). Consanguinity is present, but no other similarly affected individuals are reported in the family history. This patient exhibits a broad spectrum of phenotypes, including abnormal facial shape, abnormal myelination, absent thumb, ambiguous genitalia, anteverted nares, cryptorchidism, dysplastic pulmonary valve, hyperbilirubinemia, hypertelorism, hypospadias, intestinal atresia, muscular hypotonia, polyhydramnios, posteriorly rotated ears, premature birth, pulmonary arterial hypertension, pulmonic stenosis, reduced blood folate concentration, sacral dimple, short nose, small for gestational age, thick vermilion border, ventriculomegaly, and wide intermammary distance. The evidence is also "As above."
+
+**Patient 36** carries a different homozygous mutation in the ZNF699 gene, with a cDNA variant NM_198535.2: c.51_54delCTCA resulting in a p.Asp17fs protein variant. Parental consanguinity is confirmed. The patient's phenotypes include cryptorchidism, chordee, abnormality of the face, micrognathia, low-set ears, craniosynostosis, patent foramen ovale, abnormal facial shape, jejunal atresia, and echogenic fetal bowel. The evidence is "As above."
+
+**Patient 37** shares the same homozygous ZNF699 mutation as Patients 34 and 35 (cDNA: c.436_439del, Protein: p.Asp146Ilefs*10). Consanguinity is present, but no other similarly affected individuals are noted in the family history. This patient's clinical presentation includes abnormal facial shape, microcephaly, hearing impairment, macrotia, prominent nasal bridge, prominent nose, microphthalmia, abnormal thumb morphology, intellectual disability, and muscular hypotonia. The evidence is "As above."
+
+For all four patients, the "PMID" and "Others" columns are either empty or state "As above," indicating that specific external references for each patient's data are not provided within this table segment.
+
+**5. Key Findings:**
+*   All four patients (34-37) presented in this table segment have homozygous mutations in the ZNF699 gene.
+*   Parental consanguinity is a consistent factor across all four cases.
+*   Three of the four patients (34, 35, 37) share the identical ZNF699 variant (c.436_439del; p.Asp146Ilefs*10), while Patient 36 has a distinct variant (c.51_54delCTCA; p.Asp17fs).
+*   Mutations in ZNF699 are associated with a wide and severe spectrum of clinical phenotypes, including facial dysmorphism, intellectual disability, various congenital anomalies affecting multiple organ systems (e.g., cardiac, gastrointestinal, genitourinary), and musculoskeletal issues.
+*   The presence of a similarly affected sibling in Patient 34 highlights the familial inheritance pattern of this specific ZNF699 variant.
+
+**6. Context (footnotes/notes):**
+This table is a continuation of a larger "Table 1." The document is authored by A.M. Bertoli-Avella et al. and was published in Genetics in Medicine (2021), volume 23, pages 1551–1568. The "Evidence" column consistently refers to information provided elsewhere in the main text of the paper ("As above").

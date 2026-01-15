@@ -1,0 +1,42 @@
+Here is a detailed breakdown of the table content, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Table 1 continued**
+This table is a continuation of a larger table, detailing patient information related to genetic variants.
+
+### 2. Table Purpose
+The purpose of this table is to present clinical and genetic data for patients with variants in the *MMP15* gene. It links specific homozygous mutations in *MMP15* to a range of observed clinical phenotypes, particularly focusing on cardiac, hepatic, and developmental abnormalities. The table also provides supporting evidence for the gene's potential role in these conditions.
+
+### 3. Table Structure
+The table is organized into rows, with each row representing a specific patient. The columns provide detailed information for each patient:
+*   **Patient:** A unique identifier for the patient (14, 15, 16).
+*   **Gene:** The gene in which the mutation was identified (*MMP15*).
+*   **cDNA:** The specific genetic variant at the cDNA level.
+*   **Protein:** The resulting change in the protein sequence.
+*   **Zygosity:** The zygosity state of the variant (homozygous).
+*   **Consanguinity/Family history:** Information on parental consanguinity and family medical history.
+*   **Phenotype:** A detailed list of the patient's clinical signs and symptoms.
+*   **Evidence:** A description of the proposed biological mechanism or supporting evidence for the gene's involvement.
+*   **PMID:** The PubMed ID of the source publication for the data.
+*   **Others:** Additional relevant information, such as cosegregation data.
+
+### 4. Table Data
+This section of the table details three patients with homozygous variants in the *MMP15* gene.
+
+**Patient 14** has a homozygous frameshift variant in the *MMP15* gene, identified as NM_002428.3:c.1058delC, which results in the protein change p.Pro353fs. This patient comes from a family with a history of consanguinity. The patient's phenotype is complex and multisystemic, including soft palate, constipation, developmental regression, dysphagia, dyspnea, failure to thrive, feeding difficulties, fetal distress, gastroesophageal reflux, global developmental delay, and intestinal malrotation. Physical features include joint hypermobility, microretrognathia, muscular hypotonia, a pointed chin, hypertelorism, a wide nasal bridge, and a webbed neck. The patient also presented with jaundice, cyanosis, and cholestasis with elevated hepatic transaminases. Severe congenital heart defects were observed, including a ventricular septal defect, atrial septal defect, double outlet right ventricle, hypoplastic left heart, and tricuspid regurgitation. The variant was observed to cosegregate in an affected sibling.
+
+**Patient 15** is the affected sibling of Patient 14 and carries the same homozygous frameshift variant in the *MMP15* gene (NM_002428.3:c.1058delC, p.Pro353fs). The phenotype for this patient includes an abnormal facial shape, antenatal onset of issues, conjugated hyperbilirubinemia, decreased body weight, deeply set eyes, failure to thrive, hypertelorism, and intrauterine growth retardation. The patient also had jaundice, left atrial enlargement, left ventricular hypertrophy, low-set ears, a patent foramen ovale, a pointed chin, a prominent forehead, pulmonary arterial hypertension, tachycardia, a triangular face, and a ventricular septal defect.
+
+**Patient 16** has a homozygous missense variant in the *MMP15* gene, identified as NM_002428.3:c.691G>A, leading to the protein change p.Gly231arg. The patient's parents are consanguineous. The clinical phenotype includes nephrocalcinosis, cholestasis, intrauterine growth retardation, hepatomegaly, and elevated hepatic transaminases. Cardiac defects include both a ventricular septal defect and an atrial septal defect.
+
+### 5. Key Findings
+*   Homozygous variants in the *MMP15* gene are associated with a severe, multisystem disorder.
+*   The clinical presentation includes significant congenital heart defects (such as ventricular and atrial septal defects), liver dysfunction (cholestasis, hepatomegaly, elevated transaminases), and developmental issues (intrauterine growth retardation, developmental delay).
+*   Two different homozygous variants are described: a frameshift (p.Pro353fs) and a missense (p.Gly231arg), both leading to severe phenotypes.
+*   The p.Pro353fs variant was found in two affected siblings, demonstrating cosegregation with the disease.
+*   The proposed evidence suggests that *MMP15* may be involved in heart development through endothelial-to-mesenchymal transformation and endocardial cushion development, potentially via interaction with the transcription factor Snai1.
+
+### 6. Context
+*   The data for all three patients references the same supporting evidence and PubMed ID (PMID: 21920357).
+*   The term "As above" is used for Patients 15 and 16 to indicate that the information in the "Evidence," "PMID," and "Others" columns is identical to that of Patient 14.
+*   The note "Cosegregation in affected sibling" for Patient 14 is a key piece of genetic evidence linking the variant to the disease.

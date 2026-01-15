@@ -1,0 +1,80 @@
+Here's the extracted and described content of the table, optimized for semantic search and RAG:
+
+---
+
+### 1. Table Title/Caption
+Table 2: Mutation and clinical data on patients with CS-B
+
+### 2. Table Purpose
+This table aims to provide a detailed overview of the genetic mutations and corresponding clinical phenotypes observed in a cohort of homozygous patients diagnosed with Cockayne Syndrome type B (CS-B). It correlates specific *ERCC8* gene mutations at the genomic DNA, cDNA, and protein levels with a range of clinical features, along with demographic information such as country of origin, sex, and age of onset.
+
+### 3. Table Structure (Columns/Rows)
+The table is structured into several main categories of information, with individual rows representing distinct patients.
+
+**Main Column Categories:**
+*   **Patient Demographics:** Includes `Code` (patient identifier), `Country (origin)`, `Sex` (Male/Female), `Age at onset (years)`, and `Age at biopsy (latest report or death*) (years)`.
+*   **Genetic Information:** Details the `Clinical classification` (I, II, or III), `Mutation genomic DNA`, `Mutation cDNA`, and `Protein alteration`.
+*   **Clinical Phenotypes:** Lists various symptoms and characteristics, including `Growth failure`, `Low birth weight`, `Cachexia/bird-like faces`, `Mental retardation*`, `Microcephaly†`, `Cataracts†`, `Microphthalmia`, `Retinal degeneration*`, `Deafness`, `Clinical photosensitivity`, `Fitzpatrick Skin Type Scale`, `Dental anomalies`, and `Arthrogryposis`. The presence or absence of a phenotype is indicated by a '+' or '-' symbol, respectively, or left blank if not specified.
+*   **References:** Provides the `References§` for the data.
+
+**Row Groupings:**
+All patients listed in this segment of the table are identified as "Homozygotes." The table is marked as "Continued," indicating it is part of a larger dataset.
+
+### 4. Table Data
+The table presents data for 27 homozygous patients diagnosed with Cockayne Syndrome type B (CS-B) from diverse geographical origins, including Germany, UK, Italy, Lebanon (Iraq), Iran, Turkey, Spain (India), India, Pakistan, France (Algeria), Brazil (Italy), and France (Bosnia).
+
+**Universal Phenotypes:** Across all listed patients, a consistent set of clinical phenotypes were observed: growth failure, low birth weight, cachexia/bird-like faces, mental retardation, microcephaly, cataracts, clinical photosensitivity, and dental anomalies. Conversely, retinal degeneration and arthrogryposis were consistently absent in all patients. The Fitzpatrick Skin Type Scale was not specified for any individual. All data refers to reference 2.
+
+**Individual Patient Details by Clinical Classification:**
+
+*   **Clinical Classification I Patients:**
+    *   **CS18BR** (Germany, Male): Onset at 3 years, 9 years at report/death. Mutation: c.212delC (genomic), r.212delc (cDNA), p.Leu72Cysfs*1 (protein).
+    *   **CS3SH** (UK, Female): Onset at 6 years, 23 years at report/death. Mutation: c.466C>T (genomic), r.466c>u,423_543del (exon 3) (cDNA), p.Gln156*, Ser142Asnfs*4 (protein).
+    *   **CS14LO** (UK, Female): Onset at 6 years, 6.5 years at report/death. Mutation: c.466C>T (genomic), r.466c>u,423_543del (exon 3) (cDNA), p.Gln156*, Ser142Asnfs*4 (protein).
+    *   **CS27PV** (Italy, Male): Onset at 1.2 years, 5 years at report/death. Mutation: c.526C>T (genomic), r.526c>u,423_543del (exon 3) (cDNA), p.Arg176*, Ser142Asnfs*4 (protein).
+    *   **CS010ST** (Lebanon (Iraq), Female): Onset at 0.4 years, 2.5 (6) years at report/death. Mutation: c.640G>T (genomic), r.(640g>u) (cDNA), p.(Glu214*) (protein).
+    *   **CS13PV** (Italy, Female): Onset at 0 years, 3 years at report/death. Mutation: c.1070C>G (genomic), r.1070c>g (cDNA), p.Ser357* (protein).
+    *   **CS10LO** (UK (Africa), Female): Onset at 0 years, 1.5 (2.4*) years at report/death. Mutation: c.1280dupT (genomic), r.(1280dupu) (cDNA), p.(Ser429Lysfs*) (protein).
+    *   **CS9TAN** (Turkey, Male): Onset at 0.3 years, 4 (6) years at report/death. Mutation: c.2038A>G (genomic), r.(2038a>g) (cDNA), p.(Asn680Asp) (protein).
+    *   **CS1NE** (UK, Male): Onset at 0 years, 1 year at report/death. Mutation: c.2047C>T (genomic), r.2047c>u (cDNA), p.Arg683* (protein).
+
+*   **Clinical Classification II Patients:**
+    *   **CS201ST** (Iran, Male): Onset at 0.5 years, 4 years at report/death. Mutation: c.1128del (genomic), r.(1128del) (cDNA), p.(Thr377Glnfs*) (protein).
+    *   **CS19PV** (Italy, Female): Onset at 0 years, 2.5 years at report/death. Mutation: c.1431_1432delGA (genomic), r.1431_1432delga (cDNA), p.Lys478Thrfs* (protein).
+    *   **CS4TAN** (Turkey, Male): Onset at 0 years, 3 years at report/death. Mutation: c.1551G>A (genomic), r.1551g>a (cDNA), p.Trp517* (protein).
+    *   **CS8TAN** (Turkey, Female): Onset at 0 years, 3 years at report/death. Mutation: c.1551G>A (genomic), r.1551g>a (cDNA), p.Trp517* (protein).
+    *   **CS35NG** (Spain (India), Female): Onset at 0 years, 34 years at report/death. Mutation: c.1627C>U (genomic), r.(1627c>u) (cDNA), p.(Ile543Phe) (protein).
+    *   **CS107ST** (India, Female): Onset at 0 years, 4 years at report/death. Mutation: c.1690G>U (genomic), r.(1690g>u) (cDNA), p.(Glu564*) (protein).
+    *   **CS253ST** (UK, Female): Onset at 0 years, 1 year at report/death. Mutation: c.1936G>A (genomic), r.(1936g>a) (cDNA), p.(Asp646Asn) (protein).
+    *   **CS10X** (UK, Female): Onset at 0 years, 11 years at report/death. Mutation: c.1954C>T (genomic), r.1954c>u (cDNA), p.Arg652* (protein).
+    *   **CS13MA** (Pakistan, Female): Onset at 0 years, 13 years at report/death. Mutation: c.1954C>T (genomic), r.1954c>u (cDNA), p.Arg652* (protein).
+    *   **CS232ST** (France (Algeria), Female): Onset at 0 years, 15 years at report/death. Mutation: c.1971_1974dup (genomic), r.(1971_1974dup) (cDNA), p.(Thr659Cysfs*) (protein).
+    *   **CS3BI** (UK, Male): Onset at 0 years, 13 years at report/death. Mutation: c.2167C>T (genomic), r.1993_2169del (exon 10) (cDNA), p.Phe665_Gln723del (protein).
+    *   **CS11MA** (UK, Female): Onset at 0 years, 1 year at report/death. Mutation: c.2167C>T (genomic), r.1993_2169del (exon 10) (cDNA), p.Phe665_Gln723del (protein).
+    *   **CS22BR** (Brazil (Italy), Male): Onset at 0 years, 11 years at report/death. Mutation: c.2203C>T (genomic), r.2203c>u (cDNA), p.Arg735* (protein).
+    *   **CS12RO** (UK (Turkey), Male): Onset at 0 years, 13 years at report/death. Mutation: c.2203C>T (genomic), r.2203c>u (cDNA), p.Arg735* (protein).
+    *   **CS17LO** (UK, Male): Onset at 0 years, 15 years at report/death. Mutation: c.2203C>T (genomic), r.2203c>u (cDNA), p.Arg735* (protein).
+    *   **CS128ST** (France (Bosnia), Female): Onset at 0.75 years, 0.5 years at report/death. Mutation: c.2203C>T (genomic), r.2203c>u (cDNA), p.Arg735* (protein).
+    *   **CS7MA** (UK, Male): Onset at 0 years, 0.5 years at report/death. Mutation: c.2222_2230del (genomic), r.2222_2230del (cDNA), p.Tyr741_Arg744delinsTrp (protein).
+
+*   **Clinical Classification III Patients:**
+    *   **CS1PL** (UK, Male): Onset at 0.5 years, 0.5 years at report/death. Mutation: c.1993-5A>G (genomic), r.1992_1993insauag (cDNA), p.Phe665Tyrfs* (protein).
+    *   **CS23PV** (Italy, Male): Onset at 0 years, 11 years at report/death. Mutation: c.2143G>T (genomic), r.2143g>u (cDNA), p.Gly715* (protein).
+
+### 5. Key Findings
+*   The table highlights a consistent core set of clinical manifestations in homozygous CS-B patients, including growth failure, low birth weight, cachexia/bird-like faces, mental retardation, microcephaly, cataracts, clinical photosensitivity, and dental anomalies, regardless of the specific *ERCC8* mutation or clinical classification (I, II, or III).
+*   Conversely, retinal degeneration and arthrogryposis were notably absent in all 27 homozygous patients presented, suggesting these may not be universal features of CS-B or are less common in this specific genetic subgroup.
+*   The age of symptom onset for CS-B is predominantly very early, with many patients experiencing onset at birth (0 years) or within the first few years of life.
+*   A wide spectrum of *ERCC8* gene mutations, including deletions, duplications, point mutations, and insertions, leading to various protein alterations (e.g., frameshifts, premature stop codons, amino acid substitutions, or deletions), are associated with CS-B.
+*   Despite the genetic heterogeneity and varying clinical classifications, the shared phenotypic profile underscores the fundamental impact of *ERCC8* dysfunction in CS-B.
+
+### 6. Context (Footnotes/Notes)
+*   `*` indicates "Age at biopsy (latest report or death)".
+*   `*` also indicates "Mental retardation".
+*   `†` indicates "Microcephaly" and "Cataracts".
+*   `§` indicates "References".
+*   The table is part of a publication by Calmels N, et al. in J Med Genet 2018;55:329–343, with the DOI: 10.1136/jmedgenet-2017-104877.
+*   The table is labeled "Genotype-phenotype correlations" and "Continued," implying it is a segment of a larger table within the publication.
+*   The document was first published on March 23, 2018, and downloaded from http://jmg.bmj.com/ on July 13, 2025, at e-Knowledge Gateway, Hospital. It is protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+
+---

@@ -1,0 +1,47 @@
+Here's an extraction and description of the table content, optimized for semantic search and RAG:
+
+---
+
+**1. Table Title/Caption:**
+Table 1 continued
+
+**2. Table Purpose:**
+This table details genetic and phenotypic information for a series of patients (Patient 30 through 33) who exhibit mutations in the ZNF699 gene. It aims to correlate specific genetic variations (cDNA and protein mutations, zygosity) with a wide range of clinical phenotypes and family history of consanguinity.
+
+**3. Table Structure (columns/rows):**
+The table is structured with the following columns:
+*   **Patient:** A numerical identifier for each patient.
+*   **Gene:** The gene identified with a mutation.
+*   **cDNA:** The specific cDNA mutation.
+*   **Protein:** The resulting protein mutation.
+*   **Zygosity:** The zygosity of the mutation (e.g., homozygous).
+*   **Consanguinity family history:** Indicates whether there is a history of consanguinity in the family.
+*   **Phenotype:** A detailed list of clinical manifestations and symptoms observed in the patient.
+*   **Evidence:** Refers to the source or type of evidence for the findings.
+*   **PMID:** PubMed ID, if available, for associated publications.
+*   **Others:** Any additional relevant information.
+
+Each row represents a unique patient and their associated genetic and clinical data.
+
+**4. Table Data:**
+
+**Patient 30** presents with a homozygous mutation in the ZNF699 gene, specifically a cDNA mutation of NM_198535.2: c.349dupA, leading to a p.Ile117fs protein change. This patient's family history indicates consanguinity ("Yes, yes"). The observed phenotypes include tracheomalacia, bronchomalacia, chronic lung disease, a short thumb, intestinal atresia, feeding difficulties, bilateral renal dysplasia, and chronic kidney disease. The evidence for these findings is noted as "As above," and no specific PMID or other details are provided.
+
+**Patient 31** also has a homozygous mutation in the ZNF699 gene, with a cDNA mutation of NM_198535.2: c.436_439del, resulting in a p.Asp146Ilefs*10 protein change. Consanguinity is reported in the family history ("Yes, yes"). This patient exhibits a broad spectrum of phenotypes, including 2-3 toe syndactyly, an abnormal cry, abnormal eyebrow morphology, antenatal onset, anteverted nares, chronic kidney disease, generalized failure to thrive, intrauterine growth retardation, jejunal atresia, long eyelashes, long philtrum, low anterior hairline, low posterior hairline, microcephaly, preaxial hand polydactyly, renal hypoplasia, a short nose, synophrys, and a ventricular septal defect. The evidence is "As above," with no PMID or other information.
+
+**Patient 32** shares the same homozygous ZNF699 gene mutation as Patient 31 (cDNA: NM_198535.2: c.436_439del; Protein: p.Asp146Ilefs*10). The family history indicates consanguinity ("Yes, no"). This patient's phenotypes include an abnormal facial shape, diaphragmatic eventration, generalized failure to thrive, global developmental delay, hemihypertrophy, intestinal atresia, iron deficiency anemia, microcephaly, oral-pharyngeal dysphagia, pallor, ptosis, and sensorineural hearing impairment. Evidence is "As above," and no PMID or other details are listed.
+
+**Patient 33** also carries the homozygous ZNF699 gene mutation (cDNA: NM_198535.2: c.436_439del; Protein: p.Asp146Ilefs*10), identical to Patients 31 and 32. Consanguinity is present in the family history ("Yes, yes"). The reported phenotypes for this patient are abnormal eyelash morphology (partially hypopigmented) and abnormality of skin pigmentation. The evidence is "As above," and no PMID or other information is provided.
+
+**5. Key Findings:**
+*   All four patients (30-33) presented in this table segment have homozygous mutations in the ZNF699 gene.
+*   A history of consanguinity is consistently reported across all patient families.
+*   Patients 31, 32, and 33 share an identical ZNF699 mutation (cDNA: c.436_439del; Protein: p.Asp146Ilefs*10), while Patient 30 has a different mutation (cDNA: c.349dupA; Protein: p.Ile117fs).
+*   Despite the shared gene and, in some cases, identical mutations, the patients exhibit a broad and diverse range of clinical phenotypes affecting multiple organ systems, including respiratory, gastrointestinal, renal, craniofacial, and developmental systems. This suggests significant phenotypic variability associated with ZNF699 mutations.
+*   The "Evidence" column uniformly states "As above," implying that the detailed evidence for these findings is presented elsewhere in the main body of the paper or an earlier part of Table 1.
+*   No specific PubMed IDs or additional contextual notes are provided for these patients within this table segment.
+
+**6. Context (footnotes/notes):**
+*   This table is a continuation of "Table 1".
+*   The authors of the paper are A.M. Bertoli-Avella et al.
+*   The publication details are "Genetics in Medicine (2021) 23:1551 – 1568", published by SPRINGER NATURE.

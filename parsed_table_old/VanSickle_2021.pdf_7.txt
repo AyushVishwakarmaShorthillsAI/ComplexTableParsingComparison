@@ -1,0 +1,53 @@
+Here's an extraction and description of the table content:
+
+---
+
+**1. Table Title/Caption:**
+TABLE 1 (Continued)
+
+**2. Table Purpose:**
+This table, a continuation of a larger Table 1, presents a comparative overview of "Other" clinical manifestations and "MRI, brain" findings across several individual patients (Patient 6, Patient 7, Patient 8, Patient 9) and previously reported cases (Bupp et al. (2018) and four cases from Rodan et al. (2018)). The purpose is to detail the phenotypic spectrum, including neurological and systemic features, observed in these individuals, likely in the context of a specific genetic disorder or condition.
+
+**3. Table Structure (columns/rows):**
+The table is structured with two primary row categories: "Other" (for general clinical features) and "MRI, brain" (for neuroimaging findings). These categories are populated across multiple columns, each representing a distinct patient or case study. The columns are:
+*   Patient 6
+*   Patient 7
+*   Patient 8
+*   Patient 9
+*   Bupp et al. (2018)
+*   Rodan et al. (2018)-1
+*   Rodan et al. (2018)-2
+*   Rodan et al. (2018)-3
+*   Rodan et al. (2018)-4
+
+**4. Table Data:**
+
+**Patient 6** exhibited intellectual disability, severe constipation, significantly reduced sweating, and reduced sensitivity to pain. MRI of the brain revealed hypoplastic chiasma and tractus opticus, along with a small pituitary.
+
+**Patient 7** presented with intellectual disability, a small atrial communication, a spontaneously resolved ventricular septal defect (VSD), resolved syringohydromyelia, poor left gaze prominence, poor feeding, constipation, gastroesophageal reflux disease (GERD), failure to thrive, and brittle fingernails. Brain MRI showed non-specific T2 hyperintensities.
+
+**Patient 8** had moderate intellectual disability, megalencephaly, and prominent ventricles (right greater than left). Brain MRI indicated overall brain parenchymal volumes reduced for age, mild bilateral hippocampal volume loss, and non-specific white matter signal changes.
+
+**Patient 9** was characterized by an approximately 83 kilobase microduplication of 18q21.32, mild pulmonary stenosis with insufficiency, and mild constipation as a neonate with easy vomiting. MRI of the brain showed decreased frontal cortex, germinal cysts, a left porencephalic cyst, and frontal and parietal white matter hyperintensities.
+
+The case reported by **Bupp et al. (2018)** involved a DHCR7 carrier with intellectual disability, spasticity, intermittent esotropia, pseudostrabismus, bilateral myopic astigmatism, right-sided sensorineural hearing loss, G-tube placement for feeding support, an exaggerated curve to nails that were brittle when cut, and reduced sensitivity to pain. Brain MRI findings included bilateral germinolytic cysts, peritrigonal white matter volume loss, resolution of previous periventricular cystic changes but progression of white matter volume loss in both cerebral hemispheres, and enlarged lateral ventricles.
+
+**Rodan et al. (2018)-1** presented with ESES on EEG, myringotomy, celiac disease, and hypoplastic toenails. Brain MRI showed a thickened, foreshortened corpus callosum, numerous dilated perivascular spaces, and mild prominence of lateral ventricles.
+
+**Rodan et al. (2018)-2** had myringotomy and constipation. Brain MRI revealed dilated perivascular spaces and diffuse white matter abnormality.
+
+**Rodan et al. (2018)-3** exhibited myringotomy and hypoplastic nails. Brain MRI findings included dilated perivascular spaces, ventriculomegaly, white matter abnormalities, periventricular cysts, focal polymicrogyria, and intracranial calcification.
+
+**Rodan et al. (2018)-4** had no "Other" clinical findings listed in this table segment. Brain MRI findings were identical to Rodan et al. (2018)-3, showing dilated perivascular spaces, ventriculomegaly, white matter abnormalities, periventricular cysts, focal polymicrogyria, and intracranial calcification.
+
+**5. Key Findings:**
+*   **Neurological Impairment:** Intellectual disability is a highly prevalent feature, noted in Patient 6, 7, 8, Bupp et al. (2018), and Rodan et al. (2018)-1.
+*   **Gastrointestinal Issues:** Constipation is a recurring symptom, observed in Patient 6, 7, 9, and Rodan et al. (2018)-2.
+*   **Sensory and Skin Manifestations:** Reduced sensitivity to pain is present in Patient 6 and Bupp et al. (2018). Hypoplastic or brittle nails/toenails are also noted in Patient 7, Bupp et al. (2018), Rodan et al. (2018)-1, and Rodan et al. (2018)-3. Myringotomy was performed in multiple Rodan et al. cases.
+*   **Common MRI Findings:** Dilated perivascular spaces are a frequent MRI finding, particularly across the Rodan et al. (2018) cases. White matter abnormalities, including volume loss or diffuse abnormality, are also common (Patient 8, Bupp et al. (2018), Rodan et al. (2018)-2, -3, -4). Enlarged or prominent ventricles are seen in Patient 8, Bupp et al. (2018), Rodan et al. (2018)-1, -3, and -4.
+*   **Cystic Brain Changes:** Various forms of brain cysts (germinal, porencephalic, periventricular) are reported in Patient 9, Bupp et al. (2018), Rodan et al. (2018)-3, and -4.
+*   **Specific Structural Anomalies:** Hypoplastic chiasma/pituitary (Patient 6), megalencephaly (Patient 8), and corpus callosum abnormalities (Bupp et al. (2018), Rodan et al. (2018)-1) highlight specific structural brain differences.
+*   **Phenotypic Overlap:** Rodan et al. (2018)-3 and -4 share identical MRI brain findings, suggesting a similar neuroimaging phenotype in these two cases.
+
+**6. Context (footnotes/notes):**
+The table is explicitly labeled as "TABLE 1 (Continued)", indicating it is a continuation of a larger table. No other footnotes or specific notes are provided within the visible portion of the table.

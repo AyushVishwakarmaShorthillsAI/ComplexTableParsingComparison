@@ -1,0 +1,50 @@
+Here's a description of the table content, optimized for semantic search and RAG:
+
+---
+
+### 1. Table Title/Caption
+Table 1 continued.
+
+### 2. Table Purpose
+This table details genetic variants, their inheritance patterns, associated clinical phenotypes, and supporting evidence for a series of patients (Patient 22 through 26). It serves to summarize patient-specific genetic and phenotypic data, primarily focusing on variants in the *RAP1GDS1* and *ZNF699* genes.
+
+### 3. Table Structure (columns/rows)
+The table is structured with 10 columns and 5 rows, each row representing a distinct patient.
+*   **Patient:** Unique identifier for each individual.
+*   **Gene:** The gene in which a variant was identified.
+*   **cDNA:** The specific cDNA variant description.
+*   **Protein:** The predicted protein variant description.
+*   **Zygosity:** The zygosity of the identified variant (e.g., homozygous).
+*   **Consanguinity family history:** Indicates the presence or absence of consanguinity in the family history.
+*   **Phenotype:** A comprehensive list of clinical symptoms and characteristics observed in the patient.
+*   **Evidence:** Information supporting the functional impact or relevance of the gene/variant.
+*   **PMID:** PubMed Identifier(s) for relevant scientific publications.
+*   **Others:** Additional contextual notes or findings.
+
+### 4. Table Data
+The table presents data for five patients (22-26), detailing their genetic findings and associated clinical presentations:
+
+**Patients with *RAP1GDS1* Variants (Patients 22-25):**
+*   **Patient 22** carries a homozygous *RAP1GDS1* variant, specifically NM_001100426.1:c.1444-1G>A (g.99355086G>A), with an unknown protein consequence (p.?). There is no reported family history of consanguinity. This patient exhibits microcephaly, muscular hypotonia, and spasticity. The *RAP1GDS1* gene is known to encode a protein that stimulates the activity of small GTP-binding proteins, including Rap1a/Rap1b, Rhoda, RhoB, and KRas. Relevant publications are identified by PMIDs 32727735 and 32431071.
+*   **Patient 23** also has a homozygous *RAP1GDS1* variant, NM_001100426.1:c.83delT, resulting in a p.Leu28fs protein change. This patient's family has a history of consanguinity. The phenotype is extensive, including abnormality of midbrain morphology, mild microcephaly, motor delay, spastic paraplegia, abnormal facial shape, abnormal movement, decreased body weight, delayed myelination, developmental regression, difficulty standing, generalized hypotonia, global developmental delay, high forehead, highly arched eyebrow, hypoteliorism, joint laxity, low-set ears, nasal flaring, otitis media, short stature, and stereotypy. The evidence and PMIDs are the same as for Patient 22.
+*   **Patient 24** presents with the same homozygous *RAP1GDS1* variant as Patient 22 (NM_001100426.1:c.1444-1G>A, p.?) and a history of consanguinity. This patient's phenotype includes hypotonia, cryptorchidism, difficulty standing and walking, global developmental delay, heart murmur, inability to walk, jaundice, muscular hypotonia, retrognathia, bulbous nose, and central hypotonia. Notably, this specific variant was found to cosegregate in two unrelated families, and exon 13 skipping was detected in blood mRNA from the patients. The evidence and PMIDs are consistent with Patient 22.
+*   **Patient 25** has a homozygous *RAP1GDS1* variant, NM_001100426.1:c.436_439del, leading to a p.Asp146Ilefs*10 protein change. The family history indicates a sibling relationship to a previously listed patient with consanguinity. This patient's phenotype is characterized by motor delay and muscular hypotonia. The evidence and PMIDs are consistent with Patient 22.
+
+**Patient with *ZNF699* Variant (Patient 26):**
+*   **Patient 26** carries a homozygous *ZNF699* variant, NM_198535.2:c.436_439del, with an unknown protein consequence (p.?). This patient's family has a history of consanguinity. The phenotype includes high palate, coarse facial features, smooth philtrum, long philtrum, abnormal eyelash morphology, ptosis, abnormal eyebrow morphology, hypotelorism, osteopenia, single umbilical artery, global developmental delay, agenesis of corpus callosum, cholestasis, and vocal cord paralysis. Evidence suggests that the *ZNF699* gene is ubiquitously expressed in the *Drosophila* nervous system, and its encoded protein localizes to the nuclei of neurons. The relevant publication is PMID 16094367.
+
+### 5. Key Findings
+*   The table highlights several patients with homozygous variants in the *RAP1GDS1* gene, which are associated with a broad spectrum of neurodevelopmental disorders, including microcephaly, hypotonia, spasticity, motor and global developmental delays, and distinct facial dysmorphism.
+*   A strong association with consanguinity or familial relatedness is observed across most patients, suggesting a recessive inheritance pattern for the conditions linked to these variants.
+*   The *RAP1GDS1* gene's role in small GTP-binding protein activity is emphasized as a potential mechanism underlying the observed phenotypes.
+*   One specific *RAP1GDS1* variant (c.1444-1G>A) was shown to cause exon 13 skipping and cosegregate in unrelated families, providing strong functional and genetic evidence.
+*   A distinct patient (Patient 26) with a homozygous *ZNF699* variant presents with a different set of symptoms, including facial anomalies, skeletal issues (osteopenia), and severe neurological manifestations like agenesis of the corpus callosum and vocal cord paralysis, underscoring the diverse genetic etiologies of developmental disorders.
+
+### 6. Context (footnotes/notes)
+*   This table is a continuation of a larger "Table 1".
+*   The authors of the paper are A.M. Bertoli-Avella et al.
+*   The publication source is "Genetics in Medicine (2021) 23:1551 – 1568".
+*   "As above" in the "Evidence" and "PMID" columns refers to the information provided for Patient 22, specifically the description of *RAP1GDS1* gene function and PMIDs 32727735 and 32431071.
+*   "p.?" indicates that the exact protein consequence of the variant is unknown or not specified.
+*   "Hom" is an abbreviation for homozygous.
+*   "Sibling of above" in the "Consanguinity family history" column implies a familial relationship to a patient previously listed with a history of consanguinity.

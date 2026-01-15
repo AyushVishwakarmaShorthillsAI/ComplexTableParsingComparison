@@ -1,0 +1,55 @@
+Here's the extracted and described content of the table:
+
+---
+
+1.  **Table Title/Caption:**
+    Table 2 Continued: Genotype-phenotype correlations.
+
+2.  **Table Purpose:**
+    This table details the genotype-phenotype correlations for a subset of patients diagnosed with Cockayne Syndrome type B (CS-B). It provides comprehensive information for each patient, including demographic data, specific DNA and protein mutations, and the presence or absence of various clinical features, aiming to illustrate the diverse manifestations of the syndrome in relation to genetic alterations.
+
+3.  **Table Structure (columns/rows):**
+    The table is structured with each row representing an individual patient. The columns provide specific data points:
+    *   **Patient Identification:** `Code`, `Country (origin)`, `Sex`.
+    *   **Age Information:** `Age at onset, years`, `Age at biopsy report or death, years (latest follow-up, if alive)`.
+    *   **Clinical Classification:** `Clinical classification` (e.g., Type I, II, I/II).
+    *   **Genetic Information:** `Mutation genomic DNA`, `Mutation cDNA`, `Protein alteration`.
+    *   **Phenotypic Features:** A series of columns indicating the presence (+) or absence (-) of specific clinical signs: `Growth failure`, `Low birth weight`, `Cachexia/bird-like faces`, `Mental retardation*`, `Microcephaly†`, `Cataracts‡`, `Microphthalmia`, `Retinal degeneration*`, `Deafness`, `Clinical photosensitivity`, `Fitzpatrick Skin Type Scale`, `Dental anomalies`, `Arthrogryposis`.
+    *   **References:** `References§`.
+
+4.  **Table Data:**
+
+    The table presents data for six patients:
+
+    *   **Patient CS215ST (UK, Male):** This male patient from the UK had an onset age of 0 years and was followed up until 0.6 years. Classified as Type II, the patient exhibited genomic DNA mutations c.[2170-1G>A] and [2599-26A>G], leading to cDNA mutations r.[(2170_2286 del (exon 11))] and [(2598_2599 ins2599-25_2599-1 (partial insertion of intron 13))], and protein alterations p.[?] and [Met867Thrfs*14)]. Phenotypically, this patient presented with growth failure, low birth weight, cachexia/bird-like faces, severe (S) mental retardation, congenital (C) microcephaly, congenital (C) cataracts, retinal degeneration, deafness, clinical photosensitivity, and dental anomalies. Arthrogryposis and microphthalmia were absent.
+
+    *   **Patient CS2GR (Austria, Female):** This female patient from Austria had an onset age of 0 years and was followed up until 15 years. Classified as Type I, her genomic DNA mutations were c.[2203C>T] and [3607_3608ins26], resulting in cDNA mutations r.[2203C>ul] and [3607_3608ins26], and protein alterations p.[Arg735*] and [Lys1203fs]. Clinical features included growth failure, cachexia/bird-like faces, mental retardation, microcephaly, retinal degeneration, and clinical photosensitivity. Low birth weight, cataracts, microphthalmia, deafness, dental anomalies, and arthrogryposis were not observed.
+
+    *   **Patient CS14PV (Italy, Male):** This male patient from Italy had an onset age of 1 year and was followed up until 3.5 years (with a latest follow-up at 5 years). Classified as Type I, the genomic DNA mutations were c.[2203C>T] and [? (deletion of about 5.5 Mb in 10q11.2)], leading to cDNA mutations r.[2203C>ul] and [0], and protein alterations p.[Arg735*] and [0]. Phenotypes included growth failure, low birth weight, cachexia/bird-like faces, mental retardation, progressive (P) microcephaly, retinal degeneration, deafness, clinical photosensitivity, and dental anomalies. Cataracts, microphthalmia, and arthrogryposis were absent.
+
+    *   **Patient CS21PV (Italy, Female):** This female patient from Italy had an onset age of 1 year and was followed up until 21 years (with a latest follow-up at 27 years). Classified as Type I, her genomic DNA mutations were c.[2551T>C] and [3952_3953delAG], resulting in cDNA mutations r.[2551u>c] and [3952_3953delag], and protein alterations p.[Trp851Arg] and [Arg1318Glyfs*]. Clinical manifestations included growth failure, low birth weight, cachexia/bird-like faces, moderate (M) mental retardation, progressive (P) microcephaly, retinal degeneration, deafness, clinical photosensitivity, and dental anomalies. Cataracts, microphthalmia, and arthrogryposis were not present.
+
+    *   **Patient CS286ST (France (Algeria), Male):** This male patient from France (Algeria) had an onset age of 0 years and was followed up until 4 years. Classified as Type I/II, the genomic DNA mutations were c.[2599-26A>G] and [4115delG], leading to cDNA mutations r.[(2598_2599 ins2599-25_2599-1 (partial insertion of intron 13))] and [(4115delg)], and protein alterations p.[Met867Thrfs*14)] and [Gly1372Glufs]. Phenotypically, this patient presented with growth failure, cachexia/bird-like faces, moderate (M) mental retardation, microcephaly, retinal degeneration, deafness, and clinical photosensitivity. Low birth weight, cataracts, microphthalmia, dental anomalies, and arthrogryposis were absent.
+
+    *   **Patient CS1BEL (UK, Female):** This female patient from the UK had an onset age of 7 years and was followed up until 7 years (with a latest follow-up at 18 years). Classified as Type II, her genomic DNA mutations were c.[2830-2A>G] and [3536delA], resulting in cDNA mutations r.[2830_2924del (exon 16)] and [3536delA], and protein alterations p.[Ala944Thrfs*] and [Tyr1179Leufs*]. Clinical features included growth failure, cachexia/bird-like faces, severe (S) mental retardation, congenital (C) microcephaly, congenital (C) cataracts, retinal degeneration, deafness, and clinical photosensitivity. The Fitzpatrick Skin Type Scale was II. Low birth weight, microphthalmia, dental anomalies, and arthrogryposis were absent. This patient is associated with reference '52'.
+
+5.  **Key Findings:**
+    *   All six patients consistently presented with core Cockayne Syndrome B features: growth failure, cachexia/bird-like faces, mental retardation, microcephaly, retinal degeneration, deafness, and clinical photosensitivity.
+    *   Low birth weight was a common finding, observed in four out of the six patients.
+    *   Cataracts were present in two patients (CS215ST and CS1BEL), both noted as congenital.
+    *   Dental anomalies were reported in three patients (CS215ST, CS14PV, CS21PV).
+    *   Arthrogryposis and microphthalmia were absent in all patients listed in this segment of the table.
+    *   The severity of mental retardation and the nature of microcephaly (congenital vs. progressive) varied among patients, indicating phenotypic heterogeneity even within the same syndrome type.
+    *   The genetic mutations described include various types such as deletions, insertions, and point mutations, leading to diverse protein alterations like frameshifts and premature stop codons, which correlate with the observed clinical spectrum.
+
+6.  **Context (footnotes/notes):**
+    *   This table is a continuation of Table 2, which summarizes details for a total of 85 patients with Cockayne Syndrome type B (CS-B).
+    *   Nucleotide numbering for mutations begins with the 'A' of the ATG translation initiation site, designated as nucleotide 1.
+    *   The position of any PiggyBac insertion is indicated.
+    *   Mutation nomenclature follows the standard format specified at http://varnomen.hgvs.org/.
+    *   Specific patient codes (CS288ST, CS278ST, CS286ST, CS289ST) correspond to cases 1, 2, 3, and 4, respectively, in Reference 39 from NC and VL, and are presented as new mutations in figures 3 and 4 of the original publication.
+    *   Abbreviations used for clinical classification and phenotype severity are: 'C' for congenital, 'M' for moderate, 'P' for progressive, and 'S' for severe.
+    *   The paper is by Calnels N, et al. J Med Genet 2018;55:329–343. The DOI is 10.1136/jmedgenet-2017-104877.
+    *   The document was downloaded from http://jmg.bmj.com/ on July 13, 2025, and is protected by copyright, intended for uses related to text and data mining, AI training, and similar technologies.
+
+---

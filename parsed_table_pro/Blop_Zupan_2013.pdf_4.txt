@@ -1,0 +1,51 @@
+Here is the extracted and described content of the table, optimized for semantic search and RAG.
+
+### 1. Table Title/Caption
+**Table 1:** Genotype and oro-dental features encountered in our cohort of 17 CS patients (Continued)
+
+### 2. Table Purpose
+The purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS). It documents their age, disease severity, specific dental anomalies, oral health status (plaque, caries, gingivitis), functional defects, and dental treatment history.
+
+### 3. Table Structure (columns/rows)
+The table is structured with each row representing an individual patient. The columns detail various aspects of each patient's profile, including:
+*   **Patient Identification:** Patient number and a unique identifier.
+*   **Demographics:** Age and disease severity (e.g., Mild, Moderate).
+*   **Dental Treatment Context:** The setting for dental treatment (e.g., conscious sedation, general anesthesia).
+*   **Genotype:** Specific genetic mutations identified in the patient.
+*   **Dental Anomalies:** A series of columns indicating the presence or absence of specific dental features such as screwdriver-shaped teeth, radiculomegaly, taurodontism, pits, opacities, hypoplasia, and pulp calcification.
+*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level.
+*   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism.
+
+### 4. Table Data
+This section of the table details the findings for three patients, numbered 15, 16, and 17.
+
+**Patient 15 (ID: CS543VI)**, aged 15.10 years, presented with a mild (III) form of Cockayne Syndrome. The patient's genotype included the mutations c.1913A>G and c.2247delT. Dental examination revealed screwdriver-shaped incisors (teeth 11 and 21) and dental opacities. No radiculomegaly, taurodontism, pits, hypoplasia, or pulp calcification were observed. The patient had a severe level of plaque (rated +++), but a DMFT score of 0, indicating no decayed, missing, or filled permanent teeth. The patient suffered from gingivitis and had deficient oral hygiene requiring assisted brushing (AB). Their dental treatment history included a first visit (VI) under local anesthesia (LA), and they had a previous orthodontic assessment. A functional defect of mixed breathing (MB) was noted, but there was no evidence of bruxism. Dental treatment was managed under conscious sedation (CSB).
+
+**Patient 16 (ID: 08STR2_2)**, the 16.5-year-old brother of patient 08STR2, had a moderate (I) form of Cockayne Syndrome with the genotype c.797A>G. His dental anomalies included radiculomegaly and hypoplasia. He did not have screwdriver teeth, taurodontism, pits, opacities, or pulp calcification. Plaque level was mild (+), and his DMFT score was 2. Like the other patients, he had gingivitis and deficient oral hygiene with assisted brushing (AB). His dental treatment was performed during a first visit under general anesthesia (1GA), and he had no prior orthodontic assessment or treatment. Functional defects included mixed breathing (MB) and a deglutition (swallowing) defect (D). No bruxism was present. His dental treatment was managed under general anesthesia (CSA).
+
+**Patient 17 (ID: CS823VI)**, aged 28.5 years, had a mild (III) form of Cockayne Syndrome. His genotype consisted of the mutations c.3778+2T>G and c.2203C>T. His dental anomalies were extensive, including shovel-shaped incisors (teeth 11 and 21), taurodontism, pits, and pulp calcification. No screwdriver teeth, radiculomegaly, opacities, or hypoplasia were noted. He had a severe level of plaque (+++) and a high DMFT score of 13. He presented with gingivitis and deficient oral hygiene with assisted brushing (AB). His dental treatment history included a first visit under general anesthesia (1GA) and previous orthodontic treatment. A functional defect of mixed breathing (MB) was observed, with no bruxism. His dental treatment was managed under conscious sedation (CSB).
+
+### 5. Key Findings
+*   All three patients, regardless of CS severity, exhibited gingivitis, deficient oral hygiene requiring assisted brushing, and mixed breathing.
+*   There is a clear link between specific genotypes and unique patterns of dental anomalies. For example, patient 15 had screwdriver teeth and opacities, while patient 17 had shovel-shaped teeth, taurodontism, and pulp calcification.
+*   The caries experience (DMFT score) varied widely among the patients, from 0 to 13, and did not directly correlate with the severity of CS in this small sample.
+*   Dental management for these CS patients required specialized approaches, such as conscious sedation (CSB) or general anesthesia (CSA/1GA), highlighting the challenges in providing routine dental care.
+
+### 6. Context (footnotes/notes)
+The following abbreviations and symbols are defined to clarify the table's content:
+*   **pd:** primary dentition
+*   **PD:** permanent dentition
+*   **screw d:** screw driver teeth
+*   **dmft/DMFT:** Decayed, Missing, and Filled Teeth for primary (dmft) and permanent (DMFT) dentition.
+*   **Perio:** Periodontium
+*   **Oral hygiene:** Assessed based on plaque abundance and brushing habits (from assisted brushing, AB, to no brushing, NB).
+*   **Dental treatment:** Describes the context of care, such as first visit (First), regular visit (VI), under local anesthesia (LA), conscious sedation (CSE), or general anesthesia (GA).
+*   **Ortho ass or ttt:** Previous orthodontic assessment or treatment.
+*   **FD:** Functional defects.
+*   **MB:** Mixed breathing (mouth and nose).
+*   **D:** Deglutition or swallowing defect.
+*   **R:** Reflux.
+*   **Para:** Parafunctions.
+*   **brux:** Bruxism.
+*   **Ø:** None or not present.
+*   **+:** Present.

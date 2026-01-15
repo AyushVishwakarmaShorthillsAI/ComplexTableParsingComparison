@@ -1,0 +1,50 @@
+Here's an extraction and description of the table content:
+
+---
+
+1.  **Table Title/Caption**
+    Table 1 continued
+
+2.  **Table Purpose**
+    This table provides detailed genetic and clinical information for five patients (numbered 17 through 21), focusing on variants within the *PLK1* gene. It describes the specific cDNA and protein changes, zygosity, family history of consanguinity, observed phenotypes, and supporting evidence regarding the gene's function and its association with conditions like Primary Microcephaly Type 2 (MCPH2).
+
+3.  **Table Structure (columns/rows)**
+    The table is structured with the following columns:
+    *   **Patient**: A unique numerical identifier for each individual.
+    *   **Gene**: The gene identified with a variant in the patient.
+    *   **cDNA**: The specific cDNA notation for the genetic variant.
+    *   **Protein**: The corresponding protein change notation.
+    *   **Zygosity**: Indicates whether the genetic variant is homozygous (Hom) or heterozygous.
+    *   **Consanguinity family history**: Specifies if there is a history of consanguinity in the patient's family (Yes/No).
+    *   **Phenotype**: A comprehensive list of clinical manifestations and symptoms observed in the patient.
+    *   **Evidence**: Information describing the function of the *WDR62* gene, its relationship to *PLK1*, and its role in disease.
+    *   **PMID**: The PubMed ID of the scientific publication providing the evidence.
+    *   **Others**: Any additional relevant notes.
+
+4.  **Table Data**
+
+    The table presents data for five patients, all with variants in the *PLK1* gene.
+
+    **Patients 17, 18, 19, and 20** share the same genetic variant: NM_005030.5:c.785G>A at the cDNA level, resulting in a p.Arg262Gln protein change. This variant is homozygous in all four patients. Patients 17, 18, and 19 have a positive family history of consanguinity, while Patient 20 does not.
+
+    The phenotypes associated with this c.785G>A variant vary:
+    *   **Patient 17** exhibits focal-onset seizures.
+    *   **Patient 18** presents with a more extensive set of symptoms including an arachnoid cyst, cerebellar vermis hypoplasia, decreased body weight, delayed myelination, global developmental delay, microcephaly, oligohydramnios, posterior fossa cyst, premature birth, seizures, short chin, and short stature.
+    *   **Patient 19** shows generalized tonic-clonic seizures, global developmental delay, and hyperpigmentation of the skin.
+    *   **Patient 20** experiences global developmental delay, microcephaly, and intractable seizures.
+
+    **Patient 21** has a different homozygous variant in the *PLK1* gene: NM_005030.5:c.408+3G>A (also noted as NC_000016.9:g.23690664G>A), with the protein change being unknown (p.?). This patient also has a history of consanguinity. The phenotype for Patient 21 is severe and includes abnormal myelination, brain atrophy, epileptic encephalopathy, generalized-onset seizure, hyperreflexia, infantile encephalopathy, intellectual disability, leukodystrophy, and leukoencephalopathy.
+
+    For all five patients, the "Evidence" column consistently refers to the *WDR62* gene. It states that *WDR62* encodes a protein that localizes to the centrosome and nucleus depending on the cell cycle and type. *WDR62* is identified as a *PLK1* substrate, phosphorylated at Ser 897, which promotes astral microtubule assembly and spindle orientation. The evidence also notes that Primary Microcephaly Type 2 (MCPH2) is caused by homozygous or compound heterozygous variants in the *WDR62* gene. All evidence points to the same PubMed ID: 28973348. The "Others" column is empty for all entries.
+
+5.  **Key Findings**
+    *   All five patients in this segment of the table exhibit homozygous variants in the *PLK1* gene, suggesting a recessive inheritance pattern for the associated conditions.
+    *   The c.785G>A (p.Arg262Gln) variant is recurrently found in four patients (17-20) and is associated with a spectrum of neurological phenotypes, including various types of seizures, global developmental delay, and microcephaly. Patient 18 shows a particularly broad range of developmental and physical abnormalities.
+    *   A distinct variant, c.408+3G>A, in Patient 21 leads to a more severe and extensive neurological phenotype, including brain atrophy, epileptic encephalopathy, and leukodystrophy.
+    *   A significant proportion of the families (four out of five patients) have a history of consanguinity, which is consistent with the observation of homozygous recessive variants.
+    *   The evidence provided links the *PLK1* gene to the *WDR62* gene, highlighting *WDR62* as a *PLK1* substrate and associating *WDR62* variants with Primary Microcephaly Type 2 (MCPH2). This suggests a mechanistic connection between *PLK1* function and the observed microcephaly and neurological symptoms.
+
+6.  **Context (footnotes/notes)**
+    *   This table is a continuation of a larger "Table 1".
+    *   The research paper is authored by A.M. Bertoli-Avella et al.
+    *   The publication details are: *Genetics in Medicine (2021) 23:1551–1568*.
