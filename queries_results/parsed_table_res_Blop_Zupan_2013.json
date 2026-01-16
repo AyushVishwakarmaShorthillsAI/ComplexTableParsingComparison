@@ -1,0 +1,161 @@
+{
+    "model": "gemini-2.5-flash-unique",
+    "total_queries": 5,
+    "queries": [
+        {
+            "query": "According to Table 1, what is the DMFT score (Decayed, Missing, Filled Teeth) for patient 5?",
+            "answer": "I don't know. The provided context details findings for patients 15, 16, and 17, but does not include the DMFT score for patient 5.",
+            "results": [
+                {
+                    "content": "ween specific genotypes and unique patterns of dental anomalies. For example, patient 15 had screwdriver teeth and opacities, while patient 17 had shovel-shaped teeth, taurodontism, and pulp calcification.\n*   The caries experience (DMFT score) varied widely among the patients, from 0 to 13, and did not directly correlate with the severity of CS in this small sample.\n*   Dental management for these CS patients required specialized approaches, such as conscious sedation (CSB) or general anesthesia (CSA/1GA), highlighting the challenges in providing routine dental care.\n\n### 6. Context (footnotes/notes)\nThe following abbreviations and symbols are defined to clarify the table's content:\n*   **pd:** primary dentition\n*   **PD:** permanent dentition\n*   **screw d:** screw driver teeth\n*   **dmft/DMFT:** Decayed, Missing, and Filled Teeth for primary (dmft) and permanent (DMFT) dentition.\n*   **Perio:** Periodontium\n*   **Oral hygiene:** Assessed based on plaque abundance and brushing habits",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "tifier.\n*   **Demographics:** Age and disease severity (e.g., Mild, Moderate).\n*   **Dental Treatment Context:** The setting for dental treatment (e.g., conscious sedation, general anesthesia).\n*   **Genotype:** Specific genetic mutations identified in the patient.\n*   **Dental Anomalies:** A series of columns indicating the presence or absence of specific dental features such as screwdriver-shaped teeth, radiculomegaly, taurodontism, pits, opacities, hypoplasia, and pulp calcification.\n*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level.\n*   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism.\n\n### 4. Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17.\n\n**Patient 15 (ID: CS543VI)**, aged 15.1",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "a patient ID. The columns are organized as follows:\n*   **Patient Identification:** Patient number and ID.\n*   **General Information:** Age (in years and months), Type of CS (e.g., Severe (II), Moderate (I), Very severe COFS), and the affected Gene (CSB or CSA).\n*   **Genetic Information:** The specific Mutation identified.\n*   **Oro-dental Anomalies (a super-category with sub-columns):**\n    *   **Number of teeth:** Notes on agenesis (missing teeth).\n    *   **Shape:** Describes any unusual tooth shapes (e.g., shovel, screw, globular).\n    *   **Size:** Notes on tooth size, primarily microdontia (abnormally small teeth).\n    *   **Structure:** Details on Enamel and Dentin abnormalities.\n    *   **Eruption:** Timing of primary (pd) and permanent (PD) tooth eruption.\n    *   **Crowding:** Severity of tooth crowding, rated from + to +++.\n    *   **Caries dmft / DMFT:** Caries experience in primary (dmft) and permanent (DMFT) teeth.\n    *   **Perio:** Periodontal status (e.g., normal, gin",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "ased facial axis of 96.0\u00b0 (vs. 88.9\u00b0). Facial depth was also predominantly reduced, measuring 73.0\u00b0 for Patient 8 (vs. 83.2\u00b0), 81.0\u00b0 for Patient 10 (vs. 82.1\u00b0), 80.0\u00b0 for Patient 11 (vs. 84.3\u00b0), 74.0\u00b0 for Patient 12 (vs. 83.3\u00b0), 67.0\u00b0 for Patient 14 (vs. 82.9\u00b0), 75.0\u00b0 for Patient 15 (vs. 82.5\u00b0), and 78.0\u00b0 for Patient 16 (vs. 86.0\u00b0). The lower facial height was increased for most patients, with values like 56.0\u00b0 for Patient 8 (vs. 47.0\u00b0) and 58.0\u00b0 for Patient 12 (vs. 47.0\u00b0), while it was normal for Patient 16 at 47.0\u00b0 (vs. 47.0\u00b0).\n\n*   **Mandibular Measurements:** The Frankfort-Mandibular plane Angle (FMA) was consistently increased across all patients, indicating a steep mandibular plane. Values ranged from 36.0\u00b0 for Patient 10 (vs. 29.4\u00b0) and Patient 15 (vs. 28.7\u00b0) to 50.0\u00b0 for Patient 12 (vs. 27.7\u00b0). Both Anterior Facial Height (AFH) and Posterior Facial Height (PFH) were generally reduced. For example, Patient 17 had an AFH of 58.0 mm (vs. 67.2 mm) and a PFH of 30.0 mm (vs. 49.6 mm)",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "**Perio:** Periodontium\n*   **Oral hygiene:** Assessed based on plaque abundance and brushing habits (from assisted brushing, AB, to no brushing, NB).\n*   **Dental treatment:** Describes the context of care, such as first visit (First), regular visit (VI), under local anesthesia (LA), conscious sedation (CSE), or general anesthesia (GA).\n*   **Ortho ass or ttt:** Previous orthodontic assessment or treatment.\n*   **FD:** Functional defects.\n*   **MB:** Mixed breathing (mouth and nose).\n*   **D:** Deglutition or swallowing defect.\n*   **R:** Reflux.\n*   **Para:** Parafunctions.\n*   **brux:** Bruxism.\n*   **\u00d8:** None or not present.\n*   **+:** Present.",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                }
+            ]
+        },
+        {
+            "query": "Which patient in Table 1 has the mutation c.1954C>T?",
+            "answer": "I don't know. The provided context describes that Table 1 includes genotype information for patients 15, 16, and 17, but it does not specify which patient has the mutation c.1954C>T.",
+            "results": [
+                {
+                    "content": "tifier.\n*   **Demographics:** Age and disease severity (e.g., Mild, Moderate).\n*   **Dental Treatment Context:** The setting for dental treatment (e.g., conscious sedation, general anesthesia).\n*   **Genotype:** Specific genetic mutations identified in the patient.\n*   **Dental Anomalies:** A series of columns indicating the presence or absence of specific dental features such as screwdriver-shaped teeth, radiculomegaly, taurodontism, pits, opacities, hypoplasia, and pulp calcification.\n*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level.\n*   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism.\n\n### 4. Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17.\n\n**Patient 15 (ID: CS543VI)**, aged 15.1",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "Here is the extracted and described content of the table, optimized for semantic search and RAG.\n\n### 1. Table Title/Caption\n**Table 1:** Genotype and oro-dental features encountered in our cohort of 17 CS patients (Continued)\n\n### 2. Table Purpose\nThe purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS). It documents their age, disease severity, specific dental anomalies, oral health status (plaque, caries, gingivitis), functional defects, and dental treatment history.\n\n### 3. Table Structure (columns/rows)\nThe table is structured with each row representing an individual patient. The columns detail various aspects of each patient's profile, including:\n*   **Patient Identification:** Patient number and a unique identifier.\n*   **Demographics:** Age and disease severity (e.g., Mild, Moderate).\n*   **Dental Treatmen",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "in the CSA gene, all diagnosed with Moderate (I) CS.\n*   Patient 9 (7.11 years) had enamel hypoplasia, early eruption of both dentitions, moderate crowding (++), a caries score of 5/0, and gingivitis.\n*   Patient 10 (8.1 years) showed significant anomalies, including agenesis of four teeth (35, 17, 37, 47), atypical shovel-shaped teeth (12, 22), taurodontism, and enamel opacities, along with a caries score of 2/\u00d8 and gingivitis.\n*   Patient 11 (9.1 years) had screw-shaped incisors (11, 21), enamel opacities, early eruption, no caries (0/0), and gingivitis.\n*   Patient 12 (9.5 years) and his brother, Patient 14 (14.6 years), both had a null mutation (r.0, no full-length mRNA). Patient 12 had globular-shaped teeth, enamel opacities, severe crowding (+++), and high caries (16/4). Patient 14 had enamel hypoplasia and a very high permanent caries score (0/28). Both had gingivitis and deficient oral hygiene.\n*   Patient 13 (14.4 years) presented with enamel hypoplasia, no caries (0/0), and g",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "ased facial axis of 96.0\u00b0 (vs. 88.9\u00b0). Facial depth was also predominantly reduced, measuring 73.0\u00b0 for Patient 8 (vs. 83.2\u00b0), 81.0\u00b0 for Patient 10 (vs. 82.1\u00b0), 80.0\u00b0 for Patient 11 (vs. 84.3\u00b0), 74.0\u00b0 for Patient 12 (vs. 83.3\u00b0), 67.0\u00b0 for Patient 14 (vs. 82.9\u00b0), 75.0\u00b0 for Patient 15 (vs. 82.5\u00b0), and 78.0\u00b0 for Patient 16 (vs. 86.0\u00b0). The lower facial height was increased for most patients, with values like 56.0\u00b0 for Patient 8 (vs. 47.0\u00b0) and 58.0\u00b0 for Patient 12 (vs. 47.0\u00b0), while it was normal for Patient 16 at 47.0\u00b0 (vs. 47.0\u00b0).\n\n*   **Mandibular Measurements:** The Frankfort-Mandibular plane Angle (FMA) was consistently increased across all patients, indicating a steep mandibular plane. Values ranged from 36.0\u00b0 for Patient 10 (vs. 29.4\u00b0) and Patient 15 (vs. 28.7\u00b0) to 50.0\u00b0 for Patient 12 (vs. 27.7\u00b0). Both Anterior Facial Height (AFH) and Posterior Facial Height (PFH) were generally reduced. For example, Patient 17 had an AFH of 58.0 mm (vs. 67.2 mm) and a PFH of 30.0 mm (vs. 49.6 mm)",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "t oral hygiene.\n*   Patient 13 (14.4 years) presented with enamel hypoplasia, no caries (0/0), and gingivitis.\n\n### 5. Key Findings\n*   **Prevalence of Dental Anomalies:** Oro-dental abnormalities are a consistent feature in this cohort of CS patients, affecting tooth number, size, shape, and structure.\n*   **Enamel Defects:** Enamel defects, such as hypoplasia and opacities, are nearly universal among these patients, regardless of the specific gene (CSA or CSB) or disease severity.\n*   **Caries and Oral Hygiene:** Caries experience is highly variable, ranging from zero to extremely high. Poor oral hygiene and gingivitis are common, particularly in older children.\n*   **Specific Phenotypes:** Certain mutations are associated with distinct dental features. For example, a CSA mutation in Patient 10 led to agenesis, shovel-shaped teeth, and taurodontism. A null CSA mutation in two brothers (Patients 12 and 14) was associated with high caries rates and enamel defects.\n*   **Other Common Fe",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                }
+            ]
+        },
+        {
+            "query": "What type of 'Structure' anomaly regarding enamel is listed for Patient 16 in Table 1?",
+            "answer": "I don't know. The provided context states that Patient 16 is included in the table data, and lists general types of enamel anomalies (pits, opacities, hypoplasia) that are recorded. However, it does not detail the specific enamel structure anomaly for Patient 16.",
+            "results": [
+                {
+                    "content": "t oral hygiene.\n*   Patient 13 (14.4 years) presented with enamel hypoplasia, no caries (0/0), and gingivitis.\n\n### 5. Key Findings\n*   **Prevalence of Dental Anomalies:** Oro-dental abnormalities are a consistent feature in this cohort of CS patients, affecting tooth number, size, shape, and structure.\n*   **Enamel Defects:** Enamel defects, such as hypoplasia and opacities, are nearly universal among these patients, regardless of the specific gene (CSA or CSB) or disease severity.\n*   **Caries and Oral Hygiene:** Caries experience is highly variable, ranging from zero to extremely high. Poor oral hygiene and gingivitis are common, particularly in older children.\n*   **Specific Phenotypes:** Certain mutations are associated with distinct dental features. For example, a CSA mutation in Patient 10 led to agenesis, shovel-shaped teeth, and taurodontism. A null CSA mutation in two brothers (Patients 12 and 14) was associated with high caries rates and enamel defects.\n*   **Other Common Fe",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "in the CSA gene, all diagnosed with Moderate (I) CS.\n*   Patient 9 (7.11 years) had enamel hypoplasia, early eruption of both dentitions, moderate crowding (++), a caries score of 5/0, and gingivitis.\n*   Patient 10 (8.1 years) showed significant anomalies, including agenesis of four teeth (35, 17, 37, 47), atypical shovel-shaped teeth (12, 22), taurodontism, and enamel opacities, along with a caries score of 2/\u00d8 and gingivitis.\n*   Patient 11 (9.1 years) had screw-shaped incisors (11, 21), enamel opacities, early eruption, no caries (0/0), and gingivitis.\n*   Patient 12 (9.5 years) and his brother, Patient 14 (14.6 years), both had a null mutation (r.0, no full-length mRNA). Patient 12 had globular-shaped teeth, enamel opacities, severe crowding (+++), and high caries (16/4). Patient 14 had enamel hypoplasia and a very high permanent caries score (0/28). Both had gingivitis and deficient oral hygiene.\n*   Patient 13 (14.4 years) presented with enamel hypoplasia, no caries (0/0), and g",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "tifier.\n*   **Demographics:** Age and disease severity (e.g., Mild, Moderate).\n*   **Dental Treatment Context:** The setting for dental treatment (e.g., conscious sedation, general anesthesia).\n*   **Genotype:** Specific genetic mutations identified in the patient.\n*   **Dental Anomalies:** A series of columns indicating the presence or absence of specific dental features such as screwdriver-shaped teeth, radiculomegaly, taurodontism, pits, opacities, hypoplasia, and pulp calcification.\n*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level.\n*   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism.\n\n### 4. Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17.\n\n**Patient 15 (ID: CS543VI)**, aged 15.1",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "(Patients 12 and 14) was associated with high caries rates and enamel defects.\n*   **Other Common Features:** Microdontia (small teeth) is a frequent finding, especially in patients with CSB mutations. Crowding is also a significant issue for several patients. Bruxism was noted in three patients.\n\n### 6. Context (Footnotes/Notes)\n*   The symbol '\u00d8' is used to indicate 'none', 'not applicable', or 'not present' (e.g., in the permanent dentition of very young children).\n*   Crowding is indicated with a severity scale: +, ++, +++.\n*   **Abbreviations:**\n    *   **CS:** Cockayne Syndrome\n    *   **COFS:** Cerebro-oculo-facio-skeletal syndrome\n    *   **y.m:** years.months\n    *   **pd / PD:** primary dentition / permanent dentition\n    *   **dmft / DMFT:** decayed, missing, filled teeth index for primary/permanent teeth\n    *   **Perio:** Periodontal\n    *   **FD:** Facial Dysmorphology\n    *   **Para:** Parafunction\n    *   **brux:** bruxism",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "ased facial axis of 96.0\u00b0 (vs. 88.9\u00b0). Facial depth was also predominantly reduced, measuring 73.0\u00b0 for Patient 8 (vs. 83.2\u00b0), 81.0\u00b0 for Patient 10 (vs. 82.1\u00b0), 80.0\u00b0 for Patient 11 (vs. 84.3\u00b0), 74.0\u00b0 for Patient 12 (vs. 83.3\u00b0), 67.0\u00b0 for Patient 14 (vs. 82.9\u00b0), 75.0\u00b0 for Patient 15 (vs. 82.5\u00b0), and 78.0\u00b0 for Patient 16 (vs. 86.0\u00b0). The lower facial height was increased for most patients, with values like 56.0\u00b0 for Patient 8 (vs. 47.0\u00b0) and 58.0\u00b0 for Patient 12 (vs. 47.0\u00b0), while it was normal for Patient 16 at 47.0\u00b0 (vs. 47.0\u00b0).\n\n*   **Mandibular Measurements:** The Frankfort-Mandibular plane Angle (FMA) was consistently increased across all patients, indicating a steep mandibular plane. Values ranged from 36.0\u00b0 for Patient 10 (vs. 29.4\u00b0) and Patient 15 (vs. 28.7\u00b0) to 50.0\u00b0 for Patient 12 (vs. 27.7\u00b0). Both Anterior Facial Height (AFH) and Posterior Facial Height (PFH) were generally reduced. For example, Patient 17 had an AFH of 58.0 mm (vs. 67.2 mm) and a PFH of 30.0 mm (vs. 49.6 mm)",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                }
+            ]
+        },
+        {
+            "query": "In Table 2, what is the specific 'Facial axis' measurement recorded for Patient 16?",
+            "answer": "The specific 'Facial axis' measurement recorded for Patient 16 is 96.0\u00b0.",
+            "results": [
+                {
+                    "content": "ased facial axis of 96.0\u00b0 (vs. 88.9\u00b0). Facial depth was also predominantly reduced, measuring 73.0\u00b0 for Patient 8 (vs. 83.2\u00b0), 81.0\u00b0 for Patient 10 (vs. 82.1\u00b0), 80.0\u00b0 for Patient 11 (vs. 84.3\u00b0), 74.0\u00b0 for Patient 12 (vs. 83.3\u00b0), 67.0\u00b0 for Patient 14 (vs. 82.9\u00b0), 75.0\u00b0 for Patient 15 (vs. 82.5\u00b0), and 78.0\u00b0 for Patient 16 (vs. 86.0\u00b0). The lower facial height was increased for most patients, with values like 56.0\u00b0 for Patient 8 (vs. 47.0\u00b0) and 58.0\u00b0 for Patient 12 (vs. 47.0\u00b0), while it was normal for Patient 16 at 47.0\u00b0 (vs. 47.0\u00b0).\n\n*   **Mandibular Measurements:** The Frankfort-Mandibular plane Angle (FMA) was consistently increased across all patients, indicating a steep mandibular plane. Values ranged from 36.0\u00b0 for Patient 10 (vs. 29.4\u00b0) and Patient 15 (vs. 28.7\u00b0) to 50.0\u00b0 for Patient 12 (vs. 27.7\u00b0). Both Anterior Facial Height (AFH) and Posterior Facial Height (PFH) were generally reduced. For example, Patient 17 had an AFH of 58.0 mm (vs. 67.2 mm) and a PFH of 30.0 mm (vs. 49.6 mm)",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "rement, the table provides the observed value and, in parentheses, the standard value (Mean; Standard Deviation). The final column (\"CS\") indicates whether the patient's measurement is increased (\u2191), reduced (\u2193), or within the normal range (N) compared to the standard.\n\nThe measurements are grouped into two main categories:\n*   **Norma lateralis:** This includes sub-categories for Typology, Mandibular measurements, Skeletal analysis, and Denture analysis.\n*   **Norma frontalis:** This includes various cranial and facial width measurements.\n\n### 4. Table Data\n\n**Norma Lateralis Analysis**\n\n*   **Typology:** The facial axis was generally reduced, with values of 81.0\u00b0 for Patient 8 (vs. 89.5\u00b0), 79.6\u00b0 for Patient 9 (vs. 89.6\u00b0), 76.0\u00b0 for Patient 12 (vs. 89.3\u00b0), 76.0\u00b0 for Patient 14 (vs. 89.4\u00b0), 74.0\u00b0 for Patient 15 (vs. 89.2\u00b0), and 80.0\u00b0 for Patient 17 (vs. 89.0\u00b0). Patient 16 showed an increased facial axis of 96.0\u00b0 (vs. 88.9\u00b0). Facial depth was also predominantly reduced, measuring 73.0\u00b0 ",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": ".9 mm) and an angle of 35.0\u00b0 (vs. 23.8\u00b0). The Frankfort-Mandibular Incisor Angle (FMIA) was generally reduced, such as 36.0\u00b0 for Patient 11 (vs. 55.9\u00b0), indicating incisor proclination. The interincisal angle (i/I) was reduced for all patients, with values like 103.0\u00b0 for Patient 15 (vs. 126.6\u00b0) and 119.0\u00b0 for Patient 16 (vs. 133.6\u00b0).\n\n**Norma Frontalis Analysis**\n\n*   **Facial Widths:** Most facial width measurements were reduced compared to normative data. Cranial width was reduced for patients like Patient 8 (103.0 mm vs. 135.7 mm) and Patient 12 (103.0 mm vs. 140.2 mm). Bifrontotemporale width was also smaller, for example, 69.0 mm for Patient 8 (vs. 92.3 mm) and 72.0 mm for Patient 12 (vs. 95.4 mm). Similarly, bizygomatic width was reduced, with Patient 8 measuring 85.0 mm (vs. 109.4 mm) and Patient 17 measuring 107.0 mm (vs. 122.8 mm). Nasal width and bigonial width followed the same trend of being narrower than the standard in most patients. For example, Patient 15 had a bigonia",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "uced. For example, Patient 17 had an AFH of 58.0 mm (vs. 67.2 mm) and a PFH of 30.0 mm (vs. 49.6 mm). Consequently, the Facial Height Index (FHI) was reduced for all patients, with values ranging from 0.3 for Patient 14 (vs. 0.7) to 0.5 for several patients.\n\n*   **Skeletal Analysis:** All patients exhibited a Skeletal Class II pattern, characterized by significantly increased convexity and ANB angles. Convexity ranged from 5.0 mm for Patient 10 (vs. 4.4 mm) to 12.0 mm for Patient 11 (vs. 3.6 mm). The ANB angle was also markedly increased in all cases, with Patient 8 showing a value of 15.0\u00b0 (vs. 4.7\u00b0) and Patient 11 showing 14.0\u00b0 (vs. 4.0\u00b0).\n\n*   **Denture Analysis:** The analysis of the lower incisors (i) relative to the A-Pogonion line (APg) showed a consistent proclination, with increased distance (mm) and angle (\u00b0). For instance, Patient 14 had an i to APg distance of 12.0 mm (vs. 1.9 mm) and an angle of 35.0\u00b0 (vs. 23.8\u00b0). The Frankfort-Mandibular Incisor Angle (FMIA) was generall",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "atients exhibit dental compensation for the skeletal discrepancy, characterized by the proclination of lower incisors (increased i to APg, reduced FMIA) and a reduced interincisal angle.\n*   **Narrow Facial Structure:** Most patients display reduced transverse facial dimensions, including narrower cranial, bizygomatic, and bigonial widths, when compared to age-matched standards.\n\n### 6. Context (Footnotes/Notes)\n*   **Standards:** For each measurement, the age-corresponding cephalometric standards are provided in parentheses as (Mean; S.D.).\n*   **Symbols:** The symbols N, \u2191, and \u2193 denote Normal, Increased, and Reduced values, respectively, in comparison to the standard.\n*   **Patient 8 Specifics:** A note highlights that for Patient 8, the ANB angle of 15.0\u00b0 (compared to a standard of 4.7\u00b0 \u00b1 2.2) confirms the Skeletal Class II diagnosis.\n*   **Measurement References:** The numbers in parentheses next to each measurement name, e.g., \"Facial axis (\u00b0) (1)\", refer to specific definitions ",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                }
+            ]
+        },
+        {
+            "query": "According to Table 1, does Patient 1 exhibit dental crowding?",
+            "answer": "I don't know. The provided context does not contain information about Patient 1 or whether they exhibit dental crowding. It only details findings for patients numbered 15, 16, 17, 12, 14, 11, and 8.",
+            "results": [
+                {
+                    "content": "tifier.\n*   **Demographics:** Age and disease severity (e.g., Mild, Moderate).\n*   **Dental Treatment Context:** The setting for dental treatment (e.g., conscious sedation, general anesthesia).\n*   **Genotype:** Specific genetic mutations identified in the patient.\n*   **Dental Anomalies:** A series of columns indicating the presence or absence of specific dental features such as screwdriver-shaped teeth, radiculomegaly, taurodontism, pits, opacities, hypoplasia, and pulp calcification.\n*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level.\n*   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism.\n\n### 4. Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17.\n\n**Patient 15 (ID: CS543VI)**, aged 15.1",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "a patient ID. The columns are organized as follows:\n*   **Patient Identification:** Patient number and ID.\n*   **General Information:** Age (in years and months), Type of CS (e.g., Severe (II), Moderate (I), Very severe COFS), and the affected Gene (CSB or CSA).\n*   **Genetic Information:** The specific Mutation identified.\n*   **Oro-dental Anomalies (a super-category with sub-columns):**\n    *   **Number of teeth:** Notes on agenesis (missing teeth).\n    *   **Shape:** Describes any unusual tooth shapes (e.g., shovel, screw, globular).\n    *   **Size:** Notes on tooth size, primarily microdontia (abnormally small teeth).\n    *   **Structure:** Details on Enamel and Dentin abnormalities.\n    *   **Eruption:** Timing of primary (pd) and permanent (PD) tooth eruption.\n    *   **Crowding:** Severity of tooth crowding, rated from + to +++.\n    *   **Caries dmft / DMFT:** Caries experience in primary (dmft) and permanent (DMFT) teeth.\n    *   **Perio:** Periodontal status (e.g., normal, gin",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": "ween specific genotypes and unique patterns of dental anomalies. For example, patient 15 had screwdriver teeth and opacities, while patient 17 had shovel-shaped teeth, taurodontism, and pulp calcification.\n*   The caries experience (DMFT score) varied widely among the patients, from 0 to 13, and did not directly correlate with the severity of CS in this small sample.\n*   Dental management for these CS patients required specialized approaches, such as conscious sedation (CSB) or general anesthesia (CSA/1GA), highlighting the challenges in providing routine dental care.\n\n### 6. Context (footnotes/notes)\nThe following abbreviations and symbols are defined to clarify the table's content:\n*   **pd:** primary dentition\n*   **PD:** permanent dentition\n*   **screw d:** screw driver teeth\n*   **dmft/DMFT:** Decayed, Missing, and Filled Teeth for primary (dmft) and permanent (DMFT) dentition.\n*   **Perio:** Periodontium\n*   **Oral hygiene:** Assessed based on plaque abundance and brushing habits",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 4
+                },
+                {
+                    "content": "(Patients 12 and 14) was associated with high caries rates and enamel defects.\n*   **Other Common Features:** Microdontia (small teeth) is a frequent finding, especially in patients with CSB mutations. Crowding is also a significant issue for several patients. Bruxism was noted in three patients.\n\n### 6. Context (Footnotes/Notes)\n*   The symbol '\u00d8' is used to indicate 'none', 'not applicable', or 'not present' (e.g., in the permanent dentition of very young children).\n*   Crowding is indicated with a severity scale: +, ++, +++.\n*   **Abbreviations:**\n    *   **CS:** Cockayne Syndrome\n    *   **COFS:** Cerebro-oculo-facio-skeletal syndrome\n    *   **y.m:** years.months\n    *   **pd / PD:** primary dentition / permanent dentition\n    *   **dmft / DMFT:** decayed, missing, filled teeth index for primary/permanent teeth\n    *   **Perio:** Periodontal\n    *   **FD:** Facial Dysmorphology\n    *   **Para:** Parafunction\n    *   **brux:** bruxism",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 3
+                },
+                {
+                    "content": ".9 mm) and an angle of 35.0\u00b0 (vs. 23.8\u00b0). The Frankfort-Mandibular Incisor Angle (FMIA) was generally reduced, such as 36.0\u00b0 for Patient 11 (vs. 55.9\u00b0), indicating incisor proclination. The interincisal angle (i/I) was reduced for all patients, with values like 103.0\u00b0 for Patient 15 (vs. 126.6\u00b0) and 119.0\u00b0 for Patient 16 (vs. 133.6\u00b0).\n\n**Norma Frontalis Analysis**\n\n*   **Facial Widths:** Most facial width measurements were reduced compared to normative data. Cranial width was reduced for patients like Patient 8 (103.0 mm vs. 135.7 mm) and Patient 12 (103.0 mm vs. 140.2 mm). Bifrontotemporale width was also smaller, for example, 69.0 mm for Patient 8 (vs. 92.3 mm) and 72.0 mm for Patient 12 (vs. 95.4 mm). Similarly, bizygomatic width was reduced, with Patient 8 measuring 85.0 mm (vs. 109.4 mm) and Patient 17 measuring 107.0 mm (vs. 122.8 mm). Nasal width and bigonial width followed the same trend of being narrower than the standard in most patients. For example, Patient 15 had a bigonia",
+                    "source": "Blop_Zupan_2013.pdf",
+                    "page": 7
+                }
+            ]
+        }
+    ]
+}

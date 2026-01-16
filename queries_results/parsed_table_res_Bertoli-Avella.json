@@ -1,0 +1,161 @@
+{
+    "model": "gemini-2.5-pro-unique",
+    "total_queries": 5,
+    "queries": [
+        {
+            "query": "In Table 1, which gene is associated with the phenotype including 'Alagille-like syndrome' for Patient 14?",
+            "answer": "Based on the provided context, the gene associated with Patient 14 is ***MMP15***. However, the term 'Alagille-like syndrome' is not mentioned in the description of Patient 14's phenotype in the retrieved chunks.",
+            "results": [
+                {
+                    "content": "n an affected sibling.\n\n**Patient 15** is the affected sibling of Patient 14 and carries the same homozygous frameshift variant in the *MMP15* gene (NM_002428.3:c.1058delC, p.Pro353fs). The phenotype for this patient includes an abnormal facial shape, antenatal onset of issues, conjugated hyperbilirubinemia, decreased body weight, deeply set eyes, failure to thrive, hypertelorism, and intrauterine growth retardation. The patient also had jaundice, left atrial enlargement, left ventricular hypertrophy, low-set ears, a patent foramen ovale, a pointed chin, a prominent forehead, pulmonary arterial hypertension, tachycardia, a triangular face, and a ventricular septal defect.\n\n**Patient 16** has a homozygous missense variant in the *MMP15* gene, identified as NM_002428.3:c.691G>A, leading to the protein change p.Gly231arg. The patient's parents are consanguineous. The clinical phenotype includes nephrocalcinosis, cholestasis, intrauterine growth retardation, hepatomegaly, and elevated hepa",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "8.3:c.1058delC, which results in the protein change p.Pro353fs. This patient comes from a family with a history of consanguinity. The patient's phenotype is complex and multisystemic, including soft palate, constipation, developmental regression, dysphagia, dyspnea, failure to thrive, feeding difficulties, fetal distress, gastroesophageal reflux, global developmental delay, and intestinal malrotation. Physical features include joint hypermobility, microretrognathia, muscular hypotonia, a pointed chin, hypertelorism, a wide nasal bridge, and a webbed neck. The patient also presented with jaundice, cyanosis, and cholestasis with elevated hepatic transaminases. Severe congenital heart defects were observed, including a ventricular septal defect, atrial septal defect, double outlet right ventricle, hypoplastic left heart, and tricuspid regurgitation. The variant was observed to cosegregate in an affected sibling.\n\n**Patient 15** is the affected sibling of Patient 14 and carries the same ho",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "may be involved in heart development through endothelial-to-mesenchymal transformation and endocardial cushion development, potentially via interaction with the transcription factor Snai1.\n\n### 6. Context\n*   The data for all three patients references the same supporting evidence and PubMed ID (PMID: 21920357).\n*   The term \"As above\" is used for Patients 15 and 16 to indicate that the information in the \"Evidence,\" \"PMID,\" and \"Others\" columns is identical to that of Patient 14.\n*   The note \"Cosegregation in affected sibling\" for Patient 14 is a key piece of genetic evidence linking the variant to the disease.",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "d as NM_006390.3: c.1881 + 1G>A (genomic coordinate g.30814074C>T). The effect on the protein is unknown (p.?). This patient comes from a family with consanguinity but no prior family history of the condition (\"Yes, no\"). The observed clinical phenotype includes pneumothorax, sparse scalp hair, tortuous cerebral arteries, right ventricular dilatation, and a depressed nasal bridge.\n\n**Patient 11** presents with a homozygous (Hom) deletion in the *IPO8* gene, specifically NM_006390.3: c.2695 + 4_2695 + 8del (genomic coordinate g.30789908_30789912del). The protein-level effect is unknown (p.?). This patient is from a family with both consanguinity and a positive family history (\"Yes, yes\"). The extensive phenotype includes hydronephrosis, macroglossia (enlarged tongue), deeply set eyes, hyperextensible skin, muscular hypotonia, joint hypermobility, failure to thrive, ventricular septal defect, a high and narrow palate, genu valgum (knock-knees), short stature, prominent superficial blood ",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "oth patients are from families with consanguinity. Patient 27 presented with a wide mouth, facial abnormalities, a smooth philtrum, micrognathia, an abnormal electroretinogram, long eyelashes, nystagmus, syndactyly, intellectual disability, hepatosplenomegaly, and failure to thrive. Patient 28 exhibited cryptorchidism, retrognathia, a triangular face, macrotia, a prominent nasal bridge, syndactyly, intellectual disability, global developmental delay, and an abnormal facial shape.\n\nPatient 29 has a different homozygous (Hom) frameshift mutation in the ZNF699 gene. The mutation is a duplication, c.1324dupA (reference sequence NM_198535.2), leading to a predicted protein change of p.Ser442fs. This patient is also from a consanguineous family. The associated phenotype includes microcephaly, intellectual disability, global developmental delay, hiatus hernia, developmental regression, recurrent infections, and immunodeficiency.\n\nFor all three patients, the \"Evidence\" and \"PMID\" columns are n",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 10
+                }
+            ]
+        },
+        {
+            "query": "What is the cDNA variant listed for Patient 17 in the PLK1 gene section of Table 1?",
+            "answer": "Based on the provided context, the cDNA variant listed for Patient 17 in the *PLK1* gene is **NM_005030.5:c.785G>A**.",
+            "results": [
+                {
+                    "content": "not the *PLK1* gene. This appears to be an error in the original table, as the information provided does not correspond to the gene listed for these patients.\n*   The notation \"As above\" in the \"Evidence\" and \"PMID\" columns for patients 18-21 indicates that the information is the same as that provided for patient 17.\n*   The \"p.?\" for patient 21 signifies that the specific consequence of the splice site mutation on the protein sequence was not determined or specified.",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "Here is the extracted and described content of the table, optimized for semantic search and RAG.\n\n### 1. Table Title/Caption\nTable 1 continued\n\n### 2. Table Purpose\nThis table details the genetic, clinical, and familial information for five patients (numbered 17 to 21) with mutations in the *PLK1* gene. The purpose is to correlate specific genetic variants in *PLK1* with their resulting clinical phenotypes, which are primarily severe neurological disorders.\n\n### 3. Table Structure\nThe table is organized into rows, with each row representing an individual patient. The columns include:\n*   **Patient:** A unique identifier for each individual (17, 18, 19, 20, 21).\n*   **Gene:** The gene implicated, which is *PLK1* for all patients in this section.\n*   **cDNA:** The specific genetic variant at the cDNA level, using HGVS nomenclature.\n*   **Protein:** The predicted effect of the variant on the protein sequence.\n*   **Zygosity:** The zygosity state of the mutation (e.g., homozygous).\n*   **C",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "e protein sequence.\n*   **Zygosity:** The zygosity state of the mutation (e.g., homozygous).\n*   **Consanguinity/family history:** Indicates if there is a known history of consanguinity in the family.\n*   **Phenotype:** A list of the patient's clinical features and symptoms.\n*   **Evidence:** Supporting information about the gene's function.\n*   **PMID:** The PubMed ID for the source publication.\n*   **Others:** An additional column for other relevant information, which is empty in this section.\n\n### 4. Table Data\nThis section of the table presents data for five patients with homozygous mutations in the *PLK1* gene.\n\n**Patients 17, 18, 19, and 20** all carry the same homozygous missense mutation, **NM_005030.5:c.785G>A**, which results in the protein change **p.Arg262Gln**.\n*   **Patient 17** has a history of consanguinity and presents with a phenotype of focal-onset seizures. The associated PubMed ID (PMID) is 28973348. The evidence provided describes the function of the *WDR62* gene,",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "ot have a family history of consanguinity. The clinical features include global developmental delay, microcephaly, and intractable seizures. The evidence and PMID are listed as \"As above.\"\n\n**Patient 21** has a different homozygous mutation in the *PLK1* gene, a splice site variant identified as **NM_005030.5:c.408+3G>A** (genomic coordinate: NC_000016.9:g.23690664G>A). The effect on the protein is unknown, denoted as **p.?**. This patient has a history of consanguinity and presents with a severe phenotype that includes abnormal myelination, brain atrophy, epileptic encephalopathy, generalized-onset seizure, hyperreflexia, infantile encephalopathy, intellectual disability, leukodystrophy, and leukoencephalopathy. The evidence and PMID are listed as \"As above.\"\n\n### 5. Key Findings\n*   All five patients presented have homozygous mutations in the *PLK1* gene, linking this gene to severe, recessively inherited neurological disorders.\n*   A recurrent homozygous missense mutation, **p.Arg26",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                },
+                {
+                    "content": "ecessively inherited neurological disorders.\n*   A recurrent homozygous missense mutation, **p.Arg262Gln (c.785G>A)**, was identified in four different patients, associated with a spectrum of phenotypes including seizures, microcephaly, and global developmental delay.\n*   A homozygous splice site mutation, **c.408+3G>A**, was identified in one patient with a severe phenotype including leukodystrophy and brain atrophy.\n*   Consanguinity was reported in four of the five families, consistent with a rare autosomal recessive inheritance pattern.\n*   The clinical phenotypes associated with *PLK1* mutations are severe and primarily affect the central nervous system, with features like microcephaly, various seizure types, developmental delay, and structural brain abnormalities.\n\n### 6. Context\n*   The \"Evidence\" column for all patients in this section contains a description of the *WDR62* gene, not the *PLK1* gene. This appears to be an error in the original table, as the information provided ",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 8
+                }
+            ]
+        },
+        {
+            "query": "According to Table 1, is consanguinity present in the family history of Patient 26 with the ZNF699 variant?",
+            "answer": "Based on the provided context, I don't know. The retrieved chunks from the table analysis detail information for patients 27, 28, 29, 30, and 38, but there is no mention of Patient 26.",
+            "results": [
+                {
+                    "content": "t infections, and immunodeficiency.\n\nFor all three patients, the \"Evidence\" and \"PMID\" columns are noted as \"As above,\" indicating that this information is provided earlier in the complete table and applies to these cases as well. The \"Others\" column is blank for these patients.\n\n### 5. Key Findings\n*   All three patients presented have homozygous, likely pathogenic, frameshift mutations in the ZNF699 gene.\n*   Two distinct mutations are described: p.Tyr542fs (c.1623_1626delTTAT) found in patients 27 and 28, and p.Ser442fs (c.1324dupA) found in patient 29.\n*   Consanguinity is a common factor, present in the families of all three patients.\n*   Mutations in ZNF699 are associated with a spectrum of clinical features, with significant overlap including intellectual disability and developmental delay.\n*   There is notable phenotypic variability even between patients (27 and 28) with the identical mutation, highlighting the complex presentation of this genetic condition. Key distinguishing ",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 10
+                },
+                {
+                    "content": "s are reported: c.349dupA (p.Ile117fs) and c.436_439del (p.Asp146Ilefs*10).\n*   There is significant phenotypic variability among patients, even those with the identical c.436_439del mutation (patients 31, 32, and 33). Their clinical features range from severe multi-systemic disorders involving renal, cardiac, and skeletal systems to more specific features like pigmentation abnormalities.\n*   Consanguinity is reported in three of the four families, which is a common finding in rare recessive disorders.\n*   The phenotypes associated with ZNF699 mutations are broad and can include growth retardation, kidney abnormalities, craniofacial dysmorphism, and developmental delay.\n\n### 6. Context\n*   The table is a continuation of a larger \"Table 1\".\n*   The \"Evidence\" and \"PMID\" columns for all listed patients are marked as \"As above,\" indicating that the reference information is provided earlier in the complete table or within the main text of the paper.\n*   The \"Others\" column is blank for all",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 11
+                },
+                {
+                    "content": "*   **Zygosity:** The zygosity state of the variant (e.g., Hom for homozygous).\n*   **Consanguinity/family history:** Indicates the presence of consanguinity in the family.\n*   **Phenotype:** A detailed list of the clinical features and symptoms observed in the patient.\n*   **Evidence:** The source or level of evidence for the findings.\n*   **PMID:** The PubMed ID for the reference publication.\n*   **Others:** A column for any additional information.\n\n### 4. Table Data\nThis section of the table details the findings for four patients with homozygous variants in the ZNF699 gene.\n\n**Patient 30** has a homozygous (Hom) variant in the ZNF699 gene, identified as NM_198535.2: c.349dupA, which results in a frameshift mutation at the protein level, p.Ile117fs. This patient comes from a family with a history of consanguinity. The associated clinical phenotype includes tracheomalacia, bronchomalacia, chronic lung disease, short thumb, feeding difficulties, bilateral renal dysplasia, and chronic k",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 11
+                },
+                {
+                    "content": " nomenclature.\n*   **Protein:** The predicted effect of the variant on the protein sequence.\n*   **Zygosity:** The zygosity state of the variant (e.g., homozygous).\n*   **Consanguinity/family history:** Information on whether there is consanguinity or a relevant family history.\n*   **Phenotype:** A detailed list of the patient's clinical features and symptoms, based on the Human Phenotype Ontology (HPO).\n*   **Evidence:** Supporting information or reference for the data.\n*   **PMID:** PubMed Identifier for the source of published evidence.\n*   **Others:** Any additional relevant information.\n\n### 4. Table Data\nThis section of the table details the findings for **Patient 38**. This patient has a homozygous (Hom) variant in the **ZNF699** gene. The specific variant is identified as **NM_198535.2:c.436_439del** at the cDNA level, which results in a frameshift mutation at the protein level, denoted as **p.Asp146Ilefs*10**. The patient has a positive family history of consanguinity.\n\nThe pa",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 13
+                },
+                {
+                    "content": "icted effect of the mutation on the protein sequence.\n*   **Zygosity:** The zygosity state of the mutation (e.g., homozygous).\n*   **Consanguinity/family history:** Information on whether the parents were related and the family history of the condition.\n*   **Phenotype:** A list of the patient's clinical features and symptoms.\n*   **Evidence:** Supporting evidence for the findings.\n*   **PMID:** PubMed Identifier for the source publication.\n*   **Others:** Any additional relevant information.\n\n### 4. Table Data\nThis section of the table details the genetic and phenotypic information for three patients (27, 28, and 29) with mutations in the ZNF699 gene.\n\nPatients 27 and 28 both have the same homozygous (Hom) frameshift mutation in the ZNF699 gene, identified as c.1623_1626delTTAT at the cDNA level (reference sequence NM_198535.2), which results in a protein change denoted as p.Tyr542fs. Both patients are from families with consanguinity. Patient 27 presented with a wide mouth, facial ab",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 10
+                }
+            ]
+        },
+        {
+            "query": "What specific skeletal abnormality is listed for Patient 10 in the 'Phenotype' column of Table 1?",
+            "answer": "Based on the provided context, the specific skeletal abnormality listed for Patient 10 in the 'Phenotype' column is a **depressed nasal bridge**.",
+            "results": [
+                {
+                    "content": "S nomenclature, including the reference sequence (NM_006390.3) and genomic coordinates.\n*   **Protein:** The predicted effect of the variant on the protein sequence.\n*   **Zygosity:** The zygosity state of the variant (homozygous for all patients).\n*   **Consanguinity/family history:** Indicates if the parents were related (consanguinity) and if there was a family history of the condition.\n*   **Phenotype:** A detailed list of the clinical features and symptoms observed in the patient.\n*   **Evidence:** Refers to the source or type of evidence supporting the findings.\n*   **PMID:** PubMed Identifier for the source publication.\n*   **Others:** Any additional relevant information.\n\n### 4. Table Data\nThis section of the table presents data for four patients with homozygous mutations in the *IPO8* gene.\n\n**Patient 10** has a homozygous (Hom) splice site mutation in the *IPO8* gene, identified as NM_006390.3: c.1881 + 1G>A (genomic coordinate g.30814074C>T). The effect on the protein is unk",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "d as NM_006390.3: c.1881 + 1G>A (genomic coordinate g.30814074C>T). The effect on the protein is unknown (p.?). This patient comes from a family with consanguinity but no prior family history of the condition (\"Yes, no\"). The observed clinical phenotype includes pneumothorax, sparse scalp hair, tortuous cerebral arteries, right ventricular dilatation, and a depressed nasal bridge.\n\n**Patient 11** presents with a homozygous (Hom) deletion in the *IPO8* gene, specifically NM_006390.3: c.2695 + 4_2695 + 8del (genomic coordinate g.30789908_30789912del). The protein-level effect is unknown (p.?). This patient is from a family with both consanguinity and a positive family history (\"Yes, yes\"). The extensive phenotype includes hydronephrosis, macroglossia (enlarged tongue), deeply set eyes, hyperextensible skin, muscular hypotonia, joint hypermobility, failure to thrive, ventricular septal defect, a high and narrow palate, genu valgum (knock-knees), short stature, prominent superficial blood ",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 6
+                },
+                {
+                    "content": "8.3:c.1058delC, which results in the protein change p.Pro353fs. This patient comes from a family with a history of consanguinity. The patient's phenotype is complex and multisystemic, including soft palate, constipation, developmental regression, dysphagia, dyspnea, failure to thrive, feeding difficulties, fetal distress, gastroesophageal reflux, global developmental delay, and intestinal malrotation. Physical features include joint hypermobility, microretrognathia, muscular hypotonia, a pointed chin, hypertelorism, a wide nasal bridge, and a webbed neck. The patient also presented with jaundice, cyanosis, and cholestasis with elevated hepatic transaminases. Severe congenital heart defects were observed, including a ventricular septal defect, atrial septal defect, double outlet right ventricle, hypoplastic left heart, and tricuspid regurgitation. The variant was observed to cosegregate in an affected sibling.\n\n**Patient 15** is the affected sibling of Patient 14 and carries the same ho",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 7
+                },
+                {
+                    "content": "denoted as **p.Asp146Ilefs*10**. The patient has a positive family history of consanguinity.\n\nThe patient's phenotype is extensive and multi-systemic. The table first lists phenotypes previously associated with this gene from published evidence, including talipes equinovarus, pancytopenia, fever, pneumonia, asthma, premature graying of hair, immunodeficiency, genu valgum, 2-3 toe syndactyly, feeding difficulties, rhinitis, choking episodes, and hemihypotrophy of the lower limb.\n\nPatient 38 presents with some of these features and many additional ones. The full phenotype for Patient 38 includes: 2-3 toe syndactyly, abnormal facial shape, anemia, breech presentation, delivery by caesarean section, coarse facial features, failure to thrive, feeding difficulties, global developmental delay, jejunal atresia, laryngomalacia, leukopenia, microcephaly, muscular hypotonia, requirement for nasogastric tube feeding, plagiocephaly, poor suck, premature birth, pyloric stenosis, recurrent infections",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 13
+                },
+                {
+                    "content": "Here is the extracted and described content of the table, optimized for semantic search and RAG.\n\n### 1. Table Title/Caption\n**Title:** Table 1 continued\n**Caption:** Patients\u2019 phenotype (Human Phenotype Ontology [HPO]) and related published evidence are summarized.\n\n### 2. Table Purpose\nThe purpose of this table is to present a detailed summary of the genetic and clinical findings for individual patients. It links specific genetic variants in particular genes to the patients' observed phenotypes, while also providing information on zygosity, family history, and supporting evidence from published literature.\n\n### 3. Table Structure\nThe table is structured with the following columns:\n*   **Patient:** A unique identifier for each patient.\n*   **Gene:** The gene in which a variant was identified.\n*   **cDNA:** The description of the genetic variant at the complementary DNA level, using HGVS nomenclature.\n*   **Protein:** The predicted effect of the variant on the protein sequence.\n*   **Z",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 13
+                }
+            ]
+        },
+        {
+            "query": "Which patient in Table 1 presents with 'congenital heart defects' associated with the RAP1GDS1 gene?",
+            "answer": "Based on the information provided in the context, I don't know. The provided text lists the phenotypes for Patient 22 and Patient 23, neither of which includes 'congenital heart defects'. The specific phenotypes for Patients 24 and 25 are not detailed.",
+            "results": [
+                {
+                    "content": "uence (e.g., NM_001100426.1) and genomic coordinates.\n*   **Protein:** The predicted effect of the mutation on the protein sequence (e.g., p.Leu28fs).\n*   **Zygosity:** The zygosity state of the mutation, indicated as \"Hom\" for homozygous.\n*   **Consanguinity/Family history:** Information on whether the family has a history of consanguinity and if other family members are affected.\n*   **Phenotype:** A detailed list of the clinical features and symptoms observed in the patient.\n*   **Evidence:** Information about the function of the gene or protein, providing a basis for its role in the observed phenotype.\n*   **PMID:** The PubMed identification number for related publications.\n*   **Others:** Additional contextual information, such as details on variant segregation or molecular effects.\n\n### 4. Table Data\nThis section of the table presents data on five patients with mutations in the RAP1GDS1 and ZNF699 genes.\n\n**Patients with RAP1GDS1 Mutations (Patients 22, 23, 24, 25):**\nFour patien",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "1GDS1 and ZNF699 genes.\n\n**Patients with RAP1GDS1 Mutations (Patients 22, 23, 24, 25):**\nFour patients presented with homozygous mutations in the RAP1GDS1 gene. The RAP1GDS1 gene is known to encode a protein that stimulates small GTP-binding proteins (G proteins), including Rap1a/Rap1, Rhoda, RhoB, and KRas. The associated PMIDs for this gene are 32727735 and 32431071.\n\n*   **Patient 22** has a homozygous mutation, NM_001100426.1:c.1444-1G>A, with an unknown effect on the protein (p.?). This patient comes from a non-consanguineous family. The observed phenotypes include microcephaly, muscular hypotonia, spasticity, abnormality of midbrain morphology, mild microcephaly, motor delay, and spastic paraplegia.\n\n*   **Patient 23** has a homozygous frameshift mutation, NM_001100426.1:c.83delT, resulting in p.Leu28fs. This patient is from a consanguineous family. The extensive phenotype includes abnormal facial shape, abnormality of movement, decreased body weight, delayed myelination, develop",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "utations in the RAP1GDS1 gene are associated with a broad spectrum of neurodevelopmental disorders, including motor delay, hypotonia, microcephaly, and distinct facial features.\n*   The specific splice-site mutation c.1444-1G>A in RAP1GDS1 was identified in three related and unrelated individuals (Patients 22, 24, 25), causing exon 13 skipping and demonstrating variable expressivity, as seen in the differing severities between siblings (Patients 24 and 25).\n*   A homozygous frameshift mutation in the ZNF699 gene (c.436_439del) is linked to a syndrome characterized by significant craniofacial abnormalities, global developmental delay, and agenesis of the corpus callosum.\n*   All cases presented involve homozygous mutations within consanguineous families (except for Patient 22), supporting an autosomal recessive mode of inheritance for the conditions associated with both RAP1GDS1 and ZNF699.\n\n### 6. Context (footnotes/notes)\n*   For the RAP1GDS1 mutation c.1444-1G>A (found in Patients 22",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "9.\n\n### 6. Context (footnotes/notes)\n*   For the RAP1GDS1 mutation c.1444-1G>A (found in Patients 22, 24, and 25), it is noted that \"This variant cosegregates in two unrelated families. Exon 13 skipping was detected in blood mRNA from the patients.\"\n*   Patient 25 is identified as a \"Sibling of above,\" referring to Patient 24, who shares the same mutation.",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                },
+                {
+                    "content": "osegregates in two unrelated families and that analysis of mRNA from the patients' blood detected exon 13 skipping.\n\n**Patient with ZNF699 Mutation (Patient 26):**\n*   **Patient 26** has a homozygous deletion in the ZNF699 gene, specifically NM_198535.2:c.436_439del, which leads to a frameshift and premature stop codon (p.Asp146Ilefs*10). This patient is from a consanguineous family. The associated phenotype includes a high palate, coarse facial features, smooth and long philtrum, abnormal eyelash and eyebrow morphology, proptosis, hypotelorism, osteopenia, a single umbilical artery, global developmental delay, agenesis of corpus callosum, cholestasis, and vocal cord paralysis. Evidence from PMID 16094367 indicates that this gene is expressed ubiquitously in the Drosophila nervous system, and its encoded protein is localized in the nuclei of neurons.\n\n### 5. Key Findings\n*   Homozygous mutations in the RAP1GDS1 gene are associated with a broad spectrum of neurodevelopmental disorders, ",
+                    "source": "BertoliAvella_2021.pdf",
+                    "page": 9
+                }
+            ]
+        }
+    ]
+}
