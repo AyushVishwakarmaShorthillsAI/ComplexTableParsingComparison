@@ -16,7 +16,7 @@ if not GEMINI_API_KEY:
 
 GEMINI_MODEL = "models/gemini-embedding-001"
 WEAVIATE_URL = "http://localhost:8080"
-TOP_K = 5
+TOP_K = 15
 
 # Hardcoded queries as requested
 QUERIES = [

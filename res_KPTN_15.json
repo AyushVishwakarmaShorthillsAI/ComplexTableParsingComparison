@@ -1,0 +1,242 @@
+[
+    {
+        "query": "Common features in people suffering from KPTN Syndrome and their percentage",
+        "retrieved_chunks": [
+            {
+                "chunk_id": "Rawlins.pdf_355",
+                "text": "**Table Title/Caption:** Table 2, continued from a previous page, detailing features of KPTN-Related Disorder. **Table Purpose:** This table presents a summary of various clinical features observed in individuals with KPTN-Related Disorder, indicating the prevalence of each feature as a percentage of affected persons and providing descriptive comments for clarification. **Table Structure:** The table is organized into three columns. The first column, \"Feature,\" lists specific clinical manifestations or characteristics associated with KPTN-Related Disorder. The second column, \"% of Persons w/Feature,\" quantifies the proportion of affected individuals exhibiting that particular feature. The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons.",
+                "distance": 0.20783937
+            },
+            {
+                "chunk_id": "Rawlins.pdf_352",
+                "text": "**Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound. Developmental delay affects 93% of individuals. Neurobehavioral/psychiatric manifestations are observed in 84% of persons, encompassing features such as anxiety, stereotypies, impaired social interactions, and repetitive speech. Hypotonia is reported in 55% of individuals. Macrocephaly affects 49% of persons and is characterized as postnatal and progressive, with its onset occurring within the first year of life.",
+                "distance": 0.20796967
+            },
+            {
+                "chunk_id": "Rawlins.pdf_356",
+                "text": "The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons. The types of seizures reported include generalized tonic-clonic, absence, and focal or complex partial seizures. Characteristic craniofacial features are highly prevalent, affecting 84% of individuals. Specifically, 84% of affected persons demonstrate frontal bossing along with at least one additional feature. These additional craniofacial features encompass short downslanted palpebral fissures, hypertelorism, a depressed nasal bridge, a broad nasal tip, a tall and broad chin, and a thick vermilion of the lower lip. Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population.",
+                "distance": 0.21780252
+            },
+            {
+                "chunk_id": "Lucena.pdf_425",
+                "text": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+                "distance": 0.21852076
+            },
+            {
+                "chunk_id": "Rawlins.pdf_357",
+                "text": "Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population. **Key Findings:**\nThe most prevalent feature listed in the table for KPTN-Related Disorder is \"Characteristic craniofacial features,\" affecting a substantial 84% of individuals. Seizures are also a very common manifestation, present in 44% of persons. Recurrent infections affect a notable portion of the population at 27%. Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics.",
+                "distance": 0.21884161
+            },
+            {
+                "chunk_id": "Miguez.pdf_327",
+                "text": "**1. Table Title/Caption**\nTABLE 1: Comparison of clinical manifestations in affected individuals reported to date with pathogenic variants in KPTN gene\n\n**2. Table Purpose**\nThis table provides a comprehensive comparison of the clinical features and genetic information observed in individuals diagnosed with pathogenic variants in the KPTN gene. It aggregates data from three previously published studies (Baple et al., 2014; Pajusalu et al., 2015; Thiffault et al., 2020) and a current study, offering a detailed overview of patient demographics, physical characteristics, neurological symptoms, and genetic findings. **3. Table Structure**\nThe table is organized with the first column listing various clinical manifestations and genetic data points. The subsequent columns are structured hierarchically:\n*   **Patients**: This major section contains individual patient data.",
+                "distance": 0.21920586
+            },
+            {
+                "chunk_id": "Rawlins.pdf_353",
+                "text": "Hypotonia is reported in 55% of individuals. Macrocephaly affects 49% of persons and is characterized as postnatal and progressive, with its onset occurring within the first year of life. **Key Findings**: Intellectual disability and developmental delay are nearly universal clinical features of KPTN-related disorder, affecting all individuals (100%) and almost all individuals (93%) respectively. Neurobehavioral/psychiatric manifestations are also highly prevalent, occurring in over four-fifths (84%) of affected persons. Hypotonia and macrocephaly are observed in approximately half of the patient population. **Context**: The text preceding Table 2 indicates that KPTN-related disorder is characterized by mild-to-profound intellectual disability, developmental delay, and neurobehavioral/psychiatric manifestations, which can include anxiety, stereotypies, hyperactivity, repetitive speech, and impaired social communication, as well as postnatal progressive macrocephaly and seizures.",
+                "distance": 0.22817802
+            },
+            {
+                "chunk_id": "Rawlins.pdf_351",
+                "text": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+                "distance": 0.23041403
+            },
+            {
+                "chunk_id": "Lucena.pdf_419",
+                "text": "**1. Table Title/Caption**\nThe table is titled \"Clinical manifestations of KPTN gene variation reported in the literature.\" **2. Table Purpose**\nThis table provides a comparative overview of clinical features and associated *KPTN* gene variants across different studies, including the current report, thereby detailing the phenotypic spectrum of *KPTN* gene variation in affected individuals. It presents data from four distinct reports to illustrate the consistency and variability of symptoms linked to this genetic condition. **3. Table Structure**\nThe table is structured with the first column listing various phenotypes or clinical characteristics. The subsequent four columns each represent data from a specific study: \"Baple et al., 2014,\" \"Pajusalu et al., 2015,\" \"Thiffault et al., 2018,\" and the \"Current report.\" For each study, information is provided on the number of subjects, their gender, and the specific *KPTN* gene variants identified.",
+                "distance": 0.2306602
+            },
+            {
+                "chunk_id": "Lucena.pdf_421",
+                "text": "Table Data**\n\n**Summary of Studies and KPTN Variants:**\nThe study by Baple et et al., 2014 involved nine subjects, comprising six males and three females, who exhibited *KPTN* variants identified as NM_007059.4:c.714_731dup (p.Met241_Gln246dup) and NM_007059.4:c.776C>A (p.Ser259Ter). Pajusalu et al., 2015 reported on two subjects, one male and one female, with the *KPTN* variant NM_007059.4:c.665dup (p.Ser223fs). Thiffault et al., 2018 studied a single male subject, whose *KPTN* variants included NM_007059.4:c.714_731dup (p.Met241_Gln246dup) and NM_007059.4:c.394+1G>A. The current report describes a single female subject with the *KPTN* variant NM_007059.2:c.597_598dup (p.Ser200IlefsTer55). **Common Clinical Manifestations Across Studies:**\nSeveral clinical features were consistently observed across all four reports. Macrocephaly, frontal bossing, and stomatognathic alteration were present in all subjects or groups studied by Baple et al., Pajusalu et al., Thiffault et al., and the current report.",
+                "distance": 0.23220873
+            },
+            {
+                "chunk_id": "Miguez.pdf_329",
+                "text": "*   **Individual Patient Columns**: Within each study group, there are separate columns for each patient, identified numerically (e.g., 1, 2, 3, etc.). These columns detail the presence (+) or absence (-) of specific clinical manifestations, quantitative measurements, or other relevant information for that patient. *   **Total**: The final two columns provide summary statistics for a total of 15 patients across all studies, detailing gender distribution and the percentage of patients exhibiting certain clinical features, along with the count of affected individuals out of the total assessed for that specific feature. **4. Table Data**\nThe table compiles clinical and genetic data for 15 individuals with pathogenic KPTN gene variants, categorized by the study that reported them. **Baple et al., 2014 (Patients 1-4):**\nAll four patients from Baple et al., 2014, were male and originated from Ohio, Amish communities, where specified.",
+                "distance": 0.23515928
+            },
+            {
+                "chunk_id": "Thiffault.pdf_446",
+                "text": "Hearing was not affected in any of the 12 individuals (0.0%). 3 individuals (25.0%) had abnormal neuroimaging findings. *   Behavioral characteristics: 6 individuals (50.0%) had repetitive speech, 7 individuals (58.3%) had stereotypies, 3 individuals (25.0%) had hyperactivity, 3 individuals (25.0%) had autistic features, and 10 individuals (83.3%) experienced anxiety. **Key Findings**:\nA prominent and consistent finding across all reported genotypes and individuals is the presence of intellectual disability and expressive and receptive difficulties, often accompanied by language deficits, suggesting a core neurodevelopmental impact of KPTN gene variants. Delayed walking, with ages ranging from 1 to 4 years, is another consistent developmental characteristic. Macrocephaly, both at birth and at evaluation, is frequently observed across the different groups, with several patients showing OFC measurements significantly above average.",
+                "distance": 0.2375614
+            },
+            {
+                "chunk_id": "Lucena.pdf_44",
+                "text": "This report contributes to the understanding of pathogenicity related to alterations of the KPTN gene. Even though the genetic variation observed in this case has not previously been reported, the phenotypic profile has similarities with the cases described in other families, such as in the nine Amish cases.",
+                "distance": 0.23961431
+            },
+            {
+                "chunk_id": "Lucena.pdf_15",
+                "text": "Moreover, two similar cases in Estonian siblings were also reported, suggesting that the condition was not restricted to the Amish community and that different variants within KPTN can lead to resembling phenotypes (Pajusalu, Remand, & \u00d5unap, 2015). Table 1 shows clinical manifestations of KPTN gene variation as reported in the literature. disease (Thiffault et al., 2018). No other cases have since been recorded in the literature.",
+                "distance": 0.23987842
+            },
+            {
+                "chunk_id": "Miguez.pdf_255",
+                "text": "Despite the fact that KPTN has been considered a candidate gene for hearing loss (Bearer and Abraham 1999), none of the reported patients with KPTN-related syndrome had hearing loss (0/15). All these findings suggest that a variable phenotypic spectrum should be expected in patients with KPTN alterations, and that seizures (33%), behavioral problems (80%), craniosynostosis (33%), and brain changes in MRI (50%) might be not fully penetrant features of this condition. However, the actual prevalence and significance of these features require further research. Clinical data from larger series of patients would allow the description of the clinical spectrum associated with KPTN-related disease to be completed. While the first nine patients described by Baple et al. (2014) belonged to four related families from an Anabaptist community of Ohio, there was no evidence of consanguinity in the family history of",
+                "distance": 0.24070692
+            }
+        ]
+    },
+    {
+        "query": "List of the most common facial and developmental features exhibited by individuals with KPTN Syndrome with percentages",
+        "retrieved_chunks": [
+            {
+                "chunk_id": "Rawlins.pdf_352",
+                "text": "**Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound. Developmental delay affects 93% of individuals. Neurobehavioral/psychiatric manifestations are observed in 84% of persons, encompassing features such as anxiety, stereotypies, impaired social interactions, and repetitive speech. Hypotonia is reported in 55% of individuals. Macrocephaly affects 49% of persons and is characterized as postnatal and progressive, with its onset occurring within the first year of life.",
+                "distance": 0.1547252
+            },
+            {
+                "chunk_id": "Lucena.pdf_425",
+                "text": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+                "distance": 0.15992624
+            },
+            {
+                "chunk_id": "Rawlins.pdf_353",
+                "text": "Hypotonia is reported in 55% of individuals. Macrocephaly affects 49% of persons and is characterized as postnatal and progressive, with its onset occurring within the first year of life. **Key Findings**: Intellectual disability and developmental delay are nearly universal clinical features of KPTN-related disorder, affecting all individuals (100%) and almost all individuals (93%) respectively. Neurobehavioral/psychiatric manifestations are also highly prevalent, occurring in over four-fifths (84%) of affected persons. Hypotonia and macrocephaly are observed in approximately half of the patient population. **Context**: The text preceding Table 2 indicates that KPTN-related disorder is characterized by mild-to-profound intellectual disability, developmental delay, and neurobehavioral/psychiatric manifestations, which can include anxiety, stereotypies, hyperactivity, repetitive speech, and impaired social communication, as well as postnatal progressive macrocephaly and seizures.",
+                "distance": 0.17225611
+            },
+            {
+                "chunk_id": "Rawlins.pdf_355",
+                "text": "**Table Title/Caption:** Table 2, continued from a previous page, detailing features of KPTN-Related Disorder. **Table Purpose:** This table presents a summary of various clinical features observed in individuals with KPTN-Related Disorder, indicating the prevalence of each feature as a percentage of affected persons and providing descriptive comments for clarification. **Table Structure:** The table is organized into three columns. The first column, \"Feature,\" lists specific clinical manifestations or characteristics associated with KPTN-Related Disorder. The second column, \"% of Persons w/Feature,\" quantifies the proportion of affected individuals exhibiting that particular feature. The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons.",
+                "distance": 0.17689586
+            },
+            {
+                "chunk_id": "Rawlins.pdf_356",
+                "text": "The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons. The types of seizures reported include generalized tonic-clonic, absence, and focal or complex partial seizures. Characteristic craniofacial features are highly prevalent, affecting 84% of individuals. Specifically, 84% of affected persons demonstrate frontal bossing along with at least one additional feature. These additional craniofacial features encompass short downslanted palpebral fissures, hypertelorism, a depressed nasal bridge, a broad nasal tip, a tall and broad chin, and a thick vermilion of the lower lip. Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population.",
+                "distance": 0.17748058
+            },
+            {
+                "chunk_id": "Rawlins.pdf_357",
+                "text": "Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population. **Key Findings:**\nThe most prevalent feature listed in the table for KPTN-Related Disorder is \"Characteristic craniofacial features,\" affecting a substantial 84% of individuals. Seizures are also a very common manifestation, present in 44% of persons. Recurrent infections affect a notable portion of the population at 27%. Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics.",
+                "distance": 0.18065703
+            },
+            {
+                "chunk_id": "Rawlins.pdf_351",
+                "text": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+                "distance": 0.1861102
+            },
+            {
+                "chunk_id": "Miguez.pdf_327",
+                "text": "**1. Table Title/Caption**\nTABLE 1: Comparison of clinical manifestations in affected individuals reported to date with pathogenic variants in KPTN gene\n\n**2. Table Purpose**\nThis table provides a comprehensive comparison of the clinical features and genetic information observed in individuals diagnosed with pathogenic variants in the KPTN gene. It aggregates data from three previously published studies (Baple et al., 2014; Pajusalu et al., 2015; Thiffault et al., 2020) and a current study, offering a detailed overview of patient demographics, physical characteristics, neurological symptoms, and genetic findings. **3. Table Structure**\nThe table is organized with the first column listing various clinical manifestations and genetic data points. The subsequent columns are structured hierarchically:\n*   **Patients**: This major section contains individual patient data.",
+                "distance": 0.18639112
+            },
+            {
+                "chunk_id": "Miguez.pdf_252",
+                "text": "Core manifestations observed in our cases and in the previously reported cases include delayed psychomotor development/intellectual disability, language deficit, macrocephaly and frontal bossing, which may be considered as cardinal features of KPTN-related disease (Table 1). It is worth noting that macrocephaly can either be present at birth (5/15) or develop postnatally. Besides frontal bossing, prominent chin is the only facial feature that stands out in this cohort, being present in 11 of the 15 cases. Four out of the 13 cases reported by Baple et al. (2014) had scaphocephaly secondary to premature closure of the sagittal suture. Interestingly, both siblings in the present report showed delayed anterior fontanel closure. The younger sister also showed brain anomalies, as did patient 5 reported by Baple et al. (2014) and two additional patients reported by Thiffault et al. (2020) and Lucena et al. (2020).",
+                "distance": 0.18694836
+            },
+            {
+                "chunk_id": "Rawlins.pdf_354",
+                "text": "Hypotonia and macrocephaly are observed in approximately half of the patient population. **Context**: The text preceding Table 2 indicates that KPTN-related disorder is characterized by mild-to-profound intellectual disability, developmental delay, and neurobehavioral/psychiatric manifestations, which can include anxiety, stereotypies, hyperactivity, repetitive speech, and impaired social communication, as well as postnatal progressive macrocephaly and seizures. The information presented in this table is based on reports from 54 individuals identified with biallelic pathogenic variants in KPTN, across 32 families, referencing studies by Baple et al. (2014), Pajusalu et al. (2015), Lucena et al. (2020), Pacio Miguez et al. (2020), Thiffault et al. (2020), Horn et al. (2023), Levitin et al. (2023), and Liaqat et al. (2023).",
+                "distance": 0.1869548
+            },
+            {
+                "chunk_id": "Thiffault.pdf_298",
+                "text": "A comparison of the individual clinical signs in patients reported with KPTN -related disease are shown in Table 2. The most unifying features are macrocephaly (92%), developmental delay (100%), and intellectual disability (100%). Recurrent dysmorphic features included frontal bossing, abnormal head shape, and prominent chin. With the exception of the p.Met241_Gln246dup, which is predicted to be nonfunctional by producing a misfolded altered protein, all patients have truncating variants (p.S259 \u2217 ; p.S223Qfs \u2217 50; p.S200Ifs \u2217 55); no patients were homozygous for the p.Met241_Gln246dup. RT-PCR or western blot experiments were not performed to assess if those variants result in nonsense-mediated mRNA decay or whether a truncated protein (lacking the carboxy-terminal amino acids) is produced. The second variant uncovered in our patient, c.394 + 1G > A, is located upstream of the two previously reported truncating variants.",
+                "distance": 0.18770868
+            },
+            {
+                "chunk_id": "Lucena.pdf_421",
+                "text": "Table Data**\n\n**Summary of Studies and KPTN Variants:**\nThe study by Baple et et al., 2014 involved nine subjects, comprising six males and three females, who exhibited *KPTN* variants identified as NM_007059.4:c.714_731dup (p.Met241_Gln246dup) and NM_007059.4:c.776C>A (p.Ser259Ter). Pajusalu et al., 2015 reported on two subjects, one male and one female, with the *KPTN* variant NM_007059.4:c.665dup (p.Ser223fs). Thiffault et al., 2018 studied a single male subject, whose *KPTN* variants included NM_007059.4:c.714_731dup (p.Met241_Gln246dup) and NM_007059.4:c.394+1G>A. The current report describes a single female subject with the *KPTN* variant NM_007059.2:c.597_598dup (p.Ser200IlefsTer55). **Common Clinical Manifestations Across Studies:**\nSeveral clinical features were consistently observed across all four reports. Macrocephaly, frontal bossing, and stomatognathic alteration were present in all subjects or groups studied by Baple et al., Pajusalu et al., Thiffault et al., and the current report.",
+                "distance": 0.18791276
+            },
+            {
+                "chunk_id": "Horn.pdf_337",
+                "text": "**Table Title/Caption**:\nTABLE 1: Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients. **Table Purpose**:\nThis table provides a detailed comparison of demographic, genetic, anthropometric, neurodevelopmental, and epilepsy-related clinical features for five newly identified patients with KPTN gene-related syndrome, alongside aggregated data from fifteen previously reported patients found in the literature. **Table Structure**:\nThe table is structured with the first column listing various clinical characteristics and findings. The subsequent six columns represent individual data sets: Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and a summary of \"Data in literature\" for fifteen previously reported cases.",
+                "distance": 0.19247198
+            },
+            {
+                "chunk_id": "Thiffault.pdf_446",
+                "text": "Hearing was not affected in any of the 12 individuals (0.0%). 3 individuals (25.0%) had abnormal neuroimaging findings. *   Behavioral characteristics: 6 individuals (50.0%) had repetitive speech, 7 individuals (58.3%) had stereotypies, 3 individuals (25.0%) had hyperactivity, 3 individuals (25.0%) had autistic features, and 10 individuals (83.3%) experienced anxiety. **Key Findings**:\nA prominent and consistent finding across all reported genotypes and individuals is the presence of intellectual disability and expressive and receptive difficulties, often accompanied by language deficits, suggesting a core neurodevelopmental impact of KPTN gene variants. Delayed walking, with ages ranging from 1 to 4 years, is another consistent developmental characteristic. Macrocephaly, both at birth and at evaluation, is frequently observed across the different groups, with several patients showing OFC measurements significantly above average.",
+                "distance": 0.19331014
+            },
+            {
+                "chunk_id": "Horn.pdf_344",
+                "text": "Patient 2 showed mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal. MRI findings were not documented for Patients 4 and 5. In the literature, different brain abnormalities were observed in 50% of cases. **Key Findings**:\nAll five novel patients presented with pathogenic KPTN gene mutations, with patients 2, 3, 4, and 5 sharing an identical homozygous c.599+1G>A mutation. A consistent key finding across both novel patients and literature data is the 100% prevalence of developmental delay or intellectual disability. Macrocephaly at last evaluation appears to be a highly prevalent feature, observed in 100% of literature cases, and notably severe in Patient 1 (+2.2 SD). Frontal bossing is a common dysmorphic facial feature, present in Patients 1, 2, and all literature cases, while a prominent chin was seen in Patient 3 and 73% of literature cases.",
+                "distance": 0.19587338
+            }
+        ]
+    },
+    {
+        "query": "Uncommon features in people with KPTN Syndrome and their percentage",
+        "retrieved_chunks": [
+            {
+                "chunk_id": "Rawlins.pdf_355",
+                "text": "**Table Title/Caption:** Table 2, continued from a previous page, detailing features of KPTN-Related Disorder. **Table Purpose:** This table presents a summary of various clinical features observed in individuals with KPTN-Related Disorder, indicating the prevalence of each feature as a percentage of affected persons and providing descriptive comments for clarification. **Table Structure:** The table is organized into three columns. The first column, \"Feature,\" lists specific clinical manifestations or characteristics associated with KPTN-Related Disorder. The second column, \"% of Persons w/Feature,\" quantifies the proportion of affected individuals exhibiting that particular feature. The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons.",
+                "distance": 0.17084706
+            },
+            {
+                "chunk_id": "Rawlins.pdf_356",
+                "text": "The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons. The types of seizures reported include generalized tonic-clonic, absence, and focal or complex partial seizures. Characteristic craniofacial features are highly prevalent, affecting 84% of individuals. Specifically, 84% of affected persons demonstrate frontal bossing along with at least one additional feature. These additional craniofacial features encompass short downslanted palpebral fissures, hypertelorism, a depressed nasal bridge, a broad nasal tip, a tall and broad chin, and a thick vermilion of the lower lip. Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population.",
+                "distance": 0.18380177
+            },
+            {
+                "chunk_id": "Lucena.pdf_44",
+                "text": "This report contributes to the understanding of pathogenicity related to alterations of the KPTN gene. Even though the genetic variation observed in this case has not previously been reported, the phenotypic profile has similarities with the cases described in other families, such as in the nine Amish cases.",
+                "distance": 0.1879673
+            },
+            {
+                "chunk_id": "Lucena.pdf_425",
+                "text": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+                "distance": 0.18878144
+            },
+            {
+                "chunk_id": "Rawlins.pdf_351",
+                "text": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+                "distance": 0.19189525
+            },
+            {
+                "chunk_id": "Lucena.pdf_15",
+                "text": "Moreover, two similar cases in Estonian siblings were also reported, suggesting that the condition was not restricted to the Amish community and that different variants within KPTN can lead to resembling phenotypes (Pajusalu, Remand, & \u00d5unap, 2015). Table 1 shows clinical manifestations of KPTN gene variation as reported in the literature. disease (Thiffault et al., 2018). No other cases have since been recorded in the literature.",
+                "distance": 0.19216585
+            },
+            {
+                "chunk_id": "Rawlins.pdf_352",
+                "text": "**Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound. Developmental delay affects 93% of individuals. Neurobehavioral/psychiatric manifestations are observed in 84% of persons, encompassing features such as anxiety, stereotypies, impaired social interactions, and repetitive speech. Hypotonia is reported in 55% of individuals. Macrocephaly affects 49% of persons and is characterized as postnatal and progressive, with its onset occurring within the first year of life.",
+                "distance": 0.19793564
+            },
+            {
+                "chunk_id": "Rawlins.pdf_357",
+                "text": "Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population. **Key Findings:**\nThe most prevalent feature listed in the table for KPTN-Related Disorder is \"Characteristic craniofacial features,\" affecting a substantial 84% of individuals. Seizures are also a very common manifestation, present in 44% of persons. Recurrent infections affect a notable portion of the population at 27%. Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics.",
+                "distance": 0.19912958
+            },
+            {
+                "chunk_id": "Miguez.pdf_255",
+                "text": "Despite the fact that KPTN has been considered a candidate gene for hearing loss (Bearer and Abraham 1999), none of the reported patients with KPTN-related syndrome had hearing loss (0/15). All these findings suggest that a variable phenotypic spectrum should be expected in patients with KPTN alterations, and that seizures (33%), behavioral problems (80%), craniosynostosis (33%), and brain changes in MRI (50%) might be not fully penetrant features of this condition. However, the actual prevalence and significance of these features require further research. Clinical data from larger series of patients would allow the description of the clinical spectrum associated with KPTN-related disease to be completed. While the first nine patients described by Baple et al. (2014) belonged to four related families from an Anabaptist community of Ohio, there was no evidence of consanguinity in the family history of",
+                "distance": 0.20123088
+            },
+            {
+                "chunk_id": "Lucena.pdf_421",
+                "text": "Table Data**\n\n**Summary of Studies and KPTN Variants:**\nThe study by Baple et et al., 2014 involved nine subjects, comprising six males and three females, who exhibited *KPTN* variants identified as NM_007059.4:c.714_731dup (p.Met241_Gln246dup) and NM_007059.4:c.776C>A (p.Ser259Ter). Pajusalu et al., 2015 reported on two subjects, one male and one female, with the *KPTN* variant NM_007059.4:c.665dup (p.Ser223fs). Thiffault et al., 2018 studied a single male subject, whose *KPTN* variants included NM_007059.4:c.714_731dup (p.Met241_Gln246dup) and NM_007059.4:c.394+1G>A. The current report describes a single female subject with the *KPTN* variant NM_007059.2:c.597_598dup (p.Ser200IlefsTer55). **Common Clinical Manifestations Across Studies:**\nSeveral clinical features were consistently observed across all four reports. Macrocephaly, frontal bossing, and stomatognathic alteration were present in all subjects or groups studied by Baple et al., Pajusalu et al., Thiffault et al., and the current report.",
+                "distance": 0.204741
+            },
+            {
+                "chunk_id": "Rawlins.pdf_358",
+                "text": "Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics. **Context:**\nThe data presented in this table is compiled from several research sources, including Baple et al [2014], Pajusalu et al [2015], Lucena et al [2020], Pacio Miguez et al [2020], Thiffault et al [2020], Horn et al [2023], Levitin et al [2023], Liaqat et al [2023], and unpublished data from E. Baple. This indicates a multi-source synthesis of clinical observations for KPTN-Related Disorder.",
+                "distance": 0.20708632
+            },
+            {
+                "chunk_id": "Rawlins.pdf_353",
+                "text": "Hypotonia is reported in 55% of individuals. Macrocephaly affects 49% of persons and is characterized as postnatal and progressive, with its onset occurring within the first year of life. **Key Findings**: Intellectual disability and developmental delay are nearly universal clinical features of KPTN-related disorder, affecting all individuals (100%) and almost all individuals (93%) respectively. Neurobehavioral/psychiatric manifestations are also highly prevalent, occurring in over four-fifths (84%) of affected persons. Hypotonia and macrocephaly are observed in approximately half of the patient population. **Context**: The text preceding Table 2 indicates that KPTN-related disorder is characterized by mild-to-profound intellectual disability, developmental delay, and neurobehavioral/psychiatric manifestations, which can include anxiety, stereotypies, hyperactivity, repetitive speech, and impaired social communication, as well as postnatal progressive macrocephaly and seizures.",
+                "distance": 0.20872939
+            },
+            {
+                "chunk_id": "Lucena.pdf_426",
+                "text": "Different *KPTN* variants are associated with these diverse phenotypic presentations. **6. Context**\nThe table includes a note clarifying that a plus sign (+) indicates the presence of a clinical feature, while a minus sign (-) signifies that the clinical feature was not reported in that particular study or case. This distinction is crucial for interpreting the data, as a minus sign does not necessarily mean the absence of the feature, but rather that it was not documented.",
+                "distance": 0.20902765
+            },
+            {
+                "chunk_id": "Miguez.pdf_327",
+                "text": "**1. Table Title/Caption**\nTABLE 1: Comparison of clinical manifestations in affected individuals reported to date with pathogenic variants in KPTN gene\n\n**2. Table Purpose**\nThis table provides a comprehensive comparison of the clinical features and genetic information observed in individuals diagnosed with pathogenic variants in the KPTN gene. It aggregates data from three previously published studies (Baple et al., 2014; Pajusalu et al., 2015; Thiffault et al., 2020) and a current study, offering a detailed overview of patient demographics, physical characteristics, neurological symptoms, and genetic findings. **3. Table Structure**\nThe table is organized with the first column listing various clinical manifestations and genetic data points. The subsequent columns are structured hierarchically:\n*   **Patients**: This major section contains individual patient data.",
+                "distance": 0.20904702
+            },
+            {
+                "chunk_id": "Miguez.pdf_254",
+                "text": "Although our patients did not present behavioral, endocrinological or metabolic alterations, or seizures at the time of this study, they are still fairly young and these aspects need to be followed up closely. Despite the fact that KPTN has been considered a candidate gene for hearing loss (Bearer and Abraham 1999), none of the reported patients with KPTN-related syndrome had hearing loss (0/15). All these findings suggest that a variable phenotypic spectrum should be expected in patients with KPTN alterations, and that seizures (33%), behavioral problems (80%), craniosynostosis (33%), and brain changes in MRI (50%) might be not fully penetrant features of this condition.",
+                "distance": 0.2101478
+            }
+        ]
+    }
+]
