@@ -25,17 +25,20 @@ BATCH_SIZE = 100
 
 # ===== schema name =====
 today = datetime.datetime.now().strftime("%Y-%m-%d").replace("-", "_")
-CLASS_NAME = f"Blop_zupan_{today}"
+CLASS_NAME = f"KPTN_syndrome_{today}"
 
 def load_chunks(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
-        return json.load(f)
+        data = json.load(f)
+        return data.get("chunks", [])
 
 def chunk_array(arr, size):
     for i in range(0, len(arr), size):
         yield arr[i:i + size]
 
 # ---------------- EMBEDDING ----------------
+
+import time
 
 def embed_batch(texts):
     url = f"https://generativelanguage.googleapis.com/v1beta/{GEMINI_MODEL}:batchEmbedContents?key={GEMINI_API_KEY}"
@@ -53,11 +56,22 @@ def embed_batch(texts):
     }
     
     headers = {"Content-Type": "application/json"}
-    response = requests.post(url, headers=headers, json=payload)
     
-    if response.status_code != 200:
-        print(f"Error calling Gemini API: {response.text}")
-        response.raise_for_status()
+    max_retries = 5
+    for attempt in range(max_retries):
+        response = requests.post(url, headers=headers, json=payload)
+        
+        if response.status_code == 200:
+            break
+        elif response.status_code == 429:
+            retry_after = 5 * (attempt + 1) # Simple incremental backoff
+            print(f"Rate limit hit. Retrying in {retry_after}s...")
+            time.sleep(retry_after)
+        else:
+            print(f"Error calling Gemini API: {response.text}")
+            response.raise_for_status()
+    else:
+        raise Exception("Max retries exceeded for Gemini API")
         
     result = response.json()
     embeddings = [e["values"] for e in result.get("embeddings", [])]
@@ -97,15 +111,17 @@ def store_in_weaviate(vectors, chunks_data):
     objects = []
     for i, vector in enumerate(vectors):
         chunk_data = chunks_data[i]
-        # chunk_data is the full object from chunks.json: {source, chunk_index, content}
-        # The JS script used chunks.map(c => c.text) and then constructed chunk_id.
-        # My load_chunks returns objects.
+        
+        # New structure: chunk_id is in metadata or top level?
+        # File inspection showed: "chunk_id": 1, "metadata": { "source": "Lucena.pdf", ... }
+        source = chunk_data.get("metadata", {}).get("source", "unknown")
+        c_id = chunk_data.get("chunk_id", "unknown")
         
         objects.append({
             "class": CLASS_NAME,
             "properties": {
                 "text": chunk_data["content"],
-                "chunk_id": f"{chunk_data['source']}_{chunk_data['chunk_index']}"
+                "chunk_id": f"{source}_{c_id}"
             },
             "vector": vector
         })
@@ -119,22 +135,24 @@ def store_in_weaviate(vectors, chunks_data):
 # ---------------- MAIN ----------------
 
 def run():
-    # Looking for chunks.json in parent directory or current depending on where script is run.
-    # User said "chunks.json" - assuming relative to where we run. 
-    # But files are in:
-    #   - /home/.../chunks.json
-    #   - /home/.../google_api/script_embedder.py
-    # So if we run from root, it is chunks.json.
+    # Looking for chunks file
+    chunks_path = "input_chunks/chunks_tables_enhanced.json"
     
-    chunks_path = "chunks.json"
+    # Check current dir
     if not os.path.exists(chunks_path):
-        chunks_path = "../chunks.json" # try parent
-    
-    if not os.path.exists(chunks_path):
-        # absolute fallback
-        chunks_path = "/home/shtlp_0107/Desktop/ComplexTable_Comparison_GFS_VS_Parsing/chunks.json"
+        # Check if we are in google_api/
+        if os.path.exists(f"../{chunks_path}"):
+             chunks_path = f"../{chunks_path}"
+        else:
+             # Absolute fallback
+             base_dir = "/home/shtlp_0107/Desktop/ComplexTable_Comparison_GFS_VS_Parsing"
+             chunks_path = os.path.join(base_dir, "input_chunks/chunks_tables_enhanced.json")
 
     print(f"Reading chunks from: {chunks_path}")
+    if not os.path.exists(chunks_path):
+        print(f"Error: Chunks file not found at {chunks_path}")
+        return
+
     chunks = load_chunks(chunks_path)
     
     try:
@@ -158,8 +176,11 @@ def run():
             
             # Collect for debug file
             for j, chunk_data in enumerate(batch_chunks):
+                source = chunk_data.get("metadata", {}).get("source", "unknown")
+                c_id = chunk_data.get("chunk_id", "unknown")
+                
                 all_embeddings_data.append({
-                    "chunk_id": f"{chunk_data['source']}_{chunk_data['chunk_index']}",
+                    "chunk_id": f"{source}_{c_id}",
                     "text": chunk_data["content"],
                     "vector": embeddings[j]
                 })

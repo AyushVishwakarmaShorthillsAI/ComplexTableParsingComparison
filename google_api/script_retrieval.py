@@ -4,6 +4,7 @@ import requests
 import re
 import ast
 import sys
+import time
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -15,15 +16,13 @@ if not GEMINI_API_KEY:
 
 GEMINI_MODEL = "models/gemini-embedding-001"
 WEAVIATE_URL = "http://localhost:8080"
-TOP_K = 15
+TOP_K = 5
 
 # Hardcoded queries as requested
 QUERIES = [
-    "According to Table 1, what is the DMFT score (Decayed, Missing, Filled Teeth) for patient 5?",
-    "Which patient in Table 1 has the mutation c.1954C>T?",
-    "What type of 'Structure' anomaly regarding enamel is listed for Patient 16 in Table 1?",
-    "In Table 2, what is the specific 'Facial axis' measurement recorded for Patient 16?",
-    "According to Table 1, does Patient 1 exhibit dental crowding?"
+    "Common features in people suffering from KPTN Syndrome and their percentage",
+    "List of the most common facial and developmental features exhibited by individuals with KPTN Syndrome with percentages",
+    "Uncommon features in people with KPTN Syndrome and their percentage"
 ]
 
 def get_latest_schema_class():
@@ -38,7 +37,7 @@ def get_latest_schema_class():
         classes = data.get("classes", [])
         
         # Filter for our specific classes
-        zupan_classes = [c["class"] for c in classes if c["class"].startswith("Blop_zupan_")]
+        zupan_classes = [c["class"] for c in classes if c["class"].startswith("KPTN_syndrome_")]
         
         if not zupan_classes:
             return None
@@ -63,14 +62,24 @@ def embed_content(text):
     }
     
     headers = {"Content-Type": "application/json"}
-    response = requests.post(url, headers=headers, json=payload)
     
-    if response.status_code != 200:
-        print(f"Error embedding text: {response.text}")
-        return None
+    max_retries = 5
+    for attempt in range(max_retries):
+        response = requests.post(url, headers=headers, json=payload)
         
-    result = response.json()
-    return result.get("embedding", {}).get("values")
+        if response.status_code == 200:
+            result = response.json()
+            return result.get("embedding", {}).get("values")
+        elif response.status_code == 429:
+            retry_after = 5 * (attempt + 1)
+            print(f"Rate limit hit. Retrying in {retry_after}s...")
+            time.sleep(retry_after)
+        else:
+            print(f"Error embedding text: {response.text}")
+            return None
+            
+    print("Max retries exceeded for embedding query.")
+    return None
 
 def search_weaviate(class_name, vector):
     """Searches Weaviate for the vector."""
@@ -116,7 +125,7 @@ def main():
     # 1. Identify Class Name
     class_name = get_latest_schema_class()
     if not class_name:
-        print("❌ Could not find a 'Blop_zupan_' class in Weaviate. Did you run the embedder?")
+        print("❌ Could not find a 'KPTN_syndrome_' class in Weaviate. Did you run the embedder?")
         return
     print(f"🔎 Using Weaviate Class: {class_name}")
 
@@ -150,7 +159,7 @@ def main():
         })
 
     # 3. Save Results
-    output_file = "res_retrieval.json"
+    output_file = "res_KPTN.json"
     
     base_dir = "/home/shtlp_0107/Desktop/ComplexTable_Comparison_GFS_VS_Parsing"
     output_path = os.path.join(base_dir, output_file)
