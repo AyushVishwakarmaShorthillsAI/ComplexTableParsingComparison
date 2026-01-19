@@ -1,0 +1,152 @@
+[
+    {
+        "query": "According to Table 1, what is the DMFT score (Decayed, Missing, Filled Teeth) for patient 5?",
+        "retrieved_chunks": [
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_5",
+                "text": "*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level. *   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism. ### 4. Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17.",
+                "distance": 0.20895708
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_17",
+                "text": "Context (footnotes/notes)\nThe following abbreviations and symbols are defined to clarify the table's content:\n*   **pd:** primary dentition\n*   **PD:** permanent dentition\n*   **screw d:** screw driver teeth\n*   **dmft/DMFT:** Decayed, Missing, and Filled Teeth for primary (dmft) and permanent (DMFT) dentition. *   **Perio:** Periodontium\n*   **Oral hygiene:** Assessed based on plaque abundance and brushing habits (from assisted brushing, AB, to no brushing, NB).",
+                "distance": 0.24460948
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_2",
+                "text": "It documents their age, disease severity, specific dental anomalies, oral health status (plaque, caries, gingivitis), functional defects, and dental treatment history. ### 3. Table Structure (columns/rows)\nThe table is structured with each row representing an individual patient. The columns detail various aspects of each patient's profile, including:\n*   **Patient Identification:** Patient number and a unique identifier. *   **Demographics:** Age and disease severity (e.g., Mild, Moderate).",
+                "distance": 0.24708003
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_4",
+                "text": "*   **Dental Anomalies:** A series of columns indicating the presence or absence of specific dental features such as screwdriver-shaped teeth, radiculomegaly, taurodontism, pits, opacities, hypoplasia, and pulp calcification. *   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level.",
+                "distance": 0.263999
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_1",
+                "text": "Table Purpose\nThe purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS). It documents their age, disease severity, specific dental anomalies, oral health status (plaque, caries, gingivitis), functional defects, and dental treatment history. ### 3.",
+                "distance": 0.2671193
+            }
+        ]
+    },
+    {
+        "query": "Which patient in Table 1 has the mutation c.1954C>T?",
+        "retrieved_chunks": [
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_3.txt_3",
+                "text": "Table Structure\nThe table is structured with each row representing an individual patient, identified by a number and a patient ID. The columns are organized as follows:\n*   **Patient Identification:** Patient number and ID. *   **General Information:** Age (in years and months), Type of CS (e.g., Severe (II), Moderate (I), Very severe COFS), and the affected Gene (CSB or CSA). *   **Genetic Information:** The specific Mutation identified.",
+                "distance": 0.26832855
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_3.txt_0",
+                "text": "Here is a detailed description of the table content, optimized for semantic search and Retrieval-Augmented Generation (RAG). ### 1. Table Title/Caption\n**Table 1:** Genotype and oro-dental features encountered in our cohort of 17 CS patients. ### 2. Table Purpose\nThis table aims to provide a comprehensive overview of the genetic and clinical oro-dental characteristics of 14 individuals from a cohort of 17 patients with Cockayne Syndrome (CS).",
+                "distance": 0.2858715
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_0",
+                "text": "Here is the extracted and described content of the table, optimized for semantic search and RAG. ### 1. Table Title/Caption\n**Table 1:** Genotype and oro-dental features encountered in our cohort of 17 CS patients (Continued)\n\n### 2. Table Purpose\nThe purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS).",
+                "distance": 0.2920314
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_1",
+                "text": "Table Purpose\nThe purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS). It documents their age, disease severity, specific dental anomalies, oral health status (plaque, caries, gingivitis), functional defects, and dental treatment history. ### 3.",
+                "distance": 0.29666805
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_3.txt_1",
+                "text": "Table Purpose\nThis table aims to provide a comprehensive overview of the genetic and clinical oro-dental characteristics of 14 individuals from a cohort of 17 patients with Cockayne Syndrome (CS). It systematically documents each patient's age, CS type, affected gene (CSA or CSB), specific mutation, and a wide range of oro-dental anomalies, including tooth structure, eruption patterns, caries status, and periodontal health.",
+                "distance": 0.29699832
+            }
+        ]
+    },
+    {
+        "query": "What type of 'Structure' anomaly regarding enamel is listed for Patient 16 in Table 1?",
+        "retrieved_chunks": [
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_5",
+                "text": "*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level. *   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism. ### 4. Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17.",
+                "distance": 0.23586094
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_0",
+                "text": "Here is the extracted and described content of the table, optimized for semantic search and RAG. ### 1. Table Title/Caption\n**Table 1:** Genotype and oro-dental features encountered in our cohort of 17 CS patients (Continued)\n\n### 2. Table Purpose\nThe purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS).",
+                "distance": 0.23747832
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_3.txt_12",
+                "text": "*   Patient 10 (8.1 years) showed significant anomalies, including agenesis of four teeth (35, 17, 37, 47), atypical shovel-shaped teeth (12, 22), taurodontism, and enamel opacities, along with a caries score of 2/\u00d8 and gingivitis. *   Patient 11 (9.1 years) had screw-shaped incisors (11, 21), enamel opacities, early eruption, no caries (0/0), and gingivitis. *   Patient 12 (9.5 years) and his brother, Patient 14 (14.6 years), both had a null mutation (r.0, no full-length mRNA).",
+                "distance": 0.23963541
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_3.txt_4",
+                "text": "*   **Genetic Information:** The specific Mutation identified. *   **Oro-dental Anomalies (a super-category with sub-columns):**\n    *   **Number of teeth:** Notes on agenesis (missing teeth). *   **Shape:** Describes any unusual tooth shapes (e.g., shovel, screw, globular). *   **Size:** Notes on tooth size, primarily microdontia (abnormally small teeth). *   **Structure:** Details on Enamel and Dentin abnormalities. *   **Eruption:** Timing of primary (pd) and permanent (PD) tooth eruption.",
+                "distance": 0.24613583
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_1",
+                "text": "Table Purpose\nThe purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS). It documents their age, disease severity, specific dental anomalies, oral health status (plaque, caries, gingivitis), functional defects, and dental treatment history. ### 3.",
+                "distance": 0.24800795
+            }
+        ]
+    },
+    {
+        "query": "In Table 2, what is the specific 'Facial axis' measurement recorded for Patient 16?",
+        "retrieved_chunks": [
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_7",
+                "text": "Patient 16 showed an increased facial axis of 96.0\u00b0 (vs. 88.9\u00b0). Facial depth was also predominantly reduced, measuring 73.0\u00b0 for Patient 8 (vs. 83.2\u00b0), 81.0\u00b0 for Patient 10 (vs. 82.1\u00b0), 80.0\u00b0 for Patient 11 (vs. 84.3\u00b0), 74.0\u00b0 for Patient 12 (vs. 83.3\u00b0), 67.0\u00b0 for Patient 14 (vs. 82.9\u00b0), 75.0\u00b0 for Patient 15 (vs. 82.5\u00b0), and 78.0\u00b0 for Patient 16 (vs. 86.0\u00b0).",
+                "distance": 0.16121256
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_6",
+                "text": "*   **Norma frontalis:** This includes various cranial and facial width measurements. ### 4. Table Data\n\n**Norma Lateralis Analysis**\n\n*   **Typology:** The facial axis was generally reduced, with values of 81.0\u00b0 for Patient 8 (vs. 89.5\u00b0), 79.6\u00b0 for Patient 9 (vs. 89.6\u00b0), 76.0\u00b0 for Patient 12 (vs. 89.3\u00b0), 76.0\u00b0 for Patient 14 (vs. 89.4\u00b0), 74.0\u00b0 for Patient 15 (vs. 89.2\u00b0), and 80.0\u00b0 for Patient 17 (vs. 89.0\u00b0). Patient 16 showed an increased facial axis of 96.0\u00b0 (vs. 88.9\u00b0).",
+                "distance": 0.19865549
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_2",
+                "text": "The analysis covers various aspects of facial typology, mandibular structure, skeletal relationships, dental positioning, and facial widths, allowing for a comprehensive assessment of each patient's craniofacial morphology. ### 3. Table Structure\nThe table is structured with rows representing specific cephalometric measurements and columns representing individual patients (Patient 8, 9, 10, 11, 12, 14, 15, 16, and 17), along with their respective ages.",
+                "distance": 0.2226811
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_8",
+                "text": "Facial depth was also predominantly reduced, measuring 73.0\u00b0 for Patient 8 (vs. 83.2\u00b0), 81.0\u00b0 for Patient 10 (vs. 82.1\u00b0), 80.0\u00b0 for Patient 11 (vs. 84.3\u00b0), 74.0\u00b0 for Patient 12 (vs. 83.3\u00b0), 67.0\u00b0 for Patient 14 (vs. 82.9\u00b0), 75.0\u00b0 for Patient 15 (vs. 82.5\u00b0), and 78.0\u00b0 for Patient 16 (vs. 86.0\u00b0). The lower facial height was increased for most patients, with values like 56.0\u00b0 for Patient 8 (vs. 47.0\u00b0) and 58.0\u00b0 for Patient 12 (vs. 47.0\u00b0), while it was normal for Patient 16 at 47.0\u00b0 (vs. 47.0\u00b0).",
+                "distance": 0.2267788
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_3",
+                "text": "Table Structure\nThe table is structured with rows representing specific cephalometric measurements and columns representing individual patients (Patient 8, 9, 10, 11, 12, 14, 15, 16, and 17), along with their respective ages. For each patient and measurement, the table provides the observed value and, in parentheses, the standard value (Mean; Standard Deviation).",
+                "distance": 0.228513
+            }
+        ]
+    },
+    {
+        "query": "According to Table 1, does Patient 1 exhibit dental crowding?",
+        "retrieved_chunks": [
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_3",
+                "text": "Table Structure\nThe table is structured with rows representing specific cephalometric measurements and columns representing individual patients (Patient 8, 9, 10, 11, 12, 14, 15, 16, and 17), along with their respective ages. For each patient and measurement, the table provides the observed value and, in parentheses, the standard value (Mean; Standard Deviation).",
+                "distance": 0.22039908
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_1",
+                "text": "Table Purpose\nThe purpose of this table is to present a detailed quantitative comparison of craniofacial measurements for nine individual patients against age-corresponding cephalometric standards. The analysis covers various aspects of facial typology, mandibular structure, skeletal relationships, dental positioning, and facial widths, allowing for a comprehensive assessment of each patient's craniofacial morphology. ### 3.",
+                "distance": 0.22954988
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_2",
+                "text": "The analysis covers various aspects of facial typology, mandibular structure, skeletal relationships, dental positioning, and facial widths, allowing for a comprehensive assessment of each patient's craniofacial morphology. ### 3. Table Structure\nThe table is structured with rows representing specific cephalometric measurements and columns representing individual patients (Patient 8, 9, 10, 11, 12, 14, 15, 16, and 17), along with their respective ages.",
+                "distance": 0.23251736
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_7.txt_4",
+                "text": "For each patient and measurement, the table provides the observed value and, in parentheses, the standard value (Mean; Standard Deviation). The final column (\"CS\") indicates whether the patient's measurement is increased (\u2191), reduced (\u2193), or within the normal range (N) compared to the standard. The measurements are grouped into two main categories:\n*   **Norma lateralis:** This includes sub-categories for Typology, Mandibular measurements, Skeletal analysis, and Denture analysis.",
+                "distance": 0.23906684
+            },
+            {
+                "chunk_id": "Blop_Zupan_2013.pdf_4.txt_5",
+                "text": "*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level. *   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism. ### 4. Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17.",
+                "distance": 0.24204999
+            }
+        ]
+    }
+]

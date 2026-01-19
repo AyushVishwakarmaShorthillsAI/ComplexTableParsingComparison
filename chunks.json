@@ -1,0 +1,327 @@
+[
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 0,
+        "content": "Here is a detailed description of the table content, optimized for semantic search and Retrieval-Augmented Generation (RAG). ### 1. Table Title/Caption\n**Table 1:** Genotype and oro-dental features encountered in our cohort of 17 CS patients. ### 2. Table Purpose\nThis table aims to provide a comprehensive overview of the genetic and clinical oro-dental characteristics of 14 individuals from a cohort of 17 patients with Cockayne Syndrome (CS)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 1,
+        "content": "Table Purpose\nThis table aims to provide a comprehensive overview of the genetic and clinical oro-dental characteristics of 14 individuals from a cohort of 17 patients with Cockayne Syndrome (CS). It systematically documents each patient's age, CS type, affected gene (CSA or CSB), specific mutation, and a wide range of oro-dental anomalies, including tooth structure, eruption patterns, caries status, and periodontal health."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 2,
+        "content": "It systematically documents each patient's age, CS type, affected gene (CSA or CSB), specific mutation, and a wide range of oro-dental anomalies, including tooth structure, eruption patterns, caries status, and periodontal health. The purpose is to correlate specific genotypes with observed dental phenotypes in CS patients. ### 3. Table Structure\nThe table is structured with each row representing an individual patient, identified by a number and a patient ID."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 3,
+        "content": "Table Structure\nThe table is structured with each row representing an individual patient, identified by a number and a patient ID. The columns are organized as follows:\n*   **Patient Identification:** Patient number and ID. *   **General Information:** Age (in years and months), Type of CS (e.g., Severe (II), Moderate (I), Very severe COFS), and the affected Gene (CSB or CSA). *   **Genetic Information:** The specific Mutation identified."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 4,
+        "content": "*   **Genetic Information:** The specific Mutation identified. *   **Oro-dental Anomalies (a super-category with sub-columns):**\n    *   **Number of teeth:** Notes on agenesis (missing teeth). *   **Shape:** Describes any unusual tooth shapes (e.g., shovel, screw, globular). *   **Size:** Notes on tooth size, primarily microdontia (abnormally small teeth). *   **Structure:** Details on Enamel and Dentin abnormalities. *   **Eruption:** Timing of primary (pd) and permanent (PD) tooth eruption."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 5,
+        "content": "*   **Eruption:** Timing of primary (pd) and permanent (PD) tooth eruption. *   **Crowding:** Severity of tooth crowding, rated from + to +++. *   **Caries dmft / DMFT:** Caries experience in primary (dmft) and permanent (DMFT) teeth. *   **Perio:** Periodontal status (e.g., normal, gingivitis). *   **Oral Hygiene:** Assessment of hygiene level (e.g., good, deficient, absent). *   **Dental treatment:** Type of dental care received. *   **FD:** Facial Dysmorphology."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 6,
+        "content": "*   **Dental treatment:** Type of dental care received. *   **FD:** Facial Dysmorphology. *   **Para:** Presence of parafunctional habits like bruxism. ### 4. Table Data\nThe table presents data for 14 patients, ranging in age from 1.8 to 14.6 years. The patients are diagnosed with various severities of Cockayne Syndrome (CS), including Moderate (Type I), Severe (Type II), and the very severe Cerebro-oculo-facio-skeletal (COFS) type. Mutations were identified in either the CSB or CSA gene."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 7,
+        "content": "Mutations were identified in either the CSB or CSA gene. **Patients with CSB Gene Mutations (Patients 1-8):**\n*   Eight patients had mutations in the CSB gene. The youngest patients, aged 1.8 to 2.5 years (Patients 1-4), presented with Severe (II) CS or Very severe COFS. Common findings in this group were microdontia and enamel abnormalities (opacities or hypoplasia). Caries were absent (0/\u00d8). Patient 1 had late primary eruption and crowding. Patients 2 and 3 exhibited bruxism."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 8,
+        "content": "Patient 1 had late primary eruption and crowding. Patients 2 and 3 exhibited bruxism. *   Patients 5 and 6, aged 2.9 and 3.7 years with Severe (II) CS, both showed enamel hypoplasia and a very high primary caries score of 20 (dmft=20). Patient 5 had gingivitis and deficient hygiene, while Patient 6 had normal periodontal status but absent hygiene and bruxism. *   Patients 7 and 8, aged 4.11 and 6.7 years with Moderate (I) CS, had different presentations."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 9,
+        "content": "*   Patients 7 and 8, aged 4.11 and 6.7 years with Moderate (I) CS, had different presentations. Patient 7 had microdontia and enamel hypoplasia but no caries. Patient 8 had agenesis of five permanent teeth (12, 15, 25, 35, 45), microdontia of tooth 22, severe crowding (+++), and a low caries score (2/\u00d8). **Patients with CSA Gene Mutations (Patients 9-14):**\n*   Six patients had mutations in the CSA gene, all diagnosed with Moderate (I) CS."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 10,
+        "content": "**Patients with CSA Gene Mutations (Patients 9-14):**\n*   Six patients had mutations in the CSA gene, all diagnosed with Moderate (I) CS. *   Patient 9 (7.11 years) had enamel hypoplasia, early eruption of both dentitions, moderate crowding (++), a caries score of 5/0, and gingivitis."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 11,
+        "content": "*   Patient 9 (7.11 years) had enamel hypoplasia, early eruption of both dentitions, moderate crowding (++), a caries score of 5/0, and gingivitis. *   Patient 10 (8.1 years) showed significant anomalies, including agenesis of four teeth (35, 17, 37, 47), atypical shovel-shaped teeth (12, 22), taurodontism, and enamel opacities, along with a caries score of 2/\u00d8 and gingivitis."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 12,
+        "content": "*   Patient 10 (8.1 years) showed significant anomalies, including agenesis of four teeth (35, 17, 37, 47), atypical shovel-shaped teeth (12, 22), taurodontism, and enamel opacities, along with a caries score of 2/\u00d8 and gingivitis. *   Patient 11 (9.1 years) had screw-shaped incisors (11, 21), enamel opacities, early eruption, no caries (0/0), and gingivitis. *   Patient 12 (9.5 years) and his brother, Patient 14 (14.6 years), both had a null mutation (r.0, no full-length mRNA)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 13,
+        "content": "*   Patient 12 (9.5 years) and his brother, Patient 14 (14.6 years), both had a null mutation (r.0, no full-length mRNA). Patient 12 had globular-shaped teeth, enamel opacities, severe crowding (+++), and high caries (16/4). Patient 14 had enamel hypoplasia and a very high permanent caries score (0/28). Both had gingivitis and deficient oral hygiene. *   Patient 13 (14.4 years) presented with enamel hypoplasia, no caries (0/0), and gingivitis. ### 5."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 14,
+        "content": "*   Patient 13 (14.4 years) presented with enamel hypoplasia, no caries (0/0), and gingivitis. ### 5. Key Findings\n*   **Prevalence of Dental Anomalies:** Oro-dental abnormalities are a consistent feature in this cohort of CS patients, affecting tooth number, size, shape, and structure. *   **Enamel Defects:** Enamel defects, such as hypoplasia and opacities, are nearly universal among these patients, regardless of the specific gene (CSA or CSB) or disease severity."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 15,
+        "content": "*   **Enamel Defects:** Enamel defects, such as hypoplasia and opacities, are nearly universal among these patients, regardless of the specific gene (CSA or CSB) or disease severity. *   **Caries and Oral Hygiene:** Caries experience is highly variable, ranging from zero to extremely high. Poor oral hygiene and gingivitis are common, particularly in older children. *   **Specific Phenotypes:** Certain mutations are associated with distinct dental features."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 16,
+        "content": "*   **Specific Phenotypes:** Certain mutations are associated with distinct dental features. For example, a CSA mutation in Patient 10 led to agenesis, shovel-shaped teeth, and taurodontism. A null CSA mutation in two brothers (Patients 12 and 14) was associated with high caries rates and enamel defects. *   **Other Common Features:** Microdontia (small teeth) is a frequent finding, especially in patients with CSB mutations. Crowding is also a significant issue for several patients."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 17,
+        "content": "Crowding is also a significant issue for several patients. Bruxism was noted in three patients. ### 6. Context (Footnotes/Notes)\n*   The symbol '\u00d8' is used to indicate 'none', 'not applicable', or 'not present' (e.g., in the permanent dentition of very young children). *   Crowding is indicated with a severity scale: +, ++, +++."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_3.txt",
+        "chunk_index": 18,
+        "content": "*   Crowding is indicated with a severity scale: +, ++, +++. *   **Abbreviations:**\n    *   **CS:** Cockayne Syndrome\n    *   **COFS:** Cerebro-oculo-facio-skeletal syndrome\n    *   **y.m:** years.months\n    *   **pd / PD:** primary dentition / permanent dentition\n    *   **dmft / DMFT:** decayed, missing, filled teeth index for primary/permanent teeth\n    *   **Perio:** Periodontal\n    *   **FD:** Facial Dysmorphology\n    *   **Para:** Parafunction\n    *   **brux:** bruxism"
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 0,
+        "content": "Here is the extracted and described content of the table, optimized for semantic search and RAG. ### 1. Table Title/Caption\n**Table 1:** Genotype and oro-dental features encountered in our cohort of 17 CS patients (Continued)\n\n### 2. Table Purpose\nThe purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 1,
+        "content": "Table Purpose\nThe purpose of this table is to present a detailed correlation between the specific genetic mutations (genotype) and the clinical oro-dental characteristics of three individuals (patients 15, 16, and 17) with Cockayne Syndrome (CS). It documents their age, disease severity, specific dental anomalies, oral health status (plaque, caries, gingivitis), functional defects, and dental treatment history. ### 3."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 2,
+        "content": "It documents their age, disease severity, specific dental anomalies, oral health status (plaque, caries, gingivitis), functional defects, and dental treatment history. ### 3. Table Structure (columns/rows)\nThe table is structured with each row representing an individual patient. The columns detail various aspects of each patient's profile, including:\n*   **Patient Identification:** Patient number and a unique identifier. *   **Demographics:** Age and disease severity (e.g., Mild, Moderate)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 3,
+        "content": "*   **Demographics:** Age and disease severity (e.g., Mild, Moderate). *   **Dental Treatment Context:** The setting for dental treatment (e.g., conscious sedation, general anesthesia). *   **Genotype:** Specific genetic mutations identified in the patient. *   **Dental Anomalies:** A series of columns indicating the presence or absence of specific dental features such as screwdriver-shaped teeth, radiculomegaly, taurodontism, pits, opacities, hypoplasia, and pulp calcification."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 4,
+        "content": "*   **Dental Anomalies:** A series of columns indicating the presence or absence of specific dental features such as screwdriver-shaped teeth, radiculomegaly, taurodontism, pits, opacities, hypoplasia, and pulp calcification. *   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 5,
+        "content": "*   **Oral Health Indicators:** Columns for plaque level, dmft/DMFT score (Decayed, Missing, and Filled Teeth for primary/permanent dentition), periodontal status, and oral hygiene level. *   **Clinical History:** Columns for the type of dental treatment received, orthodontic history, functional defects (like breathing or swallowing issues), and bruxism. ### 4. Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 6,
+        "content": "Table Data\nThis section of the table details the findings for three patients, numbered 15, 16, and 17. **Patient 15 (ID: CS543VI)**, aged 15.10 years, presented with a mild (III) form of Cockayne Syndrome. The patient's genotype included the mutations c.1913A>G and c.2247delT. Dental examination revealed screwdriver-shaped incisors (teeth 11 and 21) and dental opacities. No radiculomegaly, taurodontism, pits, hypoplasia, or pulp calcification were observed."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 7,
+        "content": "No radiculomegaly, taurodontism, pits, hypoplasia, or pulp calcification were observed. The patient had a severe level of plaque (rated +++), but a DMFT score of 0, indicating no decayed, missing, or filled permanent teeth. The patient suffered from gingivitis and had deficient oral hygiene requiring assisted brushing (AB). Their dental treatment history included a first visit (VI) under local anesthesia (LA), and they had a previous orthodontic assessment."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 8,
+        "content": "Their dental treatment history included a first visit (VI) under local anesthesia (LA), and they had a previous orthodontic assessment. A functional defect of mixed breathing (MB) was noted, but there was no evidence of bruxism. Dental treatment was managed under conscious sedation (CSB). **Patient 16 (ID: 08STR2_2)**, the 16.5-year-old brother of patient 08STR2, had a moderate (I) form of Cockayne Syndrome with the genotype c.797A>G. His dental anomalies included radiculomegaly and hypoplasia."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 9,
+        "content": "His dental anomalies included radiculomegaly and hypoplasia. He did not have screwdriver teeth, taurodontism, pits, opacities, or pulp calcification. Plaque level was mild (+), and his DMFT score was 2. Like the other patients, he had gingivitis and deficient oral hygiene with assisted brushing (AB). His dental treatment was performed during a first visit under general anesthesia (1GA), and he had no prior orthodontic assessment or treatment."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 10,
+        "content": "His dental treatment was performed during a first visit under general anesthesia (1GA), and he had no prior orthodontic assessment or treatment. Functional defects included mixed breathing (MB) and a deglutition (swallowing) defect (D). No bruxism was present. His dental treatment was managed under general anesthesia (CSA). **Patient 17 (ID: CS823VI)**, aged 28.5 years, had a mild (III) form of Cockayne Syndrome. His genotype consisted of the mutations c.3778+2T>G and c.2203C>T."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 11,
+        "content": "His genotype consisted of the mutations c.3778+2T>G and c.2203C>T. His dental anomalies were extensive, including shovel-shaped incisors (teeth 11 and 21), taurodontism, pits, and pulp calcification. No screwdriver teeth, radiculomegaly, opacities, or hypoplasia were noted. He had a severe level of plaque (+++) and a high DMFT score of 13. He presented with gingivitis and deficient oral hygiene with assisted brushing (AB)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 12,
+        "content": "He presented with gingivitis and deficient oral hygiene with assisted brushing (AB). His dental treatment history included a first visit under general anesthesia (1GA) and previous orthodontic treatment. A functional defect of mixed breathing (MB) was observed, with no bruxism. His dental treatment was managed under conscious sedation (CSB). ### 5."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 13,
+        "content": "His dental treatment was managed under conscious sedation (CSB). ### 5. Key Findings\n*   All three patients, regardless of CS severity, exhibited gingivitis, deficient oral hygiene requiring assisted brushing, and mixed breathing. *   There is a clear link between specific genotypes and unique patterns of dental anomalies. For example, patient 15 had screwdriver teeth and opacities, while patient 17 had shovel-shaped teeth, taurodontism, and pulp calcification."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 14,
+        "content": "For example, patient 15 had screwdriver teeth and opacities, while patient 17 had shovel-shaped teeth, taurodontism, and pulp calcification. *   The caries experience (DMFT score) varied widely among the patients, from 0 to 13, and did not directly correlate with the severity of CS in this small sample."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 15,
+        "content": "*   The caries experience (DMFT score) varied widely among the patients, from 0 to 13, and did not directly correlate with the severity of CS in this small sample. *   Dental management for these CS patients required specialized approaches, such as conscious sedation (CSB) or general anesthesia (CSA/1GA), highlighting the challenges in providing routine dental care. ### 6."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 16,
+        "content": "*   Dental management for these CS patients required specialized approaches, such as conscious sedation (CSB) or general anesthesia (CSA/1GA), highlighting the challenges in providing routine dental care. ### 6. Context (footnotes/notes)\nThe following abbreviations and symbols are defined to clarify the table's content:\n*   **pd:** primary dentition\n*   **PD:** permanent dentition\n*   **screw d:** screw driver teeth\n*   **dmft/DMFT:** Decayed, Missing, and Filled Teeth for primary (dmft) and permanent (DMFT) dentition."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 17,
+        "content": "Context (footnotes/notes)\nThe following abbreviations and symbols are defined to clarify the table's content:\n*   **pd:** primary dentition\n*   **PD:** permanent dentition\n*   **screw d:** screw driver teeth\n*   **dmft/DMFT:** Decayed, Missing, and Filled Teeth for primary (dmft) and permanent (DMFT) dentition. *   **Perio:** Periodontium\n*   **Oral hygiene:** Assessed based on plaque abundance and brushing habits (from assisted brushing, AB, to no brushing, NB)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 18,
+        "content": "*   **Perio:** Periodontium\n*   **Oral hygiene:** Assessed based on plaque abundance and brushing habits (from assisted brushing, AB, to no brushing, NB). *   **Dental treatment:** Describes the context of care, such as first visit (First), regular visit (VI), under local anesthesia (LA), conscious sedation (CSE), or general anesthesia (GA). *   **Ortho ass or ttt:** Previous orthodontic assessment or treatment. *   **FD:** Functional defects. *   **MB:** Mixed breathing (mouth and nose)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_4.txt",
+        "chunk_index": 19,
+        "content": "*   **FD:** Functional defects. *   **MB:** Mixed breathing (mouth and nose). *   **D:** Deglutition or swallowing defect. *   **R:** Reflux. *   **Para:** Parafunctions. *   **brux:** Bruxism. *   **\u00d8:** None or not present. *   **+:** Present."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 0,
+        "content": "Here is the extracted and described content of the table, optimized for semantic search and RAG. ### 1. Table Title/Caption\n**Table 2:** Results of the cephalometric analysis in norma lateralis and frontalis. ### 2. Table Purpose\nThe purpose of this table is to present a detailed quantitative comparison of craniofacial measurements for nine individual patients against age-corresponding cephalometric standards."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 1,
+        "content": "Table Purpose\nThe purpose of this table is to present a detailed quantitative comparison of craniofacial measurements for nine individual patients against age-corresponding cephalometric standards. The analysis covers various aspects of facial typology, mandibular structure, skeletal relationships, dental positioning, and facial widths, allowing for a comprehensive assessment of each patient's craniofacial morphology. ### 3."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 2,
+        "content": "The analysis covers various aspects of facial typology, mandibular structure, skeletal relationships, dental positioning, and facial widths, allowing for a comprehensive assessment of each patient's craniofacial morphology. ### 3. Table Structure\nThe table is structured with rows representing specific cephalometric measurements and columns representing individual patients (Patient 8, 9, 10, 11, 12, 14, 15, 16, and 17), along with their respective ages."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 3,
+        "content": "Table Structure\nThe table is structured with rows representing specific cephalometric measurements and columns representing individual patients (Patient 8, 9, 10, 11, 12, 14, 15, 16, and 17), along with their respective ages. For each patient and measurement, the table provides the observed value and, in parentheses, the standard value (Mean; Standard Deviation)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 4,
+        "content": "For each patient and measurement, the table provides the observed value and, in parentheses, the standard value (Mean; Standard Deviation). The final column (\"CS\") indicates whether the patient's measurement is increased (\u2191), reduced (\u2193), or within the normal range (N) compared to the standard. The measurements are grouped into two main categories:\n*   **Norma lateralis:** This includes sub-categories for Typology, Mandibular measurements, Skeletal analysis, and Denture analysis."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 5,
+        "content": "The measurements are grouped into two main categories:\n*   **Norma lateralis:** This includes sub-categories for Typology, Mandibular measurements, Skeletal analysis, and Denture analysis. *   **Norma frontalis:** This includes various cranial and facial width measurements. ### 4."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 6,
+        "content": "*   **Norma frontalis:** This includes various cranial and facial width measurements. ### 4. Table Data\n\n**Norma Lateralis Analysis**\n\n*   **Typology:** The facial axis was generally reduced, with values of 81.0\u00b0 for Patient 8 (vs. 89.5\u00b0), 79.6\u00b0 for Patient 9 (vs. 89.6\u00b0), 76.0\u00b0 for Patient 12 (vs. 89.3\u00b0), 76.0\u00b0 for Patient 14 (vs. 89.4\u00b0), 74.0\u00b0 for Patient 15 (vs. 89.2\u00b0), and 80.0\u00b0 for Patient 17 (vs. 89.0\u00b0). Patient 16 showed an increased facial axis of 96.0\u00b0 (vs. 88.9\u00b0)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 7,
+        "content": "Patient 16 showed an increased facial axis of 96.0\u00b0 (vs. 88.9\u00b0). Facial depth was also predominantly reduced, measuring 73.0\u00b0 for Patient 8 (vs. 83.2\u00b0), 81.0\u00b0 for Patient 10 (vs. 82.1\u00b0), 80.0\u00b0 for Patient 11 (vs. 84.3\u00b0), 74.0\u00b0 for Patient 12 (vs. 83.3\u00b0), 67.0\u00b0 for Patient 14 (vs. 82.9\u00b0), 75.0\u00b0 for Patient 15 (vs. 82.5\u00b0), and 78.0\u00b0 for Patient 16 (vs. 86.0\u00b0)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 8,
+        "content": "Facial depth was also predominantly reduced, measuring 73.0\u00b0 for Patient 8 (vs. 83.2\u00b0), 81.0\u00b0 for Patient 10 (vs. 82.1\u00b0), 80.0\u00b0 for Patient 11 (vs. 84.3\u00b0), 74.0\u00b0 for Patient 12 (vs. 83.3\u00b0), 67.0\u00b0 for Patient 14 (vs. 82.9\u00b0), 75.0\u00b0 for Patient 15 (vs. 82.5\u00b0), and 78.0\u00b0 for Patient 16 (vs. 86.0\u00b0). The lower facial height was increased for most patients, with values like 56.0\u00b0 for Patient 8 (vs. 47.0\u00b0) and 58.0\u00b0 for Patient 12 (vs. 47.0\u00b0), while it was normal for Patient 16 at 47.0\u00b0 (vs. 47.0\u00b0)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 9,
+        "content": "The lower facial height was increased for most patients, with values like 56.0\u00b0 for Patient 8 (vs. 47.0\u00b0) and 58.0\u00b0 for Patient 12 (vs. 47.0\u00b0), while it was normal for Patient 16 at 47.0\u00b0 (vs. 47.0\u00b0). *   **Mandibular Measurements:** The Frankfort-Mandibular plane Angle (FMA) was consistently increased across all patients, indicating a steep mandibular plane. Values ranged from 36.0\u00b0 for Patient 10 (vs. 29.4\u00b0) and Patient 15 (vs. 28.7\u00b0) to 50.0\u00b0 for Patient 12 (vs. 27.7\u00b0)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 10,
+        "content": "Values ranged from 36.0\u00b0 for Patient 10 (vs. 29.4\u00b0) and Patient 15 (vs. 28.7\u00b0) to 50.0\u00b0 for Patient 12 (vs. 27.7\u00b0). Both Anterior Facial Height (AFH) and Posterior Facial Height (PFH) were generally reduced. For example, Patient 17 had an AFH of 58.0 mm (vs. 67.2 mm) and a PFH of 30.0 mm (vs. 49.6 mm). Consequently, the Facial Height Index (FHI) was reduced for all patients, with values ranging from 0.3 for Patient 14 (vs. 0.7) to 0.5 for several patients."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 11,
+        "content": "Consequently, the Facial Height Index (FHI) was reduced for all patients, with values ranging from 0.3 for Patient 14 (vs. 0.7) to 0.5 for several patients. *   **Skeletal Analysis:** All patients exhibited a Skeletal Class II pattern, characterized by significantly increased convexity and ANB angles. Convexity ranged from 5.0 mm for Patient 10 (vs. 4.4 mm) to 12.0 mm for Patient 11 (vs. 3.6 mm)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 12,
+        "content": "Convexity ranged from 5.0 mm for Patient 10 (vs. 4.4 mm) to 12.0 mm for Patient 11 (vs. 3.6 mm). The ANB angle was also markedly increased in all cases, with Patient 8 showing a value of 15.0\u00b0 (vs. 4.7\u00b0) and Patient 11 showing 14.0\u00b0 (vs. 4.0\u00b0). *   **Denture Analysis:** The analysis of the lower incisors (i) relative to the A-Pogonion line (APg) showed a consistent proclination, with increased distance (mm) and angle (\u00b0)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 13,
+        "content": "*   **Denture Analysis:** The analysis of the lower incisors (i) relative to the A-Pogonion line (APg) showed a consistent proclination, with increased distance (mm) and angle (\u00b0). For instance, Patient 14 had an i to APg distance of 12.0 mm (vs. 1.9 mm) and an angle of 35.0\u00b0 (vs. 23.8\u00b0). The Frankfort-Mandibular Incisor Angle (FMIA) was generally reduced, such as 36.0\u00b0 for Patient 11 (vs. 55.9\u00b0), indicating incisor proclination."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 14,
+        "content": "The Frankfort-Mandibular Incisor Angle (FMIA) was generally reduced, such as 36.0\u00b0 for Patient 11 (vs. 55.9\u00b0), indicating incisor proclination. The interincisal angle (i/I) was reduced for all patients, with values like 103.0\u00b0 for Patient 15 (vs. 126.6\u00b0) and 119.0\u00b0 for Patient 16 (vs. 133.6\u00b0). **Norma Frontalis Analysis**\n\n*   **Facial Widths:** Most facial width measurements were reduced compared to normative data."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 15,
+        "content": "**Norma Frontalis Analysis**\n\n*   **Facial Widths:** Most facial width measurements were reduced compared to normative data. Cranial width was reduced for patients like Patient 8 (103.0 mm vs. 135.7 mm) and Patient 12 (103.0 mm vs. 140.2 mm). Bifrontotemporale width was also smaller, for example, 69.0 mm for Patient 8 (vs. 92.3 mm) and 72.0 mm for Patient 12 (vs. 95.4 mm)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 16,
+        "content": "Bifrontotemporale width was also smaller, for example, 69.0 mm for Patient 8 (vs. 92.3 mm) and 72.0 mm for Patient 12 (vs. 95.4 mm). Similarly, bizygomatic width was reduced, with Patient 8 measuring 85.0 mm (vs. 109.4 mm) and Patient 17 measuring 107.0 mm (vs. 122.8 mm). Nasal width and bigonial width followed the same trend of being narrower than the standard in most patients. For example, Patient 15 had a bigonial width of 75.0 mm (vs. 94.6 mm)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 17,
+        "content": "For example, Patient 15 had a bigonial width of 75.0 mm (vs. 94.6 mm). Patient 9 was a notable exception, showing increased values for all facial width measurements, such as a cranial width of 180.9 mm (vs. 140.2 mm) and a bigonial width of 113.9 mm (vs. 83.0 mm). ### 5. Key Findings\n*   **Skeletal Class II Malocclusion:** All patients consistently present with a Skeletal Class II malocclusion, confirmed by a significantly increased ANB angle and facial convexity."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 18,
+        "content": "Key Findings\n*   **Skeletal Class II Malocclusion:** All patients consistently present with a Skeletal Class II malocclusion, confirmed by a significantly increased ANB angle and facial convexity. *   **Vertical Growth Pattern:** A steep mandibular plane angle (increased FMA) is a common feature among all patients, suggesting a vertical growth pattern and a long-face tendency."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 19,
+        "content": "*   **Vertical Growth Pattern:** A steep mandibular plane angle (increased FMA) is a common feature among all patients, suggesting a vertical growth pattern and a long-face tendency. *   **Mandibular and Facial Retrusion:** Reduced facial axis and facial depth values indicate a retrognathic mandible and a retrusive facial profile."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 20,
+        "content": "*   **Mandibular and Facial Retrusion:** Reduced facial axis and facial depth values indicate a retrognathic mandible and a retrusive facial profile. *   **Dental Compensation:** The patients exhibit dental compensation for the skeletal discrepancy, characterized by the proclination of lower incisors (increased i to APg, reduced FMIA) and a reduced interincisal angle."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 21,
+        "content": "*   **Dental Compensation:** The patients exhibit dental compensation for the skeletal discrepancy, characterized by the proclination of lower incisors (increased i to APg, reduced FMIA) and a reduced interincisal angle. *   **Narrow Facial Structure:** Most patients display reduced transverse facial dimensions, including narrower cranial, bizygomatic, and bigonial widths, when compared to age-matched standards. ### 6."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 22,
+        "content": "*   **Narrow Facial Structure:** Most patients display reduced transverse facial dimensions, including narrower cranial, bizygomatic, and bigonial widths, when compared to age-matched standards. ### 6. Context (Footnotes/Notes)\n*   **Standards:** For each measurement, the age-corresponding cephalometric standards are provided in parentheses as (Mean; S.D.). *   **Symbols:** The symbols N, \u2191, and \u2193 denote Normal, Increased, and Reduced values, respectively, in comparison to the standard."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 23,
+        "content": "*   **Symbols:** The symbols N, \u2191, and \u2193 denote Normal, Increased, and Reduced values, respectively, in comparison to the standard. *   **Patient 8 Specifics:** A note highlights that for Patient 8, the ANB angle of 15.0\u00b0 (compared to a standard of 4.7\u00b0 \u00b1 2.2) confirms the Skeletal Class II diagnosis."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_7.txt",
+        "chunk_index": 24,
+        "content": "*   **Patient 8 Specifics:** A note highlights that for Patient 8, the ANB angle of 15.0\u00b0 (compared to a standard of 4.7\u00b0 \u00b1 2.2) confirms the Skeletal Class II diagnosis. *   **Measurement References:** The numbers in parentheses next to each measurement name, e.g., \"Facial axis (\u00b0) (1)\", refer to specific definitions of the measurement (distance or angle) detailed in supplementary materials (Additional files 3 and 4)."
+    },
+    {
+        "source": "Blop_Zupan_2013.pdf_8.txt",
+        "chunk_index": 0,
+        "content": "This page does not contain a table. The image provided is a page of text from a research paper discussing dental and craniofacial findings, likely in patients with Cockayne Syndrome (CS). The text covers topics such as tooth agenesis, developmental dental anomalies, dental caries, cephalometric analysis, and dental treatment modalities for affected individuals. If you provide an image containing a table, I will be happy to extract and describe its content in the requested format."
+    }
+]
